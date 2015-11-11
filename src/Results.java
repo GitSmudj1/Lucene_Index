@@ -13,6 +13,7 @@ import javax.swing.GroupLayout.Alignment;
 import javax.swing.JSplitPane;
 import javax.swing.JTabbedPane;
 import javax.swing.JTextPane;
+import javax.swing.JScrollPane;
 
 public class Results extends JFrame {
 
@@ -44,41 +45,26 @@ public class Results extends JFrame {
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		
-		JTabbedPane tabbedPane = new JTabbedPane(JTabbedPane.LEFT);
+		JScrollPane scrollPane = new JScrollPane();
+		
+		JTextPane textPane = new JTextPane();
 		GroupLayout gl_contentPane = new GroupLayout(contentPane);
 		gl_contentPane.setHorizontalGroup(
 			gl_contentPane.createParallelGroup(Alignment.LEADING)
 				.addGroup(gl_contentPane.createSequentialGroup()
-					.addContainerGap()
-					.addComponent(tabbedPane, GroupLayout.PREFERRED_SIZE, 388, GroupLayout.PREFERRED_SIZE)
-					.addContainerGap(46, Short.MAX_VALUE))
+					.addComponent(scrollPane, GroupLayout.PREFERRED_SIZE, 108, GroupLayout.PREFERRED_SIZE)
+					.addGap(18)
+					.addComponent(textPane, GroupLayout.DEFAULT_SIZE, 314, Short.MAX_VALUE))
 		);
 		gl_contentPane.setVerticalGroup(
 			gl_contentPane.createParallelGroup(Alignment.LEADING)
-				.addComponent(tabbedPane, GroupLayout.DEFAULT_SIZE, 268, Short.MAX_VALUE)
+				.addGroup(Alignment.TRAILING, gl_contentPane.createSequentialGroup()
+					.addGroup(gl_contentPane.createParallelGroup(Alignment.TRAILING)
+						.addComponent(textPane, GroupLayout.DEFAULT_SIZE, 262, Short.MAX_VALUE)
+						.addComponent(scrollPane, GroupLayout.DEFAULT_SIZE, 262, Short.MAX_VALUE))
+					.addContainerGap())
 		);
-		
-		JPanel panel_2 = new JPanel();
-		tabbedPane.addTab("Result1", null, panel_2, null);
-		
-		JTextPane textPane = new JTextPane();
-		textPane.setText("Content of results1");
-		panel_2.add(textPane);
-		
-		JPanel panel = new JPanel();
-		tabbedPane.addTab("Result2", null, panel, null);
-		
-		JTextPane textPane1 = new JTextPane();
-		textPane1.setText("Content of results2");
-		panel.add(textPane1);
-		
-		JPanel panel_1 = new JPanel();
-		tabbedPane.addTab("Result3", null, panel_1, null);
 		contentPane.setLayout(gl_contentPane);
-		
-		JTextPane textPane2 = new JTextPane();
-		textPane2.setText("Content of results3");
-		panel_1.add(textPane2);
 		
 		
 		
