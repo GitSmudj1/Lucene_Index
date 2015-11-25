@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00197</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>where</textblock>
+    <textblock>NEBZ2=Nonexhaust emissions of volatile organic compounds</textblock>
+    <textblock>in VOC Control Region 2 in milligrams per mile.</textblock>
+    <textblock>DIBZ2=Diurnal emissions of volatile organic compounds in</textblock>
+    <textblock>VOC Control Region 2 in milligrams per mile.</textblock>
+    <textblock>HSBZ2=Hot soak emissions of volatile organic compounds</textblock>
+    <textblock>in VOC Control Region 2 in milligrams per mile.</textblock>
+    <textblock>RLBZ2=Running loss emissions of volatile organic</textblock>
+    <textblock>compounds in VOC Control Region 2 in milligrams</textblock>
+    <textblock>per mile.</textblock>
+    <textblock>RFBZ2=Refueling emissions of volatile organic compounds</textblock>
+    <textblock>in VOC Control Region 2 in grams per mile.</textblock>
+    <textblock>VOCDI2=Diurnal emissions of volatile organic compounds in</textblock>
+    <textblock>VOC Control Region 2 in milligrams per mile, as</textblock>
+    <textblock>determined in paragraph (c)(4) of this section.</textblock>
+    <textblock>VOCHS2=Hot soak emissions of volatile organic compounds</textblock>
+    <textblock>in VOC Control Region 2 in milligrams per mile, as</textblock>
+    <textblock>determined in paragraph (c)(4) of this section.</textblock>
+    <textblock>VOCRL2=Running loss emissions of volatile organic</textblock>
+    <textblock>compounds in VOC Control Region 2 in milligrams</textblock>
+    <textblock>per mile, as determined in paragraph (c)(4) of</textblock>
+    <textblock>this section.</textblock>
+    <textblock>VOCRF2=Refueling emissions of volatile organic compounds</textblock>
+    <textblock>in VOC Control Region 2 in milligrams per mile, as</textblock>
+    <textblock>determined in paragraph (c)(4) of this section.</textblock>
+    <textblock>(f)</textblock>
+    <textblock>Limits of the model.</textblock>
+    <textblock>(1) The equations</textblock>
+    <textblock>described in paragraphs (a), (c), and (d) of this section</textblock>
+    <textblock>shall be valid only for fuels with fuel properties that fall</textblock>
+    <textblock>in the following ranges for reformulated gasolines and</textblock>
+    <textblock>conventional gasolines:</textblock>
+    <textblock>(i) For reformulated gasolines:</textblock>
+    <textblock>(ii) For conventional gasolines:</textblock>
+    <textblock>(2) Fuels with one or more properties that do not fall</textblock>
+    <textblock>within the ranges described in above shall not be certified</textblock>
+    <textblock>or evaluated for their emissions performance using the</textblock>
+    <textblock>complex emissions model described in paragraphs (c), (d),</textblock>
+    <textblock>and (e) of this section.</textblock>
+    <textblock>§80.46</textblock>
+    <textblock>Measurement of reformulated gasoline fuel</textblock>
+    <textblock>parameters.</textblock>
+    <textblock>(a)</textblock>
+    <textblock>Sulfur.</textblock>
+    <textblock>Sulfur content shall be determined using</textblock>
+    <textblock>American Society for Testing and Materials (ASTM) standard</textblock>
+    <textblock>method D-2622-92, entitled ``Standard Test Method for Sulfur</textblock>
+    <textblock>in Petroleum Products by X-Ray Spectrometry.''</textblock>
+    <textblock>(b)</textblock>
+    <textblock>Olefins.</textblock>
+    <textblock>Olefin content shall be determined using</textblock>
+    <textblock>ASTM standard method D-1319-93, entitled ``Standard Test</textblock>
+    <textblock>Method for Hydrocarbon Types in Liquid Petroleum Products by</textblock>
+    <textblock>Fluorescent Indicator Adsorption.''</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Fuel property</textblock>
+    <textblock>1Acceptable range</textblock>
+    <textblock>Oxygen</textblock>
+    <textblock>0.00-3.70 weight percent.</textblock>
+    <textblock>Sulfur</textblock>
+    <textblock>0.0-500.0 parts per million by</textblock>
+    <textblock>weight.</textblock>
+    <textblock>RVP</textblock>
+    <textblock>6.4-10.0 pounds per square inch.</textblock>
+    <textblock>E200</textblock>
+    <textblock>30.0-70.0 volume percent.</textblock>
+    <textblock>E300</textblock>
+    <textblock>70.0-100.0 volume percent.</textblock>
+    <textblock>Aromatics</textblock>
+    <textblock>0.0-50.0 volume percent.</textblock>
+    <textblock>Olefins</textblock>
+    <textblock>0.00-25.0 volume percent.</textblock>
+    <textblock>Benzene</textblock>
+    <textblock>0.0-2.0 volume percent.</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Fuel property</textblock>
+    <textblock>1Acceptable range</textblock>
+    <textblock>Oxygen</textblock>
+    <textblock>0.00-3.70 weight percent.</textblock>
+    <textblock>Sulfur</textblock>
+    <textblock>0.0-1000.0 parts per million by</textblock>
+    <textblock>weight.</textblock>
+    <textblock>RVP</textblock>
+    <textblock>6.4-11.0 pounds per square inch.</textblock>
+    <textblock>E200</textblock>
+    <textblock>30.0-70.0 volume percent.</textblock>
+    <textblock>E300</textblock>
+    <textblock>70.0-100.0 volume percent.</textblock>
+    <textblock>Aromatics</textblock>
+    <textblock>00.0-55.0 volume percent.</textblock>
+    <textblock>Olefins</textblock>
+    <textblock>0.00-30.0 volume percent.</textblock>
+    <textblock>Benzene</textblock>
+    <textblock>0.0-4.9 volume percent.</textblock>
+  </table>
+</doc>

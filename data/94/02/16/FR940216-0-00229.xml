@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00229</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(10) Specify in the product transfer documentation for the RBOB each oxygenate type or types and amount or range of amounts which is consistent with the designation of the RBOB as any-oxygenate, or ether-only, and which, if blended with the RBOB will result in reformulated gasoline which:</textblock>
+    <textblock>(i) Has VOC, toxics, or NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions reduction percentages which are no lower than the percentages that formed the basis for the refiner's or importer's compliance determination for these parameters;</textblock>
+    <textblock>(ii) Has a benzene content and RVP level which are no higher than the values for these characteristics that formed the basis for the refiner's or importer's compliance determinations for these parameters; and</textblock>
+    <textblock>(iii) Will not cause the reformulated gasoline to violate any standard specified in §80.41.</textblock>
+    <textblock>(b)</textblock>
+    <textblock>Requirements for oxygenate blenders.</textblock>
+    <textblock>For all RBOB received by any oxygenate blender, the oxygenate blender shall:</textblock>
+    <textblock>(1) Add oxygenate of the type(s) and amount (or within the range of amounts) specified in the product transfer documents for the RBOB;</textblock>
+    <textblock>(2) Designate each batch of the resulting reformulated gasoline as meeting the oxygen standard per-gallon or on average;</textblock>
+    <textblock>(3) Meet the standard requirements specified in §80.65(c) and §80.67(e), the record keeping requirements specified in §80.74, and the reporting requirements specified in §80.75; and</textblock>
+    <textblock>(4) In the case of each batch of reformulated gasoline which is designated for compliance with the oxygen standard on average:</textblock>
+    <textblock>(i) Determine the volume and the weight percent oxygen of the batch using the testing methodology specified in §80.46;</textblock>
+    <textblock>(ii) Assign a number to the batch (the ``batch number''), beginning with the number one for the first batch produced each calendar year and each subsequent batch during the calendar year being assigned the next sequential number, and such numbers to be preceded by the oxygenate blender's registration number, the facility number, and the second two digits of the year in which the batch was produced (e.g., 4321-4321-95-001, 4321-4321-95-002, etc.); and</textblock>
+    <textblock>(iii) Meet the compliance audit requirements specified in §80.65(h).</textblock>
+    <textblock>(c)</textblock>
+    <textblock>Additional requirements for terminal storage tank blending.</textblock>
+    <textblock>Any oxygenate blender who produces reformulated gasoline by blending any oxygenate with any RBOB in any gasoline storage tank, other than a truck used for delivering gasoline to retail outlets or wholesale purchaser-consumer facilities, shall, for each batch of reformulated gasoline so produced determine the oxygen content and volume of this gasoline prior to the gasoline leaving the oxygenate blending facility, using the methodology specified in §80.46.</textblock>
+    <textblock>(d)</textblock>
+    <textblock>Additional requirements for distributors dispensing RBOB into trucks for blending.</textblock>
+    <textblock>Any distributor who dispenses any RBOB into any truck which delivers gasoline to retail outlets or wholesale purchaser-consumer facilities, shall for such RBOB so dispensed:</textblock>
+    <textblock>(1) Transfer the RBOB only to an oxygenate blender who has registered with the Administrator of EPA as such;</textblock>
+    <textblock>(2) Transfer any RBOB designated as ether-only RBOB only if the distributor has a reasonable basis for knowing the oxygenate blender will blend an oxygenate other than ethanol with the RBOB; and</textblock>
+    <textblock>(3) Obtain from the oxygenate blender the oxygenate blender's EPA registration number.</textblock>
+    <textblock>(e)</textblock>
+    <textblock>Additional requirements for oxygenate blenders who blend oxygenate in trucks.</textblock>
+    <textblock>Any oxygenate blender who obtains any RBOB in any gasoline delivery truck shall:</textblock>
+    <textblock>(1) On each occasion it obtains RBOB from a distributor, supply the distributor with the oxygenate blender's EPA registration number;</textblock>
+    <textblock>(2) Conduct a quality assurance sampling and testing program to determine whether the proper type and amount of oxygenate is added to RBOB. The program shall be conducted as follows:</textblock>
+    <textblock>(i) All samples shall be collected subsequent to the addition of oxygenate, and either:</textblock>
+    <textblock>(A) Prior combining the resulting gasoline with any other gasoline; or</textblock>
+    <textblock>(B) Subsequent to the delivery of the gasoline to a retail outlet or wholesale purchaser-consumer facility provided that the three most recent deliveries to the retail outlet or wholesale purchaser facility were of gasoline that was produced by that oxygenate blender and that had the same oxygenate requirements, and provided that any discrepancy in oxygenate type or amount found through the retail outlet or wholesale purchaser facility sampling is followed-up with measures reasonably designed to discover the cause of the discrepancy;</textblock>
+    <textblock>(ii) Sampling and testing shall be at one of the following rates:</textblock>
+    <textblock>(A) In the case computer-controlled in-line blending is used, a rate of not less than one sample per each five hundred occasions RBOB and oxygenate are loaded into a truck by that oxygenate blender, or one sample every three months, whichever is more frequent; or</textblock>
+  </text>
+</doc>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940111-0-00039</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940111-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(b) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, New York Aircraft Certification Office (ACO), FAA, Engine and Propeller Directorate. Operators shall submit their requests through an appropriate FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, New York ACO.</textblock>
+    <textblock>Note 2:</textblock>
+    <textblock>Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the New York ACO.</textblock>
+    <textblock>(c) Special flight permits may be issued in accordance with FAR 21.197 and 21.199 to operate the airplane to a location where the requirements of this AD can be accomplished.</textblock>
+    <textblock>(d) This amendment becomes effective on January 26, 1994.</textblock>
+    <textblock>Issued in Renton, Washington, on January 3, 1994.</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Altitude limit (maximum)</textblock>
+    <textblock>1Airspeed limit (maximum)</textblock>
+    <textblock>Single Hydraulic System Failure:</textblock>
+    <textblock>31,000 feet</textblock>
+    <textblock>0.55 Mach (199 KIAS).</textblock>
+    <textblock>30,000 feet</textblock>
+    <textblock>0.55 Mach (204 KIAS).</textblock>
+    <textblock>28,000 feet</textblock>
+    <textblock>0.55 Mach (213 KIAS).</textblock>
+    <textblock>26,000 feet</textblock>
+    <textblock>0.55 Mach (222 KIAS).</textblock>
+    <textblock>24,000 feet</textblock>
+    <textblock>0.55 Mach (232 KIAS).</textblock>
+    <textblock>22,000 feet</textblock>
+    <textblock>0.55 Mach (241 KIAS).</textblock>
+    <textblock>20,000 feet and below</textblock>
+    <textblock>252 KIAS.</textblock>
+    <textblock>Double Hydraulic System Failure:</textblock>
+    <textblock>10,000 feet</textblock>
+    <textblock>200 KIAS.</textblock>
+  </table>
+  <signer>
+    <textblock>Darrell M. Pederson,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Transport Airplane Directorate, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-344 Filed 1-10-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-U</textblock>
+  </billing>
+</doc>

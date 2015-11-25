@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00189</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>VOCS1=Total summer VOC emissions in VOC Control Region 1 in terms of grams per mile</textblock>
+    <textblock>VOCS2=Total summer VOC emissions in VOC Control Region 2 in terms of grams per mile</textblock>
+    <textblock>(ii) Total winter VOC emissions shall be given by the following equations:</textblock>
+    <textblock>VOCW=(VOCE/1000)</textblock>
+    <textblock>VOCW=Total winter VOC emissions in terms of grams per mile</textblock>
+    <textblock>(7)</textblock>
+    <textblock>Phase I total VOC emissions performance.</textblock>
+    <textblock>(i) The total summer VOC emissions performance of the target fuel in percentage terms from baseline levels shall be given by the following equations during Phase I:</textblock>
+    <textblock>VOCS1%=[100% × (VOCS1^1.306 g/mi)]/(1.306 g/mi)</textblock>
+    <textblock>VOCS2%=[100% × (VOCS2^1.215 g/mi)]/(1.215 g/mi)</textblock>
+    <textblock>VOC1%=Percentage change in VOC emissions from baseline levels in VOC Control Region 1</textblock>
+    <textblock>VOC2%=Percentage change in VOC emissions from baseline levels in VOC Control Region 2</textblock>
+    <textblock>(ii) The total winter VOC emissions performance of the</textblock>
+    <textblock>target fuel in percentage terms from baseline levels shall</textblock>
+    <textblock>be given by the following equations during Phase I:</textblock>
+    <textblock>VOCW%=[100% × (VOCW^0.660 g/mi)]/(0.660 g/mi)</textblock>
+    <textblock>VOCW%=Percentage change in winter VOC emissions from baseline levels</textblock>
+    <textblock>(8)</textblock>
+    <textblock>Phase II total VOC emissions performance.</textblock>
+    <textblock>(i) The total summer VOC emissions performance of the target fuel in percentage terms from baseline levels shall be given by the following equations during Phase II:</textblock>
+    <textblock>VOCS1%=[100% × (VOCS1^1.4663 g/mi)]/(1.4663 g/mi)</textblock>
+    <textblock>VOCS2%=[100% × (VOCS2^1.3991 g/mi)]/(1.3991 g/mi)</textblock>
+    <textblock>(ii) The total winter VOC emissions performance of the target fuel in percentage terms from baseline levels shall be given by the following equation during Phase II:</textblock>
+    <textblock>VOCW%=[100% × (VOC^1.341 g/mi)]/(1.341 g/mi)</textblock>
+    <textblock>for</textblock>
+    <textblock>(d)</textblock>
+    <textblock>NO</textblock>
+    <textblock>X</textblock>
+    <textblock>performance.</textblock>
+    <textblock>(1) The summer NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions performance of gasolines shall be given by the following equations:</textblock>
+    <textblock>NO</textblock>
+    <textblock>X</textblock>
+    <textblock>=NO</textblock>
+    <textblock>X</textblock>
+    <textblock>(b)+[NO</textblock>
+    <textblock>X</textblock>
+    <textblock>(b) × Y(t)/100]</textblock>
+    <textblock>Y</textblock>
+    <textblock>NOX</textblock>
+    <textblock>(t)=</textblock>
+    <textblock>(w</textblock>
+    <textblock>1</textblock>
+    <textblock>× N</textblock>
+    <textblock>n</textblock>
+    <textblock>)+(w</textblock>
+    <textblock>2</textblock>
+    <textblock>× H</textblock>
+    <textblock>n</textblock>
+    <textblock>)^1</textblock>
+    <textblock>× 100</textblock>
+    <textblock>where</textblock>
+    <textblock>NO</textblock>
+    <textblock>X</textblock>
+    <textblock>=NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions in milligrams/mile</textblock>
+    <textblock>Y</textblock>
+    <textblock>NOx</textblock>
+    <textblock>(t)=NO</textblock>
+    <textblock>X</textblock>
+    <textblock>performance of target fuel in terms of percentage change from baseline</textblock>
+    <textblock>NO</textblock>
+    <textblock>X</textblock>
+    <textblock>(b)=Baseline NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions as defined in paragraph (b)(2) of this section for the appropriate phase and season</textblock>
+  </text>
+</doc>

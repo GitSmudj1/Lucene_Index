@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-2-00130</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-2-00071</textblock>
+  </parent>
+  <text>
+    <textblock>Appendix D_Procedure for Cleaning Cooling Towers and Related Equipment</textblock>
+    <textblock>(Adapted from the Emergency Protocol in</textblock>
+    <textblock>Control of Legionella spp. in Cooling Towers: Summary Guidelines.</textblock>
+    <textblock>415</textblock>
+    <textblock>)</textblock>
+    <textblock>I. Preparatory to Chemical Disinfection and Mechanical Cleaning</textblock>
+    <textblock>A. Provide protective equipment to workers who would perform the disinfection, to prevent their exposure to a) chemicals used for disinfection, and b) aerosolized water containing</textblock>
+    <textblock>Legionella</textblock>
+    <textblock>spp. Protective equipment may include full-length protective clothing, boots, gloves, goggles, and a full- or half-face mask that combines high efficiency particulate air filter and chemical cartridges to protect against airborne chlorine levels of up to 10 mg/L.</textblock>
+    <textblock>B. Shut off cooling-tower.</textblock>
+    <textblock>1. If possible, shut off heat source.</textblock>
+    <textblock>2. Shut off fans, if present, on the cooling tower/evaporative condenser (CT/EC).</textblock>
+    <textblock>3. Shut off the system blowdown (purge) valve. Shut off automated blowdown controller, if present, and set system controller to manual.</textblock>
+    <textblock>4. Keep make-up water valves open.</textblock>
+    <textblock>5. Close building air-intake vents within at least 30 meters of the CT/EC until after the cleaning procedure is complete.</textblock>
+    <textblock>6. Continue operating pumps for water circulation through the CT/EC.</textblock>
+    <textblock>II. Chemical Disinfection</textblock>
+    <textblock>A. Add fast-release, chlorine-containing disinfectant in pellet, granular, or liquid form, and follow instructions on the product label. Examples of disinfectants are sodium hypochlorite (NaOCl) or calcium hypochlorite (Ca(OCl)</textblock>
+    <textblock>2</textblock>
+    <textblock>, calculated to achieve initial FRC of 50 mg/L, i.e., 3.0 lbs (1.4 kg) industrial grade NaOCl (12-15% available Cl) per 1,000 gallons of CT/EC water; 10.5 lbs (4.8 kg) domestic grade NaOCl (3-5% available Cl) per 1,000 gallons of CT/EC water; or 0.6 lb (0.3 kg) Ca(OCl)</textblock>
+    <textblock>2</textblock>
+    <textblock>per 1,000 gallons of CT/EC water. (Other appropriate compounds may be suggested by a water-treatment specialist.) If significant biodeposits are present, add more chlorine. If the water volume in CT/EC is unknown, estimate it (in gallons) to be 10x the recirculation rate in gallons/minute or 30x the refrigeration capacity in tons.</textblock>
+    <textblock>B. Record type and quality of all chemicals used for disinfection, exact time when chemicals are added to the system, and time and results of measurements of free residual chlorine (FRC) and pH.</textblock>
+    <textblock>C. Within 15 minutes of adding disinfectant, add the dispersant by first dissolving it in water and adding the resulting solution to a turbulent zone in the water system. Examples of low or non-foaming, silicate-based dispersants are: automatic-dishwasher compounds, such as Cascade* or Calgonite* or an equivalent product. (Dispersants are added at 10-25 lbs. (4.5-11.25 kg) per 1,000 gallons of CT/EC water.)</textblock>
+    <textblock>*Use of product names is for identification only and does not imply endorsement by the Public Health Service or the U.S. Department of Health and Human Services.</textblock>
+    <textblock>D. After adding disinfectant and dispersant, continue circulating the water through the system. Monitor FRC with an FRC-measuring device, e.g., a swimming pool test kit, and measure pH with a pH meter every 15 minutes for 2 hours. Add chlorine as needed to maintain FRC at "10 mg/L. Adjust pH to 7.5-8.0. The pH may be lowered by using any acid (e.g., muriatic acid or sulfuric acid used for maintenance of swimming pools) that is compatible with treatment chemicals.</textblock>
+    <textblock>E. Two hours after adding disinfectant and dispersant or after FRC level is stable at "10 mg/L, monitor at 2-hour intervals and maintain FRC at "10 mg/L for 24 hours.</textblock>
+    <textblock>F. After FRC level is maintained at "10 mg/L for 24 hours, drain the system. CT/EC water may be drained to the sanitary sewer. Municipal water and sewerage authorities should be contacted regarding local regulations. If a sanitary sewer is not available, consult local or state authorities (e.g. Department of Natural Resources) regarding disposal of water. If necessary, drain-off may be dechlorinated by dissipation or chemical neutralization (i.e. with sodium bisulfite).</textblock>
+    <textblock>G. Refill system with water and repeat procedure outlined in steps 2-6.</textblock>
+    <textblock>III. Mechanical Cleaning</textblock>
+    <textblock>A. After water from the second chemical disinfection has been drained, shut down the CT/EC.</textblock>
+    <textblock>B. Inspect all water contact areas for sediment, sludge, and scale. Using brushes and/or a low-pressure water hose, thoroughly clean all CT/EC water contact areas including basin, sump, fill, spray nozzles, and fittings. Replace components as needed.</textblock>
+    <textblock>C. If possible, clean CT/EC water contact areas within the chillers.</textblock>
+    <textblock>IV. After Mechanical Cleaning</textblock>
+    <textblock>A. Fill system with water, and add chlorine to achieve FRC level of 10 mg/L.</textblock>
+    <textblock>B. Circulate water for one hour, then open blowdown valve and flush the entire system until it is free of turbidity.</textblock>
+    <textblock>C. Drain system.</textblock>
+    <textblock>D. Open any air intake vents that were closed prior to cleaning.</textblock>
+    <textblock>E. Fill system with water. CT/EC may be put back into service using an effective water-treatment program.</textblock>
+    <textblock>REFERENCES</textblock>
+    <textblock>1. Centers for Disease Control. Guidelines for preventing the transmission of tuberculosis in health-care settings, with special focus on HIV-related issues. MMWR 1990; 39(RR-17):1-29.</textblock>
+    <textblock>2. Horan T, Culver D, Jarvis W, et al. Pathogens causing nosocomial infections. Preliminary data from the National Nosocomial Infections Surveillance System. Antimicrob Newsletter 1988; 5:65-67.</textblock>
+    <textblock>3. Horan TC, White JW, Jarvis WR, et al. Nosocomial infection surveillance, 1984. MMWR 1986; 35:17SS-29SS.</textblock>
+    <textblock>4. Schaberg DR, Culver DH, Gaynes RP. Major trends in the microbial etiology of nosocomial infection. Am J Med 1991; 91 (suppl 3B):72S-75S.</textblock>
+    <textblock>5. Bartlett JG, O'Keefe P, Tally FP, et al. Bacteriology of hospital-acquired pneumonia. Arch Intern Med 1986; 146:868-871.</textblock>
+    <textblock>6. Fagon JY, Chastre J, Domart Y, et al. Nosocomial pneumonia in patients receiving continuous mechanical ventilation: Prospective analysis of 52 episodes with use of a protected specimen brush and quantitative culture techniques. Am Rev Respir Dis 1989; 139:877-884.</textblock>
+    <textblock>7. Torres A, Aznar R, Gatell JM, et al. Incidence, risk, and prognosis factors of nosocomial pneumonia in mechanically ventilated patients. Am Rev Respir Dis 1990; 142:523-528.</textblock>
+    <textblock>8. Chastre J, Fagon JY, Soler P, et al. Diagnosis of nosocomial bacterial pneumonia in intubated patients undergoing ventilation: Comparison of the usefulness of bronchoalveolar lavage and the protected specimen brush. Am J Med 1988; 85:499-506.</textblock>
+    <textblock>9. Fagon J, Chastre J, Hance AJ, et al. Detection of nosocomial lung infection in ventilated patients: Use of a protected specimen brush and quantitative culture technique in 147 patients. Am Rev Respir Dis 1988; 138:110-116.</textblock>
+    <textblock>10. Chastre J, Viau F, Brun P, et al. Prospective evaluation of the protected specimen brush for the diagnosis of pulmonary infections in ventilated patients. Am Rev Respir Dis 1984; 130:924-929.</textblock>
+    <textblock>11. Rello J, Quintana E, Ausina V, et al. Incidence, etiology, and outcome of nosocomial pneumonia in mechanically ventilated patients. Chest 1991; 100:439-444.</textblock>
+    <textblock>12. Jimenez P, Torres A, Rodriguez-Riosin R, et al. Incidence and etiology of pneumonia acquired during mechanical ventilation. Crit Care Med 1989; 17:882-885.</textblock>
+    <textblock>13. Pugin J, Auckenthaler R, Mili N, Janssens JP, Lew PD, Suter PM. Diagnosis of ventilator-associated pneumonia by bacteriologic analysis of bronchoscopic and nonbronchoscopic blind bronchoalveolar lavage fluid. Am Rev Respir Dis 1991; 143:1121-1129.</textblock>
+    <textblock>14. Torres A, De La Bellacasa JP, Rodriguez-Riosin R, De Anta MT, Agusti-Vidal A. Diagnostic value of telescoping plugged catheters in mechanically ventilated patients with bacterial pneumonia using the metras catheter. Am Rev Respir Dis 1988; 138:117-120.</textblock>
+  </text>
+</doc>

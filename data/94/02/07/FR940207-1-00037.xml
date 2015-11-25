@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940207-1-00037</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940207-1-00006</textblock>
+  </parent>
+  <text>
+    <textblock>List of Subjects in 14 CFR Part 39</textblock>
+    <textblock>Air transportation, Aircraft, Aviation safety, Safety.</textblock>
+    <textblock>The Proposed Amendment</textblock>
+    <textblock>Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration proposes to amend 14 CFR part 39 of the Federal Aviation Regulations as follows:</textblock>
+    <textblock>PART 39_AIRWORTHINESS DIRECTIVES</textblock>
+    <textblock>1. The authority citation for part 39 continues to read as follows:</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>49 U.S.C. App. 1354(a), 1421 and 1423; 49 U.S.C. 106(g); and 14 CFR 11.89.</textblock>
+    <textblock>§39.13</textblock>
+    <textblock>[Amended]</textblock>
+    <textblock>2. Section 39.13 is amended by removing amendment 39-8550 (58 FR 25549, April 27, 1993), and by adding a new airworthiness directive (AD), to read as follows:</textblock>
+    <textblock>De Havilland, Inc.:</textblock>
+    <textblock>Docket 93-NM-194-AD. Supersedes AD 93-08-03, Amendment 39-8550.</textblock>
+    <textblock>Applicability:</textblock>
+    <textblock>Model DHC-8-102, -103, -301, -311, and -314 series airplanes on which Modification 8/1880 (as described in de Havilland Service Bulletin S.B. 8-53-45, dated July 12, 1993) has not been accomplished; certificated in any category.</textblock>
+    <textblock>Compliance:</textblock>
+    <textblock>Required as indicated, unless accomplished previously.</textblock>
+    <textblock>To prevent failure of the upper drag strut trunnion fittings of the nose landing gear, which could lead to collapse of the nose landing gear, accomplish the following:</textblock>
+    <textblock>(a) Within 500 landings after May 27, 1993 (the effective date of AD 93-08-03, Amendment 39-8550), unless accomplished within the last 500 landings, conduct a visual inspection of both upper drag strut trunnion fittings of the nose landing gear to detect cracks; and conduct an inspection of the fitting attachment bolts to verify tightness; in accordance with de Havilland DHC-8 Alert Service Bulletin S.B. A8-53-40, Revision `A', dated June 12, 1992; or Revision `B', dated February 24, 1993.</textblock>
+    <textblock>(1) If no crack is detected in the upper drag strut trunnion fittings of the nose landing gear, and no looseness is detected in the fitting attachment bolts, repeat the inspections at intervals not to exceed 1,000 landings until the modification required by paragraph (b) of this AD is accomplished.</textblock>
+    <textblock>(2) If any crack is detected on either fitting, prior to further flight, replace both fittings with confirmed crack-free fittings in accordance with the service bulletin. After such replacement, the inspections required by this paragraph must continue at intervals not to exceed 1,000 landings until the modification required by paragraph (b) of this AD is accomplished.</textblock>
+    <textblock>(3) If any fitting attachment bolt is found to be loose during the initial inspection, prior to further flight, replace the fasteners (nut, washer, and bolt) that secure the fitting, in accordance with the service bulletin. After such replacement, the inspections required by this paragraph must continue at intervals not to exceed 1,000 landings until the modification required by paragraph (b) of this AD is accomplished.</textblock>
+    <textblock>(4) If any fastener is found to be loose during any repetitive inspection required by this AD, prior to further flight, tighten the bolt to the value specified in the service bulletin.</textblock>
+    <textblock>(b) Within 6 months after the effective date of this AD, install Modification 8/1880 (which entails replacing both of the currently-installed upper drag strut trunnion fittings and fasteners of the nose landing gear with new, improved upper drag strut trunnion fittings and new fasteners, and installing a new sensor bracket), in accordance with de Havilland Service Bulletin S.B. 8-53-45, dated July 12, 1993. Installation of this modification constitutes terminating action for the inspection requirements of this AD.</textblock>
+    <textblock>(c) Installation of Modification 8/1880, in accordance with de Havilland Service Bulletin S.B. 8-53-45, dated July 12, 1993, constitutes terminating action for the inspections required by this AD.</textblock>
+    <textblock>(d) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, New York Aircraft Certification Office (ACO), ANE-170, FAA, Engine and Propeller Directorate. Operators shall submit their requests through an appropriate FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, New York ACO.</textblock>
+    <textblock>Note:</textblock>
+    <textblock>Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the New York ACO.</textblock>
+    <textblock>(e) Special flight permits may be issued in accordance with Federal Aviation Regulations (FAR) 21.197 and 21.199 to operate the airplane to a location where the requirements of this AD can be accomplished.</textblock>
+    <textblock>Issued in Renton, Washington, on February 1, 1994.</textblock>
+  </text>
+  <signer>
+    <textblock>Darrell M. Pederson,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-2658 Filed 2-4-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-U</textblock>
+  </billing>
+</doc>

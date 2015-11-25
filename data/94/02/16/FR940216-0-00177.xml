@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00177</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(e)</textblock>
+    <textblock>Phase II complex model per-gallon standards.</textblock>
+    <textblock>The Phase II ``complex model'' standards for compliance when</textblock>
+    <textblock>achieved on a per-gallon basis are as follows:</textblock>
+    <textblock>(f)</textblock>
+    <textblock>Phase II complex model averaged standards.</textblock>
+    <textblock>The Phase II ``complex model'' standards for compliance when achieved on average are as follows:</textblock>
+    <textblock>(g)</textblock>
+    <textblock>Oxygen maximum standard.</textblock>
+    <textblock>The per-gallon standards for maximum oxygen content, which apply to reformulated gasoline subject to the simple model per-gallon or average standards, are as follows.</textblock>
+    <textblock>(1) For reformulated gasoline designated as VOC-controlled:</textblock>
+    <textblock>(i) The standard shall be 2.7% by weight; except that</textblock>
+    <textblock>(ii)(A) The standard shall be 3.5% by weight within the boundaries of any state if the state notifies the Administrator it wishes this different standard to apply; provided that</textblock>
+    <textblock>(B) There have been no occasions within the three preceding years when the ozone ambient air quality standard was exceeded within any covered area within the state.</textblock>
+    <textblock>(2) For reformulated gasoline not designated as VOC-controlled:</textblock>
+    <textblock>(i) The standard shall be 3.5% by weight; except that</textblock>
+    <textblock>(ii) In the case of any state that has notified the Administrator that the use of an oxygenate will interfere with attainment or maintenance of an ambient air quality standard or will contribute to an air quality problem, the standard shall be 2.7% by weight within the boundaries of that state.</textblock>
+    <textblock>(h)</textblock>
+    <textblock>Additional standard requirements.</textblock>
+    <textblock>In addition to the standards specified in paragraphs (a) through (g) of this section, the following standards apply for all reformulated gasoline:</textblock>
+    <textblock>(1) The standard for heavy metals, including lead or manganese, on a per-gallon basis, is that reformulated gasoline may contain no heavy metals. The Administrator may waive this prohibition for a heavy metal (other than lead) if the Administrator determines that addition of the heavy metal to the gasoline will not increase, on an aggregate mass or cancer-risk basis, toxic air pollutant emissions from motor vehicles.</textblock>
+    <textblock>(2) In the case of any refinery or importer subject to the simple model standards:</textblock>
+    <textblock>(i) The annual average levels for sulfur, T-90, and olefins cannot exceed that refinery's or importer's 1990 baseline levels for each of these parameters; and</textblock>
+    <textblock>(ii) The 1990 baseline levels and the annual averages for these parameters shall be established using the methodology set forth in §§80.91 through 80.92; and</textblock>
+    <textblock>(iii) In the case of a refiner that operates more than one refinery, the standards specified under this paragraph (h)(2) shall be met using the refinery grouping selected by the refiner under §80.101(g).</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Use of simple and complex models.</textblock>
+    <textblock>(1) During each calendar year 1995 through 1997, any refinery or importer shall be subject to either the simple model standards specified in paragraphs (a) and (b) of this section, or the Phase I complex model standards specified in paragraphs (c) and (d) of this section, at the option of the refiner or importer, provided that:</textblock>
+    <textblock>(i) No refinery or importer may be subject to a combination of simple and complex standards during any calendar year; and</textblock>
+  </text>
+  <table>
+    <textblock>Phase II_Complex Model Per-Gallon Standards</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>VOC emissions performance reduction (percent):</textblock>
+    <textblock>Gasoline designated for VOC-Control Region 1</textblock>
+    <textblock>≥27.5</textblock>
+    <textblock>Gasoline designated for VOC-Control Region 2</textblock>
+    <textblock>≥25.9</textblock>
+    <textblock>Toxic air pollutants emissions performance reduction (percent)</textblock>
+    <textblock>≥20.0</textblock>
+    <textblock>NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions performance reduction (percent):</textblock>
+    <textblock>Gasoline designated as VOC-controlled</textblock>
+    <textblock>≥5.5</textblock>
+    <textblock>Gasoline not designated as VOC-controlled</textblock>
+    <textblock>≥0.0</textblock>
+    <textblock>Oxygen content (percent, by weight)</textblock>
+    <textblock>≥2.0</textblock>
+    <textblock>Benzene (percent, by volume)</textblock>
+    <textblock>&lt;1.00</textblock>
+  </table>
+  <table>
+    <textblock>Phase II_Complex Model Averaged Standards</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>VOC emissions performance reduction (percent):</textblock>
+    <textblock>Gasoline designated for VOC-Control Region 1:</textblock>
+    <textblock>Standard</textblock>
+    <textblock>≥29.0</textblock>
+    <textblock>Per-Gallon Minimum</textblock>
+    <textblock>≥25.0</textblock>
+    <textblock>Gasoline designated for VOC-Control Region 2:</textblock>
+    <textblock>Standard</textblock>
+    <textblock>≥27.4</textblock>
+    <textblock>Per-Gallon Minimum</textblock>
+    <textblock>≥23.4</textblock>
+    <textblock>Toxics air pollutants emissions performance reduction (percent)</textblock>
+    <textblock>≥21.5</textblock>
+    <textblock>NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions performance reduction (percent):</textblock>
+    <textblock>Gasoline designated as VOC-controlled:</textblock>
+    <textblock>Standard</textblock>
+    <textblock>≥6.8</textblock>
+    <textblock>Per-Gallon Minimum</textblock>
+    <textblock>≥3.0</textblock>
+    <textblock>Gasoline not designated as VOC-controlled:</textblock>
+    <textblock>Standard</textblock>
+    <textblock>≥1.5</textblock>
+    <textblock>Per-Gallon Minimum</textblock>
+    <textblock>≥^2.5</textblock>
+    <textblock>Oxygen content (percent, by weight):</textblock>
+    <textblock>Standard</textblock>
+    <textblock>≥2.1</textblock>
+    <textblock>Per-Gallon Minimum</textblock>
+    <textblock>≥1.5</textblock>
+    <textblock>Benzene (percent, by volume):</textblock>
+    <textblock>Standard</textblock>
+    <textblock>&lt;0.95</textblock>
+    <textblock>Per-Gallon Maximum</textblock>
+    <textblock>&lt;1.30</textblock>
+  </table>
+</doc>

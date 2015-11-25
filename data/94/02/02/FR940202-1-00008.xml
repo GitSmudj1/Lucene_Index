@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-1-00008</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-1-00003</textblock>
+  </parent>
+  <text>
+    <textblock>New Actions Required by This AD:</textblock>
+    <textblock>(d) Within 5 years after the effective date of this AD, install an additional thrust reverser system locking feature (synch-lock installation) in accordance with Boeing Service Bulletin 767-78-0060, Revision 2, dated August 19, 1993 (for Model 767 series airplanes equipped with General Electric CF6-80A series engines), or Boeing Service Bulletin 767-78-0061, Revision 2, dated August 5, 1993 (for Model 767 series airplanes equipped with Pratt and Whitney JT9D-7R4 series engines), as applicable. Installation of the additional thrust reverser system locking feature, as required by this paragraph, constitutes terminating action for the requirements of paragraphs (a) through (c) of this AD.</textblock>
+    <textblock>(e) Within 1,000 hours time-in-service after installing the synch-lock required by paragraph (d) of this AD (either in production or by retrofit), or within 1,000 hours time-in-service after the effective date of this AD, whichever occurs later; and thereafter at intervals not to exceed 1,000 hours time-in-service: Perform functional tests of the synch-lock in accordance with the ``Thrust Reverser Synch-Lock Test'' procedures specified below. If any discrepancy is found during any test, prior to further flight, correct it in accordance with procedures described in the Boeing 767 Maintenance Manual.</textblock>
+    <textblock>Thrust Reverser Synch-Lock Test</textblock>
+    <textblock>1. General</textblock>
+    <textblock>A. There are two thrust reverser synch-locks on each engine. The thrust reverser synch-locks are installed on the lower non-locking hydraulic actuator of each thrust reverser sleeve.</textblock>
+    <textblock>B. This task has two parts that must be accomplished:</textblock>
+    <textblock>(1) The first part does a test of the electrical circuit which controls the operation of each thrust reverser synch-lock.</textblock>
+    <textblock>(2) The second part does a test of the mechanical condition of each thrust reverser synch-lock.</textblock>
+    <textblock>C. The thrust reverser synch-lock is referred to as the ``synch-lock'' in this procedure.</textblock>
+    <textblock>2. Thrust Reverser Synch-Lock Integrity Test</textblock>
+    <textblock>A. Equipment</textblock>
+    <textblock>(1) Multi-meter, Simpson 260 or equivalent_commercially available.</textblock>
+    <textblock>B. Prepare to do the integrity test for the synch-locks.</textblock>
+    <textblock>(1) Supply electrical power.</textblock>
+    <textblock>(2) For the left engine, make sure these circuit breakers on the overhead</textblock>
+    <textblock>circuit breaker panel, P11, are closed:</textblock>
+    <textblock>(a) L ENG T/R CONT</textblock>
+    <textblock>(b) L ENG T/R IND</textblock>
+    <textblock>(c) L ENG T/R SSL CONT</textblock>
+    <textblock>(3) For the right engine, make sure these circuit breakers on the overhead circuit breaker panel, P11, are closed:</textblock>
+    <textblock>(a) R ENG T/R CONT</textblock>
+    <textblock>(b) R ENG T/R IND</textblock>
+    <textblock>(c) R ENG T/R SSL CONT</textblock>
+    <textblock>(d) AIRPLANES WITH HYDRAULIC MOTOR-DRIVEN GENERATORS (ETOPS): R ENG T/R CONT ALTN</textblock>
+    <textblock>(e) AIRPLANES WITH HYDRAULIC MOTOR-DRIVEN GENERATORS (ETOPS): R ENG T/R IND ALTN</textblock>
+    <textblock>(4) Open the fan cowl panels.</textblock>
+    <textblock>C. Do the electrical test for the synch-locks.</textblock>
+    <textblock>(1) Do these steps to make sure there are no ``hot'' short circuits in the electrical system which can accidentally supply power to the synch-locks:</textblock>
+    <textblock>(a) Remove the applicable L(R) electrical connectors, D20194(D20196), from the L(R) synch-locks, V170(V171).</textblock>
+    <textblock>Note:</textblock>
+    <textblock>You can find the synch-locks attached to the lower non-locking hydraulic actuators on the applicable thrust reverser sleeves.</textblock>
+    <textblock>(b) Use a multi-meter on the plug end of the applicable electrical connector to make sure that these conditions are correct:</textblock>
+    <textblock>(c) If you did not find these conditions to be correct, you must do these steps:</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1From equipment</textblock>
+    <textblock>1To equipment</textblock>
+    <textblock>1Condition</textblock>
+    <textblock>D20194 PIN 1</textblock>
+    <textblock>D20194 PIN 2</textblock>
+    <textblock>^3 to +1 VDC and</textblock>
+    <textblock>continuity (less than 5 ohms).</textblock>
+    <textblock>D20196 PIN 1</textblock>
+    <textblock>D20196 PIN 2</textblock>
+    <textblock>^3 to +1 VDC and</textblock>
+    <textblock>continuity (less than 5 ohms).</textblock>
+  </table>
+</doc>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940118-0-00004</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940118-0-00001</textblock>
+  </parent>
+  <text>
+    <textblock>PART 39_AIRWORTHINESS DIRECTIVES</textblock>
+    <textblock>1. The authority citation for part 39 continues</textblock>
+    <textblock>to read as follows:</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>49 U.S.C. App. 1354(a), 1421 and 1423; 49</textblock>
+    <textblock>U.S.C. 106(g); and 14 CFR 11.89.</textblock>
+    <textblock>§39.13</textblock>
+    <textblock>[Amended]</textblock>
+    <textblock>2. Section 39.13 is amended by adding the</textblock>
+    <textblock>following new AD:</textblock>
+    <textblock>94-02-02 Rockwell International/Collins Air Transport Division:</textblock>
+    <textblock>Amendment 39-8799; Docket No. 92-CE-60-AD.</textblock>
+    <textblock>Applicability:</textblock>
+    <textblock>DME-700 distance measuring equipment</textblock>
+    <textblock>(all serial numbers) (part numbers 622-4540-020, 622-</textblock>
+    <textblock>4540-021, 622-4540-022,</textblock>
+    <textblock>622-4540-120, and 622-4540-121), that is installed on,</textblock>
+    <textblock>but not limited to, the following model airplanes (all</textblock>
+    <textblock>serial numbers), certificated in any category:</textblock>
+    <textblock>Compliance:</textblock>
+    <textblock>Required within the next 12 calendar</textblock>
+    <textblock>months after the effective date of this AD, unless</textblock>
+    <textblock>already accomplished.</textblock>
+    <textblock>To prevent improper operation of these DME units,</textblock>
+    <textblock>which could result in navigational errors, accomplish</textblock>
+    <textblock>the following:</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Manufacturer</textblock>
+    <textblock>1Models</textblock>
+    <textblock>Boeing</textblock>
+    <textblock>B737, B747-400,</textblock>
+    <textblock>and B767.</textblock>
+    <textblock>McDonnell Douglas</textblock>
+    <textblock>MD 80, MD 11.</textblock>
+    <textblock>Airbus</textblock>
+    <textblock>A300, A310,</textblock>
+    <textblock>A300-600, A320,</textblock>
+    <textblock>and A340.</textblock>
+    <textblock>Fokker</textblock>
+    <textblock>F-100.</textblock>
+  </table>
+</doc>

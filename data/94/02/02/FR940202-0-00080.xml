@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00080</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>(v)</textblock>
+    <textblock>Examples.</textblock>
+    <textblock>The following examples illustrate the rules</textblock>
+    <textblock>in paragraph (e)(3) of this section.</textblock>
+    <textblock>Example 1. Equivalent fixed rate debt instrument_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>X purchases at original issue a 6-year variable rate debt</textblock>
+    <textblock>instrument that provides for semiannual payments of interest.</textblock>
+    <textblock>For the first 3 years, the rate of interest is the value of 6-month LIBOR on the payment date. For the final 3 years, the rate</textblock>
+    <textblock>is the value of the 6-month T-bill rate on the payment date. On</textblock>
+    <textblock>the issue date, the value of 6-month LIBOR is 3 percent,</textblock>
+    <textblock>compounded semiannually, and the 6-month T-bill rate is 2</textblock>
+    <textblock>percent, compounded semiannually.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Determination of equivalent fixed rate debt instrument.</textblock>
+    <textblock>Under paragraph (e)(3)(i) of this section, the fixed rate</textblock>
+    <textblock>substitute for 6-month LIBOR is 3 percent, compounded</textblock>
+    <textblock>semiannually, and the fixed rate substitute for the 6-month T-bill rate is 2 percent, compounded semiannually. Under paragraph</textblock>
+    <textblock>(e)(3)(ii) of this section, the equivalent fixed rate debt</textblock>
+    <textblock>instrument is a 6-year debt instrument that provides for</textblock>
+    <textblock>semiannual payments of interest at 3 percent, compounded</textblock>
+    <textblock>semiannually, for the first 3 years followed by 2 percent,</textblock>
+    <textblock>compounded semiannually, for the final 3 years.</textblock>
+    <textblock>Example 2. Equivalent fixed rate debt instrument with de</textblock>
+    <textblock>minimis OID_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>Y purchases at original issue, for</textblock>
+    <textblock>$100,000, a 4-year variable rate debt instrument that has a</textblock>
+    <textblock>stated principal amount of $100,000, payable at maturity. The</textblock>
+    <textblock>debt instrument provides for monthly payments of interest at the</textblock>
+    <textblock>end of each month. For the first year, the interest rate is the</textblock>
+    <textblock>monthly commercial paper rate and for the last 3 years, the</textblock>
+    <textblock>interest rate is the monthly commercial paper rate plus 100 basis</textblock>
+    <textblock>points. On the issue date, the monthly commercial paper rate is</textblock>
+    <textblock>3 percent, compounded monthly.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Equivalent fixed rate debt instrument.</textblock>
+    <textblock>Under paragraph</textblock>
+    <textblock>(e)(3)(ii) of this section, the equivalent fixed rate debt</textblock>
+    <textblock>instrument for the variable rate debt instrument is a 4-year debt</textblock>
+    <textblock>instrument that has an issue price and stated principal amount of</textblock>
+    <textblock>$100,000. The equivalent fixed rate debt instrument provides for</textblock>
+    <textblock>monthly payments of interest at 3 percent, compounded monthly,</textblock>
+    <textblock>for the first year ($250 per month) and monthly payments of</textblock>
+    <textblock>interest at 4 percent, compounded monthly, for the last 3 years</textblock>
+    <textblock>($333.33 per month).</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>De minimis OID.</textblock>
+    <textblock>Under §1.1273-1(a), because a</textblock>
+    <textblock>portion (100 basis points) of each interest payment in the final</textblock>
+    <textblock>3 years is not a qualified stated interest payment, the</textblock>
+    <textblock>equivalent fixed rate debt instrument has OID of $2,999.88</textblock>
+    <textblock>($102,999.88 ^$100,000). However, under §1.1273-1(d)(4) (the</textblock>
+    <textblock>de minimis rule relating to teaser rates and interest holidays),</textblock>
+    <textblock>the stated redemption price at maturity of the equivalent fixed</textblock>
+    <textblock>rate debt instrument is $100,999.96 ($100,000 (issue price) plus</textblock>
+    <textblock>$999.96 (the greater of the amount of foregone interest ($999.96)</textblock>
+    <textblock>and the amount equal to the excess of the instrument's stated</textblock>
+    <textblock>principal amount over its issue price ($0)). Thus, the</textblock>
+    <textblock>equivalent fixed rate debt instrument is treated as having OID of</textblock>
+    <textblock>$999.96 ($100,999.96 ^$100,000). Because this amount is less</textblock>
+    <textblock>than the de minimis amount of $1,010 (0.0025 multiplied by</textblock>
+    <textblock>$100,999.96 multiplied by 4 complete years to maturity), the</textblock>
+    <textblock>equivalent fixed rate debt instrument has de minimis OID.</textblock>
+    <textblock>Therefore, the variable rate debt instrument has zero OID and all</textblock>
+    <textblock>stated interest payments are qualified stated interest payments.</textblock>
+    <textblock>Example 3. Adjustment to qualified stated interest for</textblock>
+    <textblock>actual payment of interest_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>On January 1, 1995, Z</textblock>
+    <textblock>purchases at original issue, for $90,000, a variable rate debt</textblock>
+    <textblock>instrument that matures on January 1, 1997, and has a stated</textblock>
+    <textblock>principal amount of $100,000, payable at maturity. The debt</textblock>
+    <textblock>instrument provides for annual payments of interest on January 1</textblock>
+    <textblock>of each year, beginning on January 1, 1996. The amount of</textblock>
+    <textblock>interest payable is the value of annual LIBOR on the payment</textblock>
+    <textblock>date. The value of annual LIBOR on January 1, 1995, and January</textblock>
+    <textblock>1, 1996, is 5 percent, compounded annually. The value of annual</textblock>
+    <textblock>LIBOR on January 1, 1997, is 7 percent, compounded annually.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Equivalent fixed rate debt instrument.</textblock>
+    <textblock>Under paragraph</textblock>
+    <textblock>(e)(3)(ii) of this section, the equivalent fixed rate debt</textblock>
+    <textblock>instrument for the variable rate debt instrument is a 2-year debt</textblock>
+    <textblock>instrument that has an issue price of $90,000 and a stated</textblock>
+    <textblock>principal amount of $100,000. The equivalent fixed rate debt</textblock>
+    <textblock>instrument provides for interest payments of $5,000 at the end of</textblock>
+    <textblock>each year.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Accrual of OID and qualified stated interest.</textblock>
+    <textblock>Under</textblock>
+    <textblock>§1.1273-1, the equivalent fixed rate debt instrument has $10,000</textblock>
+    <textblock>of OID and the annual interest payments of $5,000 are qualified</textblock>
+    <textblock>stated interest payments. Under §1.1272-1, the equivalent fixed</textblock>
+    <textblock>rate debt instrument has a yield of 10.82 percent, compounded</textblock>
+    <textblock>annually. The amount of OID allocable to the first annual</textblock>
+    <textblock>accrual period (assuming Z uses annual accrual periods) is</textblock>
+    <textblock>$4,743.25 (($90,000 × .1082) ^$5,000), and the amount of OID</textblock>
+    <textblock>allocable to the second annual accrual period is $5,256.75</textblock>
+    <textblock>($100,000 ^$94,743.25). Under paragraph (e)(3)(iv) of this</textblock>
+    <textblock>section, the $2,000 difference between the $7,000 interest</textblock>
+    <textblock>payment actually made at maturity and the $5,000 interest payment</textblock>
+    <textblock>assumed to be made at maturity under the equivalent fixed rate</textblock>
+    <textblock>debt instrument is treated as additional qualified stated</textblock>
+    <textblock>interest for the period.</textblock>
+    <textblock>(4)</textblock>
+    <textblock>Variable rate debt instrument that provides for a single</textblock>
+    <textblock>fixed rate_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>General rule.</textblock>
+    <textblock>If a variable rate debt instrument</textblock>
+    <textblock>provides for stated interest either at one or more qualified</textblock>
+    <textblock>floating rates or at a qualified inverse floating rate and in</textblock>
+    <textblock>addition provides for stated interest at a single fixed rate</textblock>
+    <textblock>(other than an initial fixed rate described in paragraph</textblock>
+    <textblock>(a)(3)(ii) of this section), the amount of interest and OID are</textblock>
+    <textblock>determined using the method of paragraph (e)(3) of this section,</textblock>
+    <textblock>as modified by this paragraph (e)(4). For purposes of paragraphs</textblock>
+    <textblock>(e)(3)(i) through (e)(3)(iii) of this section, the variable rate</textblock>
+    <textblock>debt instrument is treated as if it provided for a qualified</textblock>
+    <textblock>floating rate (or a qualified inverse floating rate, if the debt</textblock>
+    <textblock>instrument provides for a qualified inverse floating rate),</textblock>
+    <textblock>rather than the fixed rate. The qualified floating rate (or</textblock>
+    <textblock>qualified inverse floating rate) replacing the fixed rate must be</textblock>
+    <textblock>such that the fair market value of the variable rate debt</textblock>
+    <textblock>instrument as of the issue date would be approximately the same</textblock>
+    <textblock>as the fair market value of an otherwise identical debt</textblock>
+    <textblock>instrument that provides for the qualified floating rate (or</textblock>
+    <textblock>qualified inverse floating rate) rather than the fixed rate.</textblock>
+  </text>
+</doc>

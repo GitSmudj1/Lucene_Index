@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940114-0-00028</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940114-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>PART 2676_[AMENDED]</textblock>
+    <textblock>3. The authority citation for part 2676 continues to read as follows:</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>29 U.S.C. 1302(b)(3), 1399(c)(1)(D), 1441 (b)(1).</textblock>
+    <textblock>4. In appendix B, Rate Set 4 is added to Table I, and a new entry is added to Table II, as set forth below. The introductory text of both tables is republished for the convenience of the reader and remains unchanged.</textblock>
+    <textblock>Appendix B to Part 2676_Interest Rates Used to Value Lump Sums and Annuities</textblock>
+    <textblock>Lump Sum Valuations</textblock>
+    <textblock>In determining the value of interest factors of the form</textblock>
+    <textblock>v</textblock>
+    <textblock>0:n</textblock>
+    <textblock>(as defined in §2676.13(b)(1)) for purposes of applying the formulas set forth in §2676.13 (b) through (i) and in determining the value of any interest factor used in valuing benefits under this subpart to be paid as lump sums, the PBGC shall use the values of</textblock>
+    <textblock>i</textblock>
+    <textblock>, prescribed in Table I hereof. The interest rates set forth in Table I shall be used by the PBGC to calculate benefits payable as lump sum benefits as follows:</textblock>
+  </text>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>II</textblock>
+    <textblock>[Annuity Valuations]</textblock>
+    <textblock>1For valuation dates occurring in the month_</textblock>
+    <textblock>1The values of</textblock>
+    <textblock>i,</textblock>
+    <textblock>are:</textblock>
+    <textblock>2</textblock>
+    <textblock>i,</textblock>
+    <textblock>2for</textblock>
+    <textblock>t</textblock>
+    <textblock>=</textblock>
+    <textblock>2</textblock>
+    <textblock>i,</textblock>
+    <textblock>2for</textblock>
+    <textblock>t</textblock>
+    <textblock>=</textblock>
+    <textblock>2</textblock>
+    <textblock>i,</textblock>
+    <textblock>2for</textblock>
+    <textblock>t</textblock>
+    <textblock>=</textblock>
+    <textblock>␣</textblock>
+    <textblock>*␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *</textblock>
+    <textblock>February 1994</textblock>
+    <textblock>.0590</textblock>
+    <textblock>1-25</textblock>
+    <textblock>.0525</textblock>
+    <textblock>&gt;25</textblock>
+    <textblock>N/A</textblock>
+    <textblock>N/A</textblock>
+  </table>
+</doc>

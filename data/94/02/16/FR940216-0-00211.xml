@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00211</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(2) The composition and properties of the extension fuels shall be as described in paragraphs (b)(2) (i) and (ii) of this section.</textblock>
+    <textblock>(i) The extension fuels shall have the following</textblock>
+    <textblock>levels of the parameter being extended:</textblock>
+    <textblock>(ii) The levels of parameters other than the one being extended shall be given by the following table for all three extension fuels:</textblock>
+    <textblock>(3) If the Complex Model for any pollutant includes one or more interactive terms involving the parameter being extended, then two additional extension fuels shall be required to be tested for each such interactive term. These additional extension fuels shall have the following properties:</textblock>
+    <textblock>(i) The parameter being tested shall be present at its extension level.</textblock>
+    <textblock>(ii) The interacting parameter shall be present at the levels specified in paragraph (b)(2)(i) of this section for extension Fuels 2 and 3.</textblock>
+    <textblock>(iii) All other parameters shall be present at the levels specified in paragraphs (b)(2)(ii) and (b)(3) of this section.</textblock>
+    <textblock>(4) All extension fuels shall contain detergent control additives in accordance with Section 211(l) of the Clean Air Act Amendments of 1990 and the associated EPA requirements for such additives.</textblock>
+    <textblock>(c) The addition fuels defined in paragraph (a) of this section and the extension fuels defined in paragraph (b) of this section shall meet the following requirements for blending and measurement precision:</textblock>
+    <textblock>(1) The properties of the test and extension fuels shall be within the blending tolerances defined in this paragraph (c) relative to the values specified in paragraphs (a) and (b) of this section. Fuels that do not meet the following tolerances shall require the approval of the Administrator to be used in vehicle testing to augment the complex emission model:</textblock>
+    <textblock>(2) The extension and addition fuels shall be specified with at least the same level of detail and precision as defined in paragraph (c)(2)(ii) of this section, and this information must be included in the petition submitted to the Administrator requesting augmentation of the complex emission model.</textblock>
+    <textblock>(i) The composition and properties of the addition and extension fuels shall be determined by averaging a series of independent tests of the properties and compositional factors defined in paragraph (c)(2)(ii) of this section as well as any additional properties or compositional factors for which emission benefits are claimed.</textblock>
+  </text>
+  <table>
+    <textblock>Level of Existing Complex Model Parameters Being Extended</textblock>
+    <textblock>1Fuel property being extended</textblock>
+    <textblock>1Extension fuel No. 1</textblock>
+    <textblock>1Extension fuel No. 2</textblock>
+    <textblock>1Extension fuel No. 3</textblock>
+    <textblock>Sulfur, ppm</textblock>
+    <textblock>Extension level</textblock>
+    <textblock>80</textblock>
+    <textblock>450</textblock>
+    <textblock>Benzene, vol %</textblock>
+    <textblock>Extension level</textblock>
+    <textblock>0.5</textblock>
+    <textblock>1.5</textblock>
+    <textblock>RVP, psi</textblock>
+    <textblock>Extension level</textblock>
+    <textblock>6.7</textblock>
+    <textblock>8.0</textblock>
+    <textblock>E200, %</textblock>
+    <textblock>Extension level</textblock>
+    <textblock>38</textblock>
+    <textblock>61</textblock>
+    <textblock>E300, %</textblock>
+    <textblock>Extension level</textblock>
+    <textblock>78</textblock>
+    <textblock>92</textblock>
+    <textblock>Aromatics, vol %</textblock>
+    <textblock>Extension level</textblock>
+    <textblock>20</textblock>
+    <textblock>45</textblock>
+    <textblock>Olefins, vol %</textblock>
+    <textblock>Extension level</textblock>
+    <textblock>3.0</textblock>
+    <textblock>18</textblock>
+    <textblock>Oxygen, wt %</textblock>
+    <textblock>Extension level</textblock>
+    <textblock>1.7</textblock>
+    <textblock>2.7</textblock>
+    <textblock>Octane, R+M/2</textblock>
+    <textblock>87</textblock>
+    <textblock>87</textblock>
+    <textblock>87</textblock>
+  </table>
+  <table>
+    <textblock>Levels for Fuel Parameters Other Than Those Being Extended</textblock>
+    <textblock>1Fuel property</textblock>
+    <textblock>1Extension fuel No. 1</textblock>
+    <textblock>1Extension fuel No. 2</textblock>
+    <textblock>1Extension fuel No. 3</textblock>
+    <textblock>Sulfur, ppm</textblock>
+    <textblock>150</textblock>
+    <textblock>150</textblock>
+    <textblock>150</textblock>
+    <textblock>Benzene, vol %</textblock>
+    <textblock>1.0</textblock>
+    <textblock>1.0</textblock>
+    <textblock>1.0</textblock>
+    <textblock>RVP, psi</textblock>
+    <textblock>7.5</textblock>
+    <textblock>7.5</textblock>
+    <textblock>7.5</textblock>
+    <textblock>E200, %</textblock>
+    <textblock>50</textblock>
+    <textblock>50</textblock>
+    <textblock>50</textblock>
+    <textblock>E300, %</textblock>
+    <textblock>85</textblock>
+    <textblock>85</textblock>
+    <textblock>85</textblock>
+    <textblock>Aromatics, vol %</textblock>
+    <textblock>25</textblock>
+    <textblock>25</textblock>
+    <textblock>25</textblock>
+    <textblock>Olefins, vol %</textblock>
+    <textblock>9.0</textblock>
+    <textblock>9.0</textblock>
+    <textblock>9.0</textblock>
+    <textblock>Oxygen, wt %</textblock>
+    <textblock>2.0</textblock>
+    <textblock>2.0</textblock>
+    <textblock>2.0</textblock>
+    <textblock>Octane, R+M/2</textblock>
+    <textblock>87</textblock>
+    <textblock>87</textblock>
+    <textblock>87</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Fuel parameter</textblock>
+    <textblock>1Blending tolerance</textblock>
+    <textblock>Sulfur content</textblock>
+    <textblock>#</textblock>
+    <textblock>25 ppm.</textblock>
+    <textblock>Benzene content</textblock>
+    <textblock>#</textblock>
+    <textblock>0.2 vol %.</textblock>
+    <textblock>RVP</textblock>
+    <textblock>#</textblock>
+    <textblock>0.2 psi.</textblock>
+    <textblock>E200 level</textblock>
+    <textblock>#</textblock>
+    <textblock>2 %.</textblock>
+    <textblock>E300 level</textblock>
+    <textblock>#</textblock>
+    <textblock>4 %.</textblock>
+    <textblock>Oxygenate content</textblock>
+    <textblock>#</textblock>
+    <textblock>1.5 vol %.</textblock>
+    <textblock>Aromatics content</textblock>
+    <textblock>#</textblock>
+    <textblock>2.7 vol %.</textblock>
+    <textblock>Olefins content</textblock>
+    <textblock>#</textblock>
+    <textblock>2.5 vol %.</textblock>
+    <textblock>Saturates content</textblock>
+    <textblock>#</textblock>
+    <textblock>2.0 vol %.</textblock>
+    <textblock>Octane</textblock>
+    <textblock>#</textblock>
+    <textblock>0.5.</textblock>
+    <textblock>Candidate parameter</textblock>
+    <textblock>To be determined as part of the augmentation process.</textblock>
+  </table>
+</doc>

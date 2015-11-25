@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00202</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(G) Cracker reactor temperature: sufficiently high enough temperature to ensure reduction of all hydrocarbons to the elemental states (i.e., C</textblock>
+    <textblock>x</textblock>
+    <textblock>H</textblock>
+    <textblock>2x</textblock>
+    <textblock>^&gt; C + H</textblock>
+    <textblock>2</textblock>
+    <textblock>, etc.);</textblock>
+    <textblock>(H) FID temperature: 400</textblock>
+    <textblock>○C; and</textblock>
+    <textblock>(I) Oven temperature program: 40</textblock>
+    <textblock>○C for 6 min, followed by a temperature increase of 5</textblock>
+    <textblock>○C/min to 50</textblock>
+    <textblock>○C, hold at 50</textblock>
+    <textblock>○C for 5 min, followed by a temperature increase of 25</textblock>
+    <textblock>○C/min to 175</textblock>
+    <textblock>○C, and hold at 175</textblock>
+    <textblock>○C for 2 min.</textblock>
+    <textblock>(ii) Prior to analysis of any samples, inject a sample of oxygenate-free gasoline into the GC to test for hydrocarbon breakthrough overloading the cracker reactor. If breakthrough occurs, the OFID is not operating effectively and must be corrected before samples can be analyzed.</textblock>
+    <textblock>(iii) Prepare gasoline test samples for analysis as follows:</textblock>
+    <textblock>(A) Tare a glass sample container and its PTFE faced rubber septum sealing cap. Transfer a quantity of the gasoline sample to the sample container and record the mass of the transferred sample to the nearest 0.1 mg.</textblock>
+    <textblock>(B) Inject a quantity of the same internal standard (such as 2-butanol) used in generating the standards and weigh the contents again. Record the difference in masses as the mass of internal standard to the nearest 0.1 mg. The mass of the internal standard shall amount to between 2 and 6 percent of the mass of the test sample (standard). The addition of an internal standard reduces errors caused by variations in injection volumes.</textblock>
+    <textblock>(C) Ensure that this test sample (gasoline plus internal standard) is thoroughly mixed and transfer approximately 2 mL of the solution to a vial compatible with the autosampler if such equipment is used.</textblock>
+    <textblock>(iv) After GC/OFID analysis, identify the oxygenates in the sample based on retention times, determine the peak area of each oxygenate and of the internal standard, and calculate the relative area response factor for each oxygenate.</textblock>
+    <textblock>(v) Monitor the peak area of the internal standard. A larger than expected peak area for the internal standard when analyzing a test sample may indicate that this oxygenate is present in the original sample. Prepare a new aliquot of the sample without addition of the oxygenate internal standard. If the presence of the oxygenate previously used as the internal standard can be detected, then either:</textblock>
+    <textblock>(A) The concentration of this oxygenate must be assessed by the method of standard additions; or</textblock>
+    <textblock>(B) An alternative internal standard, based on an oxygenate that is not present in the original sample, must be utilized with new calibration curves.</textblock>
+    <textblock>(vi) Calculate the relative mass response factor (R</textblock>
+    <textblock>mo</textblock>
+    <textblock>) for each oxygenate based on the relative area response factor (R</textblock>
+    <textblock>ao</textblock>
+    <textblock>) and the calibration equation in paragraph (g)(6)(viii) of this section.</textblock>
+    <textblock>(vii) Calculate the mass percent of the oxygenate in the test sample according to the following equation:</textblock>
+    <textblock>where:</textblock>
+    <textblock>M</textblock>
+    <textblock>o</textblock>
+    <textblock>% = mass percent of the oxygenate in the test sample</textblock>
+    <textblock>M</textblock>
+    <textblock>s</textblock>
+    <textblock>= mass of sample to which internal standard is added</textblock>
+    <textblock>(viii) If the mass percent exceeds the calibrated range, gravimetrically dilute a portion of the original sample to a concentration within the calibration range and analyze this sample starting with paragraph (g)(7)(iii) of this section.</textblock>
+    <textblock>(ix) Report the total weight percent oxygen as follows:</textblock>
+    <textblock>(A) Subtract the peak areas due to dissolved oxygen, water, and the internal standard from the total summed peak areas of the chromatogram.</textblock>
+    <textblock>(B) Assume the total summed peak area solely due to one of the oxygenates that the instrument is calibrated for and determine the total mass percent as that oxygenate based on paragraph (g)(7)(vii) of this section. For simplicity, chose an oxygenate having one oxygen atom per molecule.</textblock>
+    <textblock>(C) Multiply this concentration by the molar mass of oxygen and divide by the molar mass of the chosen oxygenate to determine the mass percent oxygen in the sample. For example, if the total peak area is based on MTBE, multiply by 16.00 (the molar mass of atomic oxygen) and divide by 88.15 (the molar mass of MTBE).</textblock>
+    <textblock>(x) Sufficient sample should be retained to permit reanalysis.</textblock>
+    <textblock>(8)</textblock>
+    <textblock>Quality control procedures and accuracy.</textblock>
+    <textblock>(i) The laboratory shall routinely monitor the repeatability (precision) of its analyses. The recommendations are:</textblock>
+    <textblock>(A) The preparation and analysis of laboratory duplicates at a rate of one per analysis batch or at least one per ten samples, whichever is more frequent.</textblock>
+    <textblock>(B) Laboratory duplicates shall be carried through all sample preparation steps independently.</textblock>
+  </text>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.002</textblock>
+  </import>
+</doc>

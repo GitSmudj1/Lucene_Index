@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940128-1-00056</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940128-1-00006</textblock>
+  </parent>
+  <text>
+    <textblock>A process authority could be a private individual, a member</textblock>
+    <textblock>of academia, or an agency of government. Processors can find</textblock>
+    <textblock>competent process authorities through their trade associations,</textblock>
+    <textblock>local Sea Grant extension offices, or State universities.</textblock>
+    <textblock>The procedures that are used in establishing a cooking or</textblock>
+    <textblock>pasteurization process should be generally recognized and</textblock>
+    <textblock>accepted. Such procedures may include thermal death time, heat</textblock>
+    <textblock>penetration, and inoculated pack studies, as necessary, to</textblock>
+    <textblock>establish the minimum process necessary to destroy pathogens. In</textblock>
+    <textblock>cases where the cooking process or pasteurization process is</textblock>
+    <textblock>standardized and not unique to a specific processor, articles in</textblock>
+    <textblock>journals; Federal, State, or local regulations and guidelines; or</textblock>
+    <textblock>other appropriate vehicles could provide process parameters (Ref.</textblock>
+    <textblock>52). Whatever the source, processors must retain the</textblock>
+    <textblock>documentation from the process authority that the process will be</textblock>
+    <textblock>effective as part of their HACCP records, in accordance with</textblock>
+    <textblock>proposed §123.8(c).</textblock>
+    <textblock>The process established by a process authority should</textblock>
+    <textblock>include values for those aspects of the process that can affect</textblock>
+    <textblock>the destruction of pathogens. The most notable of these are</textblock>
+    <textblock>cooking times and temperatures. Others may include the initial</textblock>
+    <textblock>internal temperature of the cooking medium before the cooking,</textblock>
+    <textblock>the product size and species, and the viscosity of formulated</textblock>
+    <textblock>products such as soups.</textblock>
+    <textblock>FDA is already aware that the cooking processes necessary to</textblock>
+    <textblock>create a marketable product for several types of cooked, ready-</textblock>
+    <textblock>to-eat products are many times more lethal than necessary to</textblock>
+    <textblock>inactivate pathogens (Ref. 114). The products are the several</textblock>
+    <textblock>types of crabs listed in the guidelines at proposed Appendix A,</textblock>
+    <textblock>section 4.a.4. FDA has tentatively concluded that, for these</textblock>
+    <textblock>products, the adequacy of both the cooking process and cooking</textblock>
+    <textblock>equipment can be assumed.</textblock>
+    <textblock>It is likely that other products could be added to this</textblock>
+    <textblock>list. The agency invites comments on this point. Comments should</textblock>
+    <textblock>be accompanied by data that will enable the agency to determine</textblock>
+    <textblock>that the minimum cooking process necessary to achieve a</textblock>
+    <textblock>marketable product, e.g., heat penetration data and data on the</textblock>
+    <textblock>range of cooking processes (times and temperatures) applied to</textblock>
+    <textblock>that product, will produce a safe product.</textblock>
+    <textblock>The same general principles also apply to the design of the</textblock>
+    <textblock>cooking and pasteurization equipment. It is necessary that this</textblock>
+    <textblock>equipment be designed and operated so that every unit of product</textblock>
+    <textblock>receives the established minimum cooking or pasteurization</textblock>
+    <textblock>process proposed (Appendix A, section 4. a.2. and b.2.) (Ref. 85).</textblock>
+    <textblock>FDA recommends that the equipment be evaluated for design and</textblock>
+    <textblock>operation by a process authority who is familiar with the</textblock>
+    <textblock>dynamics of temperature distribution in processing equipment. In</textblock>
+    <textblock>some instances, temperature distribution studies may be necessary</textblock>
+    <textblock>to establish the adequacy of the equipment. In other instances,</textblock>
+    <textblock>existing literature should be sufficient. Processors must obtain</textblock>
+    <textblock>and retain documentation that the equipment will provide the</textblock>
+    <textblock>minimum process as part of their HACCP records in accordance with</textblock>
+    <textblock>§123.8.</textblock>
+    <textblock>2. Container Integrity</textblock>
+    <textblock>The proposed guidelines advise in Appendix A, section 3. c.</textblock>
+    <textblock>and d. that HACCP plans prepared in accordance with part 123,</textblock>
+    <textblock>subpart A will normally identify finished product container</textblock>
+    <textblock>sealing for pasteurized products and postpasteurizing cooling as</textblock>
+    <textblock>critical control points. Contamination with</textblock>
+    <textblock>C. botulinum</textblock>
+    <textblock>type E</textblock>
+    <textblock>during the postpasteurization cooling step is a special food</textblock>
+    <textblock>safety hazard that must be controlled for pasteurized products.</textblock>
+    <textblock>Two potential causes of recontamination are poor container seams</textblock>
+    <textblock>and contaminated cooling water. Consequently, the guidelines, at</textblock>
+    <textblock>Appendix A, section 5, recommend controls that processors can</textblock>
+    <textblock>utilize that are likely to meet the requirements of subpart A.</textblock>
+    <textblock>Appendix A, section 5.a. advises processors how to inspect</textblock>
+    <textblock>finished product containers of pasteurized products for container</textblock>
+    <textblock>integrity to ensure a consistently reliable hermetic seal. At</textblock>
+    <textblock>proposed Appendix A, section 5.b., the guidelines advise about</textblock>
+    <textblock>testing for the presence of sanitizer in cooling water.</textblock>
+    <textblock>Seam inspections should determine whether the seams conform</textblock>
+    <textblock>to the manufacturer's guidelines. Additionally, because of</textblock>
+    <textblock>variations from seaming head to seaming head, from closing</textblock>
+    <textblock>machine to closing machine, and over time for any one machine or</textblock>
+    <textblock>head, FDA recommends that processors conduct inspections for each</textblock>
+    <textblock>machine and head at least every 4 hours. Visual seam inspections</textblock>
+    <textblock>are not adequate to fully assess the integrity of the seam.</textblock>
+    <textblock>Physical testing and, in the case of double seams, seam teardown</textblock>
+    <textblock>and measurement, are necessary parts of the inspection, as</textblock>
+    <textblock>presently required for low acid canned foods in part 113.</textblock>
+    <textblock>The presence of sanitizer in cooling water provides a</textblock>
+    <textblock>control for the risk of microbiologically contaminated water</textblock>
+    <textblock>being drawn into the can. A vacuum created by a collapse in the</textblock>
+    <textblock>cooling vat of the steam head in the container, generated during</textblock>
+    <textblock>the heating step, can draw in a minute amount of cooling water</textblock>
+    <textblock>and any pathogens contained in that cooling water. Seams are in</textblock>
+    <textblock>a particularly stressed condition at that time. Sanitizer</textblock>
+    <textblock>strength levels should be checked periodically because there is a</textblock>
+    <textblock>tendency for variation in strength to occur, particularly in</textblock>
+    <textblock>batch-type systems.</textblock>
+  </text>
+</doc>

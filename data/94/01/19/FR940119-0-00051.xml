@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940119-0-00051</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940119-0-00014</textblock>
+  </parent>
+  <text>
+    <textblock>650.5␣Operator permits.</textblock>
+    <textblock>650.6␣Dealer permits.</textblock>
+    <textblock>650.7␣Recordkeeping and reporting.</textblock>
+    <textblock>650.8␣Vessel identification.</textblock>
+    <textblock>650.9␣Prohibitions.</textblock>
+    <textblock>650.10␣Facilitation of enforcement.</textblock>
+    <textblock>650.11␣Penalties.</textblock>
+    <textblock>Subpart B_Management Measures</textblock>
+    <textblock>650.20␣Shell-height standard.</textblock>
+    <textblock>650.21␣Gear and crew restrictions.</textblock>
+    <textblock>650.22␣Possession restrictions.</textblock>
+    <textblock>650.23␣Transfer-at-sea.</textblock>
+    <textblock>650.24␣Days-at-sea (DAS) allocations.</textblock>
+    <textblock>650.25␣Monitoring requirements.</textblock>
+    <textblock>650.26␣DAS notification program.</textblock>
+    <textblock>650.27␣DAS exemption program.</textblock>
+    <textblock>650.28␣At-sea observer coverage.</textblock>
+    <textblock>650.29␣Experimental fishing exemption.</textblock>
+    <textblock>Subpart C_Framework Adjustments to Management Measures</textblock>
+    <textblock>650.40␣Framework specifications.</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>16 U.S.C. 1801</textblock>
+    <textblock>et seq.</textblock>
+    <textblock>Subpart A_General Provisions</textblock>
+    <textblock>§650.1</textblock>
+    <textblock>Purpose and scope.</textblock>
+    <textblock>The purpose of this part is to implement the Fishery Management Plan for the Atlantic Sea Scallop Fishery (FMP), which was prepared and adopted by the New England Fishery Management Council in consultation with the Mid-Atlantic and South Atlantic Fishery Management Councils, and approved by the Assistant Administrator for Fisheries, NOAA.</textblock>
+    <textblock>§650.2</textblock>
+    <textblock>Definitions.</textblock>
+    <textblock>In addition to the definitions in the Magnuson Act and in §620.2 of this chapter, the terms used in this part have the following meanings:</textblock>
+    <textblock>Atlantic sea scallop</textblock>
+    <textblock>or</textblock>
+    <textblock>scallop</textblock>
+    <textblock>means the species</textblock>
+    <textblock>Placopecten magellanicus</textblock>
+    <textblock>throughout its range.</textblock>
+    <textblock>Chafing gear or cookies</textblock>
+    <textblock>mean steel, rubberized or other types of donut rings, disks, washers, twine, or other material attached to or between the steel rings of a sea scallop dredge.</textblock>
+    <textblock>COLREGS Demarcation Lines</textblock>
+    <textblock>mean the lines of demarcation delineating those waters upon which mariners must comply with the International Regulations for Preventing Collisions at Sea, 1972 (33 CFR part 80), and those waters upon which mariners must comply with the Inland Navigation Rules.</textblock>
+    <textblock>Council</textblock>
+    <textblock>means the New England Fishery Management Council.</textblock>
+    <textblock>Day(s)-at-sea (DAS)</textblock>
+    <textblock>means each 24-hour period of time during which a fishing vessel is absent from port for purposes of scallop fishing.</textblock>
+    <textblock>Dealer</textblock>
+    <textblock>means any person who receives scallops for a commercial purpose from the owner or operator of a vessel, other than exclusively for transport on land.</textblock>
+    <textblock>Dredge</textblock>
+    <textblock>or</textblock>
+    <textblock>dredge gear</textblock>
+    <textblock>means gear consisting of a mouth frame attached to a holding bag constructed of metal rings, or any other modification to this design, that can be or is used in the harvest of Atlantic sea scallops.</textblock>
+    <textblock>Dredge top</textblock>
+    <textblock>means the mesh panel in the top of a dredge and immediately adjacent rings and links found between the bail of the dredge, the club stick and the two side panels. The bail of the dredge is the rigid structure of the forward portion of the dredge that connects to the warp and holds the dredge open. The club stick is the rigid bar at the tail of the dredge bag that is attached to the rings.</textblock>
+    <textblock>Dredge vessel</textblock>
+    <textblock>means any fishing vessel that is equipped for fishing using dredge gear and that is capable of catching Atlantic sea scallops.</textblock>
+    <textblock>Fishery Management Plan (FMP)</textblock>
+    <textblock>means the Fishery Management Plan for Atlantic Sea Scallops, as amended.</textblock>
+    <textblock>Gross registered tonnage</textblock>
+    <textblock>means the gross registered tonnage specified on the U.S. Coast Guard documentation for a vessel.</textblock>
+    <textblock>Land</textblock>
+    <textblock>means to enter port with fish on board, to begin offloading fish, or to offload fish.</textblock>
+    <textblock>Net tonnage</textblock>
+    <textblock>means the net tonnage specified on the U.S. Coast Guard documentation for a vessel.</textblock>
+    <textblock>Offload</textblock>
+    <textblock>means to begin to remove, to remove, to pass over the rail, or otherwise take away fish from any vessel.</textblock>
+    <textblock>Operator</textblock>
+    <textblock>means the master or captain of the vessel, or other individual on board the vessel, who is in charge of that vessel's operations.</textblock>
+    <textblock>Postmark</textblock>
+    <textblock>means independently verifiable evidence of date of mailing, such as U.S. Postal Service postmark, United Parcel Service (U.P.S.) or other private carrier postmark, certified mail receipt, overnight mail receipt, or receipt received upon hand delivery to an authorized representative of NMFS.</textblock>
+    <textblock>Regional Director</textblock>
+    <textblock>means the Director, Northeast Region, NMFS, 1 Blackburn Drive, Gloucester, MA 01930-2298, or a designee.</textblock>
+    <textblock>Reporting month</textblock>
+    <textblock>means a period of time beginning at 0001 hours local time on the first day of each calendar month and ending at 2400 hours local time on the last day of each calendar month.</textblock>
+    <textblock>Reporting week</textblock>
+    <textblock>means a period of time beginning at 0001 hours local time on Sunday; and ending at 2400 hours local time the following Saturday.</textblock>
+    <textblock>Re-rig or re-rigged</textblock>
+    <textblock>means physical alteration of the vessel or its gear in order to transform the vessel into one capable of fishing commercially for sea scallops.</textblock>
+    <textblock>Sea Scallop Plan Development Team</textblock>
+    <textblock>(PDT) means a team of technical experts appointed by the Council.</textblock>
+    <textblock>Shell height</textblock>
+    <textblock>is a straight line measurement from the hinge to the outermost part of the shell, that is, the edge furthest away from the hinge.</textblock>
+    <textblock>Shucking</textblock>
+    <textblock>or</textblock>
+    <textblock>to shuck</textblock>
+    <textblock>means opening or to open a scallop and removing the meat or the adductor muscle from the shell.</textblock>
+    <textblock>Shucking machine</textblock>
+    <textblock>means any mechanical device that automatically removes the meat or the adductor muscle from a scallop shell.</textblock>
+    <textblock>Sorting machine</textblock>
+    <textblock>means any mechanical device that automatically sorts whole scallops by shell height, size, or other physical characteristics.</textblock>
+    <textblock>Transfer</textblock>
+    <textblock>means to begin to remove, to remove, to pass over the rail, or otherwise take away fish from any vessel and move them to another vessel.</textblock>
+    <textblock>Trawl</textblock>
+    <textblock>means gear consisting of a net that is towed and is capable of catching sea scallops, including Danish and Scottish seine gear.</textblock>
+    <textblock>Trawl sweep</textblock>
+    <textblock>means the total length of the footrope on a trawl net that is directly attached to the webbing of a net.</textblock>
+    <textblock>Trip</textblock>
+    <textblock>is the period of time during which a fishing vessel is absent from port, beginning when the vessel leaves port and ending when the vessel returns to port.</textblock>
+    <textblock>Under agreement for construction</textblock>
+    <textblock>means that the keel has been laid and that there is a written agreement to construct a fishing vessel.</textblock>
+    <textblock>Vessel registered length</textblock>
+    <textblock>means the registered length specified on the U.S. Coast Guard documentation for a vessel or on the state registration for a vessel not required to be documented under Title 46 U.S.C., if the state-registered length is verified by an authorized officer.</textblock>
+  </text>
+</doc>

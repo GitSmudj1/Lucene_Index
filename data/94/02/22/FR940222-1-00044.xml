@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940222-1-00044</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940222-1-00008</textblock>
+  </parent>
+  <text>
+    <textblock>Using a set percentage of beneficiaries, for example, 1 percent as we are proposing here, instead of a set dollar figure eliminates the need to determine an inflation factor. The amount of the outlier threshold would increase by the change in the annual per capita amount that we project to account for the 1 percent of Medicare beneficiaries with the highest annual per capita outlays.</textblock>
+    <textblock>VII. Other Proposed Changes</textblock>
+    <textblock>A. Full Reporting</textblock>
+    <textblock>1. Background</textblock>
+    <textblock>Most HMOs and CMPs paid on a cost basis have elected under section 1876(h)(2) of the Act (as implemented by §417.532(c) of the regulations) to allow HCFA to process all bills for hospital and skilled nursing facility services furnished to their Medicare enrollees. Under this election, HCFA simply performs a service (bill processing and payment) for the HMO or CMP. The HMO or CMP authorizes the services and retains responsibility for coordination of those services with other services it furnishes to its Medicare enrollees.</textblock>
+    <textblock>Section 417.576(b)(2)(i) implements the requirement of section 1876(h)(4)(A) of the Act that the HMO or CMP report its ``per capita incurred cost''. However, cost HMOs and CMPs have not been reporting the part A costs paid by the Medicare intermediaries. For those services, they currently report only the deductibles and coinsurance. When the regulations that would have imposed an absolute limit were developed, the cost report was revised to include the part A costs paid by Medicare intermediaries. However, because the absolute limit policy was never implemented, the revised cost report instructions were not implemented either.</textblock>
+    <textblock>We propose to amend §417.576 to make clear that the incurred per capita costs in the cost report must include the costs of hospital and skilled nursing facility services paid by Medicare intermediaries at the election of the HMO or CMP.</textblock>
+    <textblock>B. Technical Amendments</textblock>
+    <textblock>1. In §417.1, we would add a definition of ``furnished'', to make clear that in part 417, the term means made available by the HMO, CMP, or HCPP either directly or under arrangements it makes with other entities.</textblock>
+    <textblock>2. In §417.800, we would revise paragraph (c)(2)(ii) to conform to the statutory provision and long-standing practice, under which the following are deducted from the reasonable cost incurred by the HCPP:</textblock>
+    <textblock>•An amount equal to 20 percent of that cost, representing the Medicare coinsurance.</textblock>
+    <textblock>•The actuarial equivalent of the Medicare part B deductible.</textblock>
+  </text>
+  <table>
+    <textblock>1989</textblock>
+    <textblock>Data</textblock>
+    <textblock>1Part A and Part B payments per person served</textblock>
+    <textblock>1Cumulative percent person served</textblock>
+    <textblock>1Cumulative percent program payments</textblock>
+    <textblock>$5,000</textblock>
+    <textblock>82.4</textblock>
+    <textblock>21.6</textblock>
+    <textblock>10,000</textblock>
+    <textblock>90.4</textblock>
+    <textblock>37.9</textblock>
+    <textblock>20,000</textblock>
+    <textblock>96.2</textblock>
+    <textblock>61.7</textblock>
+    <textblock>30,000</textblock>
+    <textblock>98.2</textblock>
+    <textblock>76.2</textblock>
+    <textblock>39,000</textblock>
+    <textblock>99.0</textblock>
+    <textblock>84.0</textblock>
+    <textblock>40,000</textblock>
+    <textblock>99.1</textblock>
+    <textblock>84.9</textblock>
+    <textblock>50,000</textblock>
+    <textblock>99.5</textblock>
+    <textblock>90.0</textblock>
+    <textblock>60,000</textblock>
+    <textblock>99.7</textblock>
+    <textblock>93.0</textblock>
+    <textblock>70,000</textblock>
+    <textblock>99.8</textblock>
+    <textblock>94.7</textblock>
+    <textblock>100,000</textblock>
+    <textblock>99.9</textblock>
+    <textblock>97.6</textblock>
+  </table>
+</doc>

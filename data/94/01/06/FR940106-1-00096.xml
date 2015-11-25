@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00096</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00011</textblock>
+  </parent>
+  <text>
+    <textblock>(1)</textblock>
+    <textblock>Suisun Bay Salinity Criteria.</textblock>
+    <textblock>(i)</textblock>
+    <textblock>General rule.</textblock>
+    <textblock>Salinity (measured 1 meter above bottom) shall not exceed 2 ppt (measured on a 14-day moving average) at the stations listed in Table 1 for at least the number of days listed in Table 1, during the months of February through June.</textblock>
+    <textblock>The Roe Island measurements shall be made at the salinity measuring station maintained by the U.S. Bureau of Reclamation at Port Chicago (km 64). The Chipps Island measurements shall be taken at the Mallard Slough Monitoring Site, Station D-10 (RKI RSAC-075) maintained by the California Department of Water Resources. The Confluence measurements shall be taken at the Collinsville Continuous Monitoring Station C-2 (RKI RSAC-081) maintained by the California Department of Water Resources. Water year types shall be determined by reference to the Sacramento Basin Water Year Type classifications, defined in paragraph (c)(1)(i) of this section.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Exception.</textblock>
+    <textblock>The 2 ppt salinity criteria need not be met at the Roe Island station unless and until the 2 ppt salinity isohaline occurs at the Roe Island station due to uncontrolled hydrologic conditions. After such occurrence, the 2 ppt salinity criteria (measured on a 14-day moving average) must be attained at the Roe Island station for the lesser of the number of days indicated in Table 1 or the number of days remaining in the period February 1 through June 30 after such occurrence.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Salmon Smolt Survival Criteria._</textblock>
+    <textblock>(i)</textblock>
+    <textblock>General rule.</textblock>
+    <textblock>Salmon smolt survival index values shall attain at least the values indicated in Table 2.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Computing salmon smolt survival index values for Sacramento River.</textblock>
+    <textblock>Index values on the Sacramento River shall be computed according to the following formula:</textblock>
+    <textblock>^</textblock>
+    <textblock>SRSI = 1 ^ (^2.45925+.0420748T)</textblock>
+    <textblock>+(^0.5916024+.017968T+.0000434E) (P</textblock>
+    <textblock>1</textblock>
+    <textblock>)</textblock>
+    <textblock>+(^1.613493+.0420748T) (P</textblock>
+    <textblock>2</textblock>
+    <textblock>)</textblock>
+    <textblock>^(^2.45925+.0420748T)*</textblock>
+    <textblock>(^.5916024+.017968T+.0000434E) * P</textblock>
+    <textblock>1</textblock>
+    <textblock>^(^2.45925+.0420748T) * (^1.613493+.0420748T) * P</textblock>
+    <textblock>2</textblock>
+    <textblock>where</textblock>
+    <textblock>SRSI = Sacramento River Salmon Index value</textblock>
+    <textblock>T = Average Water Temperature in Fahrenheit at Freeport</textblock>
+    <textblock>E = Average State Water Project plus Central Valley Project Exports in cubic feet/second (cfs) (from DAYFLOW)</textblock>
+    <textblock>P</textblock>
+    <textblock>1</textblock>
+    <textblock>= proportion water diverted into Delta Cross-Channel at Walnut Grove</textblock>
+    <textblock>P</textblock>
+    <textblock>2</textblock>
+    <textblock>= proportion water remaining in Sacramento River at Walnut Grove</textblock>
+  </text>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>1.</textblock>
+    <textblock>Two Parts Per Thousand</textblock>
+    <textblock>(2</textblock>
+    <textblock>ppt</textblock>
+    <textblock>)</textblock>
+    <textblock>Salinity Criteria</textblock>
+    <textblock>1Water year type</textblock>
+    <textblock>1Roe Island [km 64]</textblock>
+    <textblock>1Chipps Island [km 74]</textblock>
+    <textblock>1Confluence [km 81]</textblock>
+    <textblock>Wet</textblock>
+    <textblock>133 days</textblock>
+    <textblock>148 days</textblock>
+    <textblock>150 days.</textblock>
+    <textblock>Above normal</textblock>
+    <textblock>105 days</textblock>
+    <textblock>144 days</textblock>
+    <textblock>150 days.</textblock>
+    <textblock>Below normal</textblock>
+    <textblock>78 days</textblock>
+    <textblock>119 days</textblock>
+    <textblock>150 days.</textblock>
+    <textblock>Dry</textblock>
+    <textblock>33 days</textblock>
+    <textblock>116 days</textblock>
+    <textblock>150 days.</textblock>
+    <textblock>Critically dry</textblock>
+    <textblock>0 days</textblock>
+    <textblock>90 days</textblock>
+    <textblock>150 days.</textblock>
+  </table>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>2.</textblock>
+    <textblock>Salmon Smolt Survival Criteria</textblock>
+    <textblock>1Sacramento River</textblock>
+    <textblock>2Water year type</textblock>
+    <textblock>2Index value</textblock>
+    <textblock>1San Joaquin River</textblock>
+    <textblock>2Water year type</textblock>
+    <textblock>2Index value</textblock>
+    <textblock>Wet</textblock>
+    <textblock>.45</textblock>
+    <textblock>Wet</textblock>
+    <textblock>.46</textblock>
+    <textblock>Above normal</textblock>
+    <textblock>.38</textblock>
+    <textblock>Above normal</textblock>
+    <textblock>.30</textblock>
+    <textblock>Below normal</textblock>
+    <textblock>.36</textblock>
+    <textblock>Below normal</textblock>
+    <textblock>.26</textblock>
+    <textblock>Dry</textblock>
+    <textblock>.32</textblock>
+    <textblock>Dry</textblock>
+    <textblock>.23</textblock>
+    <textblock>Critical</textblock>
+    <textblock>.29</textblock>
+    <textblock>Critical</textblock>
+    <textblock>.20</textblock>
+  </table>
+</doc>

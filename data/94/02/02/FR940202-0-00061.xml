@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00061</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>(4)</textblock>
+    <textblock>Special rule for interest holidays, teaser rates, and</textblock>
+    <textblock>other interest shortfalls</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>In general.</textblock>
+    <textblock>This paragraph (d)(4)</textblock>
+    <textblock>provides a special rule to determine whether a debt instrument</textblock>
+    <textblock>with a teaser rate (or rates), an interest holiday, or any other</textblock>
+    <textblock>interest shortfall has de minimis OID. This rule applies if_</textblock>
+    <textblock>(A) The amount of OID on the debt instrument is more than</textblock>
+    <textblock>the de minimis amount as otherwise determined under paragraph (d)</textblock>
+    <textblock>of this section; and</textblock>
+    <textblock>(B) All stated interest provided for in the debt instrument</textblock>
+    <textblock>would be qualified stated interest under paragraph (c) of this</textblock>
+    <textblock>section except that for 1 or more accrual periods the interest</textblock>
+    <textblock>rate is below the rate applicable for the remainder of the</textblock>
+    <textblock>instrument's term (e.g., if as a result of an interest holiday,</textblock>
+    <textblock>none of the stated interest is qualified stated interest).</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Redetermination of OID for purposes of the de minimis</textblock>
+    <textblock>test.</textblock>
+    <textblock>For purposes of determining whether a debt instrument</textblock>
+    <textblock>described in paragraph (d)(4)(i) of this section has de minimis</textblock>
+    <textblock>OID, the instrument's stated redemption price at maturity is</textblock>
+    <textblock>treated as equal to the instrument's issue price plus the greater</textblock>
+    <textblock>of the amount of foregone interest or the excess (if any) of the</textblock>
+    <textblock>instrument's stated principal amount over its issue price. The</textblock>
+    <textblock>amount of foregone interest is the amount of additional stated</textblock>
+    <textblock>interest that would be required to be payable on the debt</textblock>
+    <textblock>instrument during the period of the teaser rate, holiday, or</textblock>
+    <textblock>shortfall so that all stated interest would be qualified stated</textblock>
+    <textblock>interest under paragraph (c) of this section. See</textblock>
+    <textblock>Example 5</textblock>
+    <textblock>and</textblock>
+    <textblock>Example 6</textblock>
+    <textblock>of paragraph (f) of this section. In addition, for</textblock>
+    <textblock>purposes of computing the de minimis amount of OID, the weighted</textblock>
+    <textblock>average maturity of the debt instrument is determined by treating</textblock>
+    <textblock>all stated interest payments as qualified stated interest</textblock>
+    <textblock>payments.</textblock>
+    <textblock>(5)</textblock>
+    <textblock>Treatment of de minimis OID by holders_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Allocation</textblock>
+    <textblock>of de minimis OID to principal payments.</textblock>
+    <textblock>The holder of a debt</textblock>
+    <textblock>instrument includes any de minimis OID (other than de minimis OID</textblock>
+    <textblock>treated as qualified stated interest under paragraph (d)(1) of</textblock>
+    <textblock>this section, such as de minimis OID attributable to a teaser</textblock>
+    <textblock>rate or interest holiday) in income as stated principal payments</textblock>
+    <textblock>are made. The amount includible in income with respect to each</textblock>
+    <textblock>principal payment equals the product of the total amount of de</textblock>
+    <textblock>minimis OID on the debt instrument and a fraction, the numerator</textblock>
+    <textblock>of which is the amount of the principal payment made and the</textblock>
+    <textblock>denominator of which is the stated principal amount of the</textblock>
+    <textblock>instrument.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Character of de minimis OID</textblock>
+    <textblock>_(A)</textblock>
+    <textblock>De minimis OID treated</textblock>
+    <textblock>as gain recognized on retirement.</textblock>
+    <textblock>Any amount of de minimis OID</textblock>
+    <textblock>includible in income under this paragraph (d)(5) is treated as</textblock>
+    <textblock>gain recognized on retirement of the debt instrument. See</textblock>
+    <textblock>section 1271 to determine whether a retirement is treated as an</textblock>
+    <textblock>exchange of the debt instrument.</textblock>
+    <textblock>(B)</textblock>
+    <textblock>Treatment of de minimis OID on sale or exchange.</textblock>
+    <textblock>Any</textblock>
+    <textblock>gain attributable to de minimis OID that is recognized on the</textblock>
+    <textblock>sale or exchange of a debt instrument is capital gain if the debt</textblock>
+    <textblock>instrument is a capital asset in the hands of the seller.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Treatment of subsequent holders.</textblock>
+    <textblock>If a subsequent</textblock>
+    <textblock>holder purchases a debt instrument issued with de minimis OID at</textblock>
+    <textblock>a premium (as defined in §1.1272-2(b)(2)), the subsequent holder</textblock>
+    <textblock>does not include the de minimis OID in income. Otherwise, a</textblock>
+    <textblock>subsequent holder includes any discount in income under the</textblock>
+    <textblock>market discount rules (sections 1276 through 1278) rather than</textblock>
+    <textblock>under the rules of this paragraph (d)(5).</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Cross-reference.</textblock>
+    <textblock>See §1.1272-3 for an election by a</textblock>
+    <textblock>holder to treat de minimis OID as OID.</textblock>
+    <textblock>(e)</textblock>
+    <textblock>Definitions</textblock>
+    <textblock>_(1)</textblock>
+    <textblock>Installment obligation.</textblock>
+    <textblock>An installment</textblock>
+    <textblock>obligation is a debt instrument that provides for the payment of</textblock>
+    <textblock>any amount other than qualified stated interest before maturity.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Self-amortizing installment obligation.</textblock>
+    <textblock>A self-amortizing installment obligation is an obligation that provides</textblock>
+    <textblock>for equal payments composed of principal and qualified stated</textblock>
+    <textblock>interest that are unconditionally payable at least annually</textblock>
+    <textblock>during the entire term of the debt instrument with no significant</textblock>
+    <textblock>additional payment required at maturity.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Weighted average maturity.</textblock>
+    <textblock>The weighted average</textblock>
+    <textblock>maturity of a debt instrument is the sum of the following amounts</textblock>
+    <textblock>determined for each payment under the instrument (other than a</textblock>
+    <textblock>payment of qualified stated interest)_</textblock>
+    <textblock>(i) The number of complete years from the issue date until the payment is made; multiplied by</textblock>
+    <textblock>(ii) A fraction, the numerator of which is the amount of the</textblock>
+    <textblock>payment and the denominator of which is the debt instrument's</textblock>
+    <textblock>stated redemption price at maturity.</textblock>
+  </text>
+</doc>

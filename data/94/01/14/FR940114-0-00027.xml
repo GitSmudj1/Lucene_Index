@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940114-0-00027</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940114-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>Because of the need to provide immediate guidance for the valuation of benefits in single-employer plans whose termination dates fall during February 1994, and in multiemployer plans that have undergone mass withdrawal and have valuation dates during February 1994, the PBGC finds that good cause exists for making the rates and factors set forth in this amendment effective less than 30 days after publication.</textblock>
+    <textblock>The PBGC has determined that this action is not a ``significant regulatory action'' under the criteria set forth in Executive Order 12866, because it will not have an annual effect on the economy of $100 million or more or adversely affect in a material way the economy, a sector of the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities; create a serious inconsistency or otherwise interfere with an action taken or planned agency; materially alter the budgetary impact of entitlements, grants, user fees, or loan programs or the rights and obligations of recipients thereof; or raise novel legal or policy issues arising out of legal mandates, the President's priorities, or the principles set forth in Executive Order 12866.</textblock>
+    <textblock>Because no general notice of proposed rulemaking is required for this amendment, the Regulatory Flexibility Act of 1980 does not apply. See 5 U.S.C. 601(2).</textblock>
+    <textblock>List of Subjects</textblock>
+    <textblock>29 CFR Part 2619</textblock>
+    <textblock>Employee benefit plans, Pension insurance, Pensions.</textblock>
+    <textblock>29 CFR Part 2676</textblock>
+    <textblock>Employee benefit plans, Pensions.</textblock>
+    <textblock>In consideration of the foregoing, parts 2619 and 2676 of chapter XXVI, title 29, Code of Federal Regulations, are hereby amended as follows:</textblock>
+    <textblock>PART 2619_[AMENDED]</textblock>
+    <textblock>1. The authority citation for part 2619 continues to read as follows:</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>29 U.S.C. 1301(a), 1302(b)(3), 1341, 1344, 1362.</textblock>
+    <textblock>2. In appendix B, Rate Set 4 is added to Table I, and a new entry is added to Table II, as set forth below. The introductory text of both tables is republished for the convenience of the reader and remains unchanged.</textblock>
+    <textblock>Appendix B to Part 2619_Interest Rates Used to Value Lump Sums and Annuities</textblock>
+    <textblock>Lump Sum Valuations</textblock>
+    <textblock>In determining the value of interest factors of the form</textblock>
+    <textblock>v</textblock>
+    <textblock>0:n</textblock>
+    <textblock>(as defined in §2619.43(b)(1)) for purposes of applying the formulas set forth in §2619.43 (b) through (i) and in determining the value of any interest factor used in valuing benefits under this subpart to be paid as lump sums (including the return of accumulated employee contributions upon death), the PBGC shall employ the values of</textblock>
+    <textblock>i</textblock>
+    <textblock>t</textblock>
+    <textblock>set out in Table I hereof as follows:</textblock>
+    <textblock>(1) For benefits for which the participant or beneficiary is entitled to be in pay status on the valuation date, the immediate annuity rate shall apply.</textblock>
+    <textblock>(2) For benefits for which the deferral period is</textblock>
+    <textblock>y</textblock>
+    <textblock>years (</textblock>
+    <textblock>y</textblock>
+    <textblock>is an integer and</textblock>
+    <textblock>0&lt;y&gt;n</textblock>
+    <textblock>1</textblock>
+    <textblock>), interest rate</textblock>
+    <textblock>i</textblock>
+    <textblock>i</textblock>
+    <textblock>shall apply from the valuation date for a period of</textblock>
+    <textblock>y</textblock>
+    <textblock>years; thereafter the immediate annuity rate shall apply.</textblock>
+    <textblock>(3) For benefits for which the deferral period is</textblock>
+    <textblock>y</textblock>
+    <textblock>years (</textblock>
+    <textblock>y</textblock>
+    <textblock>is an integer and</textblock>
+    <textblock>n</textblock>
+    <textblock>1</textblock>
+    <textblock>&lt;y&gt;n</textblock>
+    <textblock>1</textblock>
+    <textblock>), interest rate</textblock>
+    <textblock>i</textblock>
+    <textblock>2</textblock>
+    <textblock>shall apply from the valuation date for a period of</textblock>
+    <textblock>y^n</textblock>
+    <textblock>1</textblock>
+    <textblock>years, interest rate</textblock>
+    <textblock>i</textblock>
+    <textblock>1</textblock>
+    <textblock>shall apply for the following</textblock>
+    <textblock>n</textblock>
+    <textblock>1</textblock>
+    <textblock>years; thereafter the immediate annuity rate shall apply.</textblock>
+    <textblock>(4) For benefits for which the deferral period is</textblock>
+    <textblock>y</textblock>
+    <textblock>years (</textblock>
+    <textblock>y</textblock>
+    <textblock>is an integer and</textblock>
+    <textblock>y&gt;n</textblock>
+    <textblock>1</textblock>
+    <textblock>+n</textblock>
+    <textblock>2</textblock>
+    <textblock>), interest rate</textblock>
+    <textblock>i</textblock>
+    <textblock>3</textblock>
+    <textblock>shall apply from the valuation date for a period of</textblock>
+    <textblock>y^n</textblock>
+    <textblock>1</textblock>
+    <textblock>^n</textblock>
+    <textblock>2</textblock>
+    <textblock>years, interest rate</textblock>
+    <textblock>i</textblock>
+    <textblock>2</textblock>
+    <textblock>shall apply for the following</textblock>
+    <textblock>n</textblock>
+    <textblock>2</textblock>
+    <textblock>years, interest rate</textblock>
+    <textblock>i</textblock>
+    <textblock>1</textblock>
+    <textblock>shall apply for the following n</textblock>
+    <textblock>1</textblock>
+    <textblock>years; thereafter the immediate annuity rate shall apply.</textblock>
+    <textblock>Annuity Valuations</textblock>
+    <textblock>In determining the value of interest factors of the form</textblock>
+    <textblock>v</textblock>
+    <textblock>0:n</textblock>
+    <textblock>( as defined in §2619.49(b)(1)) for purposes of applying the formulas set forth in §2619.49 (b) through (i) and in determining the value of any interest factor used in valuing annuity benefits under this subpart, the plan administrator shall use the value of</textblock>
+    <textblock>i</textblock>
+    <textblock>t</textblock>
+    <textblock>prescribed in Table II hereof.</textblock>
+    <textblock>The following table tabulates, for each calendar month of valuation ending after the effective date of this part, the interest rates (denoted by</textblock>
+    <textblock>i</textblock>
+    <textblock>1</textblock>
+    <textblock>,</textblock>
+    <textblock>i</textblock>
+    <textblock>1</textblock>
+    <textblock>, *␣*␣*, and referred to generally as</textblock>
+    <textblock>i</textblock>
+    <textblock>t</textblock>
+    <textblock>) assumed to be in effect between specified anniversaries of a valuation date that occurs within that calendar month; those anniversaries are specified in the columns adjacent to the rats. The last listed rate is assumed to be in effect after the last listed anniversary date.</textblock>
+  </text>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>I</textblock>
+    <textblock>[Lump Sum Valuations]</textblock>
+    <textblock>1Rate set</textblock>
+    <textblock>1For plans with a valuation date</textblock>
+    <textblock>2On or after</textblock>
+    <textblock>2Before</textblock>
+    <textblock>1Immediate annuity rate (percent)</textblock>
+    <textblock>1Deferred annuities (percent)</textblock>
+    <textblock>2</textblock>
+    <textblock>i</textblock>
+    <textblock>1</textblock>
+    <textblock>2</textblock>
+    <textblock>i</textblock>
+    <textblock>2</textblock>
+    <textblock>2</textblock>
+    <textblock>i</textblock>
+    <textblock>3</textblock>
+    <textblock>2</textblock>
+    <textblock>n</textblock>
+    <textblock>1</textblock>
+    <textblock>2</textblock>
+    <textblock>n</textblock>
+    <textblock>2</textblock>
+    <textblock>␣</textblock>
+    <textblock>*␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *</textblock>
+    <textblock>4</textblock>
+    <textblock>2-1-94</textblock>
+    <textblock>3-1-94</textblock>
+    <textblock>4.50</textblock>
+    <textblock>4.00</textblock>
+    <textblock>4.00</textblock>
+    <textblock>4.00</textblock>
+    <textblock>7</textblock>
+    <textblock>8</textblock>
+  </table>
+</doc>

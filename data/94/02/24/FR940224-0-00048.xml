@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940224-0-00048</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940224-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>The following table shows the method of calculating the Effective Calculating Rate (R) for each ``Computing Element'' (``CE''):</textblock>
+    <textblock>Step 1: The effective calculating rate R.</textblock>
+    <textblock>Note W:</textblock>
+    <textblock>For a pipelined ``CE'' capable of executing up to one arithmetic or logic operation every clock cycle after the pipeline is full, a pipelined rate can be established. The effective calculating rate (R) for such a ``CE'' is the faster of the pipelined rate or non-pipelined execution rate.</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1For computing elements (CEs) Implementing: Note: Every ``CE'' must be evaluated independently</textblock>
+    <textblock>1Effective calculating rate, R</textblock>
+    <textblock>XP only (R</textblock>
+    <textblock>xp</textblock>
+    <textblock>)</textblock>
+    <textblock>1</textblock>
+    <textblock>3 * (t</textblock>
+    <textblock>xp add</textblock>
+    <textblock>).</textblock>
+    <textblock>␣</textblock>
+    <textblock>If no add is implemented use: 1</textblock>
+    <textblock>(t</textblock>
+    <textblock>xp mult</textblock>
+    <textblock>).</textblock>
+    <textblock>␣</textblock>
+    <textblock>If neither add nor multiply is implemented use the fastest available arithmetic operation as follows:</textblock>
+    <textblock>␣</textblock>
+    <textblock>1</textblock>
+    <textblock>3 * (t</textblock>
+    <textblock>xp</textblock>
+    <textblock>).</textblock>
+    <textblock>␣</textblock>
+    <textblock>See Notes X and Y.</textblock>
+    <textblock>FP only (R</textblock>
+    <textblock>fp</textblock>
+    <textblock>)</textblock>
+    <textblock>Max 1</textblock>
+    <textblock>t</textblock>
+    <textblock>fp add</textblock>
+    <textblock>,</textblock>
+    <textblock>␣</textblock>
+    <textblock>1</textblock>
+    <textblock>t</textblock>
+    <textblock>fp mult</textblock>
+    <textblock>.</textblock>
+    <textblock>␣</textblock>
+    <textblock>See Notes X and Y.</textblock>
+    <textblock>Both FP and XP (R)</textblock>
+    <textblock>Calculate both R</textblock>
+    <textblock>xp</textblock>
+    <textblock>, R</textblock>
+    <textblock>fp</textblock>
+    <textblock>.</textblock>
+    <textblock>For simple logic processors not implementing any of the specified arithmetic operations</textblock>
+    <textblock>1</textblock>
+    <textblock>3 * t</textblock>
+    <textblock>log</textblock>
+    <textblock>.</textblock>
+    <textblock>␣</textblock>
+    <textblock>Where t</textblock>
+    <textblock>log</textblock>
+    <textblock>is the execute time of the XOR, or for logic hardware not implementing the XOR, the fastest simple logic operation.</textblock>
+    <textblock>␣</textblock>
+    <textblock>See Notes X and Z.</textblock>
+    <textblock>For special logic processors not using any of the specified arithmetic or logic operations</textblock>
+    <textblock>R = R</textblock>
+    <textblock>t * WL/64,</textblock>
+    <textblock>Where R is the number of results per second, WL is the number of</textblock>
+    <textblock>bits</textblock>
+    <textblock>upon which the logic operation occurs, and 64 is a factor to normalize to a 64 bit operation.</textblock>
+  </table>
+</doc>

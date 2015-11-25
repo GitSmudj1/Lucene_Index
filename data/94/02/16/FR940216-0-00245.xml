@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00245</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(b)</textblock>
+    <textblock>Baseline exhaust benzene emissions_simple</textblock>
+    <textblock>model.</textblock>
+    <textblock>(1) Simple model exhaust benzene emissions of</textblock>
+    <textblock>conventional gasoline shall be determined using the</textblock>
+    <textblock>following equation:</textblock>
+    <textblock>EXHBEN=(1.884+0.949×</textblock>
+    <textblock>BX</textblock>
+    <textblock>+0.113×(</textblock>
+    <textblock>AR^BZ</textblock>
+    <textblock>))</textblock>
+    <textblock>where</textblock>
+    <textblock>EXHBEN=exhaust benzene emissions,</textblock>
+    <textblock>BZ=fuel benzene value in terms of volume percent (per §80.91), and</textblock>
+    <textblock>AR=fuel aromatics value in terms of volume percent (per §80.91).</textblock>
+    <textblock>(2) The simple model annual average baseline exhaust</textblock>
+    <textblock>benzene emissions for any facility of a refiner or importer</textblock>
+    <textblock>of conventional gasoline shall be determined as follows:</textblock>
+    <textblock>(i) The simple model baseline exhaust benzene</textblock>
+    <textblock>emissions shall be determined separately for summer and</textblock>
+    <textblock>winter using the facility's oxygenated individual baseline</textblock>
+    <textblock>fuel parameter values for summer and winter (per §80.91),</textblock>
+    <textblock>respectively, in the equation specified in paragraph (b)(1)</textblock>
+    <textblock>of this section.</textblock>
+    <textblock>(ii) The simple model annual average baseline exhaust</textblock>
+    <textblock>benzene emissions of the facility shall be determined using</textblock>
+    <textblock>the emissions values determined in paragraph (b)(2)(i) of</textblock>
+    <textblock>this section in the equation specified in paragraph (a) of</textblock>
+    <textblock>this section.</textblock>
+    <textblock>(c)</textblock>
+    <textblock>Baseline exhaust benzene emissions_complex</textblock>
+    <textblock>model.</textblock>
+    <textblock>The complex model annual average baseline exhaust</textblock>
+    <textblock>benzene emissions for any facility of a refiner or importer</textblock>
+    <textblock>of conventional gasoline shall be determined as follows:</textblock>
+    <textblock>(1) The summer and winter complex model baseline</textblock>
+    <textblock>exhaust benzene emissions shall be determined separately</textblock>
+    <textblock>using the facility's oxygenated individual baseline fuel</textblock>
+    <textblock>parameter values for summer and winter (per §80.91),</textblock>
+    <textblock>respectively, in the appropriate complex model for exhaust</textblock>
+    <textblock>benzene emissions described in §80.45.</textblock>
+    <textblock>(2) The complex model annual average baseline exhaust</textblock>
+    <textblock>benzene emissions of the facility shall be determined using</textblock>
+    <textblock>the emissions values determined in paragraph (c)(1) of this</textblock>
+    <textblock>section in the equation specified in paragraph (a) of this</textblock>
+    <textblock>section.</textblock>
+    <textblock>(d)</textblock>
+    <textblock>Baseline exhaust toxics emissions.</textblock>
+    <textblock>The annual</textblock>
+    <textblock>average baseline exhaust toxics emissions for any facility</textblock>
+    <textblock>of a refiner or importer of conventional gasoline shall be</textblock>
+    <textblock>determined as follows:</textblock>
+    <textblock>(1) The summer and winter baseline exhaust emissions</textblock>
+    <textblock>of benzene, formaldehyde, acetaldehyde, 1,3-butadiene, and</textblock>
+    <textblock>polycyclic organic matter shall be determined using the</textblock>
+    <textblock>oxygenated individual baseline fuel parameter values for</textblock>
+    <textblock>summer and winter (per §80.91), respectively, in the</textblock>
+    <textblock>appropriate complex model for each exhaust toxic (per</textblock>
+    <textblock>§80.45).</textblock>
+    <textblock>(2) The summer and winter baseline total exhaust</textblock>
+    <textblock>toxics emissions shall be determined separately by summing</textblock>
+    <textblock>the summer and winter baseline exhaust emissions of each</textblock>
+    <textblock>toxic (per paragraph (d)(1) of this section), respectively.</textblock>
+    <textblock>(3) The annual average baseline exhaust toxics</textblock>
+    <textblock>emissions of the facility shall be determined using the</textblock>
+    <textblock>emissions values determined in paragraph (d)(2) of this</textblock>
+    <textblock>section in the equation specified in paragraph (a) of this</textblock>
+    <textblock>section.</textblock>
+    <textblock>(e)</textblock>
+    <textblock>Baseline NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions.</textblock>
+    <textblock>The annual average</textblock>
+    <textblock>baseline NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions for any facility of a refiner or</textblock>
+    <textblock>importer of conventional gasoline shall be determined as</textblock>
+    <textblock>follows:</textblock>
+    <textblock>(1) The summer and winter baseline NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions shall</textblock>
+    <textblock>be determined using the baseline individual baseline fuel</textblock>
+    <textblock>parameter values for summer and winter (per §80.91),</textblock>
+    <textblock>respectively, in the appropriate complex model for NO</textblock>
+    <textblock>X</textblock>
+    <textblock>(per</textblock>
+    <textblock>§80.45).</textblock>
+    <textblock>(2) The annual average baseline NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions of the</textblock>
+    <textblock>facility shall be determined using the emissions values</textblock>
+    <textblock>determined in paragraph (e)(2) of this section in the</textblock>
+    <textblock>equation specified in paragraph (a) of this section.</textblock>
+    <textblock>(3) The requirements specified in paragraphs (e) (1) and (2) of this section shall be determined separately using the oxygenated and nonoxygenated individual baseline fuel parameters, per §80.91.</textblock>
+    <textblock>(f)</textblock>
+    <textblock>Applicability of Phase I and Phase II models.</textblock>
+    <textblock>The</textblock>
+    <textblock>requirements of paragraphs (d) and (e) of this section shall</textblock>
+    <textblock>be determined separately for the applicable Phase I and</textblock>
+    <textblock>Phase II complex models specified in §80.45.</textblock>
+    <textblock>(g)</textblock>
+    <textblock>Calculation accuracy.</textblock>
+    <textblock>Emissions values calculated</textblock>
+    <textblock>per the requirements of this section shall be determined to</textblock>
+    <textblock>four (4) significant figures. Sulfur, olefin and T90 values</textblock>
+    <textblock>calculated per the requirements of this section shall be</textblock>
+    <textblock>determined to the same number of decimal places as the</textblock>
+    <textblock>corresponding value listed in §80.91(c)(5).</textblock>
+    <textblock>§80.91</textblock>
+    <textblock>Individual baseline determination.</textblock>
+    <textblock>(a)</textblock>
+    <textblock>Baseline definition.</textblock>
+    <textblock>(1) The ``baseline'' or</textblock>
+    <textblock>``individual baseline'' of a refinery, refiner or importer, as</textblock>
+    <textblock>applicable, shall consist of:</textblock>
+  </text>
+</doc>

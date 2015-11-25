@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00192</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(10)</textblock>
+    <textblock>If the aromatics level of the target fuel is greater than or equal to 18 volume percent, then</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO shall be set equal to zero.</textblock>
+    <textblock>(11)</textblock>
+    <textblock>If the olefins level of the target fuel is greater than 19 volume percent, then</textblock>
+    <textblock>D</textblock>
+    <textblock>OLE shall be set equal to (OLE^19 volume percent).</textblock>
+    <textblock>(12)</textblock>
+    <textblock>If the olefins level of the target fuel is less than or equal to 19 volume percent, then</textblock>
+    <textblock>D</textblock>
+    <textblock>OLE shall be set equal to zero.</textblock>
+    <textblock>(2) The winter NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions performance of gasolines shall be given by the equations presented in paragraph (d)(1) of this section with the RVP value set to 8.7 psi.</textblock>
+    <textblock>(3) The NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions performance of the target fuel in percentage terms from baseline levels shall be given by the following equations:</textblock>
+    <textblock>For Phase I:</textblock>
+    <textblock>Summer NO</textblock>
+    <textblock>X</textblock>
+    <textblock>%=[100% × (NO</textblock>
+    <textblock>X</textblock>
+    <textblock>^0.660 g/mi)]/(0.660 g/mi)</textblock>
+    <textblock>Winter NO</textblock>
+    <textblock>X</textblock>
+    <textblock>%=[100% × (NO</textblock>
+    <textblock>X</textblock>
+    <textblock>^0.750 g/mi)]/(0.750 g/mi)</textblock>
+    <textblock>For Phase II:</textblock>
+    <textblock>Summer NO</textblock>
+    <textblock>X</textblock>
+    <textblock>%=[100% × (NO</textblock>
+    <textblock>X</textblock>
+    <textblock>^1.340 g/mi)]/(1.340 g/mi)</textblock>
+    <textblock>Winter NO</textblock>
+    <textblock>X</textblock>
+    <textblock>%=[100% × (NO</textblock>
+    <textblock>X</textblock>
+    <textblock>^1.540 g/mi)]/(1.540 g/mi)</textblock>
+    <textblock>Summer NO</textblock>
+    <textblock>X</textblock>
+    <textblock>%=Percentage change in NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions from summer baseline levels</textblock>
+    <textblock>Winter NO</textblock>
+    <textblock>X</textblock>
+    <textblock>%=Percentage change in NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions from winter baseline levels</textblock>
+    <textblock>(e)</textblock>
+    <textblock>Toxics performance</textblock>
+    <textblock>_(1)</textblock>
+    <textblock>Summer toxics performance.</textblock>
+    <textblock>(i) Summer toxic emissions performance of gasolines in VOC Control Regions 1 and 2 shall be given by the following equations:</textblock>
+    <textblock>TOXICS1=EXHBZ + FORM + ACET + BUTA + POM + NEBZ1</textblock>
+    <textblock>TOXICS2=EXHBZ + FORM + ACET + BUTA + POM + NEBZ2</textblock>
+    <textblock>where</textblock>
+    <textblock>TOXICS1=Summer toxics performance in VOC Control Region 1 in terms of milligrams per mile.</textblock>
+    <textblock>TOXICS2=Summer toxics performance in VOC Control Region 2 in terms of milligrams per mile.</textblock>
+    <textblock>EXHBZ=Exhaust emissions of benzene in terms of milligrams per mile, as determined in paragraph (e)(4) of this section.</textblock>
+    <textblock>FORM=Emissions of formaldehyde in terms of milligrams per mile, as determined in paragraph (e)(5) of this section.</textblock>
+    <textblock>ACET=Emissions of acetaldehyde in terms of milligrams per mile, as determined in paragraph (e)(6) of this section.</textblock>
+    <textblock>BUTA=Emissions of 1,3-butadiene in terms of milligrams per mile, as determined in paragraph (e)(7) of this section.</textblock>
+    <textblock>POM=Polycyclic organic matter emissions in terms of milligrams per mile, as determined in paragraph (e)(8) of this section.</textblock>
+    <textblock>NEBZ1=Nonexhaust emissions of benzene in VOC Control Region 1 in milligrams per mile, as determined in paragraph (e)(9) of this section.</textblock>
+    <textblock>NEBZ2=Nonexhaust emissions of benzene in VOC Control Region 2 in milligrams per mile, as determined in paragraph (e)(10) of this section.</textblock>
+    <textblock>(ii) The percentage change in summer toxics performance</textblock>
+    <textblock>in VOC Control Regions 1 and 2 shall be given by the</textblock>
+    <textblock>following equations:</textblock>
+    <textblock>For Phase I:</textblock>
+    <textblock>TOXICS1%=[100% × (TOXICS1^48.61 mg/mi)]/(48.61 mg/mi)</textblock>
+    <textblock>TOXICS2%=[100% × (TOXICS2^47.59 mg/mi)]/(47.59 mg/mi)</textblock>
+    <textblock>For Phase II:</textblock>
+    <textblock>TOXICS1%=[100% × (TOXICS1^86.35 mg/mi)]/(86.35 mg/mi)</textblock>
+    <textblock>TOXICS2%=[100% × (TOXICS2^85.61 mg/mi)]/(85.61 mg/mi)</textblock>
+    <textblock>where</textblock>
+    <textblock>TOXICS1%=Percentage change in summer toxics emissions in VOC Control Region 1 from baseline levels.</textblock>
+    <textblock>TOXICS2%=Percentage change in summer toxics emissions in VOC Control Region 2 from baseline levels.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Winter toxics performance.</textblock>
+    <textblock>(i) Winter toxic emissions performance of gasolines in VOC Control Regions 1 and 2 shall be given by the following equation, evaluated with the RVP set at 8.7 psi:</textblock>
+    <textblock>TOXICW=[EXHBZ + FORM + ACET + BUTA + POM]</textblock>
+    <textblock>where</textblock>
+    <textblock>TOXICW=Winter toxics performance in VOC Control Regions 1 and 2 in terms of milligrams per mile.</textblock>
+    <textblock>EXHBZ=Exhaust emissions of benzene in terms of milligrams per mile, as determined in paragraph (e)(4) of this section.</textblock>
+    <textblock>FORM=Emissions of formaldehyde in terms of milligrams per mile, as determined in paragraph (e)(5) of this section.</textblock>
+    <textblock>ACET=Emissions of acetaldehyde in terms of milligrams per mile, as determined in paragraph (e)(6) of this section.</textblock>
+  </text>
+</doc>

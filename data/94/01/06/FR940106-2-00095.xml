@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-2-00095</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-2-00048</textblock>
+  </parent>
+  <text/>
+  <usbureau>
+    <textblock>Geological Survey</textblock>
+  </usbureau>
+  <doctitle>
+    <textblock>Federal Geographic Data Committee (FGDC); Open Meeting on Creating a Geospatial Data Framework for the National Spatial Data Infrastructure (NSDI)</textblock>
+  </doctitle>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>Geological Survey, Interior.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>Notice of meeting.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>The Federal Geographic Data Committee has organized a Framework Working Group to gather information for and create the structure for a national geospatial data framework for the National Spatial Data Infrastructure. The purpose of the meeting is to receive public comments on different perspectives on the framework, and the need for and approaches to providing elevation and cadastral data to the framework.</textblock>
+  </summary>
+  <date>
+    <textblock>DATES:</textblock>
+    <textblock>January 18, 1994, 9 a.m. to 5:30 p.m. Mountain Standard Time.</textblock>
+  </date>
+  <address>
+    <textblock>ADDRESSES:</textblock>
+    <textblock>The meeting will be held in the Fifth Floor Conference Room, State Office Building, 400 North State Street, Salt Lake City, Utah. This is the only meeting that will be held in Salt Lake City.</textblock>
+  </address>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>Persons planning to attend or to make a presentation at the meeting should notify Dennis Goreham, Manager, Utah Automated Geographic Reference Center, 5130 State Office Building, Salt Lake City, Utah 84114, telephone (801) 538-3163; facsimile (801) 538-3622.</textblock>
+  </further>
+  <supplem>
+    <textblock>SUPPLEMENTARY INFORMATION:</textblock>
+    <textblock>Admittance will be limited to the seating available. Persons planning to attend the meeting should contact Mr. Goreham as described above.</textblock>
+    <textblock>As part of this effort the working group will hold open meetings to receive input from any interested parties. The public is invited to prepare a presentation on any of the topics listed in the Summary section of this notice. Presentations should be limited to 15 minutes. (Presentations may be limited to a shorter time if necessary so that all may be heard.) An overhead projector and slide projector will be supplied. The working group will also accept written comments, which should be received by Mr. Goreham before January 18, 1994.</textblock>
+    <textblock>This meeting is part of a series on developing a geospatial data framework for the National Spatial Data Infrastructure. The framework will provide a minimum set of geographic data that is useful to a maximum number of users within any geographic area or nationwide. Framework data will be produced to known standards in the fastest time frame possible and for the most reasonable cost. Creation of such a geospatial data framework will eliminate much of the redundancy in data capture by making available a basic set of geospatial data to which other data can be related. The framework data would be of recognized quality and would be available in ``standard'' formats. The geospatial data framework also will provide a means to integrate data from numerous collection activities in various agencies and will encourage data sharing among different disciplines. The components of the framework will likely include digital ortho imagery, geographic and cadastral reference systems, elevation, and spatial representations of transportation, hydrography, and administrative and political units. This meeting will address elevation and cadastral data; subsequent meeting will address the other themes.</textblock>
+    <textblock>The Framework Working Group consists of representatives of Federal, State, regional, and local government agencies engaged in the collection, maintenance, and development of geospatial data. The working group will define the components, identify the standards for the initial collection and maintenance, recommend a time frame for production and maintenance, and develop a plan for funding a framework of geospatial data as the foundation for the NSDI.</textblock>
+    <textblock>Dated: December 29, 1993.</textblock>
+  </supplem>
+  <signer>
+    <textblock>Allen H. Watkins,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Chief, National Mapping Division.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-206 Filed 1-5-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4310-31-M</textblock>
+  </billing>
+</doc>

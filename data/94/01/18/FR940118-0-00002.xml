@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940118-0-00002</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940118-0-00001</textblock>
+  </parent>
+  <text>
+    <textblock>Airworthiness Directives: Rockwell</textblock>
+    <textblock>International/Collins Air Transport Division DME-700</textblock>
+    <textblock>Distance Measuring Equipment</textblock>
+  </text>
+  <usdept>
+    <textblock>DEPARTMENT OF TRANSPORTATION</textblock>
+  </usdept>
+  <usbureau>
+    <textblock>Federal Aviation Administration</textblock>
+  </usbureau>
+  <cfrno>
+    <textblock>14 CFR Part 39</textblock>
+  </cfrno>
+  <rindock>
+    <textblock>[Docket No. 92-CE-60-AD; Amendment 39-8799; AD 94-02-02]</textblock>
+  </rindock>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>Federal Aviation Administration, DOT.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>Final rule.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>This amendment adopts a new airworthiness</textblock>
+    <textblock>directive (AD) that applies to Rockwell</textblock>
+    <textblock>International/Air Transport Division (Collins)</textblock>
+    <textblock>DME-700 distance measuring equipment (DME) installed on</textblock>
+    <textblock>aircraft. This action requires modifying these DME</textblock>
+    <textblock>units to ensure they are functioning properly. Several</textblock>
+    <textblock>reports of the affected DME units failing to process</textblock>
+    <textblock>and update distance outputs, and reports of these units</textblock>
+    <textblock>establishing a continuous restart mode upon power</textblock>
+    <textblock>application prompted this AD. The actions specified by</textblock>
+    <textblock>this AD are intended to prevent improper operation of</textblock>
+    <textblock>this equipment, which could result in navigational</textblock>
+    <textblock>errors.</textblock>
+  </summary>
+  <date>
+    <textblock>DATES:</textblock>
+    <textblock>Effective February 21, 1994.</textblock>
+    <textblock>The incorporation by reference of certain</textblock>
+    <textblock>publications listed in the regulations is approved by</textblock>
+    <textblock>the Director of the Federal Register as of February</textblock>
+    <textblock>21, 1994.</textblock>
+  </date>
+  <address>
+    <textblock>ADDRESSES:</textblock>
+    <textblock>Service information that applies to this AD</textblock>
+    <textblock>may be obtained from Rockwell International/Collins Air</textblock>
+    <textblock>Transport Division, 400 Collins Road, NE; Cedar Rapids,</textblock>
+    <textblock>Iowa 52498. This information may also be examined at</textblock>
+    <textblock>the Federal Aviation Administration (FAA), Central</textblock>
+    <textblock>Region, Office of the Assistant Chief Counsel, room</textblock>
+    <textblock>1558, 601 E. 12th Street, Kansas City, Missouri 64106;</textblock>
+    <textblock>or at the Office of the Federal Register, 800 North</textblock>
+    <textblock>Capitol Street, NW., suite 700, Washington, DC.</textblock>
+  </address>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>Mr. Roger A. Souter,</textblock>
+    <textblock>Aerospace Engineer, Wichita Aircraft Certification</textblock>
+    <textblock>Office, 1801 Airport Road, room 100, Mid-Continent</textblock>
+    <textblock>Airport, Wichita, Kansas 67209; telephone (316)</textblock>
+    <textblock>946-4134; facsimile (316) 946-4407.</textblock>
+  </further>
+  <supplem>
+    <textblock>SUPPLEMENTARY INFORMATION:</textblock>
+    <textblock>A proposal to amend part 39</textblock>
+    <textblock>of the Federal Aviation Regulations to include an AD</textblock>
+    <textblock>that applies to certain Collins DME-700 distance</textblock>
+    <textblock>measurement equipment installed on aircraft was</textblock>
+    <textblock>published in the</textblock>
+    <textblock>Federal Register</textblock>
+    <textblock>on January 25, 1993</textblock>
+    <textblock>(58 FR 5949). The action proposed to require</textblock>
+    <textblock>modifying these DME units to ensure that they are</textblock>
+    <textblock>functioning properly. The proposed modifications would</textblock>
+    <textblock>be accomplished in accordance with the following</textblock>
+    <textblock>Collins service bulletins (SB) (1) SB 20, Revision 1,</textblock>
+    <textblock>DME-700-34-20, dated August 30, 1991, which when</textblock>
+    <textblock>incorporated prevents a condition known as ``sleeping</textblock>
+    <textblock>DME's''; and (2) Collins SB 24, DME-700-34-24, dated May</textblock>
+    <textblock>15, 1992; Collins SB 25, DME-700-34-25, dated November</textblock>
+    <textblock>11, 1992; and Collins SB 26, DME-700-34-26, dated</textblock>
+    <textblock>October 21, 1992, as applicable, which when</textblock>
+    <textblock>incorporated prevent a condition known as ``deaf DME's''.</textblock>
+    <textblock>Interested persons have been afforded an</textblock>
+    <textblock>opportunity to participate in the making of this</textblock>
+    <textblock>amendment. Based on the comments received, the</textblock>
+    <textblock>proposal was changed to add a modification that went</textblock>
+    <textblock>beyond the scope of that which was originally proposed.</textblock>
+    <textblock>Accordingly, the FAA issued a supplementary NPRM</textblock>
+    <textblock>that incorporated minor revisions and added the</textblock>
+    <textblock>additional modification. The proposed actions</textblock>
+    <textblock>specified in the Supplemental NPRM would be</textblock>
+    <textblock>accomplished in accordance with the following, as</textblock>
+    <textblock>applicable:</textblock>
+  </supplem>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Collins SB/condition</textblock>
+    <textblock>1Date</textblock>
+    <textblock>1Part Nos. applicable (622-4540-XXX)</textblock>
+    <textblock>SB 20, Revision 1/Sleeping</textblock>
+    <textblock>Aug. 30, 1991</textblock>
+    <textblock>All applicable DME-700 Units, -020, -120, with serial number 1 through 4247.</textblock>
+    <textblock>SB 25/Deaf and Distance Jumping</textblock>
+    <textblock>Nov. 11, 1992</textblock>
+    <textblock>All applicable DME-700 Units, converts -020, -021, or -022 to -023. SB 20 most be installed prior to or in conjunction with SB 25. SB 24 is incorporated by SB 25.</textblock>
+    <textblock>SB 26/Deaf and Distance Jumping</textblock>
+    <textblock>Oct. 21, 1992</textblock>
+    <textblock>All applicable DME-700 Units, converts -120, or -121, to -122. SB 20 most be installed prior to or in conjunction with SB 26. SB 26 eliminates the need for SB 21.</textblock>
+  </table>
+</doc>

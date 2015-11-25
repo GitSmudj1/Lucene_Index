@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940128-2-00026</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940128-2-00011</textblock>
+  </parent>
+  <text>
+    <textblock>Proposed Federal Information Processing Standard Open Document Architecture Raster Document Application Profile</textblock>
+  </text>
+  <rindock>
+    <textblock>[Docket No. 931103-3303]</textblock>
+  </rindock>
+  <rindock>
+    <textblock>RIN 0693-AB12</textblock>
+  </rindock>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>National Institute of Standards and Technology (NIST), Commerce.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>Notice; request for comments.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>The purpose of this notice is to announce a proposed Federal Information Processing Standard (FIPS) for Open Document Architecture (ODA) Raster Document Application Profile (DAP). This proposed standard will enable Federal agencies to exercise more effective control over the production, management, and use of Government's raster graphics applications.</textblock>
+    <textblock>This proposed FIPS will adopt the proposed Draft International Standard Profile (pDISP) FOD112 Open Document Architecture (ODA) Document Application Profile (DAP), ``ODA Raster DAP,'' which specifies the use of a subset of the Open Document Architecture (ODA) and Interchange Format Standard.</textblock>
+    <textblock>Prior to the submission of this proposed FIPS to the Secretary of Commerce for review and approval, it is essential to assure that consideration is given to the needs and views of manufacturers, the public, and state and local governments. The purpose of this notice is to solicit such views.</textblock>
+    <textblock>The proposed standard contains two sections: (1) An announcement section, which provides information concerning the applicability, implementation, and maintenance of the standard; and (2) a specifications section which deals with the technical requirements of the standard. Only the announcement section of the standard is provided in this notice. Interested parties may obtain copies of the technical specifications from the Standards Processing Coordinator (ADP), National Institute of Standards and Technology, Technology Building, room B-64, Gaithersburg, MD 20899, telephone (301) 975-2816.</textblock>
+  </summary>
+  <date>
+    <textblock>DATES:</textblock>
+    <textblock>Comments on this proposed FIPS must be received on or before April 28, 1994.</textblock>
+  </date>
+  <address>
+    <textblock>ADDRESSES:</textblock>
+    <textblock>Written comments concerning this proposed FIPS should be sent to: Director, Computer Systems Laboratory, ATTN: Proposed FIPS for ODA Raster DAP, Technology Building, room B-154, National Institute of Standards and Technology, Gaithersburg, MD 20899.</textblock>
+    <textblock>Written comments concerning this proposed FIPS will be made part of the public record and will be made available for inspection and copying in the Central Reference and Records Inspection Facility, room 6020, Herbert C. Hoover Building, 14th Street between Pennsylvania and Constitution Avenues NW., Washington, DC 20230.</textblock>
+  </address>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>Mr. Frank Spielman, National Institute of Standards and Technology, Gaithersburg, MD 20899, (301) 975-3257.</textblock>
+    <textblock>Dated: January 24, 1994.</textblock>
+  </further>
+  <signer>
+    <textblock>Samuel Kramer,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Associate Director.</textblock>
+  </signjob>
+</doc>

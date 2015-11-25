@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940105-0-00025</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940105-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>Adoption of the Amendment</textblock>
+    <textblock>Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends 14 CFR part 39 of the Federal Aviation Regulations as follows:</textblock>
+    <textblock>PART 39_AIRWORTHINESS DIRECTIVES</textblock>
+    <textblock>1. The authority citation for part 39 continues to read as follows:</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>49 U.S.C. App. 1354(a), 1421 and 1423; 49 U.S.C. 106(g); and 14 CFR 11.89.</textblock>
+    <textblock>39.13</textblock>
+    <textblock>[Amended]</textblock>
+    <textblock>2. Section 39.13 is amended by adding the following new AD:</textblock>
+    <textblock>94-01-06␣Rockwell International, Collins Air Transport Division:</textblock>
+    <textblock>Amendment 39-8788; Docket No. 93-CE-47-AD.</textblock>
+    <textblock>Applicability:</textblock>
+    <textblock>Traffic Alert and Collision Avoidance System II processors that are installed on, but not limited to the following airplanes (all serial numbers), certificated in any category:</textblock>
+    <textblock>General Aviation Airplanes</textblock>
+    <textblock>Astra Model 1125 airplanes</textblock>
+    <textblock>BAC Model 1-11 airplanes</textblock>
+    <textblock>British Aerospace Model 125-800 airplanes</textblock>
+    <textblock>Beech Models C90A, B200, 300, 350, and 400A airplanes</textblock>
+    <textblock>Canadair Models CL-600, CL-600-2B16, CL-601, CL-601-1A, and CL-601-3A airplanes</textblock>
+    <textblock>Learjet Models 31, 55, and 60 airplanes</textblock>
+    <textblock>Falcon Models 20, 50, 200, and 900 airplanes</textblock>
+    <textblock>Gulfstream Models G2 and G3 airplanes</textblock>
+    <textblock>British Aerospace Models HS-125-700 airplanes and</textblock>
+    <textblock>Sabreliner Model 60 airplanes</textblock>
+    <textblock>Air Transport Airplanes</textblock>
+    <textblock>Aerospatiale Models ATR-42 and ATR-72 airplanes</textblock>
+    <textblock>Airbus Industries Models A300B2, A-300B, and A-320 airplanes</textblock>
+    <textblock>British Aerospace Models ATP and 146 airplanes</textblock>
+    <textblock>Boeing Models 707, 727, 737, 747, 757, and 767 airplanes</textblock>
+    <textblock>British Aerospace/Aerospatiale Model Concorde SST airplanes</textblock>
+    <textblock>de Havilland DHC-7 and DHC-8 series airplanes</textblock>
+    <textblock>McDonnell Douglas Models DC-8, DC-9, and DC-10, MD-80, and MD-11 airplanes</textblock>
+    <textblock>Ilyushin Model IL-86 airplanes</textblock>
+    <textblock>Lockheed Model L-1011 airplanes</textblock>
+    <textblock>SAAB Models SF340A and SF340B airplanes and</textblock>
+    <textblock>Shorts Models SD3-60-300 airplanes.</textblock>
+    <textblock>Compliance:</textblock>
+    <textblock>Prior to December 31, 1994, unless already accomplished.</textblock>
+    <textblock>To prevent collisions or near misses caused by incompatibility between the traffic alert and collision avoidance system (TCAS) II processors and the current air traffic control system, accomplish the following:</textblock>
+    <textblock>(a) Incorporate ``Change 6.04A Enhanced'' by accomplishing either (1) or (2) below, as applicable:</textblock>
+    <textblock>(1) Remove any TCAS II processor with a part number (P/N) suffix listed in the ``Existing P/N Suffix'' column of the table below, and install a corresponding TCAS II processor with a P/N listed in the ``New</textblock>
+    <textblock>P/N Suffix'' column of the table below:</textblock>
+    <textblock>Note 1:</textblock>
+    <textblock>Collins SB No. 16, TTR-920-34-16, dated December 9, 1993, specifies procedures for incorporating the referenced New P/N suffixes.</textblock>
+    <textblock>(2) Change the part number of the TCAS II unit on board the aircraft by reprogramming the software with a data loader in order to obtain the New P/N Suffix as specified in the following table:</textblock>
+    <textblock>Note 2:</textblock>
+    <textblock>Units with P/N suffix of -001, -002, -011, -102, -11, and -612 cannot be reprogrammed on board the aircraft.</textblock>
+    <textblock>Note 3:</textblock>
+    <textblock>Operators are encouraged to update the Airplane Flight Manual (AFM) or AFM Supplement. Collins TTR-920 TCAS II Transmitter Receiver Service Information Letter 2-93, titled ``CAS Logic Change 6.04A'' specifies the information needed for this update.</textblock>
+    <textblock>(b) Special flight permits may be issued in accordance with FAR 21.197 and 21.199 to operate the airplane to a location where the requirements of this AD can be accomplished.</textblock>
+    <textblock>(c) An alternative method of compliance or adjustment of the compliance times that provides an equivalent level of safety may be approved by the Manager, Wichita Aircraft Certification Office, 1801 Airport Road, Room 100, Mid-Continent Airport, Wichita, Kansas 67209. The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Wichita Aircraft Certification Office (ACO).</textblock>
+    <textblock>Note 4:</textblock>
+    <textblock>Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Wichita ACO.</textblock>
+    <textblock>(d) Service information that is referenced in this AD may be obtained from Rockwell International/Collins Air Transport Division, 400 Collins Road, NE; Cedar Rapids, Iowa 52498. This information may also be examined at the FAA, Central Region, Office of the Assistant Chief Counsel, room 1558, 601 E. 12th Street, Kansas City, Missouri 64106.</textblock>
+    <textblock>(e) This amendment (39-8788) becomes effective on February 4, 1994.</textblock>
+    <textblock>Issued in Kansas City, Missouri, on December 29, 1993.</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Existing P/N suffix</textblock>
+    <textblock>1New P/N suffix</textblock>
+    <textblock>-001, -002, -011,</textblock>
+    <textblock>-020</textblock>
+    <textblock>-012, or -612</textblock>
+    <textblock>␣</textblock>
+    <textblock>-102, -111, or -112</textblock>
+    <textblock>-120</textblock>
+    <textblock>-014</textblock>
+    <textblock>-320</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Existing P/N suffix</textblock>
+    <textblock>1New P/N suffix</textblock>
+    <textblock>-012</textblock>
+    <textblock>-020</textblock>
+    <textblock>-112</textblock>
+    <textblock>-120</textblock>
+    <textblock>-014</textblock>
+    <textblock>-320</textblock>
+  </table>
+  <signer>
+    <textblock>Gerald W. Pierce,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Small Airplane Directorate, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 93-32114 Filed 12-30-93; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-U</textblock>
+  </billing>
+</doc>

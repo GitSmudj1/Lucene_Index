@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940128-2-00031</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940128-2-00012</textblock>
+  </parent>
+  <text>
+    <textblock>If you need help contact the Systems and Software Technology Division, B266 Technology Building, NIST, Gaithersburg, MD 20899, telephone: 301-975-3295.</textblock>
+    <textblock>Objectives.</textblock>
+    <textblock>This FIPS permits Federal departments and agencies to exercise more effective control over the production, management, and use of the Government's information resources. The primary objectives of this FIPS are:</textblock>
+    <textblock>a. To promote portability of computer application programs at the source code level.</textblock>
+    <textblock>b. To simplify computer program documentation by the use of a standard portable system interface design.</textblock>
+    <textblock>c. To reduce staff hours in porting computer programs to different vendor systems and architectures.</textblock>
+    <textblock>d. To increase portability of acquired skills, resulting in reduced personnel training costs.</textblock>
+    <textblock>e. To maximize the return on investment in generating or purchasing computer programs by insuring operating system compatibility.</textblock>
+    <textblock>f. To allow people to operate a wide range of application platform implementations without additional training or study.</textblock>
+    <textblock>Government-wide attainment of the above objectives depends upon the widespread availability and use of comprehensive and precise standard specifications.</textblock>
+    <textblock>Applicability.</textblock>
+    <textblock>This FIPS shall be used for POSIX command language interpreters and utilities that are either developed or acquired for Government use. This FIPS is applicable to the entire range of computer hardware, including:</textblock>
+    <textblock>a. Laptops,</textblock>
+    <textblock>b. Micro-computer systems,</textblock>
+    <textblock>c. Mini-computer systems,</textblock>
+    <textblock>d. Workstations,</textblock>
+    <textblock>e. Mainframes.</textblock>
+    <textblock>Specifications.</textblock>
+    <textblock>The specifications for this FIPS are the specifications contained in the Draft International Standard ISO/IEC 9945-2:1992, Information Technology_Portable Operating System Interface (POSIX)_Part 2: Shell and Utilities, with the modifications specified below. ISO/IEC 9945-2:1992 defines a command language interpreter (shell) and a set of utility programs. ISO/IEC 9945-2:1992 (hereinafter referred to as POSIX.2) refers to and is a complement to ISO/IEC 9945-1, Information Technology_Portable Operating System Interface (POSIX)_Part 1: System Application Program Interface (API) [C Language].</textblock>
+    <textblock>POSIX.2 contains a number of features that are labelled obsolescent. These features violate the general syntactic guidelines of POSIX.2. They were included in POSIX.2 to provide upward compatibility of existing applications, and may be deleted from POSIX.2 at some future date. The POSIX.2 standard requires that strictly conforming applications do not use any of these features. It is strongly recommended that agencies that require the POSIX.2 FIPS prohibit users from using these features. Therefore, the following obsolescent features are not required for a system to be compliant with the POSIX.2 FIPS. (For each feature a reference to the associated POSIX.2 text is provided):</textblock>
+    <textblock>•Zero-length prefix in the PATH environment variable [See POSIX.2 Subclause 2.6 Lines 2699-2700]</textblock>
+    <textblock>•The ^option in the</textblock>
+    <textblock>set</textblock>
+    <textblock>special built-in utility [See POSIX.2 Subclause 3.14.11 Lines 1599-1600 and 1726-1730]</textblock>
+    <textblock>•The</textblock>
+    <textblock>awk</textblock>
+    <textblock>string function</textblock>
+    <textblock>length</textblock>
+    <textblock>with no argument and no parentheses [See POSIX.2 Subclause 4.1.7.6.2.2 Lines 621-622]</textblock>
+    <textblock>•The octal number form of the</textblock>
+    <textblock>mode</textblock>
+    <textblock>operand in the</textblock>
+    <textblock>chmod</textblock>
+    <textblock>utility [See POSIX.2 Subclause 4.7.7 Lines 2090-2091]</textblock>
+    <textblock>•The ^option in the</textblock>
+    <textblock>ed</textblock>
+    <textblock>utility [See POSIX.2 Subclause 4.20.1 Lines 3529-3530; Subclause 4.20.3 Line 3542]</textblock>
+    <textblock>•The ^option in the</textblock>
+    <textblock>env</textblock>
+    <textblock>utility [See POSIX.2 Subclause 4.21.1 Lines 4034-4035; Subclause 4.21.3 Line 4048]</textblock>
+    <textblock>•The ^</textblock>
+    <textblock>perm [^]onum</textblock>
+    <textblock>primary in the</textblock>
+    <textblock>find</textblock>
+    <textblock>utility [See POSIX.2 Subclause 4.24.4 Lines 4361-4368]</textblock>
+    <textblock>•The</textblock>
+    <textblock>egrep</textblock>
+    <textblock>and</textblock>
+    <textblock>fgrep</textblock>
+    <textblock>utilities [See POSIX.2 Subclause 4.28.1 Lines 4793-4799; Subclause 4.28.2 Lines 4815-4832; Subclause 4.28.3 Lines 4850-4851]</textblock>
+    <textblock>•The ^</textblock>
+    <textblock>number</textblock>
+    <textblock>option in the</textblock>
+    <textblock>head</textblock>
+    <textblock>utility [See POSIX.2 Subclause 4.29.1 Lines 4953-4954; Subclause 4.29.3 Lines 4971-4974]</textblock>
+    <textblock>•The ^</textblock>
+    <textblock>j field</textblock>
+    <textblock>, ^</textblock>
+    <textblock>j1 field</textblock>
+    <textblock>, and ^</textblock>
+    <textblock>j2 field</textblock>
+    <textblock>options and the ^</textblock>
+    <textblock>o</textblock>
+    <textblock>list option (where</textblock>
+    <textblock>list</textblock>
+    <textblock>is composed of multiple arguments) in the</textblock>
+    <textblock>join</textblock>
+    <textblock>utility [See POSIX.2 Subclause 4.31.1 Lines 5133-5135; Subclause 4.31.3 Lines 5168-5170 and 5182-5184]</textblock>
+    <textblock>•The ^</textblock>
+    <textblock>signal-name</textblock>
+    <textblock>and ^</textblock>
+    <textblock>signal-number</textblock>
+    <textblock>options in the</textblock>
+    <textblock>kill</textblock>
+    <textblock>utility [See POSIX.2 Subclause 4.32.1 Lines 5259-5261; Subclause 4.32.3 Lines 5294-5311]</textblock>
+    <textblock>•The +</textblock>
+    <textblock>pos1</textblock>
+    <textblock>and ^</textblock>
+    <textblock>pos2</textblock>
+    <textblock>options in the</textblock>
+    <textblock>sort</textblock>
+    <textblock>utility and the ^o output option following a</textblock>
+    <textblock>file</textblock>
+    <textblock>operand [See POSIX.2 Subclause 4.58.1 Lines 9583-9585; Subclause 4.58.3 Lines 9599-9601, 9618-9620, and 9674-9675; Subclause 4.58.7 Lines 9746-9762]</textblock>
+    <textblock>•The ^[</textblock>
+    <textblock>number</textblock>
+    <textblock>] [</textblock>
+    <textblock>c/l</textblock>
+    <textblock>] [</textblock>
+    <textblock>f</textblock>
+    <textblock>] and +[</textblock>
+    <textblock>number</textblock>
+    <textblock>] [</textblock>
+    <textblock>c/l</textblock>
+    <textblock>] [</textblock>
+    <textblock>f</textblock>
+    <textblock>] options in the</textblock>
+    <textblock>tail</textblock>
+    <textblock>utility [See POSIX.2 Subclause 4.60.1 Lines 10058-10060; Subclause 4.60.3 Lines 10098-10105]</textblock>
+    <textblock>•The</textblock>
+    <textblock>date_time</textblock>
+    <textblock>operand in the</textblock>
+    <textblock>touch</textblock>
+    <textblock>utility [See POSIX.2 Subclause 4.63.1 Lines 10337-10338; Subclause 4.63.4 Lines 10403-10416]</textblock>
+    <textblock>•The ^</textblock>
+    <textblock>s</textblock>
+    <textblock>option in the</textblock>
+    <textblock>tty</textblock>
+    <textblock>utility [See POSIX.2 Subclause 4.66.1 Lines 10659-10660; Subclause 4.66.3; Lines 10669-10671]</textblock>
+  </text>
+</doc>

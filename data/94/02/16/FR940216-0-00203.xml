@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00203</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(C) The range (R) for duplicate samples should be</textblock>
+    <textblock>less than the following limits:</textblock>
+    <textblock>where:</textblock>
+    <textblock>C=(C</textblock>
+    <textblock>o</textblock>
+    <textblock>+C</textblock>
+    <textblock>d</textblock>
+    <textblock>)/2</textblock>
+    <textblock>C</textblock>
+    <textblock>o</textblock>
+    <textblock>=concentration of the original sample</textblock>
+    <textblock>C</textblock>
+    <textblock>d</textblock>
+    <textblock>=concentration of the duplicate sample</textblock>
+    <textblock>R=Range,</textblock>
+    <textblock>|</textblock>
+    <textblock>C</textblock>
+    <textblock>o</textblock>
+    <textblock>-C</textblock>
+    <textblock>d</textblock>
+    <textblock>|</textblock>
+    <textblock>(D) If the limits in paragraph (g)(8)(i)(C) of this</textblock>
+    <textblock>section are exceeded, the sources of error in the analysis</textblock>
+    <textblock>should be determined, corrected, and all analyses subsequent</textblock>
+    <textblock>to and including the last duplicate analysis confirmed to be</textblock>
+    <textblock>within the compliance specifications must be repeated. The</textblock>
+    <textblock>specification limits for the range and relative range of</textblock>
+    <textblock>duplicate analyses are minimum performance requirements.</textblock>
+    <textblock>The performance of individual laboratories may indeed be</textblock>
+    <textblock>better than these minimum requirements. For this reason it</textblock>
+    <textblock>is recommended that control charts be utilized to monitor</textblock>
+    <textblock>the variability of measurements in order to optimally detect</textblock>
+    <textblock>abnormal situations and ensure a stable measurement process.</textblock>
+    <textblock>(E)</textblock>
+    <textblock>(1)</textblock>
+    <textblock>For reference purposes, a single</textblock>
+    <textblock>laboratory study of repeatability was conducted on</textblock>
+    <textblock>approximately 27 replicates at each of five concentrations</textblock>
+    <textblock>for each oxygenate. The variation of MTBE analyses as</textblock>
+    <textblock>measured by standard deviation was very linear with respect</textblock>
+    <textblock>to concentration. Where concentration is expressed as mass</textblock>
+    <textblock>percent, over the concentration range of 0.25 to 15.0 mass</textblock>
+    <textblock>percent this relationship is described by the equation:</textblock>
+    <textblock>standard deviation=0.00784×C+0.0187</textblock>
+    <textblock>(2)</textblock>
+    <textblock>The other oxygenates of interest, methanol,</textblock>
+    <textblock>ethanol, DIPE, ETBE, and TAME, had consistent coefficients</textblock>
+    <textblock>of variation at one mass percent and above:</textblock>
+    <textblock>(3)</textblock>
+    <textblock>The relationship of standard deviation and</textblock>
+    <textblock>concentration for methanol between 0.27 and 1.07 mass</textblock>
+    <textblock>percent was very linear and is described by the equation:</textblock>
+    <textblock>standard deviation=0.0118×C+0.0027</textblock>
+    <textblock>(4)</textblock>
+    <textblock>Based on these relationships, repeatability for</textblock>
+    <textblock>the selected oxygenates at 2.0 and 2.7 mass percent oxygen</textblock>
+    <textblock>were determined to be as follows, where repeatability is</textblock>
+    <textblock>defined as the half width of the 95 percent confidence</textblock>
+    <textblock>interval (i.e., 1.96 standard deviations) for a single</textblock>
+    <textblock>analysis at the stated concentration:</textblock>
+    <textblock>(ii) The laboratory shall routinely monitor the</textblock>
+    <textblock>accuracy of its analyses. The recommendations are:</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Oxygenate</textblock>
+    <textblock>1Concentration mass percent</textblock>
+    <textblock>1Upper limit for range</textblock>
+    <textblock>mass percent</textblock>
+    <textblock>Methanol</textblock>
+    <textblock>0.27-1.07</textblock>
+    <textblock>0.010+0.043C</textblock>
+    <textblock>Methanol</textblock>
+    <textblock>1.07-12.73</textblock>
+    <textblock>0.053C</textblock>
+    <textblock>Ethanol</textblock>
+    <textblock>1.01-12.70</textblock>
+    <textblock>0.053C</textblock>
+    <textblock>MTBE</textblock>
+    <textblock>0.25-15.00</textblock>
+    <textblock>0.069+0.029C</textblock>
+    <textblock>DIPE</textblock>
+    <textblock>0.98-17.70</textblock>
+    <textblock>0.048C</textblock>
+    <textblock>ETBE</textblock>
+    <textblock>1.00-18.04</textblock>
+    <textblock>0.074C</textblock>
+    <textblock>TAME</textblock>
+    <textblock>1.04-18.59</textblock>
+    <textblock>0.060C</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Oxygenate</textblock>
+    <textblock>1Concentration mass percent</textblock>
+    <textblock>1Coefficient of variation</textblock>
+    <textblock>percent of point</textblock>
+    <textblock>Methanol</textblock>
+    <textblock>1.07-12.73</textblock>
+    <textblock>1.43</textblock>
+    <textblock>Ethanol</textblock>
+    <textblock>1.01-12.70</textblock>
+    <textblock>1.43</textblock>
+    <textblock>DIPE</textblock>
+    <textblock>0.98-17.70</textblock>
+    <textblock>1.29</textblock>
+    <textblock>ETBE</textblock>
+    <textblock>1.00-18.04</textblock>
+    <textblock>2.00</textblock>
+    <textblock>TAME</textblock>
+    <textblock>1.04-18.59</textblock>
+    <textblock>1.62</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Oxygenate</textblock>
+    <textblock>1Concentration</textblock>
+    <textblock>2Mass percent oxygen</textblock>
+    <textblock>2Mass percent oxygenate</textblock>
+    <textblock>2Volume percent oxygenate</textblock>
+    <textblock>1Repeatability mass percent</textblock>
+    <textblock>Methanol</textblock>
+    <textblock>2.0</textblock>
+    <textblock>4.00</textblock>
+    <textblock>3.75</textblock>
+    <textblock>0.11</textblock>
+    <textblock>Ethanol</textblock>
+    <textblock>2.0</textblock>
+    <textblock>5.75</textblock>
+    <textblock>5.41</textblock>
+    <textblock>0.16</textblock>
+    <textblock>MTBE</textblock>
+    <textblock>2.00</textblock>
+    <textblock>11.00</textblock>
+    <textblock>11.00</textblock>
+    <textblock>0.21</textblock>
+    <textblock>DIPE</textblock>
+    <textblock>2.0</textblock>
+    <textblock>12.77</textblock>
+    <textblock>13.00</textblock>
+    <textblock>0.32</textblock>
+    <textblock>ETBE</textblock>
+    <textblock>2.0</textblock>
+    <textblock>12.77</textblock>
+    <textblock>12.74</textblock>
+    <textblock>0.50</textblock>
+    <textblock>TAME</textblock>
+    <textblock>2.0</textblock>
+    <textblock>12.77</textblock>
+    <textblock>12.33</textblock>
+    <textblock>0.41</textblock>
+    <textblock>Methanol</textblock>
+    <textblock>2.7</textblock>
+    <textblock>5.40</textblock>
+    <textblock>5.07</textblock>
+    <textblock>0.15</textblock>
+    <textblock>Ethanol</textblock>
+    <textblock>2.7</textblock>
+    <textblock>7.76</textblock>
+    <textblock>7.31</textblock>
+    <textblock>0.21</textblock>
+    <textblock>MTBE</textblock>
+    <textblock>2.7</textblock>
+    <textblock>14.88</textblock>
+    <textblock>14.88</textblock>
+    <textblock>0.26</textblock>
+    <textblock>DIPE</textblock>
+    <textblock>2.7</textblock>
+    <textblock>17.24</textblock>
+    <textblock>17.53</textblock>
+    <textblock>0.43</textblock>
+    <textblock>ETBE</textblock>
+    <textblock>2.7</textblock>
+    <textblock>17.24</textblock>
+    <textblock>17.20</textblock>
+    <textblock>0.67</textblock>
+    <textblock>TAME</textblock>
+    <textblock>2.7</textblock>
+    <textblock>17.24</textblock>
+    <textblock>16.68</textblock>
+    <textblock>0.55</textblock>
+  </table>
+</doc>

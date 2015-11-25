@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00210</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(iii) If the candidate parameter is not specified for Clean Air Act summer baseline fuel, and is not present in typical gasoline, its baseline level shall be zero.</textblock>
+    <textblock>(2) The addition fuels shall contain detergent control additives in accordance with section 211(l) of the Clean Air Act Amendments of 1990 and the associated EPA requirements for such additives.</textblock>
+    <textblock>(3) The addition fuels shall be specified with at least the same level of detail and precision as in §80.43(c), and this information shall be included in the petition submitted to the Administrator requesting augmentation of the complex emission model.</textblock>
+    <textblock>(i) Paraffin levels in Fuels 1 and 2 shall be altered from the paraffin level in Fuel 3 to compensate for the addition or removal of the candidate parameter, if necessary. Paraffin levels in Fuel 4 shall be altered from the paraffin level in Fuel 5 to compensate for the addition or removal of the candidate parameter, if necessary. Paraffin levels in Fuel 6 shall be altered from the paraffin level in Fuel 7 to compensate for the addition or removal of the candidate parameter, if necessary.</textblock>
+    <textblock>(ii) Other properties of Fuels 4 and 6 shall not vary from the levels for Fuels 5 and 7, respectively, unless such variations are the naturally-occurring result of the changes described in paragraphs (a)(1) and (2) of this section. Other properties of Fuels 1 and 2 shall not vary from the levels for Fuel 3, unless such variations are the naturally- occurring result of the changes described in paragraphs (a)(1) and (2) of this section.</textblock>
+    <textblock>(iii) The addition fuels shall be specified with at least the same level of detail and precision as defined in paragraph (a)(5)(i) of this section, and this information must be included in the petition submitted to the Administrator requesting augmentation of the complex emission model.</textblock>
+    <textblock>(4) The properties of the addition fuels shall be within the blending tolerances defined in this paragraph (a)(4) relative to the values specified in paragraphs (a)(1) and (2) of this section. Fuels that do not meet these tolerances shall require the approval of the Administrator to be used in vehicle testing to augment the complex emission model:</textblock>
+    <textblock>(5) The composition and properties of the addition fuels shall be determined by averaging a series of independent tests of the properties and compositional factors defined in paragraph (a)(5)(i) of this section as well as any additional properties or compositional factors for which emission benefits are claimed.</textblock>
+    <textblock>(i) The number of independent tests to be conducted shall be sufficiently large to reduce the measurement uncertainty for each parameter to a sufficiently small value. At a minimum the 95% confidence limits (as calculated using a standard t-test) for each parameter must be within the following range of the mean measured value of each parameter:</textblock>
+    <textblock>(ii) The 95% confidence limits for measurements of fuel parameters for which emission reduction benefits are claimed and for which tolerances are not defined in paragraph (a)(5)(i) of this section must be within</textblock>
+    <textblock>#</textblock>
+    <textblock>5% of the mean measured value.</textblock>
+    <textblock>(iii) Each test must be conducted in the same laboratory in accordance with the procedures outlined at §80.46.</textblock>
+    <textblock>(b) Three fuels (hereinafter called the ``extension fuels'') shall be tested for the purpose of extending the valid range of the complex emission model for a parameter currently included in the complex emission model. The properties of the extension fuels are specified in paragraphs (b)(2) through (4) of this section. The extension fuels shall be specified with at least the same level of detail and precision as in §80.43(c), and this information must be included in the petition submitted to the Administrator requesting augmentation of the complex emission model. Each set of three extension fuels shall be used only to extend the range of a single complex model parameter.</textblock>
+    <textblock>(1) The ``extension level'' shall refer to the level to which the parameter being tested is to be extended. The three fuels to be tested when extending the range of fuel parameters already included in the complex model or a prior augmentation to the complex model shall be referred to as ``extension fuels.''</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Fuel parameter</textblock>
+    <textblock>1Blending tolerance</textblock>
+    <textblock>Sulfur content</textblock>
+    <textblock>#</textblock>
+    <textblock>25 ppm.</textblock>
+    <textblock>Benzene content</textblock>
+    <textblock>#</textblock>
+    <textblock>0.2 vol %.</textblock>
+    <textblock>RVP</textblock>
+    <textblock>#</textblock>
+    <textblock>0.2 psi.</textblock>
+    <textblock>E200 level</textblock>
+    <textblock>#</textblock>
+    <textblock>2 %.</textblock>
+    <textblock>E300 level</textblock>
+    <textblock>#</textblock>
+    <textblock>4 %.</textblock>
+    <textblock>Oxygenate content</textblock>
+    <textblock>#</textblock>
+    <textblock>1.0 vol %.</textblock>
+    <textblock>Aromatics content</textblock>
+    <textblock>#</textblock>
+    <textblock>2.7 vol %.</textblock>
+    <textblock>Olefins content</textblock>
+    <textblock>#</textblock>
+    <textblock>2.5 vol %.</textblock>
+    <textblock>Saturates content</textblock>
+    <textblock>#</textblock>
+    <textblock>2.0 vol %.</textblock>
+    <textblock>Octane</textblock>
+    <textblock>#</textblock>
+    <textblock>0.5.</textblock>
+    <textblock>Detergent control additives</textblock>
+    <textblock>#</textblock>
+    <textblock>10% of the level required by EPA's detergents rule.</textblock>
+    <textblock>Candidate parameter</textblock>
+    <textblock>To be determined as part of the augmentation process.</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Fuel parameter</textblock>
+    <textblock>1Measurement uncertainty</textblock>
+    <textblock>API gravity</textblock>
+    <textblock>#</textblock>
+    <textblock>0.2</textblock>
+    <textblock>○API.</textblock>
+    <textblock>Sulfur content</textblock>
+    <textblock>#</textblock>
+    <textblock>10 ppm.</textblock>
+    <textblock>Benzene content</textblock>
+    <textblock>#</textblock>
+    <textblock>0.02 vol %.</textblock>
+    <textblock>RVP</textblock>
+    <textblock>#</textblock>
+    <textblock>0.05 psi.</textblock>
+    <textblock>Octane</textblock>
+    <textblock>#</textblock>
+    <textblock>0.2 (R+M/2).</textblock>
+    <textblock>E200 level</textblock>
+    <textblock>#</textblock>
+    <textblock>2%.</textblock>
+    <textblock>E300 level</textblock>
+    <textblock>#</textblock>
+    <textblock>2%.</textblock>
+    <textblock>Oxygenate content</textblock>
+    <textblock>#</textblock>
+    <textblock>0.2 vol %.</textblock>
+    <textblock>Aromatics content</textblock>
+    <textblock>#</textblock>
+    <textblock>0.5 vol %.</textblock>
+    <textblock>Olefins content</textblock>
+    <textblock>#</textblock>
+    <textblock>0.3 vol %.</textblock>
+    <textblock>Saturates content</textblock>
+    <textblock>#</textblock>
+    <textblock>1.0 vol %.</textblock>
+    <textblock>Detergent control additives</textblock>
+    <textblock>#</textblock>
+    <textblock>2% of the level required by EPA's detergents rule.</textblock>
+    <textblock>Candidate parameter</textblock>
+    <textblock>To be determined as part of the augmentation process.</textblock>
+  </table>
+</doc>

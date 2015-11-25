@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940214-0-00063</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940214-0-00004</textblock>
+  </parent>
+  <text>
+    <textblock>1. Building permits issued for the last 10 years.</textblock>
+    <textblock>The Housing Units Authorized by Building Permits and Public Contracts (C-40 Construction Report), furnished by the Bureau of the Census, provides a list of permits issued in all reporting jurisdictions. This publication is printed monthly and annually. If available, the number of units which have been demolished over the last 5 years will be needed.</textblock>
+    <textblock>Example:</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Year</textblock>
+    <textblock>1Town</textblock>
+    <textblock>2Single family</textblock>
+    <textblock>2Multifamily</textblock>
+    <textblock>2Demol.</textblock>
+    <textblock>1County</textblock>
+    <textblock>2Single family</textblock>
+    <textblock>2MultiFamily</textblock>
+    <textblock>2Demol.</textblock>
+    <textblock>19</textblock>
+    <textblock>XXX</textblock>
+    <textblock>19</textblock>
+    <textblock>XXX</textblock>
+    <textblock>19</textblock>
+    <textblock>XXX</textblock>
+    <textblock>19</textblock>
+    <textblock>XXX</textblock>
+    <textblock>Through current year</textblock>
+  </table>
+</doc>

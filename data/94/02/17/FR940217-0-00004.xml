@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940217-0-00004</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940217-0-00002</textblock>
+  </parent>
+  <text>
+    <textblock>Airworthiness Directives; Boeing Model 767 Series Airplanes Equipped With Carbon Brakes</textblock>
+  </text>
+  <usdept>
+    <textblock>DEPARTMENT OF TRANSPORTATION</textblock>
+  </usdept>
+  <usbureau>
+    <textblock>Federal Aviation Administration</textblock>
+  </usbureau>
+  <cfrno>
+    <textblock>14 CFR Part 39</textblock>
+  </cfrno>
+  <rindock>
+    <textblock>[Docket No. 93-NM-209-AD; Amendment 39-8814; AD 94-03-07]</textblock>
+  </rindock>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>Federal Aviation Administration, DOT.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>Final rule; correction.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>This document corrects a typographical error in an existing airworthiness directive (AD) that is applicable to certain Boeing Model 767 series airplanes. That AD currently requires inspections of the brake rod inner cylinder bolts on the main landing gear (MLG) wheels and brakes; inspections of certain MLG bushings; installation of retainer plates at each MLG brake disconnect; inspection and modification of the brake rod pin assembly at each MLG wheel; repair or replacement of discrepant parts; and revision of the Airplane Flight Manual (AFM), as necessary. This action corrects a column heading in a table that appeared in the rule. This action is necessary to ensure that affected operators are aware of the correct accellerate-stop distances to observe when complying with certain requirements of the rule.</textblock>
+  </summary>
+  <date>
+    <textblock>DATES:</textblock>
+    <textblock>Effective February 18, 1994.</textblock>
+    <textblock>The incorporation by reference of certain publications listed in the regulations was previously approved by the Director of the Federal Register as of February 18, 1994 (59 FR 5074, February 3, 1994).</textblock>
+  </date>
+  <address>
+    <textblock>ADDRESSES:</textblock>
+    <textblock>The service information referenced in this AD may be obtained from Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, Washington 98124-2207. This information may be examined at the Federal Aviation Administration (FAA), Transport Airplane Directorate, Rules Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC.</textblock>
+  </address>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>Kristin Larson, Aerospace Engineer, Systems and Equipment Branch, ANM-130S, FAA, Transport Airplane Directorate, Seattle Aircraft Certification Office, 1601 Lind Avenue SW., Renton, Washington 98055-4056; telephone (206) 227-1760; fax (206) 227-1181.</textblock>
+  </further>
+  <supplem>
+    <textblock>SUPPLEMENTARY INFORMATION:</textblock>
+    <textblock>On January 27, 1994, the FAA issued AD 94-03-07, Amendment 39-8814 (59 FR 5074, February 3, 1994), which is applicable to Boeing Model 767 series airplanes equipped with carbon brakes. That AD requires inspections of the brake rod inner cylinder bolts on the main landing gear (MLG) wheels and brakes; inspections of certain MLG bushings; installation of retainer plates at each MLG brake disconnect; inspection and modification of the brake rod pin assembly at each MLG wheel; repair or replacement of discrepant parts; and revision of the FAA-approved Airplane Flight Manual (AFM), as necessary. That action was prompted by numerous reports of brake failure during landing and during a low energy rejected takeoff. The actions required by that AD are intended to prevent failure of two or more MLG brakes, which could adversely affect the stopping performance of the airplane.</textblock>
+    <textblock>Recently, the FAA has become aware of the fact that the version of this AD that was published in the</textblock>
+    <textblock>Federal Register</textblock>
+    <textblock>contained a typographical error in paragraph (f). That paragraph requires that the AFM be revised to include information concerning two-brake-deactivated performance decrements that must be observed until certain inspections and installation actions required by paragraphs (a) through (b)(3) of the AD have been accomplished.</textblock>
+    <textblock>That AFM revision contains three ``options'' with which affected operators may comply. ``Option 3'' of this AFM revision information contains a table specifying ``Corrected Accelerate Stop Distances'' (Section 4.3 of the AFM) that operators who elect to comply with ``Option 3'' are to observe when calculating the maximum allowable takeoff weight of the airplane. In the portion of the AD published in the</textblock>
+    <textblock>Federal Register</textblock>
+    <textblock>, the headings of two columns [``Corrected Accel-Stop Distance (feet)'' and ``Adjusted Corrected Accel-Stop Distance (feet)''] in this table were inadvertently transposed. With such a transposition, the material appearing in the respective columns could be misleading to operators attempting to comply with this portion of the rule.</textblock>
+    <textblock>The FAA has determined that it is appropriate to take action to correct AD 94-03-07 to correctly label the columns of material appearing in the table included under ``Option 3'' of paragraph (f).</textblock>
+    <textblock>Action is taken herein to correct the error and to correctly add the AD as an amendment to §39.13 of the Federal Aviation Regulations (FAR). The effective date of the rule remains February 18, 1994.</textblock>
+    <textblock>The final rule is being reprinted in its entirety for the convenience of affected operators.</textblock>
+    <textblock>Since this action only corrects columnar headings in a table related to an optional method of compliance with a rule, it has no adverse economic impact and imposes no additional burden on any person. Therefore, notice and public procedures hereon are unnecessary.</textblock>
+    <textblock>List of Subjects in 14 CFR Part 39</textblock>
+    <textblock>Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety.</textblock>
+    <textblock>Adoption of the Correction</textblock>
+    <textblock>Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends 14 CFR part 39 of the Federal Aviation Regulations as follows:</textblock>
+  </supplem>
+</doc>

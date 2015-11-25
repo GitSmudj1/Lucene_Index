@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-1-00009</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-1-00003</textblock>
+  </parent>
+  <text>
+    <textblock>(1) Make a careful visual inspection of all the electrical wires and connectors between the synch-lock and its applicable power circuit breaker.</textblock>
+    <textblock>(2) Repair all the unserviceable electrical wire and connectors that you find.</textblock>
+    <textblock>(3) Use the multi-meter again to make sure there are no ``hot'' short circuits in the electrical system which can accidentally supply power to the synch-locks.</textblock>
+    <textblock>(d) If you find the correct conditions when you use the multi-meter, continue on and do the mechanical test of the synch-locks.</textblock>
+    <textblock>Note:</textblock>
+    <textblock>Make sure the circuit breakers shown above continue to be set to the closed position. Do not install the electrical connectors on the synch-locks at this time.</textblock>
+    <textblock>D. Do the mechanical test for the synch-locks.</textblock>
+    <textblock>(1) Supply hydraulic power.</textblock>
+    <textblock>Warning:</textblock>
+    <textblock>Make sure all persons and equipment are clear of the area behind each thrust reverser. If you do not obey this instruction, injuries to persons or damage to equipment can occur if the synch-locks do not operate correctly and the thrust reverser extends.</textblock>
+    <textblock>(2) Move the reverse thrust levers for the two engines to try to extend the thrust reversers with hydraulic power.</textblock>
+    <textblock>Note:</textblock>
+    <textblock>If the thrust reversers do not extend, the synch-locks are serviceable. If the thrust reversers extend, the applicable synch-locks did not operate correctly.</textblock>
+    <textblock>(3) Replace the applicable synch-locks on the thrust reverser that extended when you moved the reverse thrust levers.</textblock>
+    <textblock>(4) Make sure the reverse thrust levers are in the fully stowed position.</textblock>
+    <textblock>(5) Install the applicable L(R) electrical connectors, D20194(D20196), on the L(R) synch-locks, V170(V171).</textblock>
+    <textblock>Warning:</textblock>
+    <textblock>Make sure all persons and equipment are clear of the area behind the thrust reversers. If you do not obey this instruction, injuries to persons or damage to equipment can occur when the thrust reversers are extended.</textblock>
+    <textblock>(6) Move the reverser thrust levers for the two engines to extend the thrust reversers with hydraulic power.</textblock>
+    <textblock>Note:</textblock>
+    <textblock>If the thrust reversers extend, the synch-locks are serviceable. If the thrust reversers do not extend, the applicable synch-locks did not operate correctly.</textblock>
+    <textblock>(7) Replace the applicable synch-locks on the thrust reverser that did not extend when you moved the reverse thrust levers.</textblock>
+    <textblock>E. Put the airplane back to its usual condition.</textblock>
+    <textblock>(1) Move the reverse thrust levers to fully retract the thrust reversers on the two engines with hydraulic power.</textblock>
+    <textblock>(2) Remove the hydraulic power if it is not necessary.</textblock>
+    <textblock>(3) Remove the electrical power if it is not necessary.</textblock>
+    <textblock>(4) Close the fan cowl panels.</textblock>
+    <textblock>(f) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, Seattle Aircraft Certification Office (ACO), FAA, Transport Airplane Directorate. Operators shall submit their requests through an appropriate FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, Seattle ACO.</textblock>
+    <textblock>Note:</textblock>
+    <textblock>Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Seattle ACO.</textblock>
+    <textblock>(g) Special flight permits may be issued in accordance with FAR 21.197 and 21.199 to operate the airplane to a location where the requirements of this AD can be accomplished.</textblock>
+    <textblock>Issued in Renton, Washington, on January 27, 1994.</textblock>
+  </text>
+  <signer>
+    <textblock>James V. Devany,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Transport Airplane Directorate, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-2334 Filed 2-1-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-P</textblock>
+  </billing>
+</doc>

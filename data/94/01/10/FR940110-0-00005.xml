@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940110-0-00005</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940110-0-00001</textblock>
+  </parent>
+  <text/>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>I._</textblock>
+    <textblock>Classification of Flavor With Corresponding U.S. Grade</textblock>
+    <textblock>1Flavor characteristics1</textblock>
+    <textblock>1U.S. grade designation</textblock>
+    <textblock>2AA</textblock>
+    <textblock>2A</textblock>
+    <textblock>Acid</textblock>
+    <textblock>_</textblock>
+    <textblock>S</textblock>
+    <textblock>Aged</textblock>
+    <textblock>_</textblock>
+    <textblock>S</textblock>
+    <textblock>Bitter</textblock>
+    <textblock>_</textblock>
+    <textblock>S</textblock>
+    <textblock>Coarse</textblock>
+    <textblock>_</textblock>
+    <textblock>S</textblock>
+    <textblock>Cooked</textblock>
+    <textblock>D</textblock>
+    <textblock>Feed</textblock>
+    <textblock>S</textblock>
+    <textblock>D</textblock>
+    <textblock>Flat</textblock>
+    <textblock>_</textblock>
+    <textblock>S</textblock>
+    <textblock>Smothered</textblock>
+    <textblock>_</textblock>
+    <textblock>S</textblock>
+    <textblock>Storage</textblock>
+    <textblock>_</textblock>
+    <textblock>S</textblock>
+    <textblock>1When more than one flavor is discernible in a sample of whipped butter, the flavor classification of the sample shall be established on the basis of the flavor that carries the lowest rating.</textblock>
+    <textblock>(_) = Not Permitted</textblock>
+    <textblock>S = Slight</textblock>
+    <textblock>D = Definite</textblock>
+  </table>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>II._</textblock>
+    <textblock>Characteristics and Disratings in Body, Color and Salt</textblock>
+    <textblock>1Characteristics</textblock>
+    <textblock>1Disratings</textblock>
+    <textblock>2Slight</textblock>
+    <textblock>2Definite</textblock>
+    <textblock>Body:</textblock>
+    <textblock>Free moisture</textblock>
+    <textblock>␣1/2</textblock>
+    <textblock>␣1</textblock>
+    <textblock>Mealy or grainy</textblock>
+    <textblock>␣1/2</textblock>
+    <textblock>␣1</textblock>
+    <textblock>Color:</textblock>
+    <textblock>Color specks</textblock>
+    <textblock>␣1</textblock>
+    <textblock>␣11/2</textblock>
+    <textblock>Mottled</textblock>
+    <textblock>␣1/2</textblock>
+    <textblock>␣1</textblock>
+    <textblock>Wavy</textblock>
+    <textblock>␣1/2</textblock>
+    <textblock>␣1</textblock>
+    <textblock>Salt:</textblock>
+    <textblock>Gritty</textblock>
+    <textblock>␣1</textblock>
+    <textblock>␣11/2</textblock>
+    <textblock>Sharp</textblock>
+    <textblock>␣1</textblock>
+    <textblock>␣11/2</textblock>
+  </table>
+</doc>

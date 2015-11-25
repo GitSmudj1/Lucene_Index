@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940104-0-00063</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940104-0-00015</textblock>
+  </parent>
+  <text/>
+  <table>
+    <textblock>Chart</textblock>
+    <textblock>1._</textblock>
+    <textblock>Incremental Risks1 Due to Cross Contaminated Wastes</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1Constituent</textblock>
+    <textblock>1Significant threat pathway</textblock>
+    <textblock>1Central tendency</textblock>
+    <textblock>1High end</textblock>
+    <textblock>1Population risk</textblock>
+    <textblock>Proposed in NPRM</textblock>
+    <textblock>Pentachlorophenate (assumed 30 year pulse)</textblock>
+    <textblock>Ground water</textblock>
+    <textblock>5×10</textblock>
+    <textblock>^7</textblock>
+    <textblock>2×10</textblock>
+    <textblock>^4</textblock>
+    <textblock>.005</textblock>
+    <textblock>␣</textblock>
+    <textblock>Dioxin fish and shellfish consumption (general population and recreational fisher)</textblock>
+    <textblock>Soil</textblock>
+    <textblock>18×10</textblock>
+    <textblock>^10</textblock>
+    <textblock>(general population)</textblock>
+    <textblock>4×10</textblock>
+    <textblock>^7</textblock>
+    <textblock>, rec fisher</textblock>
+    <textblock>0.2</textblock>
+    <textblock>␣</textblock>
+    <textblock>Dioxin soil ingestion</textblock>
+    <textblock>Soil</textblock>
+    <textblock>7×10</textblock>
+    <textblock>^7</textblock>
+    <textblock>2×10</textblock>
+    <textblock>^5</textblock>
+    <textblock>.0004</textblock>
+    <textblock>Revised</textblock>
+    <textblock>Pentachlorophenate (2 year pulse, for large facilities)</textblock>
+    <textblock>Ground water</textblock>
+    <textblock>6×10</textblock>
+    <textblock>^7</textblock>
+    <textblock>2×10</textblock>
+    <textblock>^5</textblock>
+    <textblock>.007</textblock>
+    <textblock>␣</textblock>
+    <textblock>Pentachlorophenate (6 year pulse, for small facilities)</textblock>
+    <textblock>Ground water</textblock>
+    <textblock>2×10</textblock>
+    <textblock>^6</textblock>
+    <textblock>6×10</textblock>
+    <textblock>^5</textblock>
+    <textblock>0.02</textblock>
+    <textblock>␣</textblock>
+    <textblock>Dioxin fish &amp; shellfish consumption (recreational fisher)</textblock>
+    <textblock>Soil</textblock>
+    <textblock>2×10</textblock>
+    <textblock>^12</textblock>
+    <textblock>3×10</textblock>
+    <textblock>^11</textblock>
+    <textblock>NR</textblock>
+    <textblock>␣</textblock>
+    <textblock>Dioxin fish &amp; shellfish consumption (general pop.)</textblock>
+    <textblock>Soil</textblock>
+    <textblock>8×10</textblock>
+    <textblock>^13</textblock>
+    <textblock>1×10</textblock>
+    <textblock>^11</textblock>
+    <textblock>.0002</textblock>
+    <textblock>␣</textblock>
+    <textblock>Dioxin soil ingestion</textblock>
+    <textblock>Soil</textblock>
+    <textblock>7×10</textblock>
+    <textblock>^10</textblock>
+    <textblock>2×10</textblock>
+    <textblock>^9</textblock>
+    <textblock>4×10</textblock>
+    <textblock>^7</textblock>
+    <textblock>1Excess lifetime cancer risk.</textblock>
+  </table>
+</doc>

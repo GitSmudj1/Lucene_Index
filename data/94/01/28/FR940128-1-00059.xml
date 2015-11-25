@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940128-1-00059</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940128-1-00006</textblock>
+  </parent>
+  <text>
+    <textblock>Temperature-recording devices are easily jarred and rendered</textblock>
+    <textblock>inaccurate. They can be calibrated and corrected against a</textblock>
+    <textblock>temperature-indicating device (e.g., a thermometer) quite easily,</textblock>
+    <textblock>however. Processors should do so at least at the beginning and</textblock>
+    <textblock>end of each production day in order to determine whether the</textblock>
+    <textblock>instrument was accurate throughout the day's production. In this</textblock>
+    <textblock>situation, the temperature-indicating device serves as reference</textblock>
+    <textblock>instrument since it is much more reliable. Consequently, the</textblock>
+    <textblock>temperature-recording device should never show a higher</textblock>
+    <textblock>temperature than the temperature-indicating device.</textblock>
+    <textblock>Temperature-indicating devices are generally reliable and</textblock>
+    <textblock>need only be calibrated upon installation and annually</textblock>
+    <textblock>thereafter. Calibration should be against a standardized (i.e.,</textblock>
+    <textblock>traceable to the National Bureau of Standards) thermometer that</textblock>
+    <textblock>is not subject to the rigors of the processing environment (Ref.</textblock>
+    <textblock>85). Temperature-indicating devices must often be read under</textblock>
+    <textblock>less than ideal plant conditions, so they should be installed in</textblock>
+    <textblock>a location that facilitates easy reading. As with the</textblock>
+    <textblock>temperature-recording device, the sensor on the temperature-indicating device should be installed so as to accurately</textblock>
+    <textblock>represent the temperature of the heating or cooling medium.</textblock>
+    <textblock>5. Corrective Actions</textblock>
+    <textblock>Appendix A, section 8. advises processors about corrective</textblock>
+    <textblock>action steps that they should consider to comply with the</textblock>
+    <textblock>proposed corrective action requirements in §123.7 of subpart A.</textblock>
+    <textblock>Because the evaluation of critical limit failures relating to the</textblock>
+    <textblock>cooking step and the terminal heat treatment step of cooked,</textblock>
+    <textblock>ready-to-eat products may well require an understanding of the</textblock>
+    <textblock>technical aspects of thermal process calculations, Appendix A,</textblock>
+    <textblock>section 8. recommends additional controls to those required by</textblock>
+    <textblock>§123.7 in this regard. Of primary importance is the</textblock>
+    <textblock>recommendation that any corrective action other than processing</textblock>
+    <textblock>to eliminate the hazard or destruction must be assessed by a</textblock>
+    <textblock>competent process authority. For this purpose, a process</textblock>
+    <textblock>authority may be a representative of the firm or may be an</textblock>
+    <textblock>outside source, so long as the process authority has a scientific</textblock>
+    <textblock>background that is adequate to make the assessment.</textblock>
+    <textblock>6. Sanitary Zones</textblock>
+    <textblock>Section 123.10 of subpart A establishes requirements for all</textblock>
+    <textblock>processors for sanitation within the processing environment. In</textblock>
+    <textblock>addition to these requirements, this guideline recommends in</textblock>
+    <textblock>Appendix A, section 8. that processors of cooked, ready-to-eat</textblock>
+    <textblock>products establish sanitary zones in their facilities. The</textblock>
+    <textblock>agency invites comments on the merits of this concept and on</textblock>
+    <textblock>whether it should be codified in the regulations.</textblock>
+    <textblock>The importance of good sanitation in the processing of</textblock>
+    <textblock>cooked, ready-to-eat products cannot be overemphasized. While,</textblock>
+    <textblock>as has been stated earlier, plant sanitation has no real bearing</textblock>
+    <textblock>on human food safety for many foods, the safety of cooked, ready-to-eat products can be easily jeopardized by pathogens that are</textblock>
+    <textblock>introduced through poor sanitation practices. Consequently, FDA</textblock>
+    <textblock>is recommending that processors establish sanitary zones around</textblock>
+    <textblock>areas where products that have already been cooked are being</textblock>
+    <textblock>handled or stored. The primary purpose of a sanitary zone is to</textblock>
+    <textblock>physically separate insanitary objects from cooked products.</textblock>
+    <textblock>Sanitary zones can also minimize the likelihood of airborne contamination through proper filtration and positive air pressure</textblock>
+    <textblock>in the zone.</textblock>
+    <textblock>A sanitary zone is a separation of operations by location,</textblock>
+    <textblock>partition, air flow, or enclosed systems. In most cases, it</textblock>
+    <textblock>requires procedural changes to minimize the risk of contamination</textblock>
+    <textblock>but not large-scale structural changes. Canada has successfully</textblock>
+    <textblock>incorporated the concept of sanitary zones for seafood processing</textblock>
+    <textblock>as part of its HACCP-based inspection program (Ref. 116).</textblock>
+    <textblock>K. Guideline For Scombroid Toxin Forming Species</textblock>
+    <textblock>FDA is proposing a guideline in Appendix B for handling of</textblock>
+    <textblock>the species in which scombroid toxin can form. This problem is</textblock>
+    <textblock>primarily, but not exclusively, associated with members of the</textblock>
+    <textblock>family Scombridae. The fish involved contain significant levels</textblock>
+    <textblock>of naturally occurring free histidine in their flesh, which</textblock>
+    <textblock>certain bacteria can decarboxylate into histamine. Significant</textblock>
+    <textblock>histamine levels occur when the fish are exposed after death to</textblock>
+    <textblock>times and temperatures that permit the growth of these bacteria.</textblock>
+    <textblock>Histamine can result in a mild to severe allergic response in</textblock>
+    <textblock>humans. Scombrotoxin poisoning is one of the three most common</textblock>
+    <textblock>seafood-related illnesses (Ref. 5, p. 24). The scombrotoxic</textblock>
+    <textblock>species that have been associated with foodborne illness include</textblock>
+    <textblock>tuna, bluefish, mahi, mackerel, sardines, herring, kahawai,</textblock>
+    <textblock>anchovies, and marlin.</textblock>
+    <textblock>This HACCP guidance is intended to maximize the use of</textblock>
+    <textblock>controls to ensure proper handling of scombrotoxic species and</textblock>
+    <textblock>thus to minimize the possibility of a problem. It also</textblock>
+    <textblock>recognizes the often complex pathways of movement and ownership</textblock>
+    <textblock>through which such fish may pass. Failure to ensure safe</textblock>
+    <textblock>handling at any point in the chain may render the fish injurious</textblock>
+    <textblock>to health.</textblock>
+    <textblock>There is a basis for concern about the safety of the fish as</textblock>
+    <textblock>soon as histamine begins to form. Once the histamine-forming</textblock>
+    <textblock>process has begun, it is like a chain reaction. Lowering the</textblock>
+    <textblock>temperature of, or freezing, the fish will slow or arrest the</textblock>
+    <textblock>process, but only cooking and prevention of recontamination can</textblock>
+    <textblock>stop it (Refs. 9 and 117).</textblock>
+    <textblock>The guideline describes a HACCP system that emphasizes</textblock>
+    <textblock>reliance upon accurate recordkeeping to show continuity of proper</textblock>
+    <textblock>handling. Accurate knowledge of the time/temperature history of</textblock>
+    <textblock>the fish is very important in determining the likelihood that the</textblock>
+    <textblock>fish are unsafe or may become unsafe. The guideline also calls</textblock>
+    <textblock>for more stringent processor controls to be applied to lots for</textblock>
+    <textblock>which records are inadequate. While this guideline is designed</textblock>
+    <textblock>to prevent problems, nothing in it should be construed as meaning</textblock>
+    <textblock>that the agency will not take regulatory action if it finds</textblock>
+    <textblock>decomposed fish.</textblock>
+    <textblock>The guideline in Appendix B, section 2. identifies receipt</textblock>
+    <textblock>of raw materials, which include imported shipments, as a critical</textblock>
+    <textblock>control point for processors of scombroid toxin forming species.</textblock>
+    <textblock>Time/temperature abuse by the fisherman can result in</textblock>
+    <textblock>decomposition and the resultant production of histamine.</textblock>
+  </text>
+</doc>

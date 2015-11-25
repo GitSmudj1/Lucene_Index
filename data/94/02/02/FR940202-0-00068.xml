@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00068</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>(d)</textblock>
+    <textblock>Treatment of certain options.</textblock>
+    <textblock>This paragraph (d)</textblock>
+    <textblock>provides rules for determining the issue price of a debt</textblock>
+    <textblock>instrument to which section 1274 applies (other than a debt</textblock>
+    <textblock>instrument issued in a potentially abusive situation) that is</textblock>
+    <textblock>subject to one or more options described in both paragraphs</textblock>
+    <textblock>(c)(1) and (c)(5) of §1.1272-1. Under this paragraph (d), an</textblock>
+    <textblock>issuer will be deemed to exercise or not exercise an option or</textblock>
+    <textblock>combination of options in a manner that minimizes the</textblock>
+    <textblock>instrument's imputed principal amount, and a holder will be</textblock>
+    <textblock>deemed to exercise or not exercise an option or combination of</textblock>
+    <textblock>options in a manner that maximizes the instrument's imputed</textblock>
+    <textblock>principal amount. If both the issuer and the holder have</textblock>
+    <textblock>options, the rules of this paragraph (d) are applied to the</textblock>
+    <textblock>options in the order that they may be exercised. Thus, the</textblock>
+    <textblock>deemed exercise of one option may eliminate other options that</textblock>
+    <textblock>are later in time. See §1.1272-1(c)(5) to determine the debt</textblock>
+    <textblock>instrument's yield and maturity for purposes of determining the</textblock>
+    <textblock>accrual of OID with respect to the instrument.</textblock>
+    <textblock>(e)</textblock>
+    <textblock>Mandatory sinking funds.</textblock>
+    <textblock>In determining the issue price</textblock>
+    <textblock>of a debt instrument to which section 1274 applies (other than a</textblock>
+    <textblock>debt instrument issued in a potentially abusive situation) and</textblock>
+    <textblock>that is subject to a mandatory sinking fund provision described</textblock>
+    <textblock>in §1.1272-1(c)(3)(ii), the mandatory sinking fund provision is</textblock>
+    <textblock>ignored.</textblock>
+    <textblock>(f)</textblock>
+    <textblock>Treatment of variable rate debt instruments_</textblock>
+    <textblock>(1)</textblock>
+    <textblock>Stated</textblock>
+    <textblock>interest at a qualified floating rate_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>In general.</textblock>
+    <textblock>For</textblock>
+    <textblock>purposes of paragraph (c) of this section, the imputed principal</textblock>
+    <textblock>amount of a variable rate debt instrument (within the meaning of</textblock>
+    <textblock>§1.1275-5(a)) that provides for stated interest at a qualified</textblock>
+    <textblock>floating rate (or rates) is determined by assuming that the</textblock>
+    <textblock>instrument provides for a fixed rate of interest for each accrual</textblock>
+    <textblock>period to which a qualified floating rate applies. For purposes</textblock>
+    <textblock>of the preceding sentence, the assumed fixed rate in each accrual</textblock>
+    <textblock>period is the greater of_</textblock>
+    <textblock>(A) The value of the applicable qualified floating rate as</textblock>
+    <textblock>of the first date on which there is a binding written contract</textblock>
+    <textblock>that substantially sets forth the terms under which the sale or</textblock>
+    <textblock>exchange is ultimately consummated; or</textblock>
+    <textblock>(B) The value of the applicable qualified floating rate as</textblock>
+    <textblock>of the date on which the sale or exchange occurs.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Interest rate restrictions.</textblock>
+    <textblock>Notwithstanding paragraph</textblock>
+    <textblock>(f)(1)(i) of this section, if, as a result of interest rate</textblock>
+    <textblock>restrictions (such as an interest rate cap), the expected yield</textblock>
+    <textblock>of the debt instrument taking the restrictions into account is</textblock>
+    <textblock>significantly less than the expected yield of the debt instrument</textblock>
+    <textblock>without regard to the restrictions, the interest payments on the</textblock>
+    <textblock>debt instrument (other than any fixed interest payments) are</textblock>
+    <textblock>treated as contingent payments. Reasonably symmetric interest</textblock>
+    <textblock>rate caps and floors, or reasonably symmetric governors, that are</textblock>
+    <textblock>fixed throughout the term of the debt instrument do not result in</textblock>
+    <textblock>the debt instrument being subject to this rule.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Stated interest at a single objective rate.</textblock>
+    <textblock>For</textblock>
+    <textblock>purposes of paragraph (c) of this section, the imputed principal</textblock>
+    <textblock>amount of a variable rate debt instrument (within the meaning of</textblock>
+    <textblock>§1.1275-5(a)) that provides for stated interest at a single</textblock>
+    <textblock>objective rate is determined by treating the interest payments as</textblock>
+    <textblock>contingent payments.</textblock>
+    <textblock>(g)</textblock>
+    <textblock>Contingent payments.</textblock>
+    <textblock>[Reserved]</textblock>
+    <textblock>(h)</textblock>
+    <textblock>Examples.</textblock>
+    <textblock>The following examples illustrate the rules</textblock>
+    <textblock>of this section. Each example assumes a 30-day month, 360-day</textblock>
+    <textblock>year. In addition, each example assumes that the debt instrument</textblock>
+    <textblock>is not a qualified debt instrument (as defined in section</textblock>
+    <textblock>1274A(b)) and is not issued in a potentially abusive situation.</textblock>
+    <textblock>Example 1. Debt instrument without a fixed rate over its</textblock>
+    <textblock>entire term_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>On January 1, 1995, A sells nonpublicly</textblock>
+    <textblock>traded property to B for a stated purchase price of $3,500,000.</textblock>
+    <textblock>In consideration for the sale, B makes a down payment of $500,000</textblock>
+    <textblock>and issues a 10-year debt instrument with a stated principal</textblock>
+    <textblock>amount of $3,000,000, payable at maturity. The debt instrument</textblock>
+    <textblock>calls for no interest in the first 2 years and interest at a rate</textblock>
+    <textblock>of 15 percent payable annually over the remaining 8 years of the</textblock>
+    <textblock>debt instrument. The first interest payment of $450,000 is due</textblock>
+    <textblock>on December 31, 1997, and the last interest payment is due on</textblock>
+    <textblock>December 31, 2004, together with the $3,000,000 payment of</textblock>
+    <textblock>principal. Assume that the test rate of interest applicable to</textblock>
+    <textblock>the debt instrument is 10.5 percent, compounded annually.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Applicability of section 1274.</textblock>
+    <textblock>Because the debt</textblock>
+    <textblock>instrument does not provide for any interest during the first 2</textblock>
+    <textblock>years, none of the interest on the debt instrument is qualified</textblock>
+    <textblock>stated interest. Therefore, the issue price of the debt</textblock>
+    <textblock>instrument is determined under section 1274. See §1.1274-1(b)(1). If the debt instrument has adequate stated interest,</textblock>
+    <textblock>the issue price of the instrument is its stated principal amount.</textblock>
+    <textblock>Otherwise, the issue price of the debt instrument is its imputed</textblock>
+    <textblock>principal amount. The debt instrument has adequate stated</textblock>
+    <textblock>interest only if the stated principal amount is less than or</textblock>
+    <textblock>equal to the imputed principal amount.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Determination of imputed principal amount.</textblock>
+    <textblock>To compute</textblock>
+    <textblock>the imputed principal amount of the debt instrument, all payments</textblock>
+    <textblock>due under the debt instrument are discounted back to the issue</textblock>
+    <textblock>date at 10.5 percent, compounded annually, as follows:</textblock>
+  </text>
+</doc>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00217</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(v) For each of the following parameters, either</textblock>
+    <textblock>gasoline or RBOB which meets the standard applicable to that</textblock>
+    <textblock>parameter on a per-gallon basis or on average:</textblock>
+    <textblock>(A) Toxics emissions performance;</textblock>
+    <textblock>(B) NO</textblock>
+    <textblock>x</textblock>
+    <textblock>emissions performance;</textblock>
+    <textblock>(C) Benzene content;</textblock>
+    <textblock>(D) With the exception of RBOB, oxygen content;</textblock>
+    <textblock>(E) In the case of VOC-controlled gasoline or RBOB</textblock>
+    <textblock>certified using the simple model, RVP; and</textblock>
+    <textblock>(F) In the case of VOC-controlled gasoline or RBOB</textblock>
+    <textblock>certified using the complex model, VOC emissions</textblock>
+    <textblock>performance; and</textblock>
+    <textblock>(vi) In the case of RBOB, either as RBOB that may be</textblock>
+    <textblock>blended with any oxygenate, or RBOB that may be blended with</textblock>
+    <textblock>an ether only.</textblock>
+    <textblock>(3) Each batch of reformulated or conventional</textblock>
+    <textblock>gasoline or RBOB produced or imported at each refinery or</textblock>
+    <textblock>import facility, or each batch of blendstock produced and</textblock>
+    <textblock>sold or transferred if blendstock accounting is required</textblock>
+    <textblock>under §80.101(d)(1)(ii), shall be assigned a number (the</textblock>
+    <textblock>``batch number''), consisting of the EPA-assigned refiner,</textblock>
+    <textblock>importer, or oxygenate blender registration number, the EPA-</textblock>
+    <textblock>assigned facility registration number, the last two digits</textblock>
+    <textblock>of the year in which the batch was produced, and a unique</textblock>
+    <textblock>number for the batch, beginning with the number one for the</textblock>
+    <textblock>first batch produced or imported each calendar year and each</textblock>
+    <textblock>subsequent batch during the calendar year being assigned the</textblock>
+    <textblock>next sequential number (e.g., 4321-4321-95-001, 4321-4321-95-002, etc.).</textblock>
+    <textblock>(e)</textblock>
+    <textblock>Determination of properties.</textblock>
+    <textblock>(1) Each refiner or</textblock>
+    <textblock>importer shall determine the value of each of the properties</textblock>
+    <textblock>specified in paragraph (e)(2)(i) of this section for each</textblock>
+    <textblock>batch of reformulated gasoline it produces or imports prior</textblock>
+    <textblock>to the gasoline leaving the refinery or import facility, by</textblock>
+    <textblock>collecting and analyzing a representative sample of gasoline</textblock>
+    <textblock>taken from the batch, using the methodologies specified in</textblock>
+    <textblock>§80.46. This collection and analysis shall be carried out</textblock>
+    <textblock>either by the refiner or importer, or by an independent</textblock>
+    <textblock>laboratory. A batch of simple model reformulated gasoline</textblock>
+    <textblock>may be released by the refiner or importer prior to the</textblock>
+    <textblock>receipt of the refiner's or importer's test results except</textblock>
+    <textblock>for test results for oxygen, benzene, and RVP.</textblock>
+    <textblock>(2) In the event that the values of any of these</textblock>
+    <textblock>properties is determined by the refiner or importer and by</textblock>
+    <textblock>an independent laboratory in conformance with the</textblock>
+    <textblock>requirements of paragraph (f) of this section:</textblock>
+    <textblock>(i) The results of the analyses conducted by the</textblock>
+    <textblock>refiner or importer for such properties shall be used as the</textblock>
+    <textblock>basis for compliance determinations unless the absolute</textblock>
+    <textblock>value of the differences of the test results from the two</textblock>
+    <textblock>laboratories is larger than the following values:</textblock>
+    <textblock>(ii) In the event the values from the two laboratories</textblock>
+    <textblock>for any property fall outside these ranges, the refiner or</textblock>
+    <textblock>importer shall use as the basis for compliance</textblock>
+    <textblock>determinations:</textblock>
+    <textblock>(A) The larger of the two values for the property,</textblock>
+    <textblock>except the smaller of the two results shall be used for</textblock>
+    <textblock>MTBE, ethanol, methanol, or ETBE for calculating compliance</textblock>
+    <textblock>with all requirements and standards except RVP; or</textblock>
+    <textblock>(B) The refiner shall have the gasoline analyzed for</textblock>
+    <textblock>the property at one additional independent laboratory. If</textblock>
+    <textblock>this second independent laboratory obtains a result for the</textblock>
+    <textblock>property that is within the range, as listed in paragraph</textblock>
+    <textblock>(e)(2)(i) of this section, of the refiner's or importer's</textblock>
+    <textblock>result for this property, then the refiner's or importer's</textblock>
+    <textblock>result shall be used as the basis for compliance</textblock>
+    <textblock>determinations.</textblock>
+    <textblock>(f)</textblock>
+    <textblock>Independent analysis requirement.</textblock>
+    <textblock>(1) Any</textblock>
+    <textblock>refiner or importer of reformulated gasoline or RBOB shall</textblock>
+    <textblock>carry out a program of independent sample collection and</textblock>
+    <textblock>analyses for the reformulated gasoline it produces or</textblock>
+    <textblock>imports, which meets the requirements of one of the</textblock>
+    <textblock>following two options:</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Option 1.</textblock>
+    <textblock>The refiner or importer shall, for each</textblock>
+    <textblock>batch of reformulated gasoline or RBOB that is produced or</textblock>
+    <textblock>imported, have the value for each property specified in</textblock>
+    <textblock>paragraph (e)(2)(i) of this section determined by an</textblock>
+    <textblock>independent laboratory that collects and analyzes a</textblock>
+    <textblock>representative sample from the batch using the methodologies</textblock>
+    <textblock>specified in §80.46.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Option 2.</textblock>
+    <textblock>The refiner or importer shall have a</textblock>
+    <textblock>periodic independent testing program carried out for all</textblock>
+    <textblock>reformulated gasoline produced or imported, which shall</textblock>
+    <textblock>consist of the following:</textblock>
+    <textblock>(A) An independent laboratory shall collect a</textblock>
+    <textblock>representative sample from each batch of reformulated</textblock>
+    <textblock>gasoline that the refiner or importer produces or imports;</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Fuel property</textblock>
+    <textblock>1Range</textblock>
+    <textblock>Sulfur content</textblock>
+    <textblock>25 ppm</textblock>
+    <textblock>Aromatics content</textblock>
+    <textblock>2.7 vol %</textblock>
+    <textblock>Olefins content</textblock>
+    <textblock>2.5 vol %</textblock>
+    <textblock>Benzene content</textblock>
+    <textblock>0.21 vol %</textblock>
+    <textblock>Ethanol content</textblock>
+    <textblock>0.4 vol %</textblock>
+    <textblock>Methanol content</textblock>
+    <textblock>0.2 vol %</textblock>
+    <textblock>MTBE (and other methyl ethers) content</textblock>
+    <textblock>0.6 vol %</textblock>
+    <textblock>ETBE (and other ethyl ethers) content</textblock>
+    <textblock>0.6 vol %</textblock>
+    <textblock>TAME</textblock>
+    <textblock>0.6 vol %</textblock>
+    <textblock>t-Butanol content</textblock>
+    <textblock>0.6 vol %</textblock>
+    <textblock>RVP</textblock>
+    <textblock>0.3 psi</textblock>
+    <textblock>50% distillation</textblock>
+    <textblock>5</textblock>
+    <textblock>○F</textblock>
+    <textblock>90% distillation</textblock>
+    <textblock>5</textblock>
+    <textblock>○F</textblock>
+    <textblock>API Gravity</textblock>
+    <textblock>0.3</textblock>
+    <textblock>○API</textblock>
+  </table>
+</doc>

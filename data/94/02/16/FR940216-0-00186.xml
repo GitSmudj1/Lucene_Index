@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00186</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>v</textblock>
+    <textblock>2</textblock>
+    <textblock>(t)=Higher emitter VOC equation as defined in</textblock>
+    <textblock>paragraph (c)(1)(ii) of this section, evaluated</textblock>
+    <textblock>using the target fuel's properties subject to</textblock>
+    <textblock>paragraphs (c)(1) (iii) and (iv) of this section</textblock>
+    <textblock>v</textblock>
+    <textblock>1</textblock>
+    <textblock>(b)=Normal emitter VOC equation as defined in</textblock>
+    <textblock>paragraph (c)(1)(i) of this section, evaluated</textblock>
+    <textblock>using the base fuel's properties</textblock>
+    <textblock>v</textblock>
+    <textblock>2</textblock>
+    <textblock>(b)=Higher emitter VOC equation as defined in</textblock>
+    <textblock>paragraph (c)(1)(ii) of this section, evaluated</textblock>
+    <textblock>using the base fuel's properties</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Consolidated VOC equation for normal emitters.</textblock>
+    <textblock>v</textblock>
+    <textblock>1</textblock>
+    <textblock>=(^0.003641×OXY)+(0.0005219×SUL)+(0.0289749×RVP)+(^0.014470×E200)+(^0.068624×E300)+(0.0323712×ARO)+(^0.002858×OLE)+(0.0001072×E2002)+(0.0004087×E3002)+(^0.0003481×ARO×E300)</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>VOC equation for higher emitters.</textblock>
+    <textblock>v</textblock>
+    <textblock>2</textblock>
+    <textblock>=(^0.003626×OXY)+(^5.40X10-5×SUL)+(0.043295×RVP)+(^0.013504×E200)+(^0.062327×E300)+(0.0282042×ARO)+(^0.002858×OLE)+(0.000106×E2002)+(0.000408×E3002)+(^0.000287×ARO×E300)</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Flat line extrapolations.</textblock>
+    <textblock>(A) During Phase I,</textblock>
+    <textblock>fuels with E200 values greater than 65.83 percent shall be</textblock>
+    <textblock>evaluated with the E200 fuel parameter set equal to 65.83</textblock>
+    <textblock>percent when calculating Y</textblock>
+    <textblock>voc</textblock>
+    <textblock>(t) and VOCE using the equations</textblock>
+    <textblock>described in paragraphs (c)(1) (i) and (ii) of this section.</textblock>
+    <textblock>Fuels with E300 values greater than E300* (calculated using</textblock>
+    <textblock>the equation E300*=80.32+[0.390×ARO]) shall be</textblock>
+    <textblock>evaluated with the E300 parameter set equal to E300* when</textblock>
+    <textblock>calculating VOCE using the equations described in paragraphs</textblock>
+    <textblock>(c)(1) (i) and (ii) of this section. For E300* values</textblock>
+    <textblock>greater than 94, the linearly extrapolated model presented</textblock>
+    <textblock>in paragraph (c)(1)(iv) of this section shall be used.</textblock>
+    <textblock>(B) During Phase II, fuels with E200 values greater</textblock>
+    <textblock>than 65.52 percent shall be evaluated with the E200 fuel</textblock>
+    <textblock>parameter set equal to 65.52 percent when calculating VOCE</textblock>
+    <textblock>using the equations described in paragraphs (c)(1) (i) and</textblock>
+    <textblock>(ii) of this section. Fuels with E300 values greater than</textblock>
+    <textblock>E300* (calculated using the equation E300*=79.75+[0.385</textblock>
+    <textblock>×ARO]) shall be evaluated with the E300 parameter set equal</textblock>
+    <textblock>to E300* when calculating VOCE using the equations described</textblock>
+    <textblock>in paragraphs (c)(1) (i) and (ii) of this section. For E300*</textblock>
+    <textblock>values greater than 94, the linearly extrapolated model</textblock>
+    <textblock>presented in paragraph (c)(1)(iv) of this section shall be</textblock>
+    <textblock>used.</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Linear extrapolations.</textblock>
+    <textblock>(A) The equations in</textblock>
+    <textblock>paragraphs (c)(1) (i) and (ii) of this section shall be used</textblock>
+    <textblock>within the allowable range of E300, E200, and ARO for the</textblock>
+    <textblock>appropriate Phase, as defined in Table 6:</textblock>
+    <textblock>(B) For fuels with E200, E300 and ARO levels outside</textblock>
+    <textblock>the ranges defined in Table 6, Y</textblock>
+    <textblock>voc</textblock>
+    <textblock>(t) shall be defined as:</textblock>
+    <textblock>For Phase I:</textblock>
+    <textblock>Y</textblock>
+    <textblock>voc</textblock>
+    <textblock>(t)=100%×0.52×[exp(v</textblock>
+    <textblock>1</textblock>
+    <textblock>(et))</textblock>
+    <textblock>/exp(v</textblock>
+    <textblock>1</textblock>
+    <textblock>(b))^1] +100%×0.48×[exp(v</textblock>
+    <textblock>2</textblock>
+    <textblock>(et))</textblock>
+    <textblock>/exp(v</textblock>
+    <textblock>2</textblock>
+    <textblock>(b))^1] +</textblock>
+    <textblock>{</textblock>
+    <textblock>[100%×0.52×exp(v</textblock>
+    <textblock>1</textblock>
+    <textblock>(et))</textblock>
+    <textblock>/exp(v</textblock>
+    <textblock>1</textblock>
+    <textblock>(b))]× [</textblock>
+    <textblock>{</textblock>
+    <textblock>[(0.0002144×E200</textblock>
+    <textblock>et</textblock>
+    <textblock>)</textblock>
+    <textblock>^0.014470]×</textblock>
+    <textblock>D</textblock>
+    <textblock>E200</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[(0.0008174×E300</textblock>
+    <textblock>et</textblock>
+    <textblock>)</textblock>
+    <textblock>^0.068624^(0.000348×ARO</textblock>
+    <textblock>et</textblock>
+    <textblock>)]×</textblock>
+    <textblock>D</textblock>
+    <textblock>E300</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[(^0.000348×E300</textblock>
+    <textblock>et</textblock>
+    <textblock>)</textblock>
+    <textblock>+0.0323712]×</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO</textblock>
+    <textblock>}</textblock>
+    <textblock>]</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[100%×0.48×exp(v</textblock>
+    <textblock>2</textblock>
+    <textblock>(et))</textblock>
+    <textblock>/exp(v</textblock>
+    <textblock>2</textblock>
+    <textblock>(b))] ×[</textblock>
+    <textblock>{</textblock>
+    <textblock>[(0.000212×E200</textblock>
+    <textblock>et</textblock>
+    <textblock>)</textblock>
+    <textblock>^0.01350]×</textblock>
+    <textblock>D</textblock>
+    <textblock>E200</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[(0.000816×E300</textblock>
+    <textblock>et</textblock>
+    <textblock>)</textblock>
+    <textblock>^0.06233^(0.00029×ARO</textblock>
+    <textblock>et</textblock>
+    <textblock>)]×</textblock>
+    <textblock>D</textblock>
+    <textblock>E300</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[(^0.00029×E300</textblock>
+    <textblock>et</textblock>
+    <textblock>)</textblock>
+    <textblock>+0.028204]×</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO</textblock>
+    <textblock>}</textblock>
+    <textblock>]</textblock>
+    <textblock>}</textblock>
+    <textblock>For Phase II:</textblock>
+    <textblock>Y</textblock>
+    <textblock>voc</textblock>
+    <textblock>(t)=100%×0.444×[exp(v</textblock>
+    <textblock>1</textblock>
+    <textblock>(et))</textblock>
+    <textblock>/exp(v</textblock>
+    <textblock>1</textblock>
+    <textblock>(b))^1] +100%×0.556×[exp(v</textblock>
+    <textblock>2</textblock>
+    <textblock>(et))</textblock>
+    <textblock>/exp(v</textblock>
+    <textblock>2</textblock>
+    <textblock>(b))^1] +</textblock>
+    <textblock>{</textblock>
+    <textblock>[100%×0.444×exp(v</textblock>
+    <textblock>1</textblock>
+    <textblock>(et))</textblock>
+    <textblock>/exp(v</textblock>
+    <textblock>1</textblock>
+    <textblock>(b))]× [</textblock>
+    <textblock>{</textblock>
+    <textblock>[(0.0002144×E200</textblock>
+    <textblock>et</textblock>
+    <textblock>)</textblock>
+    <textblock>0.014470]×</textblock>
+    <textblock>D</textblock>
+    <textblock>E200</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[(0.0008174×E300</textblock>
+    <textblock>et</textblock>
+    <textblock>)</textblock>
+    <textblock>^0.068624^(0.000348×ARO</textblock>
+    <textblock>et</textblock>
+    <textblock>)]×</textblock>
+    <textblock>D</textblock>
+    <textblock>E300</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[(^0.000348×E300</textblock>
+    <textblock>et</textblock>
+    <textblock>)</textblock>
+    <textblock>+0.0323712]×</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO</textblock>
+    <textblock>}</textblock>
+    <textblock>]</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[100%×0.556×exp(v</textblock>
+    <textblock>2</textblock>
+    <textblock>(et))</textblock>
+    <textblock>/exp(v</textblock>
+    <textblock>2</textblock>
+    <textblock>(b))]× [</textblock>
+    <textblock>{</textblock>
+    <textblock>[(0.000212×E200</textblock>
+    <textblock>et</textblock>
+    <textblock>)</textblock>
+    <textblock>^0.01350]×</textblock>
+    <textblock>D</textblock>
+    <textblock>E200</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[(0.000816×E300</textblock>
+    <textblock>et</textblock>
+    <textblock>)</textblock>
+    <textblock>^0.06233^(0.00029×ARO</textblock>
+    <textblock>et)]×</textblock>
+    <textblock>D</textblock>
+    <textblock>E300</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[(^0.00029×E300</textblock>
+    <textblock>et</textblock>
+    <textblock>)</textblock>
+    <textblock>+0.028204]×</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO</textblock>
+    <textblock>}</textblock>
+    <textblock>]</textblock>
+    <textblock>}</textblock>
+    <textblock>where</textblock>
+  </text>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>6._</textblock>
+    <textblock>Allowable Ranges of</textblock>
+    <textblock>E200, E300,</textblock>
+    <textblock>and ARO for</textblock>
+    <textblock>the Exhaust VOC Equations in Paragraphs</textblock>
+    <textblock>(c)(1)(i)</textblock>
+    <textblock>and</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>of This Section</textblock>
+    <textblock>1Fuel parameter</textblock>
+    <textblock>1Phase I</textblock>
+    <textblock>2Lower limit</textblock>
+    <textblock>2Higher limit</textblock>
+    <textblock>1Phase II</textblock>
+    <textblock>2Lower limit</textblock>
+    <textblock>2Higher limit</textblock>
+    <textblock>E200</textblock>
+    <textblock>33.00</textblock>
+    <textblock>65.83</textblock>
+    <textblock>33.00</textblock>
+    <textblock>65.52</textblock>
+    <textblock>E300</textblock>
+    <textblock>72.00</textblock>
+    <textblock>1Variable</textblock>
+    <textblock>72.00</textblock>
+    <textblock>2Variable</textblock>
+    <textblock>ARO</textblock>
+    <textblock>18.00</textblock>
+    <textblock>46.00</textblock>
+    <textblock>18.00</textblock>
+    <textblock>46.00</textblock>
+    <textblock>1Higher E300 Limit=80.32+[0.390×(ARO)].</textblock>
+    <textblock>2Higher E300 Limit=79.75+[0.385×(ARO)].</textblock>
+  </table>
+</doc>

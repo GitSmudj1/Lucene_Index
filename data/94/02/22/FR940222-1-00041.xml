@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940222-1-00041</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940222-1-00008</textblock>
+  </parent>
+  <text>
+    <textblock>b. If the average cost for the organization's non-outlier enrollees exceeds the average cost for the fee-for-service beneficiaries, the process continues to stage 3.</textblock>
+    <textblock>Stage 3. Determine how much of the organization's presumptive overpayment is attributable to sicker than average enrollment, and how much to inefficiency.</textblock>
+    <textblock>Examples of stages 2 and 3.</textblock>
+    <textblock>Stage 2:</textblock>
+    <textblock>The average non-outlier cost for the organization's Medicare enrollees exceeds the average non-outlier costs for fee-for-service beneficiaries by $45.</textblock>
+    <textblock>Stage 3:</textblock>
+    <textblock>Divide the excess average cost by the average claimed costs to determine the inefficiency factor:</textblock>
+    <textblock>The inefficiency factor represents HCFA's estimate of the percentage by which the organization's costs exceeded HCFA's estimate of the costs for all the organization's Medicare enrollees if HCFA had paid for their care under the fee-for-service system. Determine the final overclaim amount by applying the 1.77 percent ``inefficiency factor'' to the total costs attributable to the organization's Medicare enrollees, as follows:</textblock>
+    <textblock>If the organization chooses to submit additional documentation in support of higher additional payments after application of this methodology, the final overclaim amount may be adjusted.</textblock>
+    <textblock>In this example of a presumptive overpayment of $770,000, the final overclaim or disallowance is $88,500. The organization would receive $681,500 ($770,000 minus $88,500) in additional payments because of the exceptions process. In other words, HCFA would estimate that $681,500 of the presumptive overpayment is attributable to a sicker than average enrollment and $88,500 is attributable to inefficiency. HCFA would pay the amount attributable to a sicker than average enrollment.</textblock>
+    <textblock>V. Options Considered</textblock>
+    <textblock>A. Options Considered for the Presumptive Limit</textblock>
+    <textblock>Our primary goal in setting limits for coordinated care organizations is to ensure that we do not pay more for Medicare beneficiaries enrolled in these organizations than we would pay if the beneficiaries were not so enrolled. The AAPCC is an estimate of the average per capita cost for Medicare beneficiaries who receive their Medicare-covered services in the fee-for-service sector, that is, Medicare beneficiaries who are not enrolled in HMOs, CMPs, or HCPPs. Because it is a per capita estimate based on 100% of the costs for these beneficiaries in a geographic area, we consider it to be an excellent basis for estimating the aggregate amount that HCFA would have paid for HMO, CMP, and HCPP enrollees if they had not been so enrolled.</textblock>
+    <textblock>HCFA has used the AAPCC in connection with cost limits or other controls for prepaid health care organizations as follows:</textblock>
+    <textblock>1. Before 1985, under a demonstration, as the basis for payment to risk HMOs.</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1Fee-for-service beneficiaries</textblock>
+    <textblock>1Plan enrollees</textblock>
+    <textblock>Total costs</textblock>
+    <textblock>$100,000,000</textblock>
+    <textblock>$5,000,000</textblock>
+    <textblock>Outlier costs</textblock>
+    <textblock>(25,000,000)</textblock>
+    <textblock>(1,500,000)</textblock>
+    <textblock>n,s</textblock>
+    <textblock>Non-outlier costs</textblock>
+    <textblock>75,000,000</textblock>
+    <textblock>3,500,000</textblock>
+    <textblock>Number of non-outliers</textblock>
+    <textblock>30,000</textblock>
+    <textblock>1,375</textblock>
+    <textblock>Average annual cost for non-outliers, weighted by the AAPCC factors: age, sex, institutional status, Medicaid status, and geographic area.</textblock>
+    <textblock>2,500</textblock>
+    <textblock>2,545</textblock>
+  </table>
+  <import>
+    <textblock>E:GRAPHICSEP22FE94.000</textblock>
+  </import>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>Total Costs</textblock>
+    <textblock>$5,000,000</textblock>
+    <textblock>Inefficiency Factor</textblock>
+    <textblock>× .0177</textblock>
+    <textblock>n,s</textblock>
+    <textblock>Final Overclaim</textblock>
+    <textblock>$88,500</textblock>
+  </table>
+</doc>

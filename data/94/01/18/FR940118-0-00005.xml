@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940118-0-00005</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940118-0-00001</textblock>
+  </parent>
+  <text>
+    <textblock>(a) Ensure that Aeronautical Radio, Inc. (ARINC)</textblock>
+    <textblock>429 distance outputs are processed and updated by</textblock>
+    <textblock>modifying the distance measuring equipment in</textblock>
+    <textblock>accordance with the applicable service information</textblock>
+    <textblock>presented in the chart in paragraph (c) of this AD.</textblock>
+    <textblock>(b) Ensure proper initialization and correct DME</textblock>
+    <textblock>distance indication by modifying the distance measuring</textblock>
+    <textblock>equipment in accordance with the applicable service</textblock>
+    <textblock>information presented in the chart in paragraph (c) of</textblock>
+    <textblock>this AD.</textblock>
+    <textblock>(c) Paragraphs (a) and (b) shall be accomplished</textblock>
+    <textblock>in accordance with the Accomplishment Instructions</textblock>
+    <textblock>section of the applicable service bulletins (SB)</textblock>
+    <textblock>presented in the following chart:</textblock>
+    <textblock>Note 1:</textblock>
+    <textblock>The sleeping DME modification referenced</textblock>
+    <textblock>in SB 20 was incorporated at manufacture beginning with</textblock>
+    <textblock>serial number 4248.</textblock>
+    <textblock>(d) Special flight permits may be issued in</textblock>
+    <textblock>accordance with FAR 21.197 and 21.199 to operate the</textblock>
+    <textblock>airplane to a location where the requirements of this</textblock>
+    <textblock>AD can be accomplished.</textblock>
+    <textblock>(e) An alternative method of compliance or</textblock>
+    <textblock>adjustment of the compliance time that provides an</textblock>
+    <textblock>equivalent level of safety may be approved by the</textblock>
+    <textblock>Manager, Wichita Aircraft Certification Office (ACO),</textblock>
+    <textblock>1801 Airport Road, Room 100, Mid-Continent Airport,</textblock>
+    <textblock>Wichita, Kansas 67209. The request shall be forwarded</textblock>
+    <textblock>through an appropriate FAA Maintenance Inspector, who</textblock>
+    <textblock>may add comments and then send it to the Manager,</textblock>
+    <textblock>Wichita ACO.</textblock>
+    <textblock>Note 2:</textblock>
+    <textblock>Information concerning the existence of</textblock>
+    <textblock>approved alternative methods of compliance with this</textblock>
+    <textblock>AD, if any, may be obtained from the Wichita ACO.</textblock>
+    <textblock>(f) The modifications required by this AD shall be</textblock>
+    <textblock>done in accordance with Collins Service Bulletin 20,</textblock>
+    <textblock>Revision 1, DME-700-34-20, dated August 30, 1991;</textblock>
+    <textblock>Collins Service Bulletin 25, DME-600-34-25, dated</textblock>
+    <textblock>November 11, 1992; and Collins Service Bulletin 26,</textblock>
+    <textblock>DME-700-34-26, dated October 21, 1992, as applicable.</textblock>
+    <textblock>This incorporation by reference was approved by the</textblock>
+    <textblock>Director of the Federal Register in accordance with 5</textblock>
+    <textblock>U.S.C. 552(a) and 1 CFR Part 51. Copies may be</textblock>
+    <textblock>obtained from Rockwell International/Collins Air</textblock>
+    <textblock>Transport Division, 400 Collins Road, NE; Cedar Rapids,</textblock>
+    <textblock>Iowa 52498. Copies may be inspected at the FAA,</textblock>
+    <textblock>Central Region, Office of the Assistant Chief Counsel,</textblock>
+    <textblock>room 1558, 601 E. 12th Street, Kansas City, Missouri,</textblock>
+    <textblock>or at the Office of the Federal Register, 800 North</textblock>
+    <textblock>Capitol Street, NW., suite 700, Washington, DC.</textblock>
+    <textblock>(g) This amendment (39-8799) becomes effective on</textblock>
+    <textblock>February 21, 1994.</textblock>
+    <textblock>Issued in Kansas City, Missouri, on January 11, 1994.</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Collins SB/condition</textblock>
+    <textblock>1Date</textblock>
+    <textblock>1Part Nos. applicable (622-4540-XXX)</textblock>
+    <textblock>SB 20, Revision 1/Sleeping</textblock>
+    <textblock>Aug. 30, 1991</textblock>
+    <textblock>All applicable DME-700 Units, -020, -120, with serial number 1 through 4247.</textblock>
+    <textblock>SB 25/Deaf, Sleeping, and Distance Jumping</textblock>
+    <textblock>Nov. 11, 1992</textblock>
+    <textblock>All applicable DME-700 Units, converts -020, -021, or -022 to -023. SB 20 must be installed prior to or in conjunction with SB 25. SB 24 is incorporated by SB 25.</textblock>
+    <textblock>SB 26/Deaf, Sleeping, and Distance Jumping</textblock>
+    <textblock>Oct. 21, 1992</textblock>
+    <textblock>All applicable DME-700 Units, converts -120 or -121 to -122. SB 20 must be installed prior to or in conjunction with SB 26. SB 26 eliminates the need for SB21.</textblock>
+  </table>
+  <signer>
+    <textblock>Henry A. Armstrong,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Small Airplane Directorate,</textblock>
+    <textblock>Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-1088 Filed 1-14-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-U</textblock>
+  </billing>
+</doc>

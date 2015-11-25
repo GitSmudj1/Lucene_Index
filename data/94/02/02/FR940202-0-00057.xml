@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00057</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>(ii)</textblock>
+    <textblock>Aggregation of PIK instrument with original debt</textblock>
+    <textblock>instrument.</textblock>
+    <textblock>Under §1.1275-2(c)(3), the issuance of the PIK</textblock>
+    <textblock>instrument is not considered a payment made on the original debt</textblock>
+    <textblock>instrument, and the PIK instrument is aggregated with the</textblock>
+    <textblock>original debt instrument. The issue date of the PIK instrument</textblock>
+    <textblock>is the same as the original debt instrument.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Determination of yield and maturity.</textblock>
+    <textblock>The right to</textblock>
+    <textblock>issue the PIK instrument is treated as an option to defer the</textblock>
+    <textblock>initial interest payment until maturity. Yield determined</textblock>
+    <textblock>without regard to the option is 10.55 percent, compounded</textblock>
+    <textblock>annually. Yield determined by assuming U exercises the option is</textblock>
+    <textblock>10.32 percent, compounded annually. Thus, under paragraph (c)(5)</textblock>
+    <textblock>of this section, it is assumed that U will exercise the option by</textblock>
+    <textblock>issuing the PIK instrument because exercise of the option would</textblock>
+    <textblock>decrease the yield of the debt instrument. For purposes of</textblock>
+    <textblock>calculating OID, the debt instrument is assumed to be a 5-year</textblock>
+    <textblock>debt instrument with a single principal payment at maturity of</textblock>
+    <textblock>$104,000 and four annual interest payments of $4,160, beginning</textblock>
+    <textblock>on January 1, 1997. As a result, the yield is 10.32 percent,</textblock>
+    <textblock>compounded annually.</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Consequences if the PIK instrument is not issued.</textblock>
+    <textblock>Assume that T chooses to compute OID accruals on the basis of an</textblock>
+    <textblock>annual accrual period. On January 1, 1996, the adjusted issue</textblock>
+    <textblock>price of the debt instrument, and T's adjusted basis in the</textblock>
+    <textblock>instrument, is $83,295.15. Under paragraph (c)(6) of this</textblock>
+    <textblock>section, if U actually makes the $4,000 interest payment on</textblock>
+    <textblock>January 1, 1996, the debt instrument is treated as if U made a</textblock>
+    <textblock>pro rata prepayment (within the meaning of §1.1275-2(f)(2)) of</textblock>
+    <textblock>$4,000, which reduces the amount of each payment remaining on the</textblock>
+    <textblock>instrument by a factor of 4/104, or 1/26. Thus, under §1.1275-2(f)(1) and section 1271, T realizes a gain of $796.34 ($4,000 ^</textblock>
+    <textblock>($83,295.15/26)). The adjusted issue price of the debt instrument</textblock>
+    <textblock>and T's adjusted basis immediately after the payment is</textblock>
+    <textblock>$80,091.49 ($83,295.15 × 25/26) and the yield continues to be</textblock>
+    <textblock>10.32 percent, compounded annually.</textblock>
+    <textblock>Example 9. Debt instrument with stepped interest rate_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>On July 1, 1994, G purchases at original issue, for</textblock>
+    <textblock>$85,000, H corporation's debt instrument maturing on July 1,</textblock>
+    <textblock>2004. The debt instrument has a stated principal amount of</textblock>
+    <textblock>$100,000, payable on the maturity date and provides for</textblock>
+    <textblock>semiannual interest payments on January 1 and July 1 of each</textblock>
+    <textblock>year, beginning on January 1, 1995. The amount of each payment</textblock>
+    <textblock>is $2,000 for the first 5 years and $5,000 for the final 5 years.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Determination of OID.</textblock>
+    <textblock>Assume that G computes its OID</textblock>
+    <textblock>using 6-month accrual periods ending on January 1 and July 1 of</textblock>
+    <textblock>each year. The yield of the debt instrument, determined under</textblock>
+    <textblock>paragraph (b)(1)(i) of this section, is 8.65 percent, compounded</textblock>
+    <textblock>semiannually. Interest is unconditionally payable at a fixed</textblock>
+    <textblock>rate of at least 4 percent, compounded semiannually, for the</textblock>
+    <textblock>entire term of the debt instrument. Consequently, under</textblock>
+    <textblock>§1.1273-1(c)(1), the semiannual payments are qualified stated</textblock>
+    <textblock>interest payments to the extent of $2,000. The amount of OID for</textblock>
+    <textblock>the first 6-month accrual period is $1,674.34 (the issue price of</textblock>
+    <textblock>the debt instrument ($85,000) times the yield of the debt</textblock>
+    <textblock>instrument for that accrual period (.0865/2) less the amount of</textblock>
+    <textblock>any qualified stated interest allocable to that accrual period</textblock>
+    <textblock>($2,000)).</textblock>
+    <textblock>Example 10. Debt instrument payable on demand that provides</textblock>
+    <textblock>for interest at a constant rate_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>On January 1, 1995,</textblock>
+    <textblock>V purchases at original issue, for $100,000, W corporation's debt</textblock>
+    <textblock>instrument. The debt instrument calls for interest to accrue at</textblock>
+    <textblock>a rate of 9 percent, compounded annually. The debt instrument is</textblock>
+    <textblock>redeemable at any time at the option of V for an amount equal to</textblock>
+    <textblock>$100,000, plus accrued interest. V uses annual accrual periods</textblock>
+    <textblock>to accrue OID on the debt instrument.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Amount of OID.</textblock>
+    <textblock>Pursuant to paragraph (d) of this</textblock>
+    <textblock>section, the yield of the debt instrument is 9 percent,</textblock>
+    <textblock>compounded annually. If the debt instrument is not redeemed</textblock>
+    <textblock>during 1995, the amount of OID allocable to the year is $9,000.</textblock>
+    <textblock>§1.1272-2</textblock>
+    <textblock>Treatment of debt instruments purchased at a premium.</textblock>
+    <textblock>(a)</textblock>
+    <textblock>In general.</textblock>
+    <textblock>Under section 1272(c)(1), if a holder</textblock>
+    <textblock>purchases a debt instrument at a premium, the holder does not</textblock>
+    <textblock>include any OID in gross income. Under section 1272(a)(7), if a</textblock>
+    <textblock>holder purchases a debt instrument at an acquisition premium, the</textblock>
+    <textblock>holder reduces the amount of OID includible in gross income by</textblock>
+    <textblock>the fraction determined under paragraph (b)(4) of this section.</textblock>
+    <textblock>(b)</textblock>
+    <textblock>Definitions and special rules_</textblock>
+    <textblock>(1)</textblock>
+    <textblock>Purchase.</textblock>
+    <textblock>For</textblock>
+    <textblock>purposes of section 1272 and this section, purchase means any</textblock>
+    <textblock>acquisition of a debt instrument, including the acquisition of a</textblock>
+    <textblock>newly issued debt instrument in a debt-for-debt exchange or the</textblock>
+    <textblock>acquisition of a debt instrument from a donor.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Premium.</textblock>
+    <textblock>A debt instrument is purchased at a premium if</textblock>
+    <textblock>its adjusted basis, immediately after its purchase by the holder</textblock>
+    <textblock>(including a purchase at original issue), exceeds the sum of all</textblock>
+    <textblock>amounts payable on the instrument after the purchase date other</textblock>
+    <textblock>than payments of qualified stated interest (as defined in</textblock>
+    <textblock>§1.1273-1(c)).</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Acquisition premium.</textblock>
+    <textblock>A debt instrument is purchased at</textblock>
+    <textblock>an acquisition premium if its adjusted basis, immediately after</textblock>
+    <textblock>its purchase (including a purchase at original issue), is_</textblock>
+    <textblock>(i) Less than or equal to the sum of all amounts payable on</textblock>
+    <textblock>the instrument after the purchase date other than payments of</textblock>
+    <textblock>qualified stated interest (as defined in §1.1273-1(c)); and</textblock>
+    <textblock>(ii) Greater than the instrument's adjusted issue price (as</textblock>
+    <textblock>defined in §1.1275-1(b)).</textblock>
+    <textblock>(4)</textblock>
+    <textblock>Acquisition premium fraction.</textblock>
+    <textblock>In applying section</textblock>
+    <textblock>1272(a)(7), the cost of a debt instrument is its adjusted basis</textblock>
+    <textblock>immediately after its acquisition by the purchaser. Thus, the</textblock>
+    <textblock>numerator of the fraction determined under section 1272(a)(7)(B)</textblock>
+    <textblock>is the excess of the adjusted basis of the debt instrument</textblock>
+    <textblock>immediately after its acquisition by the purchaser over the</textblock>
+    <textblock>adjusted issue price of the debt instrument. The denominator of</textblock>
+    <textblock>the fraction determined under section 1272(a)(7)(B) is the excess</textblock>
+    <textblock>of the sum of all amounts payable on the debt instrument after</textblock>
+    <textblock>the purchase date, other than payments of qualified stated</textblock>
+    <textblock>interest, over the instrument's adjusted issue price.</textblock>
+    <textblock>(5)</textblock>
+    <textblock>Election to accrue discount on a constant yield basis.</textblock>
+    <textblock>Rather than applying the acquisition premium fraction, a holder</textblock>
+    <textblock>of a debt instrument purchased at an acquisition premium may</textblock>
+    <textblock>elect under §1.1272-3 to compute OID accruals by treating the</textblock>
+    <textblock>purchase as a purchase at original issuance and applying the</textblock>
+    <textblock>mechanics of the constant yield method.</textblock>
+  </text>
+</doc>

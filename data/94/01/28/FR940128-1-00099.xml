@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940128-1-00099</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940128-1-00006</textblock>
+  </parent>
+  <text>
+    <textblock>Therefore, under the Federal Food, Drug, and Cosmetic Act</textblock>
+    <textblock>and under authority delegated to the Commissioner of Food and</textblock>
+    <textblock>Drugs, it is proposed that 21 CFR chapter I be amended as</textblock>
+    <textblock>follows:</textblock>
+    <textblock>1. Part 123 is added to read as follows:</textblock>
+    <textblock>PART 123_FISH AND FISHERY PRODUCTS</textblock>
+    <textblock>Subpart A_General Provisions</textblock>
+    <textblock>Sec.</textblock>
+    <textblock>123.3␣Definitions.</textblock>
+    <textblock>123.5␣Current good manufacturing practice (sanitation).</textblock>
+    <textblock>123.6␣Hazard Analysis Critical Control Point (HACCP) plan.</textblock>
+    <textblock>123.7␣Corrective actions.</textblock>
+    <textblock>123.8␣Records.</textblock>
+    <textblock>123.9␣Training.</textblock>
+    <textblock>123.10␣Sanitation control procedures.</textblock>
+    <textblock>123.11␣Obligations of importers.</textblock>
+    <textblock>123.12␣Imports_determination of compliance.</textblock>
+    <textblock>Subpart B_[Reserved]</textblock>
+    <textblock>Subpart C_Raw Molluscan Shellfish</textblock>
+    <textblock>123.20␣General.</textblock>
+    <textblock>123.28␣Source controls and records.</textblock>
+    <textblock>Appendix A to Part 123_Cooked, Ready-to-eat Fishery Products</textblock>
+    <textblock>Appendix B to Part 123_Scombroid Toxin Forming Species</textblock>
+    <textblock>Appendix C to Part 123_[Reserved]</textblock>
+    <textblock>Appendix D to Part 123_Product Integrity</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>Secs. 201, 402, 403, 406, 409, 701, 704, 721,</textblock>
+    <textblock>801 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321,</textblock>
+    <textblock>342, 343, 346, 348, 371, 374, 379e, 381); secs. 301, 307, 361,</textblock>
+    <textblock>1702 of the Public Health Service Act (42 U.S.C. 241, 242l, 264,</textblock>
+    <textblock>300u-1).</textblock>
+    <textblock>Subpart A_General Provisions</textblock>
+    <textblock>§123.3</textblock>
+    <textblock>Definitions.</textblock>
+    <textblock>The definitions and interpretations of terms in section 201</textblock>
+    <textblock>of the Federal Food, Drug, and Cosmetic Act and in part 110 of</textblock>
+    <textblock>this chapter are applicable to such terms when used in this part.</textblock>
+    <textblock>The following definitions shall also apply:</textblock>
+    <textblock>(a)</textblock>
+    <textblock>Certification number</textblock>
+    <textblock>means a unique combination of</textblock>
+    <textblock>letters and numbers assigned by a shellfish control authority to</textblock>
+    <textblock>a molluscan shellfish processor.</textblock>
+    <textblock>(b)</textblock>
+    <textblock>Cooked, ready-to-eat fishery product</textblock>
+    <textblock>means a fishery</textblock>
+    <textblock>product that is subjected by a commercial processor to either a</textblock>
+    <textblock>cooking process before being placed in a final container, or to</textblock>
+    <textblock>pasteurization in the final container, or to both.</textblock>
+    <textblock>(c)</textblock>
+    <textblock>Critical control point</textblock>
+    <textblock>means a point in a food process</textblock>
+    <textblock>where there is a high probability that improper control may</textblock>
+    <textblock>cause, allow, or contribute to a hazard in the final food.</textblock>
+    <textblock>(d)</textblock>
+    <textblock>Critical limit</textblock>
+    <textblock>means the maximum or minimum value to</textblock>
+    <textblock>which a physical, biological, or chemical parameter must be</textblock>
+    <textblock>controlled at a critical control point to minimize the risk of</textblock>
+    <textblock>occurrence of the identified hazard.</textblock>
+    <textblock>(e)</textblock>
+    <textblock>Fish</textblock>
+    <textblock>means fresh or saltwater finfish, molluscan</textblock>
+    <textblock>shellfish, crustaceans, and other forms of aquatic animal life</textblock>
+    <textblock>other than birds or mammals.</textblock>
+    <textblock>(f)</textblock>
+    <textblock>Fishery product</textblock>
+    <textblock>means any edible human food product</textblock>
+    <textblock>derived in whole or in part from fish, including fish that has</textblock>
+    <textblock>been processed in any manner.</textblock>
+    <textblock>(g)</textblock>
+    <textblock>Harvester</textblock>
+    <textblock>means a person who has an identification</textblock>
+    <textblock>number issued by a shellfish control authority for commercially</textblock>
+    <textblock>taking molluscan shellfish by any means from a growing area.</textblock>
+    <textblock>(h)</textblock>
+    <textblock>Importer</textblock>
+    <textblock>means a person, or his representative in the</textblock>
+    <textblock>United States, who is responsible for ensuring that goods being</textblock>
+    <textblock>offered for entry into the United States are in compliance with</textblock>
+    <textblock>all laws affecting the importation.</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Lot of molluscan shellfish</textblock>
+    <textblock>means a collection of</textblock>
+    <textblock>shellstock or containers of shellstock of no more than 1 day's</textblock>
+    <textblock>harvest from a single, defined growing area harvested by one or</textblock>
+    <textblock>more harvesters.</textblock>
+    <textblock>(j)</textblock>
+    <textblock>Molluscan shellfish</textblock>
+    <textblock>means any edible species of fresh</textblock>
+    <textblock>or frozen oysters, clams, mussels and scallops or edible portions</textblock>
+    <textblock>thereof, except when the scallop product consists entirely of the</textblock>
+    <textblock>shucked adductor muscle.</textblock>
+    <textblock>(k)</textblock>
+    <textblock>Potable water</textblock>
+    <textblock>means water which meets the U.S.</textblock>
+    <textblock>Environmental Protection Agency's Primary Drinking Water</textblock>
+    <textblock>Regulations as set forth in 40 CFR part 141.</textblock>
+    <textblock>(l)</textblock>
+    <textblock>Process control instrument</textblock>
+    <textblock>means an instrument or</textblock>
+    <textblock>device used to monitor conditions during processing at a critical</textblock>
+    <textblock>control point.</textblock>
+    <textblock>(m)</textblock>
+    <textblock>Processing</textblock>
+    <textblock>means, with respect to fish or fishery</textblock>
+    <textblock>products, handling, storing, preparing, heading, gutting,</textblock>
+    <textblock>shucking, freezing, changing into different market forms,</textblock>
+    <textblock>manufacturing, preserving, packing, labeling, or holding.</textblock>
+    <textblock>Practices such as heading or gutting intended solely to prepare a</textblock>
+    <textblock>fish for holding on board a harvest vessel are excluded. This</textblock>
+    <textblock>regulation does not cover the operation of a retail</textblock>
+    <textblock>establishment.</textblock>
+    <textblock>(n)</textblock>
+    <textblock>Processor</textblock>
+    <textblock>means any person engaged in commercial,</textblock>
+    <textblock>custom, or institutional processing of fish or fishery products,</textblock>
+    <textblock>either in the United States or in a foreign country. Persons</textblock>
+    <textblock>engaged in the production of foods that are to be used in market</textblock>
+    <textblock>or consumer tests are also included. Persons who only harvest or</textblock>
+    <textblock>transport seafood, without otherwise engaging in processing, are</textblock>
+    <textblock>not covered by these regulations.</textblock>
+    <textblock>(o)</textblock>
+    <textblock>Shall</textblock>
+    <textblock>is used to state mandatory requirements.</textblock>
+    <textblock>(p)</textblock>
+    <textblock>Shellfish control authority</textblock>
+    <textblock>means a Federal or State</textblock>
+    <textblock>health authority, or foreign government health authority, legally</textblock>
+    <textblock>responsible for the administration of a program that includes</textblock>
+    <textblock>classification of molluscan shellfish growing areas, enforcement</textblock>
+    <textblock>of harvesting controls, and certification of molluscan shellfish</textblock>
+    <textblock>processors.</textblock>
+    <textblock>(q)</textblock>
+    <textblock>Shellstock</textblock>
+    <textblock>means raw, in-shell molluscan shellfish.</textblock>
+    <textblock>(r)</textblock>
+    <textblock>Should</textblock>
+    <textblock>is used to state recommended or advisory</textblock>
+    <textblock>procedures or to identify recommended equipment.</textblock>
+  </text>
+</doc>

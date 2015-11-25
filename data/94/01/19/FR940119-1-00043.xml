@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940119-1-00043</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940119-1-00011</textblock>
+  </parent>
+  <text>
+    <textblock>For this series of questions, operators are requested to provide data</textblock>
+    <textblock>only</textblock>
+    <textblock>on hazardous liquid pipelines which have leak detection systems installed, since the study concluded RCVs are effective only on hazardous liquid pipelines with leak detection systems.</textblock>
+    <textblock>Question 9:</textblock>
+    <textblock>How many locations have valves installed to comply with 49 CFR 195.260 (e) and (f)?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>9.1␣How many locations have two block valves installed?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>9.2␣How many locations have one block valve and one check valve installed?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>9.3␣How many locations have two block valves and one check valve installed?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>9.4␣Are any of the block valves RCVs (Y/N)?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>9.4.1␣If ``yes'', how many locations reported in 9.1 are RCVs?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>9.4.2␣If ``yes'', how many locations reported in 9.2 are RCVs?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>9.5␣How many block valves which are not RCVs are installed to comply with 49 CFR 195.260 (e) and (f)?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>Question 10:</textblock>
+    <textblock>Estimated cost data to convert the block valves reported in 9.4 to RCVs is requested. Report data to questions 10.1-10.3 for</textblock>
+    <textblock>each</textblock>
+    <textblock>valve size (diameter) in your pipeline system:</textblock>
+    <textblock>10.1␣What valve diameter does this series of questions pertain (in.)?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>10.2␣How many block valves are installed of this diameter?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>10.3␣What is the total estimated cost to convert all of these valves to RCVs?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>10.3.1␣Installation cost (material &amp; labor) $</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>10.3.2␣Communication system cost $</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>10.3.3␣Other installation costs (specify) $</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>10.3.4␣Total installation cost $</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>10.3.5␣Annual operating cost $</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>10.3.6␣Annual maintenance cost $</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>10.3.7␣Other annual costs (specify) $</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>10.3.8␣Total annual costs $</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>Question 11:</textblock>
+    <textblock>Estimated cost data for installing new RCVs on your pipeline system is requested. Report data to questions 11.1-11.6 for</textblock>
+    <textblock>each</textblock>
+    <textblock>valve size (diameter) in your pipeline system:</textblock>
+    <textblock>11.1␣What valve diameter does this series of questions pertain (in.)?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>11.2␣Cost of a manually operated block valve $</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>11.3␣Cost of an equivalent RCV $</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>11.4␣Communication cost $</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>11.5␣Other installation costs (specify) $</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>11.6␣Total installation costs $</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>Question 12:</textblock>
+    <textblock>What factors should the RSPA use in determining when a manually operated valve should be converted to a RCV in order to reduce the effects to bodies of water in case of a release?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>Locations Affected by Commodity Release</textblock>
+    <textblock>Question 13:</textblock>
+    <textblock>Would a release from your pipeline affect the following locations (answer ``yes'' or ``no'' and provide rationale for your answer)?</textblock>
+    <textblock>13.1␣Wetlands as defined in 40 CFR 230.3?</textblock>
+    <textblock>12</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>13.2␣Critical habitat for endangered/threatened species?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>13.3␣National/State parks?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>13.4␣Marine sanctuaries?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>13.5␣Federal wilderness areas?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>13.6␣Coastal Zone Management Act designated areas?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>13.7␣National monuments?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>13.8␣National seashore/lakeshore recreational areas?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>13.9␣National preserves?</textblock>
+    <textblock>XXXX</textblock>
+    <textblock>13.10␣National wildlife refuges?</textblock>
+    <textblock>XXXX</textblock>
+  </text>
+  <footnote>
+    <textblock>40 CFR 230.3(t) states: The term</textblock>
+    <textblock>wetlands</textblock>
+    <textblock>means those areas that are inundated or saturated by surface or ground water at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs and similar areas.</textblock>
+  </footnote>
+  <footname>
+    <textblock>12</textblock>
+  </footname>
+</doc>

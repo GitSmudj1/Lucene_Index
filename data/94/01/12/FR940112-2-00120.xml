@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940112-2-00120</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940112-2-00086</textblock>
+  </parent>
+  <text>
+    <textblock>II. Discussion</textblock>
+    <textblock>The Commission believes Delta's proposal is consistent with the Act and particularly with sections 17A(b)(3) (A) and (F) of the Act.</textblock>
+    <textblock>10</textblock>
+    <textblock>Those sections require that a clearing agency be organized and its rules be designed to promote the prompt and accurate clearance and settlement of securities transactions and to assure the safeguarding of securities and funds which are in its custody or control or for which it is responsible.</textblock>
+    <textblock>Delta's proposal will provide flexibility to its participants by expanding the types of assets eligible to be deposited as margin without exposing Delta to undue credit risk, market risk, or liquidation risk.</textblock>
+    <textblock>11</textblock>
+    <textblock>Because Treasury securities are backed by the full faith and credit of the United States, Delta is not subject to the credit risk of the obligor.</textblock>
+    <textblock>12</textblock>
+    <textblock>To reduce its exposure to market risk and liquidation risk, Delta will mark Treasury bills to market on a daily basis and will value them at the lower of par or fair market value. Furthermore, because the market for Treasury bills is extremely large and relatively liquid, Delta's liquidation risk is minimal.</textblock>
+    <textblock>The Commission also believes that Delta's proposal to accept cover as margin for short call option positions is appropriate. As an initial matter, the Commission notes that The Options Clearing Corporation (``OCC''), another registered clearing agency, accepts deposits of the security underlying a call option written by a participant in lieu of margin.</textblock>
+    <textblock>13</textblock>
+    <textblock>The deposit of cover protects Delta to the maximum extent possible by fully collateralizing a participant's obligations to Delta and by eliminating Delta's credit risk with respect to the depositing participant's short position. Accordingly, the Commission believes that Delta's proposal to accept Treasury bills and cover as margin is consistent with its obligation to safeguard the securities and funds for which it is responsible.</textblock>
+    <textblock>The Commission also believes that the special procedures for handling margin deposited by ERISA pension plan participants is both necessary and appropriate. Until now, Delta's procedures for investing margin deposits and certain aspects of ERISA have made participation in Delta impracticable for such plans. Under Delta's rules, Delta may invest the cash margin received from participants in overnight repurchase agreements and pass the profits earned on such investments back to participants.</textblock>
+    <textblock>14</textblock>
+    <textblock>Under section 1002(21) of ERISA, a person could be deemed to be a plan fiduciary to the extent that such person exercises discretionary authority over the assets of a plan.</textblock>
+    <textblock>15</textblock>
+    <textblock>Accordingly, if Delta were to follow its usual investment procedures with respect to pension plan assets, Delta might be deemed to be a plan fiduciary under ERISA. In light of these provisions, Delta has not permitted pension plans to participate in its system.</textblock>
+    <textblock>16</textblock>
+    <textblock>On March 15, 1991, the Pension and Welfare Benefits Administration of the Department of Labor (``DOL'') granted an exemption that permits ERISA pension plans to participate in Delta without Delta becoming a plan fiduciary provided neither Delta nor any of its affiliates exercise discretionary authority or control with respect to the investment of plan assets.</textblock>
+    <textblock>17</textblock>
+    <textblock>To comply with the DOL exemption, Delta is implementing a procedure whereby pension plans will deposit substitute collateral upon the maturity of Treasury bills deposited as margin in order that Delta is not viewed as exercising discretionary authority or control with respect to the investment of any funds that are deemed to be plan assets.</textblock>
+    <textblock>18</textblock>
+    <textblock>Delta's proposal appears to provide a reasonable method of permitting employee benefit plans that are subject to ERISA to participate in Delta's system and thereby promotes the prompt and accurate clearance and settlement of securities transactions without exposing Delta to potential ERISA liability.</textblock>
+    <textblock>The Commission notes that under the DOL exemption, Delta is permitted to liquidate certain assets of a defaulting plan without being deemed to be exercising discretionary authority.</textblock>
+    <textblock>19</textblock>
+    <textblock>Delta's risk exposure is reduced to the extent that it has the authority to liquidate such assets free of ERISA constraints.</textblock>
+    <textblock>III. Conclusion</textblock>
+    <textblock>For the reasons stated above, the Commission finds that the proposed rule change (File No. SR-DGOC-91-01) is consistent with section 17A of the Act.</textblock>
+    <textblock>It is therefore ordered,</textblock>
+    <textblock>Pursuant to section 19(b)(2) of the Act, that the proposed rule change (SR-DGOC-91-01) be, and hereby is, approved.</textblock>
+    <textblock>For the Commission by the Division of Market Regulation, pursuant to delegated authority.</textblock>
+    <textblock>20</textblock>
+  </text>
+  <footnote>
+    <textblock>15 U.S.C. 78q-1(b)(3) (A) and (F) (1988).</textblock>
+  </footnote>
+  <footname>
+    <textblock>10</textblock>
+  </footname>
+  <footnote>
+    <textblock>Credit risk is the risk that the counterparty to a transaction will not fulfill its obligation. Market risk is the risk associated with adverse changes in the market price of a security. Liquidation risk is the risk that the full value of collateral will not be realized upon liquidation of such collateral.</textblock>
+  </footnote>
+  <footname>
+    <textblock>11</textblock>
+  </footname>
+  <footnote>
+    <textblock>Of course, Delta remains subject to the credit risk of its participants.</textblock>
+  </footnote>
+  <footname>
+    <textblock>12</textblock>
+  </footname>
+  <footnote>
+    <textblock>OCC Rule 610.</textblock>
+  </footnote>
+  <footname>
+    <textblock>13</textblock>
+  </footname>
+  <footnote>
+    <textblock>Delta Procedures, Article VI, Rule 601.</textblock>
+  </footnote>
+  <footname>
+    <textblock>14</textblock>
+  </footname>
+  <footnote>
+    <textblock>See</textblock>
+    <textblock>supra</textblock>
+    <textblock>note 10.</textblock>
+  </footnote>
+  <footname>
+    <textblock>15</textblock>
+  </footname>
+  <footnote>
+    <textblock>Section 17A of the Act enumerates the types of entities that may participate in registered clearing agencies. That section neither expressly permits nor precludes participation in a registered clearing agency by pension plans. Section 17A provides that the rules of a clearing agency must permit any</textblock>
+    <textblock>(1) registered broker-dealer,</textblock>
+    <textblock>(2) bank,</textblock>
+    <textblock>(3) insurance company,</textblock>
+    <textblock>(4) registered clearing agency, or</textblock>
+    <textblock>(5) registered investment company to become a participant in a registered clearing agency. 15 U.S.C. 78q-1(b)(3)(B).</textblock>
+  </footnote>
+  <footname>
+    <textblock>16</textblock>
+  </footname>
+  <footnote>
+    <textblock>DOL, Prohibited Transaction Exemption 91-19, Exemption Application No. D-8492, 56 FR 12396 (March 25, 1991) (``DOL Exemption'').</textblock>
+  </footnote>
+  <footname>
+    <textblock>17</textblock>
+  </footname>
+  <footnote>
+    <textblock>Because the plan will have no right to the Treasury bills it deposits with Delta as margin (unless the market has moved in its favor or it has closed out its positions), such Treasury bills will not be ``plan assets'' under ERISA.</textblock>
+  </footnote>
+  <footname>
+    <textblock>18</textblock>
+  </footname>
+  <footnote>
+    <textblock>Specifically, Delta may draw on a letter of credit or a surety bond that has been issued to Delta on behalf of such participant. DOL Exemption,</textblock>
+    <textblock>supra</textblock>
+    <textblock>note 17 at 12397.</textblock>
+  </footnote>
+  <footname>
+    <textblock>19</textblock>
+  </footname>
+  <footnote>
+    <textblock>17 CFR 200.30-3(a)(12) (1990).</textblock>
+  </footnote>
+  <footname>
+    <textblock>20</textblock>
+  </footname>
+  <signer>
+    <textblock>Margaret H. McFarland,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Deputy Secretary.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-739 Filed 1-11-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 8010-01-M</textblock>
+  </billing>
+</doc>

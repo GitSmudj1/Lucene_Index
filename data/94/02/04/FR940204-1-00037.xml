@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940204-1-00037</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940204-1-00002</textblock>
+  </parent>
+  <text/>
+  <table>
+    <textblock>Table A._Supplemental Balance Sheet Information</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1Banks1</textblock>
+    <textblock>1Associations2</textblock>
+    <textblock>1Financial assistance corporation</textblock>
+    <textblock>1Eliminations</textblock>
+    <textblock>1Combined without insurance fund3</textblock>
+    <textblock>1Insurance fund and related combination entries</textblock>
+    <textblock>1Combined with insurance fund</textblock>
+    <textblock>Cash and investments:</textblock>
+    <textblock>Net loans</textblock>
+    <textblock>Restricted assets</textblock>
+    <textblock>Other assets</textblock>
+    <textblock>Total assets</textblock>
+    <textblock>Total liabilities:</textblock>
+    <textblock>Protected borrower capital4</textblock>
+    <textblock>Restricted capital</textblock>
+    <textblock>Capital stock and surplus</textblock>
+    <textblock>Total liabilities, protected borrower capital, and capital stock and surplus</textblock>
+    <textblock>1Provide bank-only combined financial data of all FCS banks.</textblock>
+    <textblock>2Provide association-only combined financial data of all FCS associations.</textblock>
+    <textblock>3Provide the combined financial data of all columns on the left.</textblock>
+    <textblock>4Any item that is no longer applicable, e.g., protected borrower stock, may be omitted.</textblock>
+  </table>
+</doc>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00251</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(B) Post-1990 gasoline. Summer and winter Method 3-type gasoline data, per paragraph (c)(3) of this section,</textblock>
+    <textblock>shall be evaluated separately according to the following</textblock>
+    <textblock>equation:</textblock>
+    <textblock>where:</textblock>
+    <textblock>X</textblock>
+    <textblock>bs</textblock>
+    <textblock>=Summer or winter baseline value of fuel parameter</textblock>
+    <textblock>X for the refinery</textblock>
+    <textblock>s=season, summer or winter, per paragraph</textblock>
+    <textblock>(d)(1)(i)(A)(</textblock>
+    <textblock>1</textblock>
+    <textblock>) of this section</textblock>
+    <textblock>g=separate grade of season s gasoline produced by</textblock>
+    <textblock>the refinery in 1990</textblock>
+    <textblock>p</textblock>
+    <textblock>s</textblock>
+    <textblock>=total number of different grades of season s</textblock>
+    <textblock>gasoline produced by the refinery in 1990</textblock>
+    <textblock>T</textblock>
+    <textblock>gs</textblock>
+    <textblock>=total volume of season s grade g gasoline produced</textblock>
+    <textblock>in 1990</textblock>
+    <textblock>N</textblock>
+    <textblock>s</textblock>
+    <textblock>=total volume of season s gasoline produced by the</textblock>
+    <textblock>refinery in 1990</textblock>
+    <textblock>i=separate batch or shipment of post-1990 season s</textblock>
+    <textblock>gasoline sampled</textblock>
+    <textblock>n</textblock>
+    <textblock>gs</textblock>
+    <textblock>=total number of samples of post-1990 season s</textblock>
+    <textblock>grade g gasoline</textblock>
+    <textblock>X</textblock>
+    <textblock>gis</textblock>
+    <textblock>=parameter value of post-1990 grade g season s</textblock>
+    <textblock>gasoline sample i</textblock>
+    <textblock>V</textblock>
+    <textblock>gis</textblock>
+    <textblock>=volume of post-1990 season s grade g gasoline</textblock>
+    <textblock>sample i</textblock>
+    <textblock>SG</textblock>
+    <textblock>gis</textblock>
+    <textblock>=specific gravity of post-1990 season s grade g</textblock>
+    <textblock>gasoline sample i (used only for fuel parameters</textblock>
+    <textblock>measured on a weight basis)</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Percent evaporated determination.</textblock>
+    <textblock>(i) Baseline</textblock>
+    <textblock>E200 and E300 values shall be determined directly from</textblock>
+    <textblock>actual measurement data.</textblock>
+    <textblock>(ii) If the data per paragraph (e)(3)(i) of this</textblock>
+    <textblock>section are unavailable, upon petition and approval,</textblock>
+    <textblock>baseline E200 and E300 values shall be determined from the</textblock>
+    <textblock>following equations using the baseline T50 and T90 values,</textblock>
+    <textblock>if the baseline T50 and T90 values are otherwise acceptable:</textblock>
+    <textblock>E200=147.91^(0.49×T50)</textblock>
+    <textblock>E300=155.47^(0.22×T90)</textblock>
+    <textblock>(4)</textblock>
+    <textblock>Oxygen in the baseline.</textblock>
+    <textblock>Baseline fuel parameter</textblock>
+    <textblock>values shall be determined on both an oxygenated and non-oxygenated basis.</textblock>
+    <textblock>(i) If baseline values are determined first on an</textblock>
+    <textblock>oxygenated basis, per paragraph (e) of this section, the</textblock>
+    <textblock>calculations in paragraphs (e)(4)(i) (A) through (C) of this</textblock>
+    <textblock>section shall be performed to determine the value of each</textblock>
+    <textblock>baseline parameter on a non-oxygenated basis.</textblock>
+    <textblock>(A) Benzene, aromatic, olefin and sulfur content shall</textblock>
+    <textblock>be determined on a non-oxygenated basis according to the following equation:</textblock>
+    <textblock>where</textblock>
+    <textblock>UV=non-oxygenated parameter value</textblock>
+    <textblock>AV=oxygenated parameter value</textblock>
+    <textblock>OV=1990 oxygenate volume as a percent of total</textblock>
+    <textblock>production</textblock>
+    <textblock>(B) Reid vapor pressure (RVP) shall be determined on a</textblock>
+    <textblock>non-oxygenated basis according to the following equation:</textblock>
+    <textblock>where</textblock>
+    <textblock>UR=non-oxygenated RVP (baseline value)</textblock>
+    <textblock>BR=oxygenated RVP</textblock>
+    <textblock>i=type of oxygenate used in 1990</textblock>
+    <textblock>n=total number of different types of oxygenates used</textblock>
+    <textblock>in 1990</textblock>
+    <textblock>OV</textblock>
+    <textblock>i</textblock>
+    <textblock>=1990 volume, as a percent of total production, of</textblock>
+    <textblock>oxygenate i</textblock>
+    <textblock>OR</textblock>
+    <textblock>i</textblock>
+    <textblock>=blending RVP of oxygenate i</textblock>
+    <textblock>(C) Test data and engineering judgement shall be used</textblock>
+    <textblock>to estimate T90, T50, E300 and E200 baseline values on a</textblock>
+    <textblock>non-oxygenated basis. Allowances shall be made for physical</textblock>
+    <textblock>dilution and distillation effects only, and not for refinery</textblock>
+    <textblock>operational changes, e.g., decreased reformer severity</textblock>
+    <textblock>required due to the octane value of oxygenate which would</textblock>
+    <textblock>reduce aromatics.</textblock>
+  </text>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.016</textblock>
+  </import>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.017</textblock>
+  </import>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.018</textblock>
+  </import>
+</doc>

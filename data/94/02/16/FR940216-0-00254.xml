@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00254</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(f)</textblock>
+    <textblock>Baseline volume and emissions determination</textblock>
+    <textblock>_(1)</textblock>
+    <textblock>Individual baseline volume.</textblock>
+    <textblock>(i) The individual</textblock>
+    <textblock>baseline volume of a refinery described in paragraph</textblock>
+    <textblock>(b)(1)(i) of this section shall be the larger of the total</textblock>
+    <textblock>gasoline volume produced in or shipped from the refinery in</textblock>
+    <textblock>1990, excluding gasoline blendstocks and exported gasoline,</textblock>
+    <textblock>and including the oxygenate volume associated with any</textblock>
+    <textblock>product meeting the requirements specified in paragraph</textblock>
+    <textblock>(c)(1)(ii) of this section.</textblock>
+    <textblock>(ii) Gasoline brought into the refinery in 1990 which</textblock>
+    <textblock>exited the refinery, in 1990, unchanged shall not be</textblock>
+    <textblock>included in determining the refinery's baseline volume.</textblock>
+    <textblock>(iii) If a refiner is allowed to adjust its baseline per</textblock>
+    <textblock>paragraphs (e)(5) through (e)(7) of this section, its</textblock>
+    <textblock>individual baseline volume shall be the volume determined</textblock>
+    <textblock>after the adjustment.</textblock>
+    <textblock>(iv) The individual baseline volume for facilities</textblock>
+    <textblock>deemed closely integrated, per paragraph (e)(1) of this</textblock>
+    <textblock>section, shall be the combined 1990 gasoline production of</textblock>
+    <textblock>the facilities, so long as mutual volumes are not double-counted, i.e., volumes of blendstock sent from the refinery</textblock>
+    <textblock>to the blending facility should not be included in the</textblock>
+    <textblock>blending facility's volume.</textblock>
+    <textblock>(v) The baseline volume of a refiner, per paragraph</textblock>
+    <textblock>(b)(3) of this section, shall be the larger of the total</textblock>
+    <textblock>gasoline volume produced in or shipped from the refinery in</textblock>
+    <textblock>1990, excluding gasoline blendstocks and exported gasoline.</textblock>
+    <textblock>(vi) The baseline volume of an importer, per paragraph (b)(4) of this section, shall be the total gasoline volume</textblock>
+    <textblock>imported into the U.S. in 1990.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Individual baseline emissions.</textblock>
+    <textblock>(i) Individual</textblock>
+    <textblock>annual average baseline emissions (per §80.90) shall be</textblock>
+    <textblock>determined for every refinery, refiner or importer, as</textblock>
+    <textblock>applicable.</textblock>
+    <textblock>(ii) For each individual summer or winter baseline fuel</textblock>
+    <textblock>parameter value (determined per paragraph (e) of this</textblock>
+    <textblock>section) which is outside of the complex model conventional</textblock>
+    <textblock>gasoline valid range for that parameter (per</textblock>
+    <textblock>§80.45(f)(1)(ii)), the complex model range is extended only</textblock>
+    <textblock>for such fuel parameters, in both baseline and compliance</textblock>
+    <textblock>complex model emissions determinations, and only for the</textblock>
+    <textblock>applicable summer or winter models.</textblock>
+    <textblock>(iii) Facilities deemed closely integrated, per</textblock>
+    <textblock>paragraph (e)(1) of this section, shall have a single set of</textblock>
+    <textblock>annual average individual baseline emissions.</textblock>
+    <textblock>(iv) Aggregate baselines (per §80.101(h)) must have the</textblock>
+    <textblock>NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions of all refineries in the aggregate determined</textblock>
+    <textblock>on the same basis, using either oxygenated or non-oxygenated</textblock>
+    <textblock>baseline fuel parameters.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Geographic considerations requiring individual</textblock>
+    <textblock>conventional gasoline compliance baselines.</textblock>
+    <textblock>(i) Anyone may</textblock>
+    <textblock>petition EPA to establish separate baselines for refineries</textblock>
+    <textblock>located in and providing conventional gasoline to an area</textblock>
+    <textblock>with a limited gasoline distribution system if it can show</textblock>
+    <textblock>that the area is experiencing increased toxics emissions due</textblock>
+    <textblock>to an ozone nonattainment area opting into the reformulated</textblock>
+    <textblock>gasoline program pursuant to section 211(k)(6) of the Act.</textblock>
+    <textblock>(ii) If EPA agrees with the finding of paragraph</textblock>
+    <textblock>(f)(4)(i) of this section, it shall require that the</textblock>
+    <textblock>baselines of such refineries be separate from refineries not</textblock>
+    <textblock>located in the area.</textblock>
+    <textblock>(iii) If two (2) or more of a refiner's refineries are</textblock>
+    <textblock>located in the geographic area of concern, the refiner may</textblock>
+    <textblock>aggregate the baseline emissions and sulfur, olefin and T90</textblock>
+    <textblock>values of the refineries or have an individual baseline for</textblock>
+    <textblock>one or more of the refineries, per paragraph (f)(3) of this</textblock>
+    <textblock>section.</textblock>
+    <textblock>(4)</textblock>
+    <textblock>Baseline recalculations.</textblock>
+    <textblock>Aggregate baseline</textblock>
+    <textblock>exhaust emissions (per §80.90) and baseline sulfur, olefin</textblock>
+    <textblock>and T90 values and aggregate baseline volumes shall be</textblock>
+    <textblock>recalculated under the following circumstances:</textblock>
+    <textblock>(i) A refinery included in an aggregate baseline is</textblock>
+    <textblock>entirely shutdown. If the shutdown refinery was part of an</textblock>
+    <textblock>aggregate baseline, the aggregate baseline emissions,</textblock>
+    <textblock>aggregate baseline sulfur, olefin and T90 values and</textblock>
+    <textblock>aggregate volume shall be recalculated to account for the</textblock>
+    <textblock>removal of the shutdown refinery's contributions to the</textblock>
+    <textblock>aggregate baseline.</textblock>
+    <textblock>(ii) A refinery exchanges owners.</textblock>
+    <textblock>(A) All aggregate baselines affected by the exchange</textblock>
+    <textblock>shall be recalculated to reflect the addition or subtraction</textblock>
+    <textblock>of the baseline exhaust emissions, sulfur, olefin and T90</textblock>
+    <textblock>values and volumes of that refinery.</textblock>
+    <textblock>(B) The new owner may elect to establish an individual</textblock>
+    <textblock>baseline for the refinery or to include it in an aggregate</textblock>
+    <textblock>baseline.</textblock>
+    <textblock>(C) If the refinery was part of an aggregate of three</textblock>
+    <textblock>or more refineries, the remaining refineries in the</textblock>
+    <textblock>aggregate from which that refinery was removed will have a</textblock>
+    <textblock>new aggregate baseline. If the refinery was part of an</textblock>
+    <textblock>aggregate of only two refineries, the remaining refinery</textblock>
+    <textblock>will have an individual baseline.</textblock>
+    <textblock>(g)</textblock>
+    <textblock>Inability to meet the requirements of this</textblock>
+    <textblock>section.</textblock>
+    <textblock>If a refiner or importer is unable to comply with</textblock>
+    <textblock>one or more of the requirements specified in paragraphs (a)</textblock>
+    <textblock>through (f) of this section, it may, upon petition and</textblock>
+    <textblock>approval, accommodate the lack of compliance in a</textblock>
+    <textblock>reasonable, logical, technically sound manner, considering</textblock>
+    <textblock>the appropriateness of the alternative. A narrative of the</textblock>
+    <textblock>situation, as well as any calculations and results</textblock>
+    <textblock>determined, must be documented.</textblock>
+  </text>
+</doc>

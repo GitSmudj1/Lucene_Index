@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00263</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(iii) Uses the total of the volumes of the batches of</textblock>
+    <textblock>gasoline that comprise the composite sample, and the results</textblock>
+    <textblock>of the analyses of the composite sample, for purposes of</textblock>
+    <textblock>compliance calculations under paragraph (g) of this section;</textblock>
+    <textblock>and</textblock>
+    <textblock>(iv) Does not combine summer and winter gasoline, as</textblock>
+    <textblock>specified under paragraphs (g) (5) and (6) of this section,</textblock>
+    <textblock>in a composite sample.</textblock>
+    <textblock>§80.102</textblock>
+    <textblock>Controls applicable to blendstocks.</textblock>
+    <textblock>(a) For the purposes of this subpart E:</textblock>
+    <textblock>(1) All of the following petroleum products that are</textblock>
+    <textblock>produced by a refiner or imported by an importer shall be</textblock>
+    <textblock>considered ``applicable blendstocks'':</textblock>
+    <textblock>(i) Reformate;</textblock>
+    <textblock>(ii) Light coker naphtha;</textblock>
+    <textblock>(iii) FCC naphtha;</textblock>
+    <textblock>(iv) Benzene/toluene/xylene;</textblock>
+    <textblock>(v) Pyrolysis gas;</textblock>
+    <textblock>(vi) Aromatics;</textblock>
+    <textblock>(vii) Polygasoline; and</textblock>
+    <textblock>(viii) Dimate; and</textblock>
+    <textblock>(2) Any gasoline blendstock with properties such that,</textblock>
+    <textblock>if oxygenate only is added to the blendstock the resulting</textblock>
+    <textblock>blend meets the definition of gasoline under §80.2(c),</textblock>
+    <textblock>shall be considered gasoline.</textblock>
+    <textblock>(b)(1) Any refiner or importer of conventional</textblock>
+    <textblock>gasoline or blendstocks shall determine the baseline</textblock>
+    <textblock>blendstock-to-gasoline ratio for each calendar year 1990</textblock>
+    <textblock>through 1993 according to the following formula:</textblock>
+    <textblock>Where:</textblock>
+    <textblock>BG</textblock>
+    <textblock>by</textblock>
+    <textblock>=Blendstock-to-gasoline ratio for base year</textblock>
+    <textblock>V</textblock>
+    <textblock>bs</textblock>
+    <textblock>=Volume of applicable blendstock produced or</textblock>
+    <textblock>imported and transferred to others during the</textblock>
+    <textblock>calendar year, and used in to produce</textblock>
+    <textblock>gasoline</textblock>
+    <textblock>V</textblock>
+    <textblock>g</textblock>
+    <textblock>=Volume of gasoline produced or imported</textblock>
+    <textblock>during the calendar year</textblock>
+    <textblock>(2)(i) Only those volumes of applicable</textblock>
+    <textblock>blendstocks for which the refiner is able to demonstrate the</textblock>
+    <textblock>blendstock was used in the production of gasoline may be</textblock>
+    <textblock>included in baseline blendstock-to-gasoline ratios under</textblock>
+    <textblock>paragraph (b)(1) of this section.</textblock>
+    <textblock>(ii) The baseline volume data for applicable</textblock>
+    <textblock>blendstocks and gasoline shall be confirmed through the</textblock>
+    <textblock>baseline audit requirements specified in §80.92 and</textblock>
+    <textblock>submitted in accordance with the requirements of §80.93.</textblock>
+    <textblock>(c) Any refiner or importer shall calculate the</textblock>
+    <textblock>baseline cumulative blendstock-to-gasoline ratio according</textblock>
+    <textblock>to the following formula:</textblock>
+    <textblock>Where:</textblock>
+    <textblock>BGC</textblock>
+    <textblock>base</textblock>
+    <textblock>=Baseline cumulative blendstock-to-gasoline ratio</textblock>
+    <textblock>V</textblock>
+    <textblock>bs, i</textblock>
+    <textblock>=Volume of applicable blendstock produced</textblock>
+    <textblock>or imported and transferred to others</textblock>
+    <textblock>during calendar year i</textblock>
+    <textblock>V</textblock>
+    <textblock>g, i</textblock>
+    <textblock>=Volume of gasoline produced or imported</textblock>
+    <textblock>during calendar year i</textblock>
+    <textblock>i=each year, 1990 through 1993, for which</textblock>
+    <textblock>a blendstock-to-gasoline ratio is</textblock>
+    <textblock>calculated under paragraph (b) of this</textblock>
+    <textblock>section</textblock>
+    <textblock>(d)(1) For each averaging period, any refiner</textblock>
+    <textblock>or importer shall:</textblock>
+    <textblock>(i) Determine the averaging period blendstock-to-gasoline ratio according to the following formula:</textblock>
+    <textblock>Where:</textblock>
+    <textblock>BG</textblock>
+    <textblock>a</textblock>
+    <textblock>=Blendstock-to-gasoline ratio for the current</textblock>
+    <textblock>averaging period</textblock>
+    <textblock>V</textblock>
+    <textblock>bs</textblock>
+    <textblock>=Volume of applicable blendstock produced or</textblock>
+    <textblock>imported during the averaging period and</textblock>
+    <textblock>subsequently transferred to others</textblock>
+    <textblock>V</textblock>
+    <textblock>g</textblock>
+    <textblock>=Volume of conventional gasoline, reformulated</textblock>
+    <textblock>gasoline, and RBOB produced or imported</textblock>
+    <textblock>during the averaging period</textblock>
+  </text>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.024</textblock>
+  </import>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.025</textblock>
+  </import>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.026</textblock>
+  </import>
+</doc>

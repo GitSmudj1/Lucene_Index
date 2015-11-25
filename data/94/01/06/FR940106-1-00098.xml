@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00098</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00011</textblock>
+  </parent>
+  <text>
+    <textblock>(c)</textblock>
+    <textblock>Definitions.</textblock>
+    <textblock>Terms used in paragraphs (a) and (b) of this section, shall be defined as follows:</textblock>
+    <textblock>(1)</textblock>
+    <textblock>Water year type.</textblock>
+    <textblock>(i) Sacramento Basin Water Year Type.</textblock>
+    <textblock>Water year types in the Sacramento River basin are computed as follows:</textblock>
+    <textblock>(A) The Sacramento Basin Index is computed according to the following formula:</textblock>
+    <textblock>I</textblock>
+    <textblock>SAC</textblock>
+    <textblock>=0.4X+0.3Y+0.3Z</textblock>
+    <textblock>where I</textblock>
+    <textblock>SAC</textblock>
+    <textblock>=Sacramento Basin Index</textblock>
+    <textblock>X = April through July Four River Unimpaired Flow in Million Acre Feet (MAF)</textblock>
+    <textblock>Y = October through March Four River Unimpaired Flow in MAF</textblock>
+    <textblock>Z = Previous Year's Sacramento Basin Index in MAF, not to exceed 10 maf</textblock>
+    <textblock>(B)</textblock>
+    <textblock>Measuring Four River Unimpaired Flow.</textblock>
+    <textblock>The Four River Unimpaired Flow for a current water year (October 1 to September 30) is a forecast of the sum of the following locations: Sacramento River above Bend Bridge, near Red Bluff; total inflow to Oroville Reservoir; Yuba River at Smartville; American River, total inflow to Folsom Reservoir. The flow determinations are made and are published by the California Department of Water Resources in Bulletin 120 which is available from the California Department of Water Resources, 3251 S Street, Sacramento, CA 95816. Preliminary determinations of year classification shall be made in February, March, and April with final determination in May. These preliminary determinations shall be based on hydrological conditions to date plus forecasts of future runoff assuming normal precipitation for the remainder of the water year.</textblock>
+    <textblock>(C) Sacramento River Basin Water Year Type shall be categorized according to the following table:</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Location</textblock>
+    <textblock>1Sampling site Nos. (I-A/RKI)</textblock>
+    <textblock>1Parameter</textblock>
+    <textblock>1Description</textblock>
+    <textblock>1Index type</textblock>
+    <textblock>1Year type</textblock>
+    <textblock>1Dates</textblock>
+    <textblock>1Values</textblock>
+    <textblock>San Joaquin River at Jersey Point,</textblock>
+    <textblock>San Andreas</textblock>
+    <textblock>Landing, Prisoners Point, Buckley Cove, Rough and Ready Island, Brandt Bridge, Mossdale, and Vernalis</textblock>
+    <textblock>D15/RSAN018, C4/RSAN032, D29/RSAN038, P8/RSAN056,</textblock>
+    <textblock>-/RSAN062, C6/RSAN073, C7/RSAN087,</textblock>
+    <textblock>C10/RSAN112</textblock>
+    <textblock>Electrical Conductivity</textblock>
+    <textblock>(EC)</textblock>
+    <textblock>14-day running average of mean daily for the period not more than value shown, in mmhos</textblock>
+    <textblock>Not Applicable</textblock>
+    <textblock>Wet, Above normal, and below normal years</textblock>
+    <textblock>April 1 to May 31</textblock>
+    <textblock>0.44</textblock>
+    <textblock>San Joaquin River at Jersey Point, San Andreas Landing and Prisoners Point</textblock>
+    <textblock>D15/RSAN018, C4/RSAN032, D29/RSAN038</textblock>
+    <textblock>Electrical Conductivity</textblock>
+    <textblock>(EC)</textblock>
+    <textblock>14-day running average of mean daily for the period not more than value shown, in mmhos</textblock>
+    <textblock>Not Applicable</textblock>
+    <textblock>Dry and critical dry years</textblock>
+    <textblock>April 1 to May 31</textblock>
+    <textblock>0.44</textblock>
+  </table>
+</doc>

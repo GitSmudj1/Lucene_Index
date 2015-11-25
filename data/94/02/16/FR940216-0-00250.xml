@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00250</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(2)</textblock>
+    <textblock>Baseline summer gasoline volume shall be the total volume of low volatility gasoline which met EPA's 1990 summertime volatility requirements. Baseline summer gasoline volume shall be determined on the same basis (produced or shipped) as baseline total annual gasoline volume.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Baseline winter gasoline volume shall be the baseline total annual gasoline volume minus the baseline summer gasoline volume.</textblock>
+    <textblock>(C) Fuel parameter values shall be determined in the same units and at least to the same number of decimal places as the corresponding fuel parameter listed in paragraph (c)(5) of this section.</textblock>
+    <textblock>(D) Volumes shall be reported to the nearest barrel or to the degree at which historical records were kept.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Method 1.</textblock>
+    <textblock>Summer and winter Method 1-type data, per paragraph (c)(1) of this section, shall be evaluated separately according to the following equation:</textblock>
+    <textblock>where:</textblock>
+    <textblock>X</textblock>
+    <textblock>bs</textblock>
+    <textblock>=summer or winter baseline value of fuel parameter X for the refinery</textblock>
+    <textblock>s=season, summer or winter, per paragraph (d)(1)(i)(A)(</textblock>
+    <textblock>1</textblock>
+    <textblock>) of this section</textblock>
+    <textblock>g=separate grade of season s gasoline produced by the refinery in 1990</textblock>
+    <textblock>p</textblock>
+    <textblock>s</textblock>
+    <textblock>=total number of different grades of season s gasoline produced by the refinery in 1990</textblock>
+    <textblock>T</textblock>
+    <textblock>gs</textblock>
+    <textblock>=total volume of season s grade g gasoline produced in 1990</textblock>
+    <textblock>N</textblock>
+    <textblock>s</textblock>
+    <textblock>=total volume of season s gasoline produced by the refinery in 1990</textblock>
+    <textblock>i=separate batch or shipment of season s 1990 gasoline sampled</textblock>
+    <textblock>n</textblock>
+    <textblock>gs</textblock>
+    <textblock>=total number of season s samples of grade g gasoline</textblock>
+    <textblock>X</textblock>
+    <textblock>gis</textblock>
+    <textblock>=parameter value of grade g gasoline sample i in season s</textblock>
+    <textblock>V</textblock>
+    <textblock>gis</textblock>
+    <textblock>=volume of season s grade g gasoline sample i</textblock>
+    <textblock>SG</textblock>
+    <textblock>gis</textblock>
+    <textblock>=specific gravity of season s grade g gasoline sample i (used only for fuel parameters measured on a weight basis)</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Method 2.</textblock>
+    <textblock>Summer and winter Method 2-type data, per paragraph (c)(2) of this section, shall be evaluated separately according to the following equation:</textblock>
+    <textblock>where</textblock>
+    <textblock>X</textblock>
+    <textblock>bs</textblock>
+    <textblock>=Summer or winter baseline value of fuel parameter X for the refinery</textblock>
+    <textblock>s=season, summer or winter, per paragraph (d)(1)(i)(A)(</textblock>
+    <textblock>1</textblock>
+    <textblock>) of this section</textblock>
+    <textblock>j=type of blendstock (e.g., reformate, isomerate, alkylate, etc.)</textblock>
+    <textblock>m</textblock>
+    <textblock>s</textblock>
+    <textblock>=total types of blendstocks in season s 1990 gasoline</textblock>
+    <textblock>T</textblock>
+    <textblock>js</textblock>
+    <textblock>=total 1990 volume of blendstock j produced in the refinery and used in the refinery's season s gasoline</textblock>
+    <textblock>N</textblock>
+    <textblock>s</textblock>
+    <textblock>=total volume of season s gasoline produced in the refinery in 1990</textblock>
+    <textblock>i=sample of blendstock j</textblock>
+    <textblock>n</textblock>
+    <textblock>js</textblock>
+    <textblock>=number of samples of season s blendstock j from continuous process streams</textblock>
+    <textblock>X</textblock>
+    <textblock>ijs</textblock>
+    <textblock>=parameter value of sample i of season s blendstock j</textblock>
+    <textblock>p</textblock>
+    <textblock>js</textblock>
+    <textblock>=number of samples of season s batch-produced blendstock j</textblock>
+    <textblock>V</textblock>
+    <textblock>ijs</textblock>
+    <textblock>=volume of batch of sample i of season s blendstock j</textblock>
+    <textblock>SG</textblock>
+    <textblock>ijs</textblock>
+    <textblock>=specific gravity of sample i of season s blendstock j (used only for fuel parameters measured on a weight basis)</textblock>
+    <textblock>(v)</textblock>
+    <textblock>Method 3.</textblock>
+    <textblock>(A) Post-1990 Blendstock. Summer and winter Method 3-type data, per paragraph (c)(3) of this section, shall be evaluated separately according to the following equation:</textblock>
+    <textblock>where</textblock>
+    <textblock>X</textblock>
+    <textblock>bs</textblock>
+    <textblock>=Summer or winter baseline value of fuel parameter X for the refinery</textblock>
+    <textblock>s=season, summer or winter, per paragraph (d)(1)(i)(A)(</textblock>
+    <textblock>1</textblock>
+    <textblock>) of this section</textblock>
+    <textblock>j=type of blendstock (e.g., reformate, isomerate, alkylate, etc.)</textblock>
+    <textblock>m</textblock>
+    <textblock>s</textblock>
+    <textblock>=total types of blendstocks in season s 1990 gasoline</textblock>
+    <textblock>T</textblock>
+    <textblock>js</textblock>
+    <textblock>=total 1990 volume of blendstock j produced in the refinery and used in the refinery's season s gasoline</textblock>
+    <textblock>N</textblock>
+    <textblock>s</textblock>
+    <textblock>=total volume of season s gasoline produced in the refinery in 1990</textblock>
+    <textblock>i=sample of post-1990 season s blendstock j</textblock>
+    <textblock>n</textblock>
+    <textblock>js</textblock>
+    <textblock>=number of samples of post-1990 season s blendstock j from continuous process streams</textblock>
+    <textblock>X</textblock>
+    <textblock>ijs</textblock>
+    <textblock>=parameter value of sample i of post-1990 season s blendstock j</textblock>
+    <textblock>p</textblock>
+    <textblock>js</textblock>
+    <textblock>=number of samples of post-1990 season s batch-produced blendstock j</textblock>
+    <textblock>V</textblock>
+    <textblock>ijs</textblock>
+    <textblock>=volume of post-1990 batch of sample i of season s blendstock j</textblock>
+    <textblock>SG</textblock>
+    <textblock>ijs</textblock>
+    <textblock>=specific gravity of sample i of season s blendstock j (used only for fuel parameters measured on a weight basis)</textblock>
+  </text>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.013</textblock>
+  </import>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.014</textblock>
+  </import>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.015</textblock>
+  </import>
+</doc>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00004</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00001</textblock>
+  </parent>
+  <text>
+    <textblock>Appendix A_Large Bird Ingestion Test Procedures</textblock>
+    <textblock>(a) The test shall be conducted with the engine stabilized at rated takeoff thrust for the test day ambient conditions prior to the ingestion.</textblock>
+    <textblock>(b) The test shall be conducted using one eight-pound bird targeted at the the most critical location and ingested at a bird speed of 200 knots.</textblock>
+    <textblock>(c) Power lever movement is not permitted within 15 seconds following the ingestion event.</textblock>
+    <textblock>Appendix B_Medium Bird Ingestion Test Procedures</textblock>
+    <textblock>(a) The ingestion test shall be conducted with the engine stabilized at rated takeoff thrust for the test day ambient conditions prior to the ingestion.</textblock>
+    <textblock>(b) The test shall be conducted to simulate a flock encounter, with all birds ingested within approximately one second, and using the more severe of the following bird weight/quantity combinations:</textblock>
+    <textblock>(1) Six 1.5-pound and one 2.5-pound birds.</textblock>
+    <textblock>(2) Four 2.5-pound birds.</textblock>
+    <textblock>(c) Bird targeting shall be one 2.5-pound bird at the core primary flow path, and the remaining birds targeted at critical fan rotor locations.</textblock>
+    <textblock>(d) Bird ingestion velocity shall be the most critical velocity between V1 minimum through 250 knots.</textblock>
+    <textblock>(e) Power lever movements between stages must occur in 10 seconds or less. The following test schedule will be used as the post-ingestion run-on demonstration:</textblock>
+    <textblock>(1) Two minutes with no power lever movement.</textblock>
+    <textblock>(2) Three minutes at 75 percent of takeoff thrust.</textblock>
+    <textblock>(3) Six minutes at 75 percent of maximum continuous thrust.</textblock>
+    <textblock>(4) Six minutes at 50 percent of maximum continuous thrust.</textblock>
+    <textblock>(5) One minute at approach idle.</textblock>
+    <textblock>(6) Two minutes at 75 percent of takeoff thrust.</textblock>
+    <textblock>(7) Retard throttle to idle.</textblock>
+    <textblock>(8) Shut down the engine.</textblock>
+    <textblock>(f) An analysis or component/engine test(s) acceptable to the Administrator shall be conducted to determine the critical ingestion parameters for medium bird ingestion that relates to airspeeds from V1 minimum through 250 knots. The analysis or test(s) must also show satisfactory engine operation for medium bird ingestion at the most severe ambient operating condition approved for the engine that may be experienced in service.</textblock>
+    <textblock>Issued in Burlington, Massachusetts, on December 21, 1993.</textblock>
+  </text>
+  <signer>
+    <textblock>Jay J. Pardee,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Engine and Propeller Directorate, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-136 Filed 1-5-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-M</textblock>
+  </billing>
+</doc>

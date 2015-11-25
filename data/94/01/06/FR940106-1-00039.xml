@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00039</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00008</textblock>
+  </parent>
+  <text>
+    <textblock>9. Any plate or orifice that is determined not to be in</textblock>
+    <textblock>conformance with AGA standards shall be replaced with one that is</textblock>
+    <textblock>in conformance.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Major.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Replace orifice plate.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>Prior to sales or removal.</textblock>
+    <textblock>10. All connections and fittings of the secondary element</textblock>
+    <textblock>(including meter pots and meter manifolds) shall be leak tested</textblock>
+    <textblock>prior to conducting tests of the meter's accuracy.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Stop meter calibration and conduct leak</textblock>
+    <textblock>test.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>Prior to completion of calibration.</textblock>
+    <textblock>11. Volumes of gas delivered shall be determined according to</textblock>
+    <textblock>the flow equations specified in AGA Committee Report No. 3.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Recalculate all gas volumes not determined</textblock>
+    <textblock>in accordance with flow equations specified in AGA Committee</textblock>
+    <textblock>Report No. 3. Submit a report adjusting the volume of gas</textblock>
+    <textblock>measured, and showing or discussing all calculations made in</textblock>
+    <textblock>correcting the volumes.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>60 days.</textblock>
+    <textblock>D. Secondary Element</textblock>
+    <textblock>The following are minimum standards for the secondary element</textblock>
+    <textblock>of the orifice meter.</textblock>
+    <textblock>1. Continuous temperature recorders to measure the flowing gas</textblock>
+    <textblock>temperature are required on all sales and allocation meters</textblock>
+    <textblock>measuring more than 100 Mcf per day on a monthly basis. Meters</textblock>
+    <textblock>measuring 100 Mcf or less per day on a monthly basis shall</textblock>
+    <textblock>determine the flowing temperature of the gas by one of the</textblock>
+    <textblock>following:</textblock>
+    <textblock>a. Continuous temperature recorder, or</textblock>
+    <textblock>b. Average flowing temperature, as determined by a method</textblock>
+    <textblock>approved by the authorized officer.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Major.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Install temperature measuring device as</textblock>
+    <textblock>required.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>Prior to sales or removal.</textblock>
+    <textblock>2. The temperature recording device shall be tested for</textblock>
+    <textblock>accuracy utilizing one of the following:</textblock>
+    <textblock>a. ``Test well'' in the meter run; or</textblock>
+    <textblock>b. Water bath.</textblock>
+    <textblock>Record ``as found'' readings, make any necessary adjustments, and</textblock>
+    <textblock>record ``as left'' readings.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Test temperature recording device as</textblock>
+    <textblock>specified, record ``as found'' readings, make necessary</textblock>
+    <textblock>adjustments, and record ``as left'' readings.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>Prior to completion of calibration.</textblock>
+    <textblock>3. Differential and static pen accuracy shall be tested for</textblock>
+    <textblock>linearity at zero, at 100 percent of the element range, and at 1</textblock>
+    <textblock>point within the normal operating range of the differential and</textblock>
+    <textblock>static recordings. Record ``as found'' readings, make any</textblock>
+    <textblock>necessary adjustments, and record ``as left'' readings.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Test linearity at the required points,</textblock>
+    <textblock>record ``as found'' readings, make necessary adjustments, and</textblock>
+    <textblock>record ``as left'' readings.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>Prior to completion of calibration.</textblock>
+    <textblock>4. All calibrating equipment shall be more accurate than the</textblock>
+    <textblock>required accuracy of the equipment being calibrated, as shown in</textblock>
+    <textblock>the documentation required in paragraph 5. Calibration equipment</textblock>
+    <textblock>shall be recertified at least annually.</textblock>
+  </text>
+</doc>

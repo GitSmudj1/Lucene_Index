@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940111-2-00006</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940111-2-00003</textblock>
+  </parent>
+  <text>
+    <textblock>Review of Draft Report of the Federal Internetworking Requirements Panel</textblock>
+  </text>
+  <usdept>
+    <textblock>DEPARTMENT OF COMMERCE</textblock>
+  </usdept>
+  <usbureau>
+    <textblock>National Institute of Standards and Technology</textblock>
+  </usbureau>
+  <rindock>
+    <textblock>[Docket No. 931246-3346]</textblock>
+  </rindock>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>National Institute of Standards and Technology (NIST), Commerce.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>Notice; request for comments.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>The purpose of this notice is to announce the availability, after January 14, 1994, of the draft report of the Federal Internetworking Requirements Panel (FIRP). This panel was named by NIST to review open systems network requirements and to recommend policies on the use of networking standards by the Federal government. Organized in cooperation with the Federal Networking Council and the Federal Information Resources Management Policy Council, the FIRP has been considering issues related to interoperability requirements, security, ease of use, national and international connectivity, and standards maintenance for the Internet Protocol Suite (IPS), Open Systems Interconnection (OSI) specifications, and proprietary networking protocols.</textblock>
+    <textblock>Prior to submitting its final report to NIST, the FIRP solicits the views of industry, the public, and Federal, State and local governments on the draft report. The purpose of this notice is to solicit such views.</textblock>
+    <textblock>The draft report will be available after January 14, 1994 and can be obtained in any of the following ways:</textblock>
+    <textblock>Anonymous file transfer can be achieved through FTP, FTAM and Gopher. Electronic files are named draft-firp-report.asc and reportO.fir. For anonymous FTP:</textblock>
+    <textblock>1. ftp to osi.ncsl.nist.gov (129.6.48.100)</textblock>
+    <textblock>2. respond to the ``login:'' prompt with user name ``anonymous'' (do not type the quotes)</textblock>
+    <textblock>3. respond to the ``password:'' prompt with your E-mail address.</textblock>
+    <textblock>4. you are now logged in. Use ``cd'' to change directory to ./pub/firp. Use ``ls'' or ``dir'' to get directory listings. Use ``get'' to transfer a file.</textblock>
+    <textblock>For anonymous FTAM:</textblock>
+    <textblock>Paddr=</textblock>
+    <textblock>{</textblock>
+    <textblock>1,1,1,47:0005 : 80 : 005A00 : 0000 : 0001 : E137 : 080020079EFC : 00</textblock>
+    <textblock>}</textblock>
+    <textblock>userid=anon, no password, realstore=unix</textblock>
+    <textblock>The corresponding ``ISODE isoentities'' entry is:</textblock>
+    <textblock>osi.ncsl.nist.gov filestore NULL /</textblock>
+    <textblock>#</textblock>
+    <textblock>1 /</textblock>
+    <textblock>#</textblock>
+    <textblock>1 /</textblock>
+    <textblock>#</textblock>
+    <textblock>1 / NS + 47000580005a 0000000001e 137080020079 efc00</textblock>
+    <textblock>Questions regarding these services should be sent via SMTP mail to staff@osi.ncsl.nist.gov.</textblock>
+    <textblock>An electronic mail request for the draft report may be sent to:firp-draft@osi.ncsl.nist.gov.</textblock>
+    <textblock>Paper copies of the draft report are available from Joan Wyrwa, Technology Building, Room B217, NIST, Gaithersburg, MD 20899; telephone: (301) 975-3643; facsimile: (301) 590-0932.</textblock>
+  </summary>
+  <date>
+    <textblock>DATES:</textblock>
+    <textblock>Comments on the draft report must be received on or before February 18, 1994.</textblock>
+  </date>
+  <address>
+    <textblock>ADDRESSES:</textblock>
+    <textblock>Written comments concerning the draft report should be sent to: Anastase Nakassis; Acting Chief, Systems and Network Architecture Division; ATTN: Draft Report of FIRP; Technology Building, Room B217; National Institute of Standards and Technology; Gaithersburg, MD 20899. Comments may also be sent by electronic mail to firp-comments@osi.ncsl.nist.gov. Please limit written comments to five printed pages or less. Electronic comments should not exceed five pages when printed.</textblock>
+  </address>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>Anastase Nakassis, National Institute of Standards and Technology, Gaithersburg, MD 20899, telephone: (301) 975-3632. E-mail: firp.staff@osi. ncsl.nist.gov.</textblock>
+    <textblock>Dated: January 3, 1994.</textblock>
+  </further>
+  <signer>
+    <textblock>Samuel Kramer,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Associate Director.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-538 Filed 1-10-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 3510-CN-M</textblock>
+  </billing>
+</doc>

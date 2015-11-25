@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940223-0-00016</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940223-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>§§97.23, 97.25, 97.27, 97.29, 97.31, 97.33, 97.35 [Amended]</textblock>
+    <textblock>By amending: §97.23 VOR, VOR/DME, VOR or TACAN, and VOR/DME or TACAN; §97.25 LOC, LOC/DME, LDA, LDA/DME, SDF, SDF/DME; §97.27 NDB, NDB/DME; §97.29 ILS, ILS/DME, ISMLS, MLS, MLS/DME, MLS/RNAV; §97.31 RADAR SIAPs; §97.33 RNAV SIAPs; and §97.35 COPTER SIAPs, identified as follows:</textblock>
+    <textblock>Galena</textblock>
+    <textblock>Galena</textblock>
+    <textblock>Alaska</textblock>
+    <textblock>VOR Rwy 25 Amdt 9A ...</textblock>
+    <textblock>Effective: 02/01/94</textblock>
+    <textblock>FDC 4/0577/GAL/FI/P Galena, Galena, AK. VOR Rwy 25 Amdt 9A... VOR/DME or Tacan Rwy 7 Amdt 6A; CIRC CAT A MDA/HAA 620/468. These become VOR Rwy 25 Amdt 9B; and VOR/DME or Tacan Rwy 7 Amdt 6B.</textblock>
+    <textblock>Galena</textblock>
+    <textblock>Galena</textblock>
+    <textblock>Alaska</textblock>
+    <textblock>ILS/DME Rwy 25 Orig...</textblock>
+    <textblock>Effective: 02/01/94</textblock>
+    <textblock>FDC 4/0578/GAL/FI/P Galena, Galena, AK. ILS/DME Rwy 25... HOL D IN Lieu of PT... 2000; 10 DME ARC ALT... 2300; CAT A Circ MDA/HAA 620/648; DLT CAT E MINS. This becomes ILS/DME Rwy 25 Orig-A.</textblock>
+    <textblock>Patterson</textblock>
+    <textblock>Harry P. Williams Memorial</textblock>
+    <textblock>Louisiana</textblock>
+    <textblock>NDB Rwy 5 Amdt 8...</textblock>
+    <textblock>Effective: 02/04/94</textblock>
+    <textblock>FDC 4/0642/PTN/FI/P Harry P. Williams Memorial, Patterson, LA. NDB Rwy 5 Amdt 8...Delete All Reference to Rwys 5/23; Chg all reference to Rwy 6/24. This Is NDB Rwy 6 Amdt 8A.</textblock>
+    <textblock>Patterson</textblock>
+    <textblock>Harry P. Williams Memorial</textblock>
+    <textblock>Louisiana</textblock>
+    <textblock>LOC/DME Rwy 23 Amdt 2...</textblock>
+    <textblock>Effective: 02/04/94</textblock>
+    <textblock>FDC 4/0643/PTN/ FI/P Harry P. Williams Memorial, Patterson, LA. LOC/DME Rwy 23 Amdt 2...Delete All Reference to Rwys 5/23; Chg All Reference to Rwys 6/24. This is LOC/DME Rwy 24 Amdt 2A.</textblock>
+    <textblock>Valentine</textblock>
+    <textblock>Miller Field</textblock>
+    <textblock>Nebraska</textblock>
+    <textblock>NDB Rwy 31 Amdt 6...</textblock>
+    <textblock>Effective: 10/28/93</textblock>
+    <textblock>FDC 3/5907/VTN/FI/P Miller Field, Valentine, NE. NDB Rwy 31 Amdt 6...MSA VTN 25NM 350-170 4000, 170-350 4600. This is NDB Rwy 31 Amdt 6A.</textblock>
+    <textblock>Providence</textblock>
+    <textblock>Theodore Francis Green State</textblock>
+    <textblock>Rhode Island</textblock>
+    <textblock>VOR Rwys 5L/R Amdt 11...</textblock>
+    <textblock>Effective: 02/02/94</textblock>
+    <textblock>FDC 4/0587/PVD/FI/P Theodore Francis Green State, Providence, RI. VOR Rwys 5L/R Amdt 11...Change procedure identification to VOR Rwy 5. Delete S-5L CAT A-D AND S-5L DME CAT A-D Minimums. This is VOR Rwy 5 Amdt 11A.</textblock>
+    <textblock>Georgetown</textblock>
+    <textblock>Georgetown Muni</textblock>
+    <textblock>Texas</textblock>
+    <textblock>NDB Rwy 18 Amdt 4...</textblock>
+    <textblock>Effective: 02/01/94</textblock>
+    <textblock>FDC 4/0580/T04/FI/P Georgetown Muni, Georgetown, TX. NDB Rwy 18 Amdt 4...Remove Note...If LCL ALTM Not Received, Use Austin ALSTG and Increase all MDAS 100 Ft. This is NDB Rwy 18 Amdt 4a.</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Effective</textblock>
+    <textblock>1State</textblock>
+    <textblock>1City</textblock>
+    <textblock>1Airport</textblock>
+    <textblock>1FDC No.</textblock>
+    <textblock>1SIAP</textblock>
+    <textblock>02/01/94</textblock>
+    <textblock>AK</textblock>
+    <textblock>Galena</textblock>
+    <textblock>Galena</textblock>
+    <textblock>FDC 4/0577</textblock>
+    <textblock>VOR Rwy 25 Amdt 9A...</textblock>
+    <textblock>02/01/94</textblock>
+    <textblock>AK</textblock>
+    <textblock>Galena</textblock>
+    <textblock>Galena</textblock>
+    <textblock>FDC 4/0578</textblock>
+    <textblock>ILS/DME Rwy 25 Orig...</textblock>
+    <textblock>02/01/94</textblock>
+    <textblock>TX</textblock>
+    <textblock>Georgetown</textblock>
+    <textblock>Georgetown Muni</textblock>
+    <textblock>FDC 4/0580</textblock>
+    <textblock>NDB Rwy 18 Amdt 4...</textblock>
+    <textblock>02/02/94</textblock>
+    <textblock>RI</textblock>
+    <textblock>Providence</textblock>
+    <textblock>Theodore Francis Green State</textblock>
+    <textblock>FDC 4/0587</textblock>
+    <textblock>VOR Rwys 5L/R Amdt 11...</textblock>
+    <textblock>02/04/94</textblock>
+    <textblock>LA</textblock>
+    <textblock>Patterson</textblock>
+    <textblock>Harry P. Williams Memorial</textblock>
+    <textblock>FDC 4/0642</textblock>
+    <textblock>NDB Rwy 5 Amdt 8...</textblock>
+    <textblock>02/04/94</textblock>
+    <textblock>LA</textblock>
+    <textblock>Patterson</textblock>
+    <textblock>Harry P.Williams Memorial</textblock>
+    <textblock>FDC 4/0643</textblock>
+    <textblock>LOC/DME Rwy 23 Amdt 2...</textblock>
+    <textblock>10/28/93</textblock>
+    <textblock>NE</textblock>
+    <textblock>Valentine</textblock>
+    <textblock>Miller Field</textblock>
+    <textblock>FDC 3/5907</textblock>
+    <textblock>NDB Rwy 31 Amdt 6...</textblock>
+  </table>
+  <frfiling>
+    <textblock>[FR Doc. 94-3997 Filed 2-22-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-M</textblock>
+  </billing>
+</doc>

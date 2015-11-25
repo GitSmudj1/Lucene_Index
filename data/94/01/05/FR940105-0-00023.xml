@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940105-0-00023</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940105-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>General Aviation Airplanes</textblock>
+    <textblock>Astra Model 1125 airplanes</textblock>
+    <textblock>BAC Model 1-11 airplanes</textblock>
+    <textblock>British Aerospace Model 125-800 airplanes</textblock>
+    <textblock>Beech Models C90A, B200, 300, 350, and 400A airplanes</textblock>
+    <textblock>Canadair Models CL-600, CL-600-2B16, CL-601, CL-601-1A,</textblock>
+    <textblock>and CL-601-3A airplanes</textblock>
+    <textblock>Learjet Models 31, 55, and 60 airplanes</textblock>
+    <textblock>Falcon Models 20, 50, 200, and 900 airplanes</textblock>
+    <textblock>Gulfstream Models G2 and G3 airplanes</textblock>
+    <textblock>British Aerospace Models HS-125-700 airplanes and</textblock>
+    <textblock>Sabreliner Model 60 airplanes</textblock>
+    <textblock>Air Transport Airplanes</textblock>
+    <textblock>Aerospatiale Models ATR-42 and ATR-72 airplanes</textblock>
+    <textblock>Airbus Industries Models A300B2, A-300B, and A-320 airplanes</textblock>
+    <textblock>British Aerospace Models ATP and 146 airplanes</textblock>
+    <textblock>Boeing Models 707, 727, 737, 747, 757, and 767 airplanes</textblock>
+    <textblock>British Aerospace/Aerospatiale Model Concorde SST airplanes</textblock>
+    <textblock>de Havilland DHC-7 and DHC-8 series airplanes</textblock>
+    <textblock>McDonnell Douglas Models DC-8, DC-9, DC-10, MD-80, and MD-11 airplanes</textblock>
+    <textblock>Ilyushin Model IL-86 airplanes</textblock>
+    <textblock>Lockheed Model L-1011 airplanes</textblock>
+    <textblock>SAAB Models SF340A and SF340B airplanes and</textblock>
+    <textblock>Shorts Models SD3-60-300 airplanes</textblock>
+    <textblock>Interested persons have been afforded an opportunity to participate in the making of this amendment. Due consideration has been given to the comments received from 31 different owners, operators, manufacturers, and organizations.</textblock>
+    <textblock>All commenters express their concern of the FAA's</textblock>
+    <textblock>compliance date of December 30, 1993. The following</textblock>
+    <textblock>summarizes the compliance times that the commenters</textblock>
+    <textblock>recommended:</textblock>
+    <textblock>•21 recommended one year or less;</textblock>
+    <textblock>•3 recommended longer than one year; and</textblock>
+    <textblock>•7 recommended an extension without a proposed time.</textblock>
+    <textblock>The National Air Traffic Controllers Association and</textblock>
+    <textblock>the Airline Pilots Association both recommend an</textblock>
+    <textblock>``aggressive implementation'' of ``Change 6.04A''. The</textblock>
+    <textblock>FAA has re-evaluated the December 30, 1993, compliance</textblock>
+    <textblock>time and has determined that the compliance time should</textblock>
+    <textblock>be changed to December 31, 1994. In addition,</textblock>
+    <textblock>``Change 6.04A'' has been upgraded to ``Change 6.04A</textblock>
+    <textblock>Enhanced'', which eliminates unnecessary non-crossing</textblock>
+    <textblock>resolution advisories (RA's) included in ``Change</textblock>
+    <textblock>6.04A''. Collins has assured the FAA that (1) the</textblock>
+    <textblock>upgrade to ``Change 6.04A Enhanced'' is minor and will be</textblock>
+    <textblock>incorporated in the logic change for the TCAS II</textblock>
+    <textblock>processor upgrades; and (2) this compliance time</textblock>
+    <textblock>correlates with their schedule for disseminating</textblock>
+    <textblock>service information and kits necessary to accomplish</textblock>
+    <textblock>the incorporation of ``Change 6.04A Enhanced''. The</textblock>
+    <textblock>proposed AD has been changed to reflect the compliance</textblock>
+    <textblock>time change and logic change described above.</textblock>
+    <textblock>One commenter states that the affected aircraft</textblock>
+    <textblock>operators should operate their TCAS II units in the ``TA</textblock>
+    <textblock>Mode Only'' until the new logic is incorporated because</textblock>
+    <textblock>of possible hidden problems that could exist between</textblock>
+    <textblock>different logic versions currently installed. The FAA</textblock>
+    <textblock>does not concur that these TCAS II units should be</textblock>
+    <textblock>operated in the ``TA Mode Only''. The information</textblock>
+    <textblock>provided by an RA may prove to be useful to the pilot.</textblock>
+    <textblock>The pilot has the option of whether to utilize the RA</textblock>
+    <textblock>information. The proposed AD is unchanged as a result</textblock>
+    <textblock>of this comment.</textblock>
+    <textblock>A commenter recommends referencing Collins Service</textblock>
+    <textblock>Bulletin (SB) No. 16, TTR-920-34-16, dated December 9,</textblock>
+    <textblock>1993, as a way of complying with the proposed AD. The</textblock>
+    <textblock>FAA concurs that this service information is a way of</textblock>
+    <textblock>complying with the proposed action, and has included a</textblock>
+    <textblock>note in the final rule that so indicates this.</textblock>
+    <textblock>Another commenter proposes a change to the</textblock>
+    <textblock>proposed AD that would allow reprogramming the existing</textblock>
+    <textblock>unit on board the aircraft as a method of compliance</textblock>
+    <textblock>with the proposed action. The FAA concurs that certain</textblock>
+    <textblock>existing TCAS II part numbers may be reprogrammed with</textblock>
+    <textblock>the unit on board the aircraft. The proposed AD has</textblock>
+    <textblock>been modified to include this method on the applicable</textblock>
+    <textblock>TCAS II processor part numbers.</textblock>
+    <textblock>One commenter states that reference to the SAAB</textblock>
+    <textblock>340B airplanes in the General Aviation Airplanes list</textblock>
+    <textblock>should be deleted. This commenter also recommends that</textblock>
+    <textblock>reference to the Aerospatiale ATR-42 and ATR-72</textblock>
+    <textblock>airplanes be moved from the General Aviation Airplanes</textblock>
+    <textblock>list to the Air Transport Airplanes list. The FAA</textblock>
+    <textblock>concurs and has revised the proposed AD accordingly.</textblock>
+  </text>
+</doc>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940204-1-00005</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940204-1-00001</textblock>
+  </parent>
+  <text>
+    <textblock>The Petroleum Equivalency Factor is determined as follows:</textblock>
+    <textblock>where:</textblock>
+    <textblock>DPF = driving pattern factor</textblock>
+    <textblock>n</textblock>
+    <textblock>t</textblock>
+    <textblock>= average national electrical transmission efficiency</textblock>
+    <textblock>AF = accessory factor</textblock>
+    <textblock>E</textblock>
+    <textblock>total</textblock>
+    <textblock>= total output electricity generation mix (%)</textblock>
+    <textblock>I</textblock>
+    <textblock>i</textblock>
+    <textblock>= input electricity generation of fuel i (%)</textblock>
+    <textblock>V</textblock>
+    <textblock>i</textblock>
+    <textblock>= relative scarcity factor of fuel i</textblock>
+    <textblock>Each of these factors is described in further detail below:</textblock>
+    <textblock>1. Driving Pattern Factor</textblock>
+    <textblock>Section 503(c)(3)(A)(iv) of</textblock>
+    <textblock>the Motor Vehicle Information and Cost Savings Act</textblock>
+    <textblock>requires that DOE take into account ``the specific</textblock>
+    <textblock>driving patterns of electric vehicles as compared with</textblock>
+    <textblock>those of petroleum-fueled vehicles.'' The driving</textblock>
+    <textblock>pattern factor is the ratio of annual vehicle miles</textblock>
+    <textblock>travelled for an electric vehicle to that of a</textblock>
+    <textblock>petroleum-fueled vehicle. Since there is an</textblock>
+    <textblock>insufficient number of electric vehicles in service for</textblock>
+    <textblock>use as a sample, a factor of 100 percent (1.00) will be</textblock>
+    <textblock>used until such time DOE has collected sufficient data</textblock>
+    <textblock>to show otherwise.</textblock>
+  </text>
+  <import>
+    <textblock>E:GRAPHICSEP04FE94.000</textblock>
+  </import>
+</doc>

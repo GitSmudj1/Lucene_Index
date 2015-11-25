@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940204-1-00008</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940204-1-00001</textblock>
+  </parent>
+  <text>
+    <textblock>Section 503(a)(3)(A)(iii) of the Motor Vehicle</textblock>
+    <textblock>Information and Cost Savings Act also requires in part</textblock>
+    <textblock>that ``the relative scarcity and value to the Nation of</textblock>
+    <textblock>all fuel used to generate electricity'' be taken into</textblock>
+    <textblock>account. The Petroleum Equivalency Factor accomplishes</textblock>
+    <textblock>this by multiplying each of the individual input energy</textblock>
+    <textblock>generation mix value terms used in calculating</textblock>
+    <textblock>electricity generation efficiency by a relative</textblock>
+    <textblock>scarcity factor (V</textblock>
+    <textblock>i</textblock>
+    <textblock>). The relative scarcity factor is</textblock>
+    <textblock>derived by determining the U.S. percent and numeric</textblock>
+    <textblock>share of the world reserve market (Table III), and</textblock>
+    <textblock>calculating the rate at which the U.S. is depleting</textblock>
+    <textblock>each fuel source's reserves. These values are then</textblock>
+    <textblock>normalized to obtain the relative scarcity value for</textblock>
+    <textblock>each fuel source (Table IV).</textblock>
+  </text>
+  <table>
+    <textblock>Table II._Calculation of E</textblock>
+    <textblock>total</textblock>
+    <textblock>1Fuel source</textblock>
+    <textblock>1I</textblock>
+    <textblock>i</textblock>
+    <textblock>(%)</textblock>
+    <textblock>1E</textblock>
+    <textblock>qi</textblock>
+    <textblock>/I</textblock>
+    <textblock>qi</textblock>
+    <textblock>ratio</textblock>
+    <textblock>1E</textblock>
+    <textblock>total</textblock>
+    <textblock>(%)</textblock>
+    <textblock>Coal</textblock>
+    <textblock>50.17</textblock>
+    <textblock>0.329</textblock>
+    <textblock>16.52</textblock>
+    <textblock>Nuclear</textblock>
+    <textblock>23.33</textblock>
+    <textblock>0.318</textblock>
+    <textblock>7.42</textblock>
+    <textblock>Hydroelectric</textblock>
+    <textblock>14.52</textblock>
+    <textblock>0.328</textblock>
+    <textblock>4.76</textblock>
+    <textblock>Natural Gas</textblock>
+    <textblock>5.72</textblock>
+    <textblock>0.313</textblock>
+    <textblock>1.79</textblock>
+    <textblock>Oil</textblock>
+    <textblock>6.29</textblock>
+    <textblock>0.320</textblock>
+    <textblock>2.01</textblock>
+    <textblock>n,s</textblock>
+    <textblock>Total</textblock>
+    <textblock>100.00</textblock>
+    <textblock>32.51</textblock>
+  </table>
+</doc>

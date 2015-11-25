@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00078</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>(iv) A governor or similar restriction that is not</textblock>
+    <textblock>reasonably expected as of the issue date to cause the yield on</textblock>
+    <textblock>the debt instrument to be significantly more or significantly</textblock>
+    <textblock>less than the expected yield determined without the governor.</textblock>
+    <textblock>(c)</textblock>
+    <textblock>Objective rate_</textblock>
+    <textblock>(1)</textblock>
+    <textblock>In general.</textblock>
+    <textblock>An objective rate is a</textblock>
+    <textblock>rate (other than a qualified floating rate) that is determined</textblock>
+    <textblock>using a single fixed formula and that is based on_</textblock>
+    <textblock>(i) One or more qualified floating rates;</textblock>
+    <textblock>(ii) One or more rates where each rate would be a qualified</textblock>
+    <textblock>floating rate for a debt instrument denominated in a currency</textblock>
+    <textblock>other than the currency in which the debt instrument is</textblock>
+    <textblock>denominated;</textblock>
+    <textblock>(iii) The yield or changes in the price of one or more items</textblock>
+    <textblock>of personal property (other than stock or debt of the issuer or a</textblock>
+    <textblock>related party within the meaning of section 267(b) or 707(b)(1)),</textblock>
+    <textblock>provided each item of property is actively traded within the</textblock>
+    <textblock>meaning of section 1092(d)(1) (determined without regard to</textblock>
+    <textblock>section 1092(d)(3)); or</textblock>
+    <textblock>(iv) A combination of rates described in paragraphs</textblock>
+    <textblock>(c)(1)(i), (c)(1)(ii), and (c)(1)(iii) of this section.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Other objective rates to be specified by Commissioner.</textblock>
+    <textblock>The Commissioner may designate in the Internal Revenue Bulletin</textblock>
+    <textblock>variable rates other than those described in paragraph (c)(1) of</textblock>
+    <textblock>this section that will be treated as objective rates (see</textblock>
+    <textblock>§601.601(d)(2)(ii) of this chapter).</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Qualified inverse floating rate.</textblock>
+    <textblock>An objective rate</textblock>
+    <textblock>described in paragraph (c)(1) of this section is a qualified</textblock>
+    <textblock>inverse floating rate if_</textblock>
+    <textblock>(i) The rate is equal to a fixed rate minus a qualified</textblock>
+    <textblock>floating rate; and</textblock>
+    <textblock>(ii) The variations in the rate can reasonably be expected</textblock>
+    <textblock>to inversely reflect contemporaneous variations in the cost of</textblock>
+    <textblock>newly borrowed funds (disregarding any restrictions on the rate</textblock>
+    <textblock>that are described in paragraphs (b)(3)(i), (b)(3)(ii),</textblock>
+    <textblock>(b)(3)(iii), and (b)(3)(iv) of this section).</textblock>
+    <textblock>(4)</textblock>
+    <textblock>Significant front-loading or back-loading of interest.</textblock>
+    <textblock>Notwithstanding paragraph (c)(1) of this section, a variable rate</textblock>
+    <textblock>of interest on a debt instrument is not an objective rate if it</textblock>
+    <textblock>is reasonably expected that the average value of the rate during</textblock>
+    <textblock>the first half of the instrument's term will be either</textblock>
+    <textblock>significantly less than or significantly greater than the average</textblock>
+    <textblock>value of the rate during the final half of the instrument's term.</textblock>
+    <textblock>(5)</textblock>
+    <textblock>Tax-exempt debt.</textblock>
+    <textblock>Notwithstanding paragraph (c)(1) of</textblock>
+    <textblock>this section, in the case of any tax-exempt obligation (within</textblock>
+    <textblock>the meaning of section 1275(a)(3)), a variable rate is an</textblock>
+    <textblock>objective rate only if it is a qualified inverse floating rate.</textblock>
+    <textblock>(d)</textblock>
+    <textblock>Examples.</textblock>
+    <textblock>The following examples illustrate the rules</textblock>
+    <textblock>of paragraphs (b) and (c) of this section. For purposes of these</textblock>
+    <textblock>examples, assume that paragraphs (c)(4) and (c)(5) of this</textblock>
+    <textblock>section do not apply.</textblock>
+    <textblock>Example 1. Rate based on LIBOR.</textblock>
+    <textblock>X issues a debt instrument</textblock>
+    <textblock>that provides for annual payments of interest at a rate equal to</textblock>
+    <textblock>the value of the 1-year London Interbank Offered Rate (LIBOR) at</textblock>
+    <textblock>the end of each year. Variations in the value of 1-year LIBOR</textblock>
+    <textblock>over the term of the debt instrument can reasonably be expected</textblock>
+    <textblock>to measure contemporaneous variations in the cost of newly</textblock>
+    <textblock>borrowed funds over that term. Accordingly, the rate is a</textblock>
+    <textblock>qualified floating rate.</textblock>
+    <textblock>Example 2. Rate increased by a fixed amount.</textblock>
+    <textblock>X issues a</textblock>
+    <textblock>debt instrument that provides for annual payments of interest at</textblock>
+    <textblock>a rate equal to 200 basis points (2 percent) plus the current</textblock>
+    <textblock>value, at the end of each year, of the average yield on 1-year</textblock>
+    <textblock>Treasury securities as published in Federal Reserve bulletins.</textblock>
+    <textblock>Variations in the value of this interest rate can reasonably be</textblock>
+    <textblock>expected to measure contemporaneous variations in the cost of</textblock>
+    <textblock>newly borrowed funds. Accordingly, the rate is a qualified</textblock>
+    <textblock>floating rate.</textblock>
+    <textblock>Example 3. Rate based on commercial paper rate.</textblock>
+    <textblock>X issues a</textblock>
+    <textblock>debt instrument that provides for a rate of interest that is</textblock>
+    <textblock>periodically adjusted to equal the current interest rate of</textblock>
+    <textblock>Bank's commercial paper. Variations in the value of this</textblock>
+    <textblock>interest rate can reasonably be expected to measure</textblock>
+    <textblock>contemporaneous variations in the cost of newly borrowed funds.</textblock>
+    <textblock>Accordingly, the rate is a qualified floating rate.</textblock>
+    <textblock>Example 4. Rate based on changes in the value of a</textblock>
+    <textblock>commodity index.</textblock>
+    <textblock>X issues a debt instrument that provides for</textblock>
+    <textblock>annual interest payments at the end of each year at a rate equal</textblock>
+    <textblock>to the percentage increase, if any, in the value of an index for</textblock>
+    <textblock>the year immediately preceding the payment. The index is based</textblock>
+    <textblock>on the prices of several actively traded commodities. Variations</textblock>
+    <textblock>in the value of this interest rate cannot reasonably be expected</textblock>
+    <textblock>to measure contemporaneous variations in the cost of newly</textblock>
+    <textblock>borrowed funds. Accordingly, the rate is not a qualified</textblock>
+    <textblock>floating rate. However, because the rate is based on changes in</textblock>
+    <textblock>the prices of actively traded property, the rate is an objective</textblock>
+    <textblock>rate.</textblock>
+    <textblock>Example 5. Rate based on a percentage of S&amp;P 500 Index.</textblock>
+    <textblock>X</textblock>
+    <textblock>issues a debt instrument that provides for annual interest</textblock>
+    <textblock>payments at the end of each year based on a fixed percentage of</textblock>
+    <textblock>the value of the S&amp;P 500 Index. Variations in the value of this</textblock>
+    <textblock>interest rate cannot reasonably be expected to measure</textblock>
+    <textblock>contemporaneous variations in the cost of newly borrowed funds</textblock>
+    <textblock>and, therefore, the rate is not a qualified floating rate. In</textblock>
+    <textblock>addition, because the interest rate is based on the value of the</textblock>
+    <textblock>S&amp;P 500 Index rather than on changes in that value, the rate is</textblock>
+    <textblock>not an objective rate.</textblock>
+    <textblock>Example 6. Rate based on issuer's profits.</textblock>
+    <textblock>Z issues a debt</textblock>
+    <textblock>instrument that provides for annual interest payments equal to 20</textblock>
+    <textblock>percent of Z's net profits earned during the year immediately</textblock>
+    <textblock>preceding the payment. Variations in the value of this interest</textblock>
+    <textblock>rate cannot reasonably be expected to measure contemporaneous</textblock>
+    <textblock>variations in the cost of newly borrowed funds. Accordingly, the</textblock>
+    <textblock>rate is not a qualified floating rate. In addition, because the</textblock>
+    <textblock>stated rate is neither based on the yield or changes in the price</textblock>
+    <textblock>of actively traded property nor based on a qualified floating</textblock>
+    <textblock>rate, the rate is not an objective rate.</textblock>
+    <textblock>Example 7. Rate based on a multiple of an interest index.</textblock>
+    <textblock>Z issues a debt instrument with annual interest payments at a</textblock>
+    <textblock>rate equal to two times the value of 1-year LIBOR as of the</textblock>
+    <textblock>payment date. Because the rate is a multiple greater than 1.35</textblock>
+    <textblock>times a qualified floating rate, the rate is not a qualified</textblock>
+    <textblock>floating rate. However, because the stated rate is based on a</textblock>
+    <textblock>qualified floating rate using a single fixed formula, the rate is</textblock>
+    <textblock>an objective rate.</textblock>
+  </text>
+</doc>

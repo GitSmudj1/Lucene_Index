@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00260</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(d)</textblock>
+    <textblock>Product to which standards apply.</textblock>
+    <textblock>Any refiner for</textblock>
+    <textblock>each refinery, or any importer, shall include in its</textblock>
+    <textblock>compliance calculations:</textblock>
+    <textblock>(1) Any conventional gasoline produced or imported</textblock>
+    <textblock>during the averaging period;</textblock>
+    <textblock>(2) Any non-gasoline petroleum products that are</textblock>
+    <textblock>produced or imported and sold or transferred from the</textblock>
+    <textblock>refinery or group of refineries or importer during the</textblock>
+    <textblock>averaging period, if required pursuant to §80.102(e)(2),</textblock>
+    <textblock>unless the refiner or importer is able to establish in the</textblock>
+    <textblock>form of documentation that the petroleum products were used</textblock>
+    <textblock>for a purpose other than the production of gasoline within</textblock>
+    <textblock>the United States;</textblock>
+    <textblock>(3) Any gasoline blending stock produced or imported</textblock>
+    <textblock>during the averaging period which becomes conventional</textblock>
+    <textblock>gasoline solely upon the addition of oxygenate;</textblock>
+    <textblock>(4)(i) Any oxygenate that is added to</textblock>
+    <textblock>conventional gasoline, or gasoline blending stock as</textblock>
+    <textblock>described in paragraph (d)(3) of this section, where such</textblock>
+    <textblock>gasoline or gasoline blending stock is produced or imported</textblock>
+    <textblock>during the averaging period;</textblock>
+    <textblock>(ii) In the case of oxygenate that is added at a point</textblock>
+    <textblock>downstream of the refinery or import facility, the oxygenate</textblock>
+    <textblock>may be included only if the refiner or importer can</textblock>
+    <textblock>establish the oxygenate was in fact added to the gasoline or</textblock>
+    <textblock>gasoline blendstock produced, by showing that the oxygenate</textblock>
+    <textblock>was added by:</textblock>
+    <textblock>(A) The refiner or importer; or</textblock>
+    <textblock>(B) By a person other than the refiner or importer,</textblock>
+    <textblock>provided that the refiner or importer:</textblock>
+    <textblock>(1)</textblock>
+    <textblock>Has a contract with the oxygenate blender that</textblock>
+    <textblock>specifies procedures to be followed by the oxygenate blender</textblock>
+    <textblock>that are reasonably calculated to ensure blending with the</textblock>
+    <textblock>amount and type of oxygenate claimed by the refiner or</textblock>
+    <textblock>importer; and</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Monitors the oxygenate blending operation to</textblock>
+    <textblock>ensure the volume and type of oxygenate claimed by the</textblock>
+    <textblock>refiner or importer is correct, through periodic audits of</textblock>
+    <textblock>the oxygenate blender designed to assess whether the overall</textblock>
+    <textblock>volumes and type of oxygenate purchased and used by the</textblock>
+    <textblock>oxygenate blender are consistent with the oxygenate claimed</textblock>
+    <textblock>by the refiner or importer and that this oxygenate was</textblock>
+    <textblock>blended with the refiner's or importer's gasoline or</textblock>
+    <textblock>blending stock, periodic sampling and testing of the</textblock>
+    <textblock>gasoline produced subsequent to oxygenate blending, and</textblock>
+    <textblock>periodic inspections to ensure the contractual requirements</textblock>
+    <textblock>imposed by the refiner or importer on the oxygenate blender</textblock>
+    <textblock>are being met.</textblock>
+    <textblock>(e)</textblock>
+    <textblock>Product to which standards do not apply.</textblock>
+    <textblock>Any</textblock>
+    <textblock>refiner for each refinery, or any importer, shall exclude</textblock>
+    <textblock>from its compliance calculations:</textblock>
+    <textblock>(1) Gasoline that was not produced at the refinery or</textblock>
+    <textblock>was not imported by the importer;</textblock>
+    <textblock>(2) Blendstocks that have been included in another</textblock>
+    <textblock>refiner's compliance calculations, pursuant to</textblock>
+    <textblock>§80.102(e)(2) or otherwise;</textblock>
+    <textblock>(3) Gasoline that meets the enforcement exemption for</textblock>
+    <textblock>California gasoline under §80.81; and</textblock>
+    <textblock>(4) Gasoline that is exported.</textblock>
+    <textblock>(f)</textblock>
+    <textblock>Compliance baseline determinations.</textblock>
+    <textblock>(1) In</textblock>
+    <textblock>the case of any refiner or importer for whom an individual</textblock>
+    <textblock>baseline has been established under §80.91, the individual</textblock>
+    <textblock>baseline for each parameter or emissions performance shall</textblock>
+    <textblock>be the compliance baseline for that refiner or importer.</textblock>
+    <textblock>(2) In the case of any refiner or importer for whom</textblock>
+    <textblock>the anti-dumping statutory baseline applies under §80.91,</textblock>
+    <textblock>the anti-dumping statutory baseline for each parameter or</textblock>
+    <textblock>emissions performance shall be the compliance baseline for</textblock>
+    <textblock>that refiner or importer.</textblock>
+    <textblock>(3) In the case of a party that is both a refiner and</textblock>
+    <textblock>an importer, and for whom an individual 1990 baseline has</textblock>
+    <textblock>not been established for the imported product under</textblock>
+    <textblock>§80.91(b)(4), the compliance baseline for the imported</textblock>
+    <textblock>product shall be the 1990 volume weighted average of all of</textblock>
+    <textblock>the refiner's individual refinery baselines.</textblock>
+    <textblock>(4) Any compliance baseline under paragraph (f) (1) or</textblock>
+    <textblock>(3) of this section shall be adjusted for each averaging</textblock>
+    <textblock>period as follows:</textblock>
+    <textblock>(i) The 1990 equivalent conventional gasoline volume</textblock>
+    <textblock>for an averaging period is calculated according to the</textblock>
+    <textblock>following formula:</textblock>
+    <textblock>where</textblock>
+    <textblock>V</textblock>
+    <textblock>eq</textblock>
+    <textblock>=the 1990 equivalent conventional gasoline</textblock>
+    <textblock>volume</textblock>
+    <textblock>V</textblock>
+    <textblock>1990</textblock>
+    <textblock>=the 1990 volume of gasoline as determined</textblock>
+    <textblock>under §80.91(f)(1)</textblock>
+    <textblock>V</textblock>
+    <textblock>r</textblock>
+    <textblock>=the total volume of reformulated gasoline</textblock>
+    <textblock>produced or imported by a refiner or importer</textblock>
+    <textblock>during the averaging period excluding gasoline</textblock>
+    <textblock>which meets the enforcement exemptions of</textblock>
+    <textblock>§80.81</textblock>
+    <textblock>V</textblock>
+    <textblock>c</textblock>
+    <textblock>=the total volume of conventional gasoline</textblock>
+    <textblock>produced or imported by a refiner or importer</textblock>
+    <textblock>during the averaging period excluding gasoline</textblock>
+    <textblock>which meets the enforcement exemptions of</textblock>
+    <textblock>§80.81</textblock>
+    <textblock>(ii)(A) If the total volume of the conventional</textblock>
+    <textblock>gasoline produced or imported by the refiner or importer</textblock>
+    <textblock>during the averaging period is equal to or less than that</textblock>
+    <textblock>refiner's or importer's 1990 equivalent conventional</textblock>
+    <textblock>gasoline volume, the compliance baseline for each parameter</textblock>
+    <textblock>shall be that refiner's or importer's individual 1990</textblock>
+    <textblock>baseline; or</textblock>
+    <textblock>(B) If the total volume of the conventional gasoline</textblock>
+    <textblock>produced or imported by the refiner or importer is greater</textblock>
+    <textblock>than that refiner's or importer's 1990 equivalent</textblock>
+    <textblock>conventional gasoline volume, the compliance baseline for</textblock>
+    <textblock>each parameter or emissions performance shall be calculated</textblock>
+    <textblock>according to the following formula:</textblock>
+    <textblock>where</textblock>
+    <textblock>CB</textblock>
+    <textblock>i</textblock>
+    <textblock>=the compliance baseline value for parameter or</textblock>
+    <textblock>emissions product i</textblock>
+    <textblock>B</textblock>
+    <textblock>i</textblock>
+    <textblock>=the refiner's or importer's individual</textblock>
+    <textblock>baseline value for parameter i calculated</textblock>
+    <textblock>according to the methodology in §80.91</textblock>
+    <textblock>V</textblock>
+    <textblock>eq</textblock>
+    <textblock>=the 1990 equivalent conventional gasoline</textblock>
+    <textblock>volume for the averaging period, calculated</textblock>
+    <textblock>pursuant to paragraph (f)(4)(iii) of this</textblock>
+    <textblock>section</textblock>
+    <textblock>DB</textblock>
+    <textblock>i</textblock>
+    <textblock>=the anti-dumping statutory baseline value for</textblock>
+    <textblock>parameter i, as specified at §80.91(c)(5)</textblock>
+    <textblock>V</textblock>
+    <textblock>c</textblock>
+    <textblock>=the total volume of conventional gasoline and</textblock>
+    <textblock>other products included under paragraph (d) of</textblock>
+    <textblock>this section produced or imported by a refiner</textblock>
+    <textblock>or importer during the averaging period</textblock>
+  </text>
+  <import>
+    <textblock>E:GRAPHICSer16fe94.021</textblock>
+  </import>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.022</textblock>
+  </import>
+</doc>

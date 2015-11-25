@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940214-0-00055</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940214-0-00004</textblock>
+  </parent>
+  <text>
+    <textblock>Example</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Year</textblock>
+    <textblock>1Total</textblock>
+    <textblock>2No.</textblock>
+    <textblock>2Change</textblock>
+    <textblock>2%</textblock>
+    <textblock>1Annual</textblock>
+    <textblock>2Change</textblock>
+    <textblock>2%</textblock>
+    <textblock>1980</textblock>
+    <textblock>1990</textblock>
+    <textblock>19</textblock>
+    <textblock>X</textblock>
+    <textblock>(current estimate)</textblock>
+    <textblock>Projected: 19</textblock>
+    <textblock>X</textblock>
+    <textblock>(2 years)</textblock>
+  </table>
+</doc>

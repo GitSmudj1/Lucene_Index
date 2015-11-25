@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00253</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(1)</textblock>
+    <textblock>Exhaust benzene emissions, simple model, 6.77;</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Exhaust benzene emissions, complex model, 34.68</textblock>
+    <textblock>mg/mile;</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Exhaust toxics emissions, 53.20 mg/mile in Phase</textblock>
+    <textblock>I, 109.7 mg/mile in Phase II;</textblock>
+    <textblock>(4)</textblock>
+    <textblock>NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions, 750.1 mg/mile in Phase I, 1534.</textblock>
+    <textblock>mg/mile in Phase II.</textblock>
+    <textblock>(viii) When compliance is achieved using the simple model</textblock>
+    <textblock>(per §80.101), increases in each of the annual average</textblock>
+    <textblock>baseline values (per §80.90) of sulfur, olefins and T90 due</textblock>
+    <textblock>to work-in-progress adjustments are limited to the larger</textblock>
+    <textblock>of:</textblock>
+    <textblock>(A) The unadjusted annual average baseline value of</textblock>
+    <textblock>each specified fuel parameter specified in this paragraph</textblock>
+    <textblock>(e)(5)(viii); or</textblock>
+    <textblock>(B) The following values:</textblock>
+    <textblock>(1)</textblock>
+    <textblock>Sulfur, 355 ppm;</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Olefins, 11.3 volume percent;</textblock>
+    <textblock>(3)</textblock>
+    <textblock>T90, 349</textblock>
+    <textblock>○F.</textblock>
+    <textblock>(ix) All work-in-progress adjustments must be</textblock>
+    <textblock>accompanied by:</textblock>
+    <textblock>(A) Unadjusted and adjusted fuel parameters,</textblock>
+    <textblock>emissions, and volumes; and</textblock>
+    <textblock>(B) A description of the current status of the work-in-progress (i.e., the refinery modification project) and</textblock>
+    <textblock>the date on which normal operations were achieved; and</textblock>
+    <textblock>(C) A narrative describing the situation, the types of</textblock>
+    <textblock>calculations, and the reasoning supporting the types of</textblock>
+    <textblock>calculations done to determine the adjusted values.</textblock>
+    <textblock>(6)</textblock>
+    <textblock>Baseline adjustment for extenuating circumstances.</textblock>
+    <textblock>(i) Baseline adjustments may be allowed, upon petition and</textblock>
+    <textblock>approval (per §80.93), if a refinery had downtime of a</textblock>
+    <textblock>gasoline blendstock producing unit for 30 days or more in</textblock>
+    <textblock>1990 due to:</textblock>
+    <textblock>(A) Unplanned, unforeseen circumstances; or</textblock>
+    <textblock>(B) Non-annual maintenance (turnaround).</textblock>
+    <textblock>(ii) Fuel parameter and volume adjustments shall be</textblock>
+    <textblock>made by assuming that the downtime did not occur in 1990.</textblock>
+    <textblock>(iii) All extenuating circumstance adjustments must be</textblock>
+    <textblock>accompanied by:</textblock>
+    <textblock>(A) Unadjusted and adjusted fuel parameters,</textblock>
+    <textblock>emissions, and volumes; and</textblock>
+    <textblock>(B) A description of the current status of the</textblock>
+    <textblock>extenuating circumstance and the date on which normal</textblock>
+    <textblock>operations were achieved; and</textblock>
+    <textblock>(C) A narrative describing the situation, the types of</textblock>
+    <textblock>calculations, and the reasoning supporting the types of</textblock>
+    <textblock>calculations done to determine the adjusted values.</textblock>
+    <textblock>(7)</textblock>
+    <textblock>Baseline adjustments for 1990 JP-4 production.</textblock>
+    <textblock>(i) Baseline adjustments may be allowed, upon petition and</textblock>
+    <textblock>approval (per §80.93), if a refinery produced JP-4 jet fuel</textblock>
+    <textblock>in 1990 and meets all of the following requirements:</textblock>
+    <textblock>(A) The refinery is the only refinery of a refiner</textblock>
+    <textblock>such that it cannot form an aggregate baseline with another</textblock>
+    <textblock>refinery (per paragraph (f) of this section) or all of the</textblock>
+    <textblock>refineries of a refiner produced JP-4 in 1990 and each of</textblock>
+    <textblock>the refineries also meets the requirements specified in</textblock>
+    <textblock>paragraphs (e)(7)(i) (B) and (C) of this section.</textblock>
+    <textblock>(B) The refinery will not produce reformulated</textblock>
+    <textblock>gasoline. If the refinery produces reformulated gasoline at</textblock>
+    <textblock>any time in a calendar year, its compliance baseline shall</textblock>
+    <textblock>revert to its unadjusted baseline values for that year and</textblock>
+    <textblock>all subsequent years.</textblock>
+    <textblock>(C) The ratio of the refinery's 1990 JP-4 production</textblock>
+    <textblock>to its 1990 gasoline production equals or exceeds 0.5.</textblock>
+    <textblock>(ii) Fuel parameter and volume adjustments shall be</textblock>
+    <textblock>made by assuming that no JP-4 was produced in 1990.</textblock>
+    <textblock>(iii) All adjustments due to 1990 JP-4 production must</textblock>
+    <textblock>be accompanied by:</textblock>
+    <textblock>(A) Unadjusted and adjusted fuel parameters,</textblock>
+    <textblock>emissions, and volumes; and</textblock>
+    <textblock>(B) A narrative describing the situation, the types of</textblock>
+    <textblock>calculations, and the reasoning supporting the types of</textblock>
+    <textblock>calculations done to determine the adjusted values.</textblock>
+  </text>
+</doc>

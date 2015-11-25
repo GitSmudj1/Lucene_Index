@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940105-0-00026</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940105-0-00007</textblock>
+  </parent>
+  <text>
+    <textblock>Standards For Electronic Bulletin Boards Required Under Part 284 of the Commission's Regulations</textblock>
+    <textblock>Issued December 23, 1993.</textblock>
+  </text>
+  <usdept>
+    <textblock>DEPARTMENT OF ENERGY</textblock>
+  </usdept>
+  <usbureau>
+    <textblock>Federal Energy Regulatory Commission</textblock>
+  </usbureau>
+  <cfrno>
+    <textblock>18 CFR Part 284</textblock>
+  </cfrno>
+  <rindock>
+    <textblock>[Docket No. RM93-4-000; Order No. 563]</textblock>
+  </rindock>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>Federal Energy Regulatory Commission, DOE.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>Final rule.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>The Federal Energy Regulatory Commission (Commission) is issuing a final rule adopting regulations to standardize the content of, and procedures for accessing, information relevant to the availability of service on interstate pipelines. The Commission's standards will require pipelines to make this information available on Electronic Bulletin Boards (EBBs) and through downloadable files and will detail procedures and protocols for EBB operation and file transfers.</textblock>
+  </summary>
+  <date>
+    <textblock>DATES:</textblock>
+    <textblock>February 4, 1994. Pipelines must implement the requirements of this rule by June 1, 1994, except where the procedures and protocols specify otherwise.</textblock>
+  </date>
+  <address>
+    <textblock>ADDRESSES:</textblock>
+    <textblock>Federal Energy Regulatory Commission, 825 North Capitol Street, NE., Washington, DC 20426.</textblock>
+  </address>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>Michael Goldenberg, Office of the General Counsel, Federal Energy Regulatory Commission, 825 North Capitol Street, NE., Washington, DC 20426, (202) 208-2294.</textblock>
+    <textblock>Marvin Rosenberg, Office of Economic Policy, Federal Energy Regulatory Commission, 825 North Capitol Street, NE., Washington, DC 20426, (202) 208-1283.</textblock>
+    <textblock>Brooks Carter, Office of Pipeline and Producer Regulation, Federal Energy Regulatory Commission, 825 North Capitol Street, NE., Washington, DC 20426, (202) 208-0666.</textblock>
+  </further>
+  <supplem>
+    <textblock>SUPPLEMENTARY INFORMATION:</textblock>
+    <textblock>In addition to publishing the full text of this document in the</textblock>
+    <textblock>Federal Register</textblock>
+    <textblock>, the Commission also provides all interested persons an opportunity to inspect or copy the contents of this document during normal business hours in room 3104, 941 North Capitol Street NE., Washington DC 20426.</textblock>
+    <textblock>The Commission Issuance Posting System (CIPS), an electronic bulletin board service, provides access to the texts of formal documents issued by the Commission. CIPS is available at no charge to the user and may be accessed using a personal computer with a modem by dialing (202) 208-1397. To access CIPS, set your communications software to use 300, 1200, or 2400 bps, full duplex, no parity, 8 data bits, and 1 stop bit. CIPS can also be accessed at 9600 bps by dialing (202) 208-1781. The full text of this notice will be available on CIPS for 30 days from the date of issuance. The complete text on diskette in WordPerfect format may also be purchased from the Commission's copy contractor, La Dorn Systems Corporation, also located in room 3104, 941 North Capitol Street, NE., Washington DC 20426.</textblock>
+    <textblock>Table of Contents</textblock>
+    <textblock>I. Introduction</textblock>
+    <textblock>II. Reporting Requirements</textblock>
+    <textblock>III. Background</textblock>
+    <textblock>IV. Summary of the Final Rule</textblock>
+    <textblock>V. Discussion of the Proposed Regulation</textblock>
+    <textblock>A. Need For A Flexible Mechanism To Make Revisions To The Standards And Protocols</textblock>
+    <textblock>B. Exemptions For Small Pipelines</textblock>
+    <textblock>C. Implementation Date</textblock>
+    <textblock>D. Modifications To The Regulatory Provisions</textblock>
+    <textblock>VI. Discussion of Items Included in the Standardized Data Sets and Communications Protocols</textblock>
+    <textblock>A. Standardized Data Sets</textblock>
+    <textblock>1. Operation of the Data Sets</textblock>
+    <textblock>2. Date and Time Stamps</textblock>
+    <textblock>3. Operationally Available Capacity</textblock>
+    <textblock>4. Disclosure of Minimum Conditions</textblock>
+    <textblock>B. Communication Protocols</textblock>
+    <textblock>1. Electronic Data Interchange</textblock>
+    <textblock>a. ASC X12</textblock>
+    <textblock>b. ASCII Downloads</textblock>
+    <textblock>2. Protocols For Communications Software and Hardware, Access Requirements, and Log-On Procedures</textblock>
+    <textblock>C. Common Codes</textblock>
+    <textblock>1. Introduction</textblock>
+    <textblock>2. The Proposal</textblock>
+    <textblock>3. Comments on the Working Group Filing</textblock>
+    <textblock>4. Commission Adoption of the Working Group Proposal</textblock>
+    <textblock>VII. Issues not Addressed in the Standardized Data Sets and Communication Protocols</textblock>
+    <textblock>A. Proposed Additions To The Standardized Data Sets</textblock>
+    <textblock>1. Index of Purchasers</textblock>
+    <textblock>2. Nominations for Firm and Interruptible Capacity</textblock>
+    <textblock>B. Communication Protocols For Uploading Files and Downloading Subsets Of Files</textblock>
+    <textblock>C. Standardization Of Non-Capacity Release Business Transactions</textblock>
+    <textblock>D. Policy Issues</textblock>
+    <textblock>1. Costs of Standardization</textblock>
+    <textblock>2. Liability</textblock>
+    <textblock>3. Non-Price Considerations</textblock>
+    <textblock>E. Gas Industry Standards Board</textblock>
+    <textblock>VIII. Environmental Analysis</textblock>
+    <textblock>IX. Regulatory Flexibility Act Certification</textblock>
+    <textblock>X. Information Collection Requirement</textblock>
+    <textblock>XI. Effective Date</textblock>
+    <textblock>Regulatory Text</textblock>
+    <textblock>Appendix A_Parties Filing Comments On The Notice Of Proposed Rulemaking</textblock>
+  </supplem>
+</doc>

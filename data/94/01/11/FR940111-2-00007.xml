@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940111-2-00007</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940111-2-00004</textblock>
+  </parent>
+  <text>
+    <textblock>Approval of Federal Information Processing Standards (FIPS) Publication 140-1, Security Requirements for Cryptographic Modules</textblock>
+  </text>
+  <rindock>
+    <textblock>[Docket No. 900820-3141]</textblock>
+  </rindock>
+  <rindock>
+    <textblock>RIN No. 0693-AA68</textblock>
+  </rindock>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>National Institute of Standards and Technology (NIST), Commerce.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>The purpose of this notice is to announce that the Secretary of Commerce has approved a revision of Federal Information Processing Standard 140, General Security Requirements for Equipment Using the Data Encryption Standard, which will be published as FIPS Publication 140-1. This revised standard supersedes FIPS 140 in its entirety.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>On January 8, 1991, a notice was published in the</textblock>
+    <textblock>Federal Register</textblock>
+    <textblock>(56 FR 681) that a revision of Federal Information Processing Standards Publication (FIPS PUB) 140, General Security Requirement for Equipment Using the Data Encryption Standard, was being proposed for Federal use.</textblock>
+    <textblock>The written comments submitted by interested parties and other material available to the Department relevant to this proposed revision were reviewed by NIST. On the basis of this review, NIST recommended that the Secretary approve the revised standard as Federal Information Processing Standards Publication (FIPS PUB) 140-1, and prepared a detailed justification document for the Secretary's review in support of that recommendation.</textblock>
+    <textblock>The detailed justification document which was presented to the Secretary is part of the public record and is available for inspection and copying in the Department's Central Reference and Records Inspection Facility, room 6020, Herbert C. Hoover Building, 14th Street between Pennsylvania and Constitution Avenue, NW., Washington, DC 20230.</textblock>
+    <textblock>This FIPS contains two sections: (1) An announcement section, which provides information concerning the applicability, implementation, and maintenance of the standard; and (2) a specifications section which deals with the technical requirements of the standard. Only the announcement section of the standard is provided in this notice.</textblock>
+  </summary>
+  <date>
+    <textblock>EFFECTIVE DATE:</textblock>
+    <textblock>This standard is effective on January 11, 1994.</textblock>
+  </date>
+  <address>
+    <textblock>ADDRESSES:</textblock>
+    <textblock>Interested parties may purchase copies of this standard, including the technical specifications portion, from the National Technical Information Service (NITS). Specific ordering information from NTIS for this revised standard is set out in the Where to Obtain Copies Section of the announcement section of the standard.</textblock>
+  </address>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>Mr. Miles E. Smid, National Institute of Standards and Technology, Gaithersburg, MD 20899, telephone (301) 975-2938.</textblock>
+    <textblock>Dated: January 4, 1994.</textblock>
+  </further>
+  <signer>
+    <textblock>Samuel Kramer,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Associate Director.</textblock>
+  </signjob>
+</doc>

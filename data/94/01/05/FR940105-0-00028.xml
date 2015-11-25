@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940105-0-00028</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940105-0-00007</textblock>
+  </parent>
+  <text>
+    <textblock>III. Background</textblock>
+    <textblock>In Order No. 636, the Commission required pipelines to establish EBBs to provide shippers with equal and timely access to relevant information about the availability of service on their systems, including service available through capacity release transactions and firm and interruptible capacity available directly from the pipeline.</textblock>
+    <textblock>2</textblock>
+    <textblock>The Commission recognized the efficiency of capacity allocation would be enhanced by standardizing both the content of capacity release information and the methods by which shippers could access that information.</textblock>
+    <textblock>3</textblock>
+    <textblock>On February 26, 1993, the Commission held a technical conference to examine the industry's efforts in standardizing information content and communication procedures. The participants at the conference expressed a willingness to establish a broad industry-wide working group to reach consensus on standards governing capacity release transactions. The Commission subsequently established informal conferences with Commission staff and all interested members of the gas industry to facilitate the development of consensus standards.</textblock>
+    <textblock>4</textblock>
+    <textblock>A broad spectrum of firms and organizations participated in these Working Groups, including representatives from the major segments of the gas industry and other interested parties, such as computer and software firms. The participants at the conferences divided their efforts into five working groups covering different areas of standardization and, on July 1 and July 6, 1993, the Working Groups submitted reports on their deliberations. Working Groups 1 and 2 reached consensus on proposed standardized data sets setting forth the information concerning available capacity. Working Group 4 agreed on a set of communication protocols governing the dissemination of the information. Working Group 5 proposed methods for developing codes to identify companies and common transaction points, but had not finalized standards in these areas. Working Group 3 reported on its progress in considering standards relating to business practices other than capacity release, but did not propose any standards. The Working Group reports included minority positions on several items. The Commission also provided an additional period for the public to comment on the Working Group proposals.</textblock>
+    <textblock>On July 29, 1993, the Commission issued a Notice Of Proposed Rulemaking (NOPR) proposing to adopt standards reflecting the consensus agreements reached by the industry working groups.</textblock>
+    <textblock>5</textblock>
+    <textblock>The NOPR also provided for the continuation of the Working Groups and set a number of items for further consideration, with reports generally due by February 1, 1994.</textblock>
+    <textblock>6</textblock>
+    <textblock>Forty comments were received on the NOPR.</textblock>
+    <textblock>7</textblock>
+    <textblock>In addition, on October 12, 1993, Working Group 5 filed its report containing a finalized proposal for providing common transaction point codes, and on November 3, 1993, Working Groups 1 and 2 filed revisions to the proposed capacity availability data sets. The Commission noticed both filings and provided the industry with an opportunity to submit comments on the filings and to discuss them at an informal conference.</textblock>
+    <textblock>8</textblock>
+    <textblock>IV. Summary of the Final Rule</textblock>
+    <textblock>The final rule adopts the regulation and standards as proposed in the NOPR, with only slight modifications. The final rule adopts §284.8(b)(5) requiring pipelines to provide standardized information relevant to the availability of service on their systems. Under the rule, pipelines must provide the standardized information on their EBBs and provide users with the ability to download the standardized information in compliance with standardized procedures and protocols. The rule provides that the details of the required information, procedures, and protocols will be made available in a document entitled ``Standardized Data Sets and Communication Protocols,'' which would be available from the Commission's Public Reference and Files Maintenance Branch.</textblock>
+    <textblock>9</textblock>
+    <textblock>Because the standardized information includes information relevant to the availability of interruptible transportation, the rule also revises §284.9(b)(4), which governs interruptible transportation, to cross-reference the standardization requirements in §284.8(b)(5).</textblock>
+    <textblock>In summary, the standardized data sets set forth the information concerning capacity availability that pipelines must provide both on their on-line EBBs and through downloadable files.</textblock>
+    <textblock>10</textblock>
+    <textblock>This information includes offers to sell firm capacity (either by the pipeline or releasing shippers), bids for capacity, awards of capacity, withdrawals of capacity offers and bids, operationally available (i.e., interruptible) capacity, and system-wide notices. The protocols establish principles and procedures relating to the operation of pipeline EBBs and the provision of downloadable files to users. Under these protocols, pipelines will provide for file downloads in two formats: one that complies with standards for Electronic Data Interchange (EDI) promulgated by the American National Standards Institute (ANSI) Accredited Standards Committee (ASC) X12 and a second format that does not comply with ASC X12, but which provides files in standard flat ASCII format.</textblock>
+    <textblock>11</textblock>
+    <textblock>The Commission is changing the implementation of the regulation from the April 1, 1994 date proposed in the NOPR to June 1, 1994, unless the standards and protocols specify a different compliance date.</textblock>
+    <textblock>12</textblock>
+  </text>
+  <footnote>
+    <textblock>18 CFR 284.8(b)(3)(4), 284.9(3)(4).</textblock>
+  </footnote>
+  <footname>
+    <textblock>2</textblock>
+  </footname>
+  <footnote>
+    <textblock>Order No. 636-A, III FERC Stats. &amp; Regs. Preambles at 30,549.</textblock>
+  </footnote>
+  <footname>
+    <textblock>3</textblock>
+  </footname>
+  <footnote>
+    <textblock>Notice Of Informal Conferences (March 10, 1993), 54 FR 14530 (Mar. 18, 1993).</textblock>
+  </footnote>
+  <footname>
+    <textblock>4</textblock>
+  </footname>
+  <footnote>
+    <textblock>Notice Of Proposed Rulemaking, 58 FR 41647 (Aug. 5, 1993), IV FERC Stats. &amp; Regs. Proposed Regulations ¶32,500 (July 29, 1993).</textblock>
+  </footnote>
+  <footname>
+    <textblock>5</textblock>
+  </footname>
+  <footnote>
+    <textblock>Working Group 5 was given an October 1, 1993 report date for its proposal dealing with common transaction point codes.</textblock>
+  </footnote>
+  <footname>
+    <textblock>6</textblock>
+  </footname>
+  <footnote>
+    <textblock>The commenters, and the abbreviations used for each, are listed in Appendix A. Con Edison and PSCW filed comments late. The Commission will consider these comments.</textblock>
+  </footnote>
+  <footname>
+    <textblock>7</textblock>
+  </footname>
+  <footnote>
+    <textblock>AER/MRT, IPAA, Gaslantic, National Registry, NYMEX/EnerSoft, Process Gas Consumers Group, and Transco submitted comments on the common code proposal. ANR submitted comments on the revised data sets.</textblock>
+  </footnote>
+  <footname>
+    <textblock>8</textblock>
+  </footname>
+  <footnote>
+    <textblock>This document will not be published in the</textblock>
+    <textblock>Federal Register</textblock>
+    <textblock>.</textblock>
+  </footnote>
+  <footname>
+    <textblock>9</textblock>
+  </footname>
+  <footnote>
+    <textblock>On-line EBB refers to a continuous computer connection between a pipeline EBB and a user's computer in which the information from the pipeline's computer is displayed visually on the user's computer and the user can enter data directly to the pipeline's computer. File downloading refers to the transfer in computerized format of a file from the pipeline's computer to the user's computer. The user can use its own internal computer programs to manipulate the data.</textblock>
+  </footnote>
+  <footname>
+    <textblock>10</textblock>
+  </footname>
+  <footnote>
+    <textblock>ASCII refers to the American Standard Code for Information Interchange, a code for character representation. The Commission recognizes the ASC X12 files also use ASCII characters. The Commission is using the term ASCII download to refer to standard flat file downloads that do not necessarily meet the requirements of the ASC X12 standards.</textblock>
+  </footnote>
+  <footname>
+    <textblock>11</textblock>
+  </footname>
+  <footnote>
+    <textblock>The June 1, 1994 date will not apply to the requirement that pipelines provide a common code system. The date for implementation of this requirement is November 1, 1994.</textblock>
+  </footnote>
+  <footname>
+    <textblock>12</textblock>
+  </footname>
+</doc>

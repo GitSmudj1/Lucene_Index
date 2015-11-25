@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940222-0-00014</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940222-0-00004</textblock>
+  </parent>
+  <text>
+    <textblock>§39.13</textblock>
+    <textblock>[Amended]</textblock>
+    <textblock>2. Section 39.13 is amended by removing AD 65-06-01, Amendment 39-1053, and by adding the following new airworthiness directive to read as follows:</textblock>
+    <textblock>94-04-13 Twin Commander Aircraft Corporation:</textblock>
+    <textblock>Amendment 39-8833; Docket No. 92-CE-43-AD. Supersedes AD 65-06-01, Amendment 39-1053.</textblock>
+    <textblock>Applicability:</textblock>
+    <textblock>All serial numbers of the following model airplanes, certificated in any category: 500, 500A, 500B, 500S, 500U, 520, 560, 560A, 560E, 560F, 680, 680E, 680F, 680FL(P), 680FL, 680T, 680V, 680W, 681, and 720.</textblock>
+    <textblock>Compliance</textblock>
+    <textblock>: Required initially within the next 50 hours time-in-service (TIS), unless already accomplished (compliance with superseded AD 65-06-01), or 500 hours after the wing from lower spar cap was replaced in accordance with one of the two modifications referenced in paragraph (b) of this AD, whichever occurs later, and thereafter at intervals not to exceed 500 hours TIS.</textblock>
+    <textblock>Note 1:</textblock>
+    <textblock>Although not required, it is recommended that airplanes utilized for survey usage and low altitude usage (below 1,000 feet AGL) reinspect at more periodic intervals described below and specified in Twin Commander Service Publications revision notice of Service Bulletin No. 90C, Revision 1, dated June 5, 1992:</textblock>
+    <textblock>To prevent failure of the wing structure caused by cracks in the lower front spar cap, accomplish the following:</textblock>
+    <textblock>(a) Inspect the wing front spar lower cap at left and right Wing Station 24 in accordance with the instructions in the applicable part of Twin Commander SB No. 90C, dated March 30, 1992, and Twin Commander Service Publications revision notice of SB No. 90C, Revision 1, dated June 5, 1992. The applicable part of the referenced service bulletin is outlined below:</textblock>
+    <textblock>(1) Part I: Models 500, 500A, 500B, 500S, 500U, 520, 560, 560A, 560E, 560F, 680, 680E, 680F, 680F(P), and 720 airplanes.</textblock>
+    <textblock>(2) Part II: Models 680FL and 680FL(P) airplanes.</textblock>
+    <textblock>(3) Part III: Models 680FL, 680FL(P), 680T, 680V, 680W, and 681 airplanes.</textblock>
+    <textblock>(b) If cracks are found, prior to further flight, replace the wing front spar lower cap in accordance with one of the following, as applicable:</textblock>
+    <textblock>(1) For models 500S, 500U, 680FL, 680FL(P), 680W, and 681_the instructions in Twin Commander Custom Kit No. CK-145, dated August 21, 1992; or</textblock>
+    <textblock>(2) For models 500, 500A, 500B, 520, 560, 560A, 560E, 560F, 680E, 680F, 680T, 680V, 680W, and 720_obtain replacement procedures from the manufacturer through the Manager, Seattle Aircraft Certification Office, at the address specified in paragraph (d) of this AD.</textblock>
+    <textblock>(c) Special flight permits may be issued in accordance with 14 CFR 21.197 and 21.199 to operate the airplane to a location where the requirements of this AD can be accomplished.</textblock>
+    <textblock>(d) An alternative method of compliance or adjustment of the initial and repetitive compliance times that provides an equivalent level of safety may be approved by the Manager, Seattle Aircraft Certification Office (ACO), FAA, Northwest Mountain Region, 1601 Lind Avenue SW., Renton, Washington 98055-4056. The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Seattle ACO, FAA, Northwest Mountain Region.</textblock>
+    <textblock>Note 2:</textblock>
+    <textblock>Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Seattle ACO, FAA, Northwest Mountain Region.</textblock>
+    <textblock>(e) The inspections required by this AD shall be done in accordance with Twin Commander Service Bulletin No. 90C, dated March 30, 1992, and Twin Commander Service Publications revision notice of Service Bulletin No. 90C, Revision 1, dated June 5, 1992. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The replacement (as applicable) required by this AD shall be done in accordance with the instructions to Twin Commander Custom Kit No. CK-145, dated August 21, 1992. This incorporation by reference was previously approved as of April 11, 1994, by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from Twin Commander Aircraft Corporation, 19003 59th Drive, NE, Arlington, Washington 98223. Copies may be inspected at the FAA, Central Region, Office of the Assistant Chief Counsel, room 1558, 601 E. 12th Street, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC.</textblock>
+    <textblock>(f) This amendment (39-8833) supersedes AD 65-06-01, Amendment 39-1053.</textblock>
+    <textblock>(g) This amendment (39-8833) becomes effective on April 12, 1994.</textblock>
+    <textblock>Issued in Kansas City, Missouri, on February 14, 1994.</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Usage</textblock>
+    <textblock>1Hours TIS</textblock>
+    <textblock>Survey</textblock>
+    <textblock>200</textblock>
+    <textblock>Low Altitude</textblock>
+    <textblock>100</textblock>
+  </table>
+  <signer>
+    <textblock>Barry D. Clements,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Manager, Small Airplane Directorate, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-3836 Filed 2-18-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-U</textblock>
+  </billing>
+</doc>

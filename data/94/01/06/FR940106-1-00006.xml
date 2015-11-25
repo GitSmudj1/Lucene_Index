@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00006</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00002</textblock>
+  </parent>
+  <text>
+    <textblock>In addition to the requirements of FAR §33.77, the following tests and analyses must be conducted, unless compliance can be shown by alternate methods acceptable to the Administrator.</textblock>
+    <textblock>(a) The most critical operating point(s) for water and hail ingestion must be determined by test, analysis, or other acceptable methods, and must be based on the threat levels defined in Table 1 and Table 2 of this proposal. The critical point(s) determination must address the entire operating envelope of the engine. The critical operating point(s) is defined as those operating conditions within the engine flight envelope at which an engine operability margin is reduced to a minimum level.</textblock>
+  </text>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>1._</textblock>
+    <textblock>Rain Threat</textblock>
+    <textblock>1Altitude (feet)</textblock>
+    <textblock>1Liqud water content (LWC) (grams water per cubic water air)</textblock>
+    <textblock>0</textblock>
+    <textblock>20.0</textblock>
+    <textblock>20,000</textblock>
+    <textblock>20.0</textblock>
+    <textblock>26,300</textblock>
+    <textblock>15.2</textblock>
+    <textblock>32,700</textblock>
+    <textblock>10.8</textblock>
+    <textblock>39,300</textblock>
+    <textblock>7.7</textblock>
+    <textblock>46,000</textblock>
+    <textblock>5.2</textblock>
+    <textblock>Note:</textblock>
+    <textblock>LWC and HWC values at other altitudes may be determined by linear interpolation.</textblock>
+  </table>
+</doc>

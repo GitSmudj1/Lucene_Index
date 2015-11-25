@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940114-0-00061</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940114-0-00020</textblock>
+  </parent>
+  <text/>
+  <table>
+    <textblock>Table of Design Wind Pressures</textblock>
+    <textblock>1Element</textblock>
+    <textblock>1Wind zone II design wind speed 100 MPH</textblock>
+    <textblock>1Wind zone III design wind speed 110 MPH</textblock>
+    <textblock>Anchorage for lateral and vertical stability (See §3280.306(a)):</textblock>
+    <textblock>Net Horizontal Drag</textblock>
+    <textblock>1, 2</textblock>
+    <textblock>:</textblock>
+    <textblock>3</textblock>
+    <textblock>#39</textblock>
+    <textblock>PSF</textblock>
+    <textblock>3</textblock>
+    <textblock>#</textblock>
+    <textblock>47 PSF</textblock>
+    <textblock>Uplift4:</textblock>
+    <textblock>5^27 PSF</textblock>
+    <textblock>^32 PSF</textblock>
+    <textblock>Main wind force resisting system:</textblock>
+    <textblock>Shearwalls, Diaphragms and their Fastening and Anchorage Systems</textblock>
+    <textblock>1, 2</textblock>
+    <textblock>#</textblock>
+    <textblock>39 PSF</textblock>
+    <textblock>#</textblock>
+    <textblock>47 PSF</textblock>
+    <textblock>Ridge beams and other Main Roof Support Beams (Beams supporting expanding room sections, etc.)</textblock>
+    <textblock>^30 PSF</textblock>
+    <textblock>^36 PSF</textblock>
+    <textblock>Components and cladding:</textblock>
+    <textblock>Roof trusses4 in all areas; trusses shall be doubled within 3'-0'' from each end of the roof</textblock>
+    <textblock>5^39 PSF</textblock>
+    <textblock>5^47 PSF</textblock>
+    <textblock>Exterior roof coverings, sheathing and fastenings4,6,7 in all areas except the following</textblock>
+    <textblock>5^39 PSF</textblock>
+    <textblock>5^47 PSF</textblock>
+    <textblock>Within 3'-0'' from each gable end (overhang at end wall) of the roof or endwall if no overhang is provided</textblock>
+    <textblock>5^73 PSF</textblock>
+    <textblock>5^89 PSF</textblock>
+    <textblock>Within 3'-0'' from the ridge and eave (overhang at sidewall) or sidewall if no eave is provided</textblock>
+    <textblock>5^51 PSF</textblock>
+    <textblock>5^62 PSF</textblock>
+    <textblock>Eaves (Overhangs at Sidewalls)</textblock>
+    <textblock>5^51 PSF</textblock>
+    <textblock>5^62 PSF</textblock>
+    <textblock>Gables (Overhangs at Endwalls)</textblock>
+    <textblock>5^73 PSF</textblock>
+    <textblock>5^89 PSF</textblock>
+    <textblock>Wall studs in sidewalls and endwalls, exterior windows and sliding glass doors (glazing and framing), exterior coverings, sheathing and fastenings8:</textblock>
+    <textblock>#</textblock>
+    <textblock>48 PSF</textblock>
+    <textblock>#</textblock>
+    <textblock>58 PSF</textblock>
+    <textblock>Within 3'-0'' from each corner of the sidewall and endwall</textblock>
+    <textblock>All other areas</textblock>
+    <textblock>#</textblock>
+    <textblock>38 PSF</textblock>
+    <textblock>#</textblock>
+    <textblock>46 PSF</textblock>
+    <textblock>NOTES:</textblock>
+    <textblock>1</textblock>
+    <textblock>The net horizontal drag of</textblock>
+    <textblock>#</textblock>
+    <textblock>39 PSF to be used in calculating Anchorage for Lateral and Vertical Stability and for the design of Main Wind Force Resisting Systems is based on a distribution of wind pressures of +0.8 or +24 PSF to the windward wall and ^0.5 or ^15 PSF to the leeward wall.</textblock>
+    <textblock>2</textblock>
+    <textblock>Horizontal drag pressures need not be applied to roof projections when the roof slope does not exceed 20 degrees.</textblock>
+    <textblock>3</textblock>
+    <textblock>+ sign would mean pressures are acting towards or on the structure; ^ sign means pressures are acting away from the structure;</textblock>
+    <textblock>#</textblock>
+    <textblock>sign means forces can act in either direction, towards or away from the structure.</textblock>
+    <textblock>4</textblock>
+    <textblock>4. Design values in this ``Table'' are only applicable to roof slopes between 10 degrees (nominal 2/12 slope) and 30 degrees.</textblock>
+    <textblock>5</textblock>
+    <textblock>The design uplift pressures are the same whether they are applied normal to the surface of the roof or to the horizontal projection of the roof.</textblock>
+    <textblock>6</textblock>
+    <textblock>Shingle roof coverings that are secured with 6 fasteners per shingle through an underlayment which is cemented to a 3/8'' structural rated roof sheathing need not be evaluated for these design wind pressures.</textblock>
+    <textblock>7</textblock>
+    <textblock>7. Structural rated roof sheathing that is at least 3/8'' in thickness, installed with the long dimension perpendicular to roof framing supports, and secured with fasteners at 4'' on center within 3'-0'' of each gable end or endwall if no overhang is provided and 6'' on center in all other areas, need not be evaluated for these design wind pressures.</textblock>
+    <textblock>8</textblock>
+    <textblock>Exterior coverings that are secured at 6'' o.c. to a 3/8'' structural rated sheathing that is fastened to wall framing members at 6'' on center need not be evaluated for these design wind pressures.</textblock>
+  </table>
+</doc>

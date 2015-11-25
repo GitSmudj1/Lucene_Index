@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940214-0-00054</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940214-0-00004</textblock>
+  </parent>
+  <text>
+    <textblock>Example</textblock>
+    <textblock>In addition, the study will include the number of employees and average weekly salary listed in the place of work employment data for the classification groups of manufacturing; construction; trade; services; transportation, communications, and utilities (TCU); finance, insurance, and real estate (FIRE); and government.</textblock>
+    <textblock>4.</textblock>
+    <textblock>Employment outside of county.</textblock>
+    <textblock>The analyst will give the percentage of persons employed inside the county and driving times, if appropriate.</textblock>
+    <textblock>Source</textblock>
+    <textblock>B.</textblock>
+    <textblock>Demographic profile.</textblock>
+    <textblock>1. Population.</textblock>
+    <textblock>The analyst will need to show population changes between 1980 and 1990, the reasons for the changes, the current year estimate and projected change. This information will be provided for the town, the market area, and the county. Any change in the County subdivisions (CCD, Township, Election District, etc.) between census years will have to be explained. These are to be shown in numeric characters as well as percentages.</textblock>
+  </text>
+  <table>
+    <textblock>1Employer</textblock>
+    <textblock>1Product/Service</textblock>
+    <textblock>1Location</textblock>
+    <textblock>1Year Established</textblock>
+    <textblock>Washington Aircraft</textblock>
+    <textblock>Crop Dusting</textblock>
+    <textblock>Town</textblock>
+    <textblock>1957</textblock>
+  </table>
+</doc>

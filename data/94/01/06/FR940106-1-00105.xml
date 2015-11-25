@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00105</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00012</textblock>
+  </parent>
+  <text>
+    <textblock>(5) Generally, habitats that are protected from disturbance or are representative of the historic geographical and ecological distributions of a species.</textblock>
+    <textblock>Following are the primary constituent elements necessary to conserve the delta smelt. These elements were determined in coordination with EPA in preparation of its proposed water quality standards. EPA's proposed rule to promulgate Water Quality Standards for Surface Waters of the Sacramento River, San Joaquin River, and San Francisco Bay and Delta of the State of California is published in this same</textblock>
+    <textblock>Federal Register</textblock>
+    <textblock>separate part. In its proposed rule, EPA has requested specific comments on several issues, including the possibility of modifying the Sacramento River Index for the purposes of developing the salinity criteria, alternative approaches to the averaging period used in its proposed salinity criteria, and evaluation of the merits of the use of difference forms of confidence intervals with the proposed criteria. The Fish and Wildlife Service will consider these comments also in developing its final rule.</textblock>
+    <textblock>The primary constituent elements are organized by habitat conditions required for each life stage. The specific geographic areas and seasons identified for each habitat condition specified below represent the maximum possible range of each of these variables.</textblock>
+    <textblock>Each of the habitat conditions specified below requires as its basis placement of the 2 ppt isohaline at or downstream of the Sacramento-San Joaquin River confluence from February through June. (An isohaline is a line that can be drawn to connect all points of equal salinity.) Furthermore, the location of the 2 ppt isohaline must vary according to water years because:</textblock>
+    <textblock>(1) Temporal and spatial variability of the 2 ppt isohaline will be the most effective deterrent to further invasion of new introduced species and continued competition by those that are already established,</textblock>
+    <textblock>(2) Placement of the 2 ppt isohaline in an area will also produce the high phytoplankton and zooplankton densities that characterize most healthy estuarine ecosystems, and</textblock>
+    <textblock>(3) Variability is needed to simulate natural processes and historical conditions.</textblock>
+    <textblock>Table 1 lists the number of days (based on a 14-day running average) that the 2 ppt isohaline must be located at Roe Island, Chipps Island, or the Sacramento-San Joaquin River confluence during wet, above normal, below normal, dry, and critically dry years to achieve the life-stage habitat conditions described below. These required salinity criteria are based on historical records of the water years between October 1939 (subsequent to the operation of the Federal and State water projects) and September 1975 (prior to the decline of the delta smelt) (Harry Seraydarian, EPA,</textblock>
+    <textblock>in litt.,</textblock>
+    <textblock>1993; Bruce Herbold, EPA, pers. comm., 1993). However, because no critically dry years occurred during this period, the salinity criteria (required number of days) for these years are based on an extrapolation of the data.</textblock>
+  </text>
+  <table>
+    <textblock>Table 1._Required Salinity Criteria for Suisun Bay to Reflect Historical Habitat Conditions</textblock>
+    <textblock>[Values represent the number of days that the 2 ppt isohaline must be placed at three locations within the Sacramento-San Joaquin River Estuary]</textblock>
+    <textblock>1Year type</textblock>
+    <textblock>1Roe Island</textblock>
+    <textblock>[km 64]</textblock>
+    <textblock>1Chipps Island [km 74]</textblock>
+    <textblock>1Confluence [km 81]</textblock>
+    <textblock>Wet</textblock>
+    <textblock>133</textblock>
+    <textblock>148</textblock>
+    <textblock>150</textblock>
+    <textblock>Above normal</textblock>
+    <textblock>105</textblock>
+    <textblock>144</textblock>
+    <textblock>150</textblock>
+    <textblock>Below normal</textblock>
+    <textblock>78</textblock>
+    <textblock>119</textblock>
+    <textblock>150</textblock>
+    <textblock>Dry</textblock>
+    <textblock>33</textblock>
+    <textblock>116</textblock>
+    <textblock>150</textblock>
+    <textblock>Critically dry</textblock>
+    <textblock>0</textblock>
+    <textblock>90</textblock>
+    <textblock>150</textblock>
+  </table>
+</doc>

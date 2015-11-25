@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940208-1-00064</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940208-1-00011</textblock>
+  </parent>
+  <text>
+    <textblock>§63.420</textblock>
+    <textblock>Applicability.</textblock>
+    <textblock>(a) The provisions of this subpart apply to each bulk gasoline terminal, except those facilities:</textblock>
+    <textblock>(1) For which the result, E</textblock>
+    <textblock>T</textblock>
+    <textblock>, of the following equation is less than 1:</textblock>
+    <textblock>E</textblock>
+    <textblock>T</textblock>
+    <textblock>=0.63(T</textblock>
+    <textblock>F</textblock>
+    <textblock>)+0.19(T</textblock>
+    <textblock>E</textblock>
+    <textblock>)+0.092(T</textblock>
+    <textblock>ES</textblock>
+    <textblock>)+0.03(T</textblock>
+    <textblock>I</textblock>
+    <textblock>)+0.0012(V)+0.024(P)+KQ</textblock>
+    <textblock>where:</textblock>
+    <textblock>E</textblock>
+    <textblock>T</textblock>
+    <textblock>=major source applicability factor for bulk gasoline terminals, E</textblock>
+    <textblock>T</textblock>
+    <textblock>"1 means bulk gasoline terminal is a major source,</textblock>
+    <textblock>T</textblock>
+    <textblock>F</textblock>
+    <textblock>=total number of fixed-roof gasoline storage tanks,</textblock>
+    <textblock>T</textblock>
+    <textblock>E</textblock>
+    <textblock>=total number of external floating roof gasoline storage tanks with only primary seals,</textblock>
+    <textblock>T</textblock>
+    <textblock>ES</textblock>
+    <textblock>=total number of external floating roof storage tanks with primary and secondary seals,</textblock>
+    <textblock>T</textblock>
+    <textblock>I</textblock>
+    <textblock>=total number of fixed-roof gasoline storage tanks with an internal floating roof,</textblock>
+    <textblock>V=number of valves in gasoline service,</textblock>
+    <textblock>P=number of pumps in gasoline service,</textblock>
+    <textblock>Q=gasoline throughput rate (liters/day),</textblock>
+    <textblock>K=3.18x10</textblock>
+    <textblock>^6</textblock>
+    <textblock>for bulk gasoline terminals with uncontrolled loading racks (no vapor collection and processing systems),</textblock>
+    <textblock>OR</textblock>
+    <textblock>K=(4.5 x 10</textblock>
+    <textblock>^9</textblock>
+    <textblock>) (EF+70) for bulk gasoline terminals with controlled loading racks (loading racks that have vapor collection and processing systems installed on the emission stream), and</textblock>
+    <textblock>EF=the federally enforceable emission standard for the vapor processor (mg of total organic compounds per liter of gasoline loaded).</textblock>
+    <textblock>or</textblock>
+    <textblock>(2) For which the owner or operator has documented to the Administrator's satisfaction that the facility is not a major source as defined in section 112(a)(1) of the Clean Air Act.</textblock>
+    <textblock>(b) The provisions of this subpart apply to each pipeline breakout station, except those facilities:</textblock>
+    <textblock>(1) For which the result, E</textblock>
+    <textblock>P</textblock>
+    <textblock>, of the following equation is less than 1:</textblock>
+    <textblock>E</textblock>
+    <textblock>P</textblock>
+    <textblock>=2.4(T</textblock>
+    <textblock>F</textblock>
+    <textblock>)+0.09(T</textblock>
+    <textblock>E</textblock>
+    <textblock>)+0.043(T</textblock>
+    <textblock>ES</textblock>
+    <textblock>)+0.027(T</textblock>
+    <textblock>I</textblock>
+    <textblock>)+0.0009(V)+0.009(P)</textblock>
+    <textblock>where:</textblock>
+    <textblock>E</textblock>
+    <textblock>P</textblock>
+    <textblock>=major source applicability factor for pipeline breakout stations, E</textblock>
+    <textblock>P</textblock>
+    <textblock>"1 means pipeline breakout station is a major source, and</textblock>
+    <textblock>the definitions for T</textblock>
+    <textblock>F</textblock>
+    <textblock>, T</textblock>
+    <textblock>E</textblock>
+    <textblock>, T</textblock>
+    <textblock>ES</textblock>
+    <textblock>, T</textblock>
+    <textblock>I</textblock>
+    <textblock>, V, and P are the same as provided in paragraph (a) of this section; or</textblock>
+    <textblock>(2) For which the owner or operator has documented to the Administrator's satisfaction that the facility is not a major source as defined in section 112(a)(1) of the Act.</textblock>
+    <textblock>(c) The provisions of paragraphs (a)(1), (a)(2), (b)(1), and (b)(2) of this section, do not apply to bulk gasoline terminals or pipeline breakout stations located within a contiguous area and under common control of a petroleum refinery if the petroleum refinery is a major source under section 112(a)(1) of the Act.</textblock>
+  </text>
+</doc>

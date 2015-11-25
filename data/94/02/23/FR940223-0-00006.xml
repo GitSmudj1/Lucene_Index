@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940223-0-00006</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940223-0-00003</textblock>
+  </parent>
+  <text>
+    <textblock>Airworthiness Directives: Rockwell International/Collins Air Transport Division DME-700 Distance Measuring Equipment; Correction</textblock>
+  </text>
+  <usdept>
+    <textblock>DEPARTMENT OF TRANSPORTATION</textblock>
+  </usdept>
+  <usbureau>
+    <textblock>Federal Aviation Administration</textblock>
+  </usbureau>
+  <cfrno>
+    <textblock>14 CFR Part 39</textblock>
+  </cfrno>
+  <rindock>
+    <textblock>[Docket No. 92-CE-60-AD; Amendment 39-8799; AD 94-02-02]</textblock>
+  </rindock>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>Federal Aviation Administration, DOT.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>Final rule; correction.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>This action makes a correction to Airworthiness Directive (AD) 94-02-02 concerning Rockwell International/Collins Air Transport Division (Collins) DME-700 distance measuring equipment (DME) installed on aircraft, which was published in the</textblock>
+    <textblock>Federal Register</textblock>
+    <textblock>on January 18, 1994 (59 FR 2519). That publication inadvertently referenced Collins Service Bulletin (SB) 25, DME-700-34-25, as Collins SB 25, DME-600-34-25, in paragraph (f) of the AD. All other reference to this service bulletin is correct. This action changes the AD to correctly identify this service bulletin in paragraph (f) of the AD.</textblock>
+  </summary>
+  <date>
+    <textblock>EFFECTIVE DATE:</textblock>
+    <textblock>February 21, 1994.</textblock>
+  </date>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>Mr. Roger A. Souter, Aerospace Engineer, Wichita Aircraft Certification Office, 1801 Airport Road, room 100, Mid-Continent Airport, Wichita, Kansas 67209; telephone (316) 946-4134; facsimile (316) 946-4407.</textblock>
+  </further>
+  <supplem>
+    <textblock>SUPPLEMENTARY INFORMATION:</textblock>
+    <textblock>On January 11, 1994, the Federal Aviation Administration (FAA) issued AD 94-02-02, Amendment 39-8799 (59 FR 2519), which applies to certain Collins DME-700 distance measuring equipment installed on aircraft. This AD requires modifying these DME units to ensure that they are functioning properly.</textblock>
+    <textblock>The AD inadvertently referenced Collins Service Bulletin (SB) 25, DME-700-34-25, as Collins SB 25, DME-600-34-25, in paragraph (f) of the AD. All other reference to this service bulletin is correct. This action changes the AD to correctly identify this service bulletin in paragraph (f) of the AD.</textblock>
+    <textblock>Need for Correction</textblock>
+    <textblock>As published, the final regulations have incorrectly referenced Collins SB 25, DME-700-34-25, as SB 25, DME-600-34-25, in paragraph (f) of AD 94-02-02. This could cause confusion when obtaining the proper procedures to follow in accomplishing the required modifications.</textblock>
+    <textblock>Correction of Publication</textblock>
+    <textblock>Accordingly, the publication of January 18, 1994 (59 FR 2519) of Amendment 39-8799; AD 94-02-02, which was the subject of FR Doc. 94-1088, is corrected as follows:</textblock>
+    <textblock>§39.13</textblock>
+    <textblock>[Corrected]</textblock>
+    <textblock>On page 2521, in the first column, in §39.13, in line 5 of paragraph (f) of AD 94-02-02, replace:</textblock>
+    <textblock>``Service Bulletin 25, DME-600-34-25, dated''</textblock>
+    <textblock>with:</textblock>
+    <textblock>``Service Bulletin 25, DME-700-34-25, dated''</textblock>
+    <textblock>Issued in Kansas City, Missouri, on February 15, 1994.</textblock>
+  </supplem>
+  <signer>
+    <textblock>John R. Colomy,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Small Airplane Directorate, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-3964 Filed 2-22-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-U</textblock>
+  </billing>
+</doc>

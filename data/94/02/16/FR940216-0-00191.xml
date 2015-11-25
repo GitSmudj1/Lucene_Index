@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00191</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(B) For fuels with SUL, E300, OLE and ARO levels outside the ranges defined in Table 7 of paragraph (d)(1)(iv)(A) of this section, Y</textblock>
+    <textblock>NOx</textblock>
+    <textblock>(t) shall be defined as:</textblock>
+    <textblock>For Phase I:</textblock>
+    <textblock>Y</textblock>
+    <textblock>NOx</textblock>
+    <textblock>(t) = 100% × 0.82 × [exp(n</textblock>
+    <textblock>1</textblock>
+    <textblock>(et)) / exp(n</textblock>
+    <textblock>1</textblock>
+    <textblock>(b)) ^ 1] + 100% × 0.18 × [exp(n</textblock>
+    <textblock>2</textblock>
+    <textblock>(et) / exp(n</textblock>
+    <textblock>2</textblock>
+    <textblock>(b)) ^ 1] +</textblock>
+    <textblock>{</textblock>
+    <textblock>[100% × 0.82 × [exp(n</textblock>
+    <textblock>1</textblock>
+    <textblock>(et)) / exp(n</textblock>
+    <textblock>1</textblock>
+    <textblock>(b))] × [</textblock>
+    <textblock>{</textblock>
+    <textblock>[(^0.00000133 × SUL</textblock>
+    <textblock>et</textblock>
+    <textblock>) + 0.000692] ×</textblock>
+    <textblock>D</textblock>
+    <textblock>SUL</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[(^0.000238 × ARO</textblock>
+    <textblock>et</textblock>
+    <textblock>) + 0.0083632] ×</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[(0.000733 × OLE</textblock>
+    <textblock>et</textblock>
+    <textblock>) ^ 0.002774] ×</textblock>
+    <textblock>D</textblock>
+    <textblock>OLE</textblock>
+    <textblock>}</textblock>
+    <textblock>]</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[100% × 0.18 × [exp(n</textblock>
+    <textblock>2</textblock>
+    <textblock>(et)) / exp(n</textblock>
+    <textblock>2</textblock>
+    <textblock>(b))] × [</textblock>
+    <textblock>{</textblock>
+    <textblock>[(^0.0001599 × ARO</textblock>
+    <textblock>et</textblock>
+    <textblock>) + 0.007097] ×</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[(0.000732 × OLE</textblock>
+    <textblock>et</textblock>
+    <textblock>) ^ 0.00276] ×</textblock>
+    <textblock>D</textblock>
+    <textblock>OLE</textblock>
+    <textblock>}</textblock>
+    <textblock>]</textblock>
+    <textblock>}</textblock>
+    <textblock>For Phase II:</textblock>
+    <textblock>Y</textblock>
+    <textblock>NOx</textblock>
+    <textblock>(t) = 100% × 0.738 × [exp(n</textblock>
+    <textblock>1</textblock>
+    <textblock>(et)) / exp(n</textblock>
+    <textblock>1</textblock>
+    <textblock>(b)) ^ 1] + 100% × 0.262 × [exp(n</textblock>
+    <textblock>2</textblock>
+    <textblock>(et) / exp(n</textblock>
+    <textblock>2</textblock>
+    <textblock>(b)) ^ 1] +</textblock>
+    <textblock>{</textblock>
+    <textblock>[100% × 0.738 × [exp(n</textblock>
+    <textblock>1</textblock>
+    <textblock>(et)) / exp(n</textblock>
+    <textblock>1</textblock>
+    <textblock>(b))] × [</textblock>
+    <textblock>{</textblock>
+    <textblock>[(^0.00000133 × SUL</textblock>
+    <textblock>et</textblock>
+    <textblock>) + 0.000692] ×</textblock>
+    <textblock>D</textblock>
+    <textblock>SUL</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[(^0.000238 × ARO</textblock>
+    <textblock>et</textblock>
+    <textblock>) + 0.0083632] ×</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[(0.000733 × OLE</textblock>
+    <textblock>et</textblock>
+    <textblock>) ^ 0.002774] ×</textblock>
+    <textblock>D</textblock>
+    <textblock>OLE</textblock>
+    <textblock>}</textblock>
+    <textblock>]</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[100% × 0.262 × [exp(n</textblock>
+    <textblock>2</textblock>
+    <textblock>(et)) / exp(n</textblock>
+    <textblock>2</textblock>
+    <textblock>(b))] × [</textblock>
+    <textblock>{</textblock>
+    <textblock>[(^0.0001599 × ARO</textblock>
+    <textblock>et</textblock>
+    <textblock>) + 0.007097] ×</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO</textblock>
+    <textblock>}</textblock>
+    <textblock>+</textblock>
+    <textblock>{</textblock>
+    <textblock>[(0.000732 × OLE</textblock>
+    <textblock>et</textblock>
+    <textblock>) ^ 0.00276] ×</textblock>
+    <textblock>D</textblock>
+    <textblock>OLE</textblock>
+    <textblock>}</textblock>
+    <textblock>]</textblock>
+    <textblock>}</textblock>
+    <textblock>where</textblock>
+    <textblock>n</textblock>
+    <textblock>1</textblock>
+    <textblock>, n</textblock>
+    <textblock>2</textblock>
+    <textblock>=The equations defined in paragraphs (d)(1) (i) and (ii) of this section.</textblock>
+    <textblock>et=Collection of fuel parameters for the ``edge target'' fuel. These parameters are defined in paragraphs (d)(1)(iv) (C) and (D) of this section.</textblock>
+    <textblock>n</textblock>
+    <textblock>1</textblock>
+    <textblock>(et)=The function n</textblock>
+    <textblock>1</textblock>
+    <textblock>evaluated with ``edge target'' fuel parameters, which are defined in paragraph (d)(1)(iv)(C) of this section. n</textblock>
+    <textblock>2</textblock>
+    <textblock>(et)=The function n</textblock>
+    <textblock>2</textblock>
+    <textblock>evaluated with ``edge target'' fuel parameters, which are defined in paragraph (d)(1)(iv)(C) of this section.</textblock>
+    <textblock>n</textblock>
+    <textblock>1</textblock>
+    <textblock>(b)=The function n</textblock>
+    <textblock>1</textblock>
+    <textblock>evaluated with the appropriate baseline fuel parameters defined in paragraph (b)(2) of this section.</textblock>
+    <textblock>n</textblock>
+    <textblock>2</textblock>
+    <textblock>(b)=The function n</textblock>
+    <textblock>2</textblock>
+    <textblock>evaluated with the appropriate baseline fuel parameters defined in paragraph (b)(2) of this section.</textblock>
+    <textblock>SUL</textblock>
+    <textblock>et</textblock>
+    <textblock>=The value of SUL for the ``edge target'' fuel, as defined in paragraph (d)(1)(iv)(C) of this section.</textblock>
+    <textblock>ARO</textblock>
+    <textblock>et</textblock>
+    <textblock>=The value of ARO for the ``edge target'' fuel, as defined in paragraph (d)(1)(iv)(C) of this section.</textblock>
+    <textblock>OLE</textblock>
+    <textblock>et</textblock>
+    <textblock>=The value of OLE for the ``edge target'' fuel, as defined in paragraph (d)(1)(iv)(C) of this section.</textblock>
+    <textblock>(C) For both Phase I and Phase II, the ``edge target'' fuel is identical to the target fuel for all fuel parameters, with the following exceptions:</textblock>
+    <textblock>(1)</textblock>
+    <textblock>If the sulfur level of the target fuel is less than 10 parts per million, then the value of SUL for the ``edge target'' fuel shall be set equal to 10 parts per million.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>If the sulfur level of the target fuel is greater than 450 parts per million, then the value of SUL for the ``edge target'' fuel shall be set equal to 450 parts per million.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>If the aromatics level of the target fuel is less than 18 volume percent, then the value of ARO for the ``edge target'' fuel shall be set equal to 18 volume percent.</textblock>
+    <textblock>(4)</textblock>
+    <textblock>If the olefins level of the target fuel is greater than 19 volume percent, then the value of OLE for the ``edge target'' fuel shall be set equal to 19 volume percent.</textblock>
+    <textblock>(5)</textblock>
+    <textblock>If the E300 level of the target fuel is greater than 95 volume percent, then the value of E300 for the ``edge target'' fuel shall be equal to 95 volume percent.</textblock>
+    <textblock>(6)</textblock>
+    <textblock>If the sulfur level of the target fuel is less than 10 parts per million, then</textblock>
+    <textblock>D</textblock>
+    <textblock>SUL shall be set equal to (SUL^10 parts per million).</textblock>
+    <textblock>(7)</textblock>
+    <textblock>If the sulfur level of the target fuel is greater than 450 parts per million, then</textblock>
+    <textblock>D</textblock>
+    <textblock>SUL shall be set equal to (SUL^450 parts per million).</textblock>
+    <textblock>(8)</textblock>
+    <textblock>If the sulfur level of the target fuel is neither less than 10 parts per million nor greater than 450 parts per million,</textblock>
+    <textblock>D</textblock>
+    <textblock>SUL shall be set equal to zero.</textblock>
+    <textblock>(9)</textblock>
+    <textblock>If the aromatics level of the target fuel is less than 18 volume percent and greater than 10 volume percent, then</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO shall be set equal to (ARO^18 volume percent). If the aromatics level of the target fuel is less than 10 volume percent, then</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO shall be set equal to 8 volume percent.</textblock>
+  </text>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>7._</textblock>
+    <textblock>Allowable Ranges of SUL, OLE, and ARO for the NO</textblock>
+    <textblock>X</textblock>
+    <textblock>Equations in Paragraphs</textblock>
+    <textblock>(d)(1)(i)</textblock>
+    <textblock>and</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>of This Section</textblock>
+    <textblock>1Fuel parameter</textblock>
+    <textblock>1Phase I</textblock>
+    <textblock>2Low end</textblock>
+    <textblock>2High end</textblock>
+    <textblock>1Phase II</textblock>
+    <textblock>2Low end</textblock>
+    <textblock>2High end</textblock>
+    <textblock>SUL</textblock>
+    <textblock>10.0</textblock>
+    <textblock>450.0</textblock>
+    <textblock>10.0</textblock>
+    <textblock>450.0</textblock>
+    <textblock>E300</textblock>
+    <textblock>70.0</textblock>
+    <textblock>95.0</textblock>
+    <textblock>70.0</textblock>
+    <textblock>95.0</textblock>
+    <textblock>OLE</textblock>
+    <textblock>3.77</textblock>
+    <textblock>19.0</textblock>
+    <textblock>3.77</textblock>
+    <textblock>19.0</textblock>
+    <textblock>ARO</textblock>
+    <textblock>18.0</textblock>
+    <textblock>36.2</textblock>
+    <textblock>18.0</textblock>
+    <textblock>36.8</textblock>
+  </table>
+</doc>

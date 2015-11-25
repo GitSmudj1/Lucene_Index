@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940224-1-00037</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940224-1-00009</textblock>
+  </parent>
+  <text/>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>3._</textblock>
+    <textblock>Methanol Base Fuel Properties</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1M100</textblock>
+    <textblock>1M85</textblock>
+    <textblock>Chemical grade MeOH, vol%</textblock>
+    <textblock>100.0</textblock>
+    <textblock>85.0</textblock>
+    <textblock>Gasoline base Fuel, vol%</textblock>
+    <textblock>0.0</textblock>
+    <textblock>15.0</textblock>
+    <textblock>Chlorine (as chloride), wt%, max</textblock>
+    <textblock>0.0001</textblock>
+    <textblock>0.0001</textblock>
+    <textblock>Water, wt%, max</textblock>
+    <textblock>0.5</textblock>
+    <textblock>0.5</textblock>
+    <textblock>Sulfur, wt%, max</textblock>
+    <textblock>0.002</textblock>
+    <textblock>0.004</textblock>
+  </table>
+</doc>

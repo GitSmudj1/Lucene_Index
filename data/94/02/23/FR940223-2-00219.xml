@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940223-2-00219</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940223-2-00102</textblock>
+  </parent>
+  <text>
+    <textblock>Appendix</textblock>
+  </text>
+  <billing>
+    <textblock>BILLING CODE 4000-01-P</textblock>
+  </billing>
+  <import>
+    <textblock>E:GRAPHICSEN23FE94.000</textblock>
+  </import>
+  <import>
+    <textblock>E:GRAPHICSEN23FE94.001</textblock>
+  </import>
+  <import>
+    <textblock>E:GRAPHICSEN23FE94.002</textblock>
+  </import>
+  <import>
+    <textblock>E:GRAPHICSEN23FE94.003</textblock>
+  </import>
+  <import>
+    <textblock>E:GRAPHICSEN23FE94.004</textblock>
+  </import>
+  <import>
+    <textblock>E:GRAPHICSEN23FE94.005</textblock>
+  </import>
+  <billing>
+    <textblock>BILLING CODE 4000-01-C</textblock>
+  </billing>
+</doc>

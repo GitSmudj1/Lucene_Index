@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940214-0-00065</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940214-0-00004</textblock>
+  </parent>
+  <text>
+    <textblock>c. The information needed in the survey must include the characteristics shown below. In conjunction with the survey, the analyst is expected to discuss the reasons for extended vacancies, either in individual developments or in the community in general. The data needed are:</textblock>
+    <textblock>Name of Project</textblock>
+    <textblock>No. of Units</textblock>
+    <textblock>Bedroom Mix</textblock>
+    <textblock>Amenities: (if available)</textblock>
+    <textblock>Drapes</textblock>
+    <textblock>Carpet</textblock>
+    <textblock>Type (i.e., family, elderly)</textblock>
+    <textblock>Year Built</textblock>
+    <textblock>Rent levels</textblock>
+    <textblock>Vacancies</textblock>
+    <textblock>Location</textblock>
+    <textblock>Central Cooling</textblock>
+    <textblock>Dishwasher</textblock>
+    <textblock>Garbage Disposal</textblock>
+    <textblock>TV Cable</textblock>
+    <textblock>IV. Housing demand forecasts.</textblock>
+    <textblock>The analyst must give a projection of the housing needs for a specified forecast period. The information should include the following as a minimum:</textblock>
+    <textblock>If a penetration percentage is used in the study analysis, explain how that particular percentage was chosen.</textblock>
+    <textblock>Recommended Number By Unit Size:</textblock>
+    <textblock>One</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>Two</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>Three</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>Four</textblock>
+    <textblock>XXXXX</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Sources of demand</textblock>
+    <textblock>1Town</textblock>
+    <textblock>2Renter</textblock>
+    <textblock>1Market area</textblock>
+    <textblock>2Renter</textblock>
+    <textblock>New Households</textblock>
+    <textblock>(from the</textblock>
+    <textblock>most recent census year</textblock>
+    <textblock>plus 2-year projection)</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>.20 of Persons Living in Substandard Rental Units</textblock>
+    <textblock>+</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>+</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>Plus Demolition of Rental Stock</textblock>
+    <textblock>+</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>+</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>.20 of Persons Experiencing Rent Overburden</textblock>
+    <textblock>+</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>+</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>Plus Vacancy (.05 of New Household Growth)</textblock>
+    <textblock>+</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>+</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>Total Demand</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>Number of Total Demand Determined Income Eligible (tax credit eligible, if applicable)</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>Less Number of Units in Planning Stage (FmHA/HUD) and Comparable Rental Units</textblock>
+    <textblock>^</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>^</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>Net Demand</textblock>
+    <textblock>XXXXX</textblock>
+    <textblock>XXXXX</textblock>
+  </table>
+</doc>

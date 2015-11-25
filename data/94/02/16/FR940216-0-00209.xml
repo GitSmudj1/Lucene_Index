@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00209</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(h) Duration of acceptance of emission effects determined through vehicle testing:</textblock>
+    <textblock>(1) If the Agency does not accept, modify, or reject a particular augmentation for inclusion in an updated complex model (performed through rulemaking), then the augmentation shall remain in effect until the next update to the complex model takes effect.</textblock>
+    <textblock>(2) If the Agency does reject or modify a particular augmentation for inclusion in an updated complex model, then the augmentation shall no longer be able to be used as of the date the updated complex model is deemed to take effect, unless the following conditions and limitations apply:</textblock>
+    <textblock>(i) The augmentation in question may continue to be used by those fuel suppliers which can prove, to the Administrator's satisfaction, that the fuel supplier had already begun producing a fuel utilizing the augmentation at the time the revised model is promulgated.</textblock>
+    <textblock>(ii) The augmentation in question may only be used to evaluate the emissions performance of fuels in conjunction with the complex emission model in effect as of the date of production of the fuels.</textblock>
+    <textblock>(iii) The augmentation may only be used for three years of fuel production, or a total of five years from the date the augmentation first took effect, whichever is shorter.</textblock>
+    <textblock>(3) The Administrator shall determine when sufficient new information on the effects of fuel properties on vehicle emissions has been obtained to warrant development of an updated complex model.</textblock>
+    <textblock>§80.49</textblock>
+    <textblock>Fuels to be used in augmenting the complex emission model through vehicle testing.</textblock>
+    <textblock>(a) Seven fuels (hereinafter called the ``addition fuels'') shall be tested for the purpose of augmenting the complex emission model with a parameter not currently included in the complex emission model. The properties of the addition fuels are specified in paragraphs (a) (1) and (2) of this section. The addition fuels shall be specified with at least the same level of detail and precision as in §80.43(c), and this information must be included in the petition submitted to the Administrator requesting augmentation of the complex emission model.</textblock>
+    <textblock>(1) The seven addition fuels to be tested when augmenting the complex model specified at §80.45 with a new fuel parameter shall have the properties specified as follows:</textblock>
+    <textblock>(i) For the purposes of vehicle testing, the ``baseline'' level of the parameter shall refer to the level of the parameter in Clean Air Act baseline gasoline. The ``candidate'' level of the parameter shall refer to the most extreme value of the parameter, relative to baseline levels, for which the augmentation shall be valid.</textblock>
+    <textblock>(ii) If the fuel parameter for which the fuel supplier is petitioning EPA to augment the complex emission model (hereinafter defined as the ``candidate parameter'') is not specified for Clean Air Act summer baseline fuel, then the baseline level for the candidate parameter shall be set at the levels found in typical gasoline. This level and the justification for this level shall be included in the petitioner's submittal to EPA prior to initiating the test program, and EPA must approve this level prior to the start of the program.</textblock>
+  </text>
+  <table>
+    <textblock>Properties of Fuels To Be Tested When Augmenting the Model With a New Fuel Parameter</textblock>
+    <textblock>1Fuel property</textblock>
+    <textblock>1Fuels</textblock>
+    <textblock>21</textblock>
+    <textblock>22</textblock>
+    <textblock>23</textblock>
+    <textblock>24</textblock>
+    <textblock>25</textblock>
+    <textblock>26</textblock>
+    <textblock>27</textblock>
+    <textblock>Sulfur, ppm</textblock>
+    <textblock>150</textblock>
+    <textblock>150</textblock>
+    <textblock>150</textblock>
+    <textblock>35</textblock>
+    <textblock>35</textblock>
+    <textblock>500</textblock>
+    <textblock>500</textblock>
+    <textblock>Benzene, vol %</textblock>
+    <textblock>1.0</textblock>
+    <textblock>1.0</textblock>
+    <textblock>1.0</textblock>
+    <textblock>0.5</textblock>
+    <textblock>0.5</textblock>
+    <textblock>1.3</textblock>
+    <textblock>1.3</textblock>
+    <textblock>RVP, psi</textblock>
+    <textblock>7.5</textblock>
+    <textblock>7.5</textblock>
+    <textblock>7.5</textblock>
+    <textblock>6.5</textblock>
+    <textblock>6.5</textblock>
+    <textblock>8.1</textblock>
+    <textblock>8.1</textblock>
+    <textblock>E200, %</textblock>
+    <textblock>50</textblock>
+    <textblock>50</textblock>
+    <textblock>50</textblock>
+    <textblock>62</textblock>
+    <textblock>62</textblock>
+    <textblock>37</textblock>
+    <textblock>37</textblock>
+    <textblock>E300, %</textblock>
+    <textblock>85</textblock>
+    <textblock>85</textblock>
+    <textblock>85</textblock>
+    <textblock>92</textblock>
+    <textblock>92</textblock>
+    <textblock>79</textblock>
+    <textblock>79</textblock>
+    <textblock>Aromatics, vol %</textblock>
+    <textblock>27</textblock>
+    <textblock>27</textblock>
+    <textblock>27</textblock>
+    <textblock>20</textblock>
+    <textblock>20</textblock>
+    <textblock>45</textblock>
+    <textblock>45</textblock>
+    <textblock>Olefins, vol %</textblock>
+    <textblock>9.0</textblock>
+    <textblock>9.0</textblock>
+    <textblock>9.0</textblock>
+    <textblock>2.0</textblock>
+    <textblock>2.0</textblock>
+    <textblock>18</textblock>
+    <textblock>18</textblock>
+    <textblock>Oxygen, wt %</textblock>
+    <textblock>2.1</textblock>
+    <textblock>2.1</textblock>
+    <textblock>2.1</textblock>
+    <textblock>2.7</textblock>
+    <textblock>2.7</textblock>
+    <textblock>1.5</textblock>
+    <textblock>1.5</textblock>
+    <textblock>Octane, (R+M)/2</textblock>
+    <textblock>87</textblock>
+    <textblock>87</textblock>
+    <textblock>87</textblock>
+    <textblock>87</textblock>
+    <textblock>87</textblock>
+    <textblock>87</textblock>
+    <textblock>87</textblock>
+    <textblock>New Parameter1</textblock>
+    <textblock>C</textblock>
+    <textblock>C+B/2</textblock>
+    <textblock>B</textblock>
+    <textblock>C</textblock>
+    <textblock>B</textblock>
+    <textblock>C</textblock>
+    <textblock>B</textblock>
+    <textblock>1C=Candidate level, B=Baseline level.</textblock>
+  </table>
+</doc>

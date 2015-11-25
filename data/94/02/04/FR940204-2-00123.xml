@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940204-2-00123</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940204-2-00091</textblock>
+  </parent>
+  <text>
+    <textblock>Self-Regulatory Organizations; Proposed Rule Change by Chicago Stock Exchange, Incorporated Proposing to Establish Rules for an Institutional Trading System, Called the Match Market Exchange Facility</textblock>
+    <textblock>January 28, 1994.</textblock>
+    <textblock>Pursuant to section 19(b)(1) of the Securities Exchange Act of 1934 (``Act''),</textblock>
+    <textblock>notice is hereby given that on August 6, 1993, the Chicago Stock Exchange, Inc. (``CHX'' or ``Exchange'') filed with the Securities and Exchange Commission (``Commission'') the proposed rule change as described in Items I, II and III below, which Items have been prepared by the self-regulatory organization. The Commission is publishing this notice to solicit comments on the proposed rule change from interested persons.</textblock>
+    <textblock>I. Self-Regulatory Organization's Statement of the Terms of Substance of the Proposed Rule Change</textblock>
+    <textblock>The CHX proposes to establish rules for an institutional trading system, the Match Market Exchange (``MMX'') facility, that integrates an electronic order match system with a facility for brokering trades.</textblock>
+    <textblock>II. Self-Regulatory Organization's Statement of the Purpose of and Statutory Basis for, the Proposed Rule Change</textblock>
+    <textblock>In its filing with the Commission, the self-regulatory organization included statements concerning the purpose of, and basis for, the proposed rule change and discussed any comments it received on the proposed rule change. The text of these statements may be examined at the places specified in Item IV below. The self-regulatory organization has prepared summaries, set forth in section (A), (B) and (C) below, of the most significant aspects of such statements.</textblock>
+    <textblock>(A) Self-Regulatory Organization's Statement of the Purpose of, and Statutory Basis for, the Proposed Rule Change</textblock>
+    <textblock>1. Purpose</textblock>
+    <textblock>The purpose of the proposed rule change is to establish rules for the MMX facility, an institutional trading system that integrates an electronic order match system with a facility for brokering trades. The MMX facility is designed to combine the advantages of current institutional order systems with the advantages of exchange trading.</textblock>
+    <textblock>Although the MMX will be operated by the Exchange, it was jointly developed by the CHX and Global Trade, Inc. Users of the MMX will include institutional customers, specialists, MMX market makers and brokers. These users will communicate with the MMX facility through personal computers and modems. The MMX facility will electronically match users' orders in an allocation procedure described more fully below. If an electronic match occurs, the trade will be priced at the market price at a random time within a pre-determined ten minute window period and will be executed at that time. If a match does not occur, users will still have the opportunity to find the other side of their trades through participating brokers.</textblock>
+    <textblock>2. Description of How the MMX Facility Operates</textblock>
+    <textblock>The following is a brief overview of the MMX facility, followed by a more detailed description about certain aspects of the system.</textblock>
+    <textblock>MMX will permit direct order entry by both CHX members and customers of those members. Prior to the time a non-member user enters orders into the system, the user will enter into an agreement with CHX agreeing to be bound by the Exchange's rules governing MMX and will submit the names of the Midwest Clearing Corporation members through which the user will clear. In order for the non-member user to designate a clearing firm, it must enter into a give-up agreement with the clearing firm and provide a copy to the Exchange. CHX member users will clear MMX transactions through their existing clearing arrangements.</textblock>
+    <textblock>For each order, the user will enter the following information:</textblock>
+    <textblock>•Stock ticker symbol;</textblock>
+    <textblock>•The number of shares;</textblock>
+    <textblock>•Capacity (buy, sell or sell short);</textblock>
+    <textblock>•The limit price (optional);</textblock>
+    <textblock>•Linked order conditions (optional);</textblock>
+    <textblock>•Minimum trade size (optional);</textblock>
+    <textblock>•Excluded category of contra parties (optional);</textblock>
+    <textblock>•Names of individual excluded users (optional);</textblock>
+    <textblock>•Liquidity fee or credit (optional);</textblock>
+    <textblock>•Near match range and near match broker (optional);</textblock>
+    <textblock>•Order visibility; and</textblock>
+    <textblock>•Clearing firm.</textblock>
+    <textblock>The user will send this information via modem to the MMX during the Pre-Cross Period. During this time users can review, edit or cancel their orders.</textblock>
+  </text>
+  <usdept>
+    <textblock>SECURITIES AND EXCHANGE COMMISSION</textblock>
+  </usdept>
+  <rindock>
+    <textblock>[Release No. 34-33542; File No. SR-CHX-93-19]</textblock>
+  </rindock>
+  <footcite>
+    <textblock>1</textblock>
+  </footcite>
+  <footnote>
+    <textblock>115 U.S.C. 78s(b)(1) (1988).</textblock>
+  </footnote>
+</doc>

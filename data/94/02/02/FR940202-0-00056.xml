@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00056</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>(ii)</textblock>
+    <textblock>Determination of yield and maturity.</textblock>
+    <textblock>Yield determined</textblock>
+    <textblock>without regard to the call option is 9.27 percent, compounded</textblock>
+    <textblock>semiannually. Yield determined by assuming J exercises its call</textblock>
+    <textblock>option is 10.75 percent, compounded semiannually. Thus, under</textblock>
+    <textblock>paragraph (c)(5) of this section, it is assumed that J will not</textblock>
+    <textblock>exercise the call option because exercise of the option would</textblock>
+    <textblock>increase the yield of the debt instrument. Thus, for purposes of</textblock>
+    <textblock>calculating OID, the debt instrument is assumed to be a 5-year</textblock>
+    <textblock>debt instrument with a single principal payment at maturity of</textblock>
+    <textblock>$100,000, and a yield of 9.27 percent, compounded semiannually.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Consequences if the call option is, in fact,</textblock>
+    <textblock>exercised.</textblock>
+    <textblock>If the call option is, in fact, exercised, then under</textblock>
+    <textblock>paragraph (c)(6) of this section, the debt instrument is treated</textblock>
+    <textblock>as if the issuer made a pro rata prepayment of $55,000 that is</textblock>
+    <textblock>subject to §1.1275-2(f). Consequently, under §1.1275-2(f)(1),</textblock>
+    <textblock>the instrument is treated as consisting of two debt instruments,</textblock>
+    <textblock>one that is retired on the call date and one that remains</textblock>
+    <textblock>outstanding after the call date. The adjusted issue price,</textblock>
+    <textblock>adjusted basis in the hands of the holder, and accrued OID of the</textblock>
+    <textblock>original debt instrument is allocated between the two instruments</textblock>
+    <textblock>based on the portion of the original instrument treated as</textblock>
+    <textblock>retired. Since each payment remaining to be made after the call</textblock>
+    <textblock>date is reduced by one-half, one-half of the adjusted issue</textblock>
+    <textblock>price, adjusted basis, and accrued OID is allocated to the debt</textblock>
+    <textblock>instrument that is treated as retired. The adjusted issue price</textblock>
+    <textblock>of the original debt instrument immediately prior to the call</textblock>
+    <textblock>date is $97,725.12, which equals the issue price of the original</textblock>
+    <textblock>debt instrument ($95,000) increased by the OID previously</textblock>
+    <textblock>includible in gross income ($2,725.12). One-half of this</textblock>
+    <textblock>adjusted issue price is allocated to the debt instrument treated</textblock>
+    <textblock>as retired, and the other half is allocated to the debt</textblock>
+    <textblock>instrument that is treated as remaining outstanding. Thus, the</textblock>
+    <textblock>debt instrument treated as remaining outstanding has an adjusted</textblock>
+    <textblock>issue price immediately after the call date of $97,725.12/2, or</textblock>
+    <textblock>$48,862.56. The yield of this debt instrument continues to be</textblock>
+    <textblock>9.27 percent, compounded semiannually. In addition, the portion</textblock>
+    <textblock>of H's adjusted basis allocated to the debt instrument treated as</textblock>
+    <textblock>retired is $97,725.12/2 or $48,862.56. Accordingly, under</textblock>
+    <textblock>section 1271, H realizes a gain on the deemed retirement equal to</textblock>
+    <textblock>$6,137.44 ($55,000 ^ $48,862.56).</textblock>
+    <textblock>Example 7. Debt instrument issued at par that provides for</textblock>
+    <textblock>payment of interest in kind_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>On January 1, 1995, A</textblock>
+    <textblock>purchases at original issue, for $100,000, X corporation's debt</textblock>
+    <textblock>instrument maturing on January 1, 2000, at a stated principal</textblock>
+    <textblock>amount of $100,000, payable on that date. The debt instrument</textblock>
+    <textblock>provides for annual payments of interest of $6,000 on January 1</textblock>
+    <textblock>of each year, beginning on January 1, 1996. The debt instrument</textblock>
+    <textblock>gives X the unconditional right to issue, in lieu of the first</textblock>
+    <textblock>interest payment, a second debt instrument (PIK instrument)</textblock>
+    <textblock>maturing on January 1, 2000, with a stated principal amount of</textblock>
+    <textblock>$6,000. The PIK instrument, if issued, would provide for annual</textblock>
+    <textblock>payments of interest of $360 on January 1 of each year, beginning</textblock>
+    <textblock>on January 1, 1997.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Aggregation of PIK instrument with original debt</textblock>
+    <textblock>instrument.</textblock>
+    <textblock>Under §1.1275-2(c)(3), the issuance of the PIK</textblock>
+    <textblock>instrument is not considered a payment made on the original debt</textblock>
+    <textblock>instrument, and the PIK instrument is aggregated with the</textblock>
+    <textblock>original debt instrument. The issue date of the PIK instrument</textblock>
+    <textblock>is the same as the original debt instrument.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Determination of yield and maturity.</textblock>
+    <textblock>The right to</textblock>
+    <textblock>issue the PIK instrument is treated as an option to defer the</textblock>
+    <textblock>initial interest payment until maturity. Yield determined without regard to the option is 6 percent, compounded annually, Yield determined by assuming X exercises the option is 6 percent,</textblock>
+    <textblock>compounded annually. Thus, under paragraph (c)(5) of this</textblock>
+    <textblock>section, it is assumed that X will not exercise the option by</textblock>
+    <textblock>issuing the PIK instrument because exercise of the option would</textblock>
+    <textblock>not decrease the yield of the debt instrument. For purposes of</textblock>
+    <textblock>calculating OID, the debt instrument is assumed to be a 5-year</textblock>
+    <textblock>debt instrument with a single principal payment at maturity of</textblock>
+    <textblock>$100,000 and ten semiannual interest payments of $6,000,</textblock>
+    <textblock>beginning on January 1, 1996. As a result, the debt instrument's</textblock>
+    <textblock>yield is 6 percent, compounded annually.</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Determination of OID.</textblock>
+    <textblock>Under the payment schedule that</textblock>
+    <textblock>would result if the option was exercised, none of the interest on</textblock>
+    <textblock>the debt instrument would be qualified stated interest.</textblock>
+    <textblock>Accordingly, under §1.1273-1(c)(2), no payments on the debt</textblock>
+    <textblock>instrument are qualified stated interest payments. Thus, $6,000</textblock>
+    <textblock>of OID accrues during the first annual accrual period. If the</textblock>
+    <textblock>PIK instrument is not issued, $6,000 of OID accrues during each</textblock>
+    <textblock>annual accrual period.</textblock>
+    <textblock>(v)</textblock>
+    <textblock>Consequences if the PIK instrument is issued.</textblock>
+    <textblock>Under</textblock>
+    <textblock>paragraph (c)(6) of this section, if X issues the PIK instrument</textblock>
+    <textblock>on January 1, 1996, the issuance of the PIK instrument is not a</textblock>
+    <textblock>payment on the debt instrument. Solely for purposes of</textblock>
+    <textblock>determining yield and maturity, the debt instrument is deemed</textblock>
+    <textblock>reissued on January 1, 1996, for an issue price of $106,000. The</textblock>
+    <textblock>recomputed yield is 6 percent, compounded annually. The OID for</textblock>
+    <textblock>the first annual accrual period after the deemed reissuance is</textblock>
+    <textblock>$6,360. The adjusted issue price of the debt instrument at the</textblock>
+    <textblock>beginning of the next annual accrual period is $106,000 ($106,000</textblock>
+    <textblock>+ $6,360 ^ $6,360). The OID for each of the four remaining</textblock>
+    <textblock>annual accrual periods is $6,360.</textblock>
+    <textblock>Example 8. Debt instrument issued at a discount that</textblock>
+    <textblock>provides for payment of interest in kind_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>On January</textblock>
+    <textblock>1, 1995, T purchases at original issue, for $75,500, U</textblock>
+    <textblock>corporation's debt instrument maturing on January 1, 2000, at a</textblock>
+    <textblock>stated principal amount of $100,000, payable on that date. The</textblock>
+    <textblock>debt instrument provides for annual payments of interest of</textblock>
+    <textblock>$4,000 on January 1 of each year, beginning on January 1, 1996.</textblock>
+    <textblock>The debt instrument gives U the unconditional right to issue, in</textblock>
+    <textblock>lieu of the first interest payment, a second debt instrument (PIK</textblock>
+    <textblock>instrument) maturing on January 1, 2000, with a stated principal</textblock>
+    <textblock>amount of $4,000. The PIK instrument, if issued, would provide</textblock>
+    <textblock>for annual payments of interest of $160 on January 1 of each</textblock>
+    <textblock>year, beginning on January 1, 1997.</textblock>
+  </text>
+</doc>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00252</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(ii) If baseline values are determined first on a non-oxygenated basis, the calculations in paragraphs (e)(4)(ii) (A) through (C) of this section shall be performed to determine the value of each baseline parameter on an oxygenated basis.</textblock>
+    <textblock>(A) Benzene, aromatic, olefin and sulfur content shall be determined on an oxygenated basis according to the following equation:</textblock>
+    <textblock>AV=UV × (100^OV)</textblock>
+    <textblock>where</textblock>
+    <textblock>AV=oxygenated parameter value</textblock>
+    <textblock>UV=no-oxygenated parameter value</textblock>
+    <textblock>OV=1990 oxygenate volume as a percent of total</textblock>
+    <textblock>production</textblock>
+    <textblock>(B) Reid vapor pressure (RVP) shall be determined on</textblock>
+    <textblock>an oxygenated basis according to the following equation:</textblock>
+    <textblock>where</textblock>
+    <textblock>BR=oxygenated RVP</textblock>
+    <textblock>UR=non-oxygenated RVP</textblock>
+    <textblock>i=type of oxygenate</textblock>
+    <textblock>n=total number of different types of oxygenates</textblock>
+    <textblock>OV</textblock>
+    <textblock>i</textblock>
+    <textblock>=1990 volume, as a percent of total production, of</textblock>
+    <textblock>oxygenate i</textblock>
+    <textblock>OR</textblock>
+    <textblock>i</textblock>
+    <textblock>=blending RVP of oxygenate i</textblock>
+    <textblock>(C) Test data and engineering judgement shall be used</textblock>
+    <textblock>to estimate T90, T50, E300 and E200 baseline values on an</textblock>
+    <textblock>oxygenated basis. Allowances shall be made for physical</textblock>
+    <textblock>dilution and distillation effects only, and not for refinery</textblock>
+    <textblock>operational changes, e.g., decreased reformer severity</textblock>
+    <textblock>required due to the octane value of oxygenate which would</textblock>
+    <textblock>reduce aromatics.</textblock>
+    <textblock>(5)</textblock>
+    <textblock>Work-in-progress.</textblock>
+    <textblock>A refiner may, upon petition</textblock>
+    <textblock>and approval (per §80.93), be allowed to account for work-</textblock>
+    <textblock>in-progress at one or more of its refineries in 1990 in the</textblock>
+    <textblock>determination of that refinery's baseline fuel parameters</textblock>
+    <textblock>using Method 1, 2 or 3-type data if it meets the</textblock>
+    <textblock>requirements specified in this paragraph (e)(5).</textblock>
+    <textblock>(i) Work-in-progress shall include:</textblock>
+    <textblock>(A) Refinery modification projects involving gasoline</textblock>
+    <textblock>blendstock or distillate producing units which were under</textblock>
+    <textblock>construction in 1990; or</textblock>
+    <textblock>(B) Refinery modification projects involving gasoline</textblock>
+    <textblock>blendstock or distillate producing units which were</textblock>
+    <textblock>contracted for prior to or in 1990 such that the refiner was</textblock>
+    <textblock>committed to purchasing materials and constructing the</textblock>
+    <textblock>project.</textblock>
+    <textblock>(ii) The modifications discussed in paragraph (e)(5)(i)</textblock>
+    <textblock>of this section must have been initiated with intent of</textblock>
+    <textblock>complying with a legislative or regulatory environmental</textblock>
+    <textblock>requirement enacted or promulgated prior to January 1, 1991.</textblock>
+    <textblock>(iii) When comparing emissions or parameter values</textblock>
+    <textblock>determined with and without the anticipated work-in-progress</textblock>
+    <textblock>adjustment, at least one of the following situations results</textblock>
+    <textblock>when comparing annual average baseline values per §80.90:</textblock>
+    <textblock>(A) A 2.5 percent or greater difference in exhaust</textblock>
+    <textblock>benzene emissions (per §80.90); or</textblock>
+    <textblock>(B) A 2.5 percent or greater difference in total</textblock>
+    <textblock>exhaust toxics emissions (per §80.90(d)); or</textblock>
+    <textblock>(C) A 2.5 percent or greater difference in NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions (per §80.90(e)); or</textblock>
+    <textblock>(D) A 10.0 percent or greater difference in sulfur</textblock>
+    <textblock>values; or</textblock>
+    <textblock>(E) A 10.0 percent or greater difference in olefin</textblock>
+    <textblock>values; or</textblock>
+    <textblock>(F) A 10.0 percent or greater difference in T90</textblock>
+    <textblock>values.</textblock>
+    <textblock>(iv) The requirements of paragraph (e)(5)(iii) of this</textblock>
+    <textblock>section shall be determined according to the following</textblock>
+    <textblock>equation:</textblock>
+    <textblock>(v) The capital involved in the work-in-progress is at</textblock>
+    <textblock>least:</textblock>
+    <textblock>(A) 10.0 percent of the refinery's depreciated book</textblock>
+    <textblock>value as of the work-in-progress start-up date; or</textblock>
+    <textblock>(B) $10 million.</textblock>
+    <textblock>(vi) Sufficient data shall have been obtained since</textblock>
+    <textblock>reliable operation of the work-in-progress was achieved.</textblock>
+    <textblock>Such data shall be used in the determination of the adjusted</textblock>
+    <textblock>baseline fuel parameter and as verification of the effect of</textblock>
+    <textblock>the work-in-progress.</textblock>
+    <textblock>(vii) Increases in each of the annual average baseline</textblock>
+    <textblock>values (per §80.90) of exhaust benzene emissions, exhaust</textblock>
+    <textblock>toxics emissions and NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions due to work-in-progress</textblock>
+    <textblock>adjustments are limited to the larger of:</textblock>
+    <textblock>(A) The unadjusted annual average baseline value of</textblock>
+    <textblock>each emission specified in this paragraph (e)(5)(vii); or</textblock>
+    <textblock>(B) The following values:</textblock>
+  </text>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.019</textblock>
+  </import>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.020</textblock>
+  </import>
+</doc>

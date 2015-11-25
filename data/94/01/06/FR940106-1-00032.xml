@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00032</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00008</textblock>
+  </parent>
+  <text>
+    <textblock>III.C.10. (formerly C.12.) is proposed to be amended by</textblock>
+    <textblock>removing the requirement that, when leaks are detected, the meter</textblock>
+    <textblock>setting shall be determined and recorded ``as found,'' and ``as</textblock>
+    <textblock>left'' after the meter is calibrated. This part of the existing</textblock>
+    <textblock>requirement is duplicated by the linearity test in requirement</textblock>
+    <textblock>III.D.3. of the proposed Order.</textblock>
+    <textblock>III.C.13. in the existing Order would be removed in the</textblock>
+    <textblock>proposed Order because it is duplicated by the linearity test in</textblock>
+    <textblock>requirement III.D.3. of the proposed Order.</textblock>
+    <textblock>III.C.11. (formerly C.21.) would be amended by revising the</textblock>
+    <textblock>corrective action to provide for the submittal of a report to</textblock>
+    <textblock>BLM. The form called for in existing requirement C.21. is now</textblock>
+    <textblock>submitted to the Minerals Management Service, not to the BLM.</textblock>
+    <textblock>Under the proposed rule, the operator would be required to submit</textblock>
+    <textblock>a report to the BLM showing what corrections were made.</textblock>
+    <textblock>III.D.1. (formerly C.7.) would be amended by removing the</textblock>
+    <textblock>provision allowing consideration of a variance for sales or</textblock>
+    <textblock>allocation meters measuring between 200 and 500 Mcf per day.</textblock>
+    <textblock>This provision duplicates the general provision for a variance</textblock>
+    <textblock>under Article IV. of the Order. The requirement for the use of</textblock>
+    <textblock>an indicating thermometer would be removed because when using an</textblock>
+    <textblock>indicating thermometer the temperature is not a true average</textblock>
+    <textblock>flowing temperature. All meters measuring more than 100 Mcf per</textblock>
+    <textblock>day are required to have a temperature recorder. Meters</textblock>
+    <textblock>measuring 100 Mcf per day or less are required to use either a</textblock>
+    <textblock>temperature recorder or an average flowing temperature.</textblock>
+    <textblock>III.D.2. (new) would ensure that the accuracy of the</textblock>
+    <textblock>temperature recording device is maintained.</textblock>
+    <textblock>III.D.3. (formerly C.15.) would be amended for clarification</textblock>
+    <textblock>and to require the recording of readings before and after</textblock>
+    <textblock>adjustments are made. The words ``of the element range'' would be</textblock>
+    <textblock>added to make it clear what the 0 and 100 percent refer to.</textblock>
+    <textblock>III.D.4. (new) would be added to require calibration equipment</textblock>
+    <textblock>to be more accurate than the equipment being calibrated. If the</textblock>
+    <textblock>testing equipment is not more accurate than the equipment being</textblock>
+    <textblock>calibrated, the inherent uncertainty in the metering equipment</textblock>
+    <textblock>increases.</textblock>
+    <textblock>III.D.5. (new) would be added to require documentation of the</textblock>
+    <textblock>certification or recertification of calibration equipment to be</textblock>
+    <textblock>available to the authorized officer at the time of calibration.</textblock>
+    <textblock>III.D.6. (formerly C.17.) would be amended to allow meters</textblock>
+    <textblock>that measure 100 Mcf or less per day to be inspected and</textblock>
+    <textblock>calibrated semiannually rather than quarterly. Experience has</textblock>
+    <textblock>shown that quarterly inspections and calibrations of meters</textblock>
+    <textblock>measuring such low volumes are neither cost effective nor</textblock>
+    <textblock>necessary to assure an acceptable degree of accuracy.</textblock>
+    <textblock>III.D.7. (formerly C.18.) would be amended to require</textblock>
+    <textblock>operators to notify the authorized officer of the BLM well in</textblock>
+    <textblock>advance of calibrations to enable the planning of inspections.</textblock>
+    <textblock>III.D.8. (formerly C.19.) would be amended by changing the</textblock>
+    <textblock>reference to ``measuring equipment'' to ``recording device'' to</textblock>
+    <textblock>conform with changes in other requirements. The current Order</textblock>
+    <textblock>requires that an adjustment be made whenever a volume error of 2</textblock>
+    <textblock>percent or greater occurs. It is proposed to change this</textblock>
+    <textblock>standard to ``more than 1 percent'' because volume errors of less</textblock>
+    <textblock>than 2 percent on higher volume wells are very significant.</textblock>
+    <textblock>However, in most instances, it will be the policy of the BLM not</textblock>
+    <textblock>to pursue volume errors of less than 200 Mcf per month, because</textblock>
+    <textblock>the cost of doing so would exceed the value of any additional</textblock>
+    <textblock>royalty that might result. The requirement that the meter be</textblock>
+    <textblock>adjusted to zero error would be removed because this is part of</textblock>
+    <textblock>the linearity test requirement in Section III.D.3. For the sake</textblock>
+    <textblock>of simplicity, the abatement period would be stated as 60 days</textblock>
+    <textblock>only rather than also stating the alternative ``prior to</textblock>
+    <textblock>completion of calibration.''</textblock>
+    <textblock>III.D.10. would be added combining several requirements from</textblock>
+    <textblock>the existing Order, as explained below.</textblock>
+    <textblock>III.D.10.a. (formerly C.4.) would be revised to clarify what</textblock>
+    <textblock>is meant by the outer 2/3 of the chart range. Also, the</textblock>
+    <textblock>reference to sizing the orifice would be removed because doing so</textblock>
+    <textblock>is not the only alternative available to the operator to maintain</textblock>
+    <textblock>the differential pen in the outer 2/3 of the chart.</textblock>
+  </text>
+</doc>

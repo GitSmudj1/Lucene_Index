@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00224</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(b)</textblock>
+    <textblock>Compliance survey option 2.</textblock>
+    <textblock>A refiner, importer,</textblock>
+    <textblock>or oxygenate blender shall be deemed to have satisfied the</textblock>
+    <textblock>compliance survey requirements described in paragraph (a) of</textblock>
+    <textblock>this section if a comprehensive program of surveys is</textblock>
+    <textblock>properly conducted in accordance with a survey program plan</textblock>
+    <textblock>which has been approved by the Administrator of EPA. Such</textblock>
+    <textblock>approval shall be based upon the survey program plan meeting</textblock>
+    <textblock>the following criteria:</textblock>
+    <textblock>(1) The initial schedule for the conduct of surveys</textblock>
+    <textblock>shall be as follows:</textblock>
+    <textblock>(i) 120 surveys shall be conducted in 1995;</textblock>
+    <textblock>(ii) 80 surveys shall be conducted in 1996;</textblock>
+    <textblock>(iii) 60 surveys shall be conducted in 1997;</textblock>
+    <textblock>(iv) 50 surveys shall be conducted in 1998 and</textblock>
+    <textblock>thereafter.</textblock>
+    <textblock>(2) This initial survey schedule shall be adjusted as</textblock>
+    <textblock>follows:</textblock>
+    <textblock>(i) In the event one or more ozone nonattainment areas</textblock>
+    <textblock>in addition to the nine specified in §80.70, opt into the</textblock>
+    <textblock>reformulated gasoline program, the number of surveys to be</textblock>
+    <textblock>conducted in the year the area or areas opt into the program</textblock>
+    <textblock>and in each subsequent year shall be increased according to</textblock>
+    <textblock>the following formula:</textblock>
+    <textblock>where:</textblock>
+    <textblock>ANS</textblock>
+    <textblock>i</textblock>
+    <textblock>= the adjusted number of surveys for year i; i = the opt-in year and each subsequent year</textblock>
+    <textblock>NS</textblock>
+    <textblock>i</textblock>
+    <textblock>= the number of surveys according to the</textblock>
+    <textblock>schedule in paragraph (b)(1) of this section</textblock>
+    <textblock>in year i; i = the opt-in year and each</textblock>
+    <textblock>subsequent year</textblock>
+    <textblock>V</textblock>
+    <textblock>opt-in</textblock>
+    <textblock>= the total volume of gasoline supplied to the</textblock>
+    <textblock>opt-in covered areas in the year preceding</textblock>
+    <textblock>the year of the opt-in</textblock>
+    <textblock>V</textblock>
+    <textblock>orig</textblock>
+    <textblock>= the total volume of gasoline supplied to the</textblock>
+    <textblock>original nine covered areas in the year</textblock>
+    <textblock>preceding the year of the opt-in</textblock>
+    <textblock>(ii) In the event that any covered area fails a survey</textblock>
+    <textblock>or survey series according to the criteria set forth in</textblock>
+    <textblock>paragraph (c) of this section, the annual decreases in the</textblock>
+    <textblock>numbers of surveys prescribed by paragraph (b)(1) of this</textblock>
+    <textblock>section, as adjusted by paragraph (b)(2)(i) of this section,</textblock>
+    <textblock>shall be adjusted as follows in the year following the year</textblock>
+    <textblock>of the failure. Any such adjustment to the number of</textblock>
+    <textblock>surveys shall remain in effect so long as any standard for</textblock>
+    <textblock>the affected covered area has been adjusted to be more</textblock>
+    <textblock>stringent as a result of a failed survey or survey series.</textblock>
+    <textblock>The adjustments shall be calculated according to the</textblock>
+    <textblock>following formula:</textblock>
+    <textblock>where:</textblock>
+    <textblock>ANS</textblock>
+    <textblock>i</textblock>
+    <textblock>= the adjusted number of surveys in year i; i = the year after the failure and each</textblock>
+    <textblock>subsequent year</textblock>
+    <textblock>V</textblock>
+    <textblock>failed</textblock>
+    <textblock>= the total volume of gasoline supplied to the</textblock>
+    <textblock>covered area which failed the survey or</textblock>
+    <textblock>survey series in the year of the failure</textblock>
+    <textblock>V</textblock>
+    <textblock>total</textblock>
+    <textblock>= the total volume of gasoline supplied to all</textblock>
+    <textblock>covered areas in the year of the failure</textblock>
+    <textblock>NS</textblock>
+    <textblock>i</textblock>
+    <textblock>= the number of surveys in year i according to</textblock>
+    <textblock>the schedule in paragraph (b)(1) of this</textblock>
+    <textblock>section and as adjusted by paragraph</textblock>
+    <textblock>(b)(2)(i) of this section; i = the year</textblock>
+    <textblock>after the failure and each subsequent year</textblock>
+    <textblock>(3) The survey program shall meet the criteria stated</textblock>
+    <textblock>in paragraph (c) of this section.</textblock>
+    <textblock>(4) On each occasion the comprehensive survey program</textblock>
+    <textblock>does not occur as specified in the approved plan with regard</textblock>
+    <textblock>to any covered area:</textblock>
+    <textblock>(i) Each refiner, importer, and oxygenate blender who</textblock>
+    <textblock>supplied any reformulated gasoline or RBOB to the covered</textblock>
+    <textblock>area and who has not satisfied the survey requirements</textblock>
+    <textblock>described in paragraph (a) of this section shall be deemed</textblock>
+    <textblock>to have failed to carry out an approved survey program; and</textblock>
+  </text>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.009</textblock>
+  </import>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.010</textblock>
+  </import>
+</doc>

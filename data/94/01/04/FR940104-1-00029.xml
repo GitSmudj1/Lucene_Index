@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940104-1-00029</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940104-1-00004</textblock>
+  </parent>
+  <text>
+    <textblock>(5) The Narrative Record</textblock>
+    <textblock>(6) The Footnotes Record</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Item No.</textblock>
+    <textblock>1Item</textblock>
+    <textblock>1Character position</textblock>
+    <textblock>1Data type</textblock>
+    <textblock>1Comments</textblock>
+    <textblock>l</textblock>
+    <textblock>Schedule ID</textblock>
+    <textblock>1-2</textblock>
+    <textblock>Character</textblock>
+    <textblock>Sch=X1.</textblock>
+    <textblock>l</textblock>
+    <textblock>Record ID</textblock>
+    <textblock>3-4</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Code=05</textblock>
+    <textblock>l</textblock>
+    <textblock>Sequence No.</textblock>
+    <textblock>5-10</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Right justified, zero filled, see general instruction 3.</textblock>
+    <textblock>l</textblock>
+    <textblock>Text ID</textblock>
+    <textblock>11</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>See note 4.</textblock>
+    <textblock>l</textblock>
+    <textblock>Text</textblock>
+    <textblock>12-143</textblock>
+    <textblock>Character</textblock>
+    <textblock>See note 5.</textblock>
+    <textblock>Note 4:</textblock>
+    <textblock>Character positions 12-143 are to be used to enter free form text. The ``Text ID'' is the corresponding code as set forth below which identifies the required information.</textblock>
+    <textblock>Text ID: 1. Required Information: A complete list of operating personnel and facilities shared by the interstate natural gas pipeline and any affiliated marketing or brokering company (or blanket sales operating unit).</textblock>
+    <textblock>Text ID: 2. Required Information: The procedures used to address and resolve complaints by shippers and potential shippers.</textblock>
+    <textblock>Note 5:</textblock>
+    <textblock>A total of 132 character positions are provided for entering footnote text. If the respondent chooses to enter information in less than the 132 allowed character positions, the information should be left justified and the remainder of the record (line) should be blank filled through character position 255.</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Item No.</textblock>
+    <textblock>1Item</textblock>
+    <textblock>1Character position</textblock>
+    <textblock>1Data type</textblock>
+    <textblock>1Comments</textblock>
+    <textblock>l</textblock>
+    <textblock>Schedule ID</textblock>
+    <textblock>1-2</textblock>
+    <textblock>Character</textblock>
+    <textblock>Sch=X1.</textblock>
+    <textblock>l</textblock>
+    <textblock>Record ID</textblock>
+    <textblock>3-4</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Code=06.</textblock>
+    <textblock>l</textblock>
+    <textblock>Sequence No.</textblock>
+    <textblock>5-10</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Right justified, zero filled, see general instruction 3.</textblock>
+    <textblock>l</textblock>
+    <textblock>Reference No.</textblock>
+    <textblock>11-23</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Reference number for record being footnoted see general instruction 4.</textblock>
+    <textblock>l</textblock>
+    <textblock>Footnote Text</textblock>
+    <textblock>24-155</textblock>
+    <textblock>Character</textblock>
+    <textblock>See note 6.</textblock>
+    <textblock>Note 6:</textblock>
+    <textblock>A total of 132 character positions are provided for entering footnote text.</textblock>
+  </table>
+  <frfiling>
+    <textblock>[FR Doc. 94-31 Filed 1-3-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 6717-01-P</textblock>
+  </billing>
+</doc>

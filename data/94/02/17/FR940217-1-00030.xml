@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940217-1-00030</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940217-1-00005</textblock>
+  </parent>
+  <text>
+    <textblock>(ii) The gross exercise value of transactions in options on a group or index of equity securities (or based on the value thereof), purchased and sold, shall be aggregated; and</textblock>
+    <textblock>(iii) Under no circumstances shall a person or group of persons be permitted to subtract, offset, or net purchase and sale transactions, in equity securities or option contracts, and among or within accounts, when aggregating the volume or fair market value of transactions effected under this section.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Disaggregation.</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>Generally.</textblock>
+    <textblock>The Commission may require a large trader to disaggregate accounts or transactions in any manner, and provide additional transaction or other information relating to transactions previously reported by a registered broker or dealer, in such cases and upon reasonable terms and conditions considering the operational capabilities of such large trader, when it determines such to be necessary or appropriate in the public interest, for the protection of investors, or otherwise in the furtherance of the purposes of this section.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Omnibus accounts.</textblock>
+    <textblock>Large traders that effect transactions through or maintain omnibus accounts with a registered broker or dealer shall establish and maintain policies and procedures reasonably designed to assure compliance with the disaggregation and identification requirements of this section and, in particular, assure the accuracy and completeness of Schedules 7b or 8 to Form 13H. Policies and procedures that are substantially comparable to those described in paragraph (f) of this section shall be deemed to be in compliance with this section.</textblock>
+    <textblock>(d)</textblock>
+    <textblock>Recordkeeping requirements for brokers and dealers.</textblock>
+    <textblock>_(1)</textblock>
+    <textblock>Generally.</textblock>
+    <textblock>Every registered broker or dealer that carries accounts for large traders and persons such broker or dealer knows or has reason to know are large traders, based on transactions effected by or through such broker or dealer, shall maintain records of all elements of information for all transactions effected directly or indirectly by or through an account carried by such broker or dealer for all large traders and persons that such broker or dealer knows or has reason to know are large traders.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Specific information.</textblock>
+    <textblock>The elements of information required to be maintained for all transactions, shall include:</textblock>
+    <textblock>(i) Date on which the transaction was executed;</textblock>
+    <textblock>(ii) Account number;</textblock>
+    <textblock>(iii) Identifying symbol assigned to the security;</textblock>
+    <textblock>(iv) Transaction price;</textblock>
+    <textblock>(v) The number of shares or option contracts traded and whether such transaction was a purchase, sale, or short sale, and if an option transaction, whether such was a call or put option, an opening purchase or sale, a closing purchase or sale, or an exercise or assignment;</textblock>
+    <textblock>(vi) The clearing house number of such broker or dealer and the clearing house numbers of the brokers or dealers on the opposite side of the transaction;</textblock>
+    <textblock>(vii) A designation of whether the transaction was effected or caused to be effected for the account of a customer of such broker or dealer, or was a proprietary transaction effected or caused to be effected for the account of such broker or dealer;</textblock>
+    <textblock>(viii) Market center where the transaction was executed;</textblock>
+    <textblock>(ix) The time that the transaction was executed, as required to be reported under paragraph (e) of this section;</textblock>
+    <textblock>(x) The large trader identification number, of the person that controls the account or the custodian or nominee of an omnibus account, for which the transaction was effected;</textblock>
+    <textblock>(xi) The Depository Trust Company Institutional Delivery System numbers of agents, broker-dealers, institutions, and other interested parties otherwise maintained by such broker or dealer for the account for which a transaction is effected;</textblock>
+    <textblock>(xii) The code, identification, or sequence number assigned to a transaction that was routed or effected through an automated order routing system maintained by a self-regulatory organization; and</textblock>
+    <textblock>(xiii) Any other codes, designations, or identifiers that the Commission may deem necessary or appropriate for compliance with the recordkeeping or reporting requirements of this section.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Retention.</textblock>
+    <textblock>The records and information required to be made and kept pursuant to the provisions of this section shall be kept for such periods of time as provided in §240.17a-4(b).</textblock>
+    <textblock>(e)</textblock>
+    <textblock>Reporting requirements for brokers and dealers.</textblock>
+    <textblock>_(1)</textblock>
+    <textblock>Generally.</textblock>
+    <textblock>Upon the request of the Commission, or a self-regulatory organization designated by the Commission, every registered broker or dealer that carries accounts for large traders and other persons for whom records must be maintained, shall electronically report in machine-readable form and in accordance with instructions issued by the Commission, all elements of information for all transactions effected directly or indirectly by or through accounts carried by such broker or dealer for large traders and other persons for whom records must be maintained, which equal or exceed the reporting activity level.</textblock>
+    <textblock>(2) The term</textblock>
+    <textblock>reporting activity level</textblock>
+    <textblock>means:</textblock>
+    <textblock>(i) Each transaction in publicly traded securities, effected during a calendar day where the account is located, that is equal to or greater than the lesser of 2,000 shares or fair market value of $100,000;</textblock>
+    <textblock>(ii) Any other transaction in publicly traded securities of lesser amount, that a registered broker or dealer may deem appropriate;</textblock>
+    <textblock>(iii) Each transaction, regardless of share quantity or fair market value, that is part of a group of transactions that constitute program trading; or</textblock>
+    <textblock>(iv) Such other amount that may be established by order of the Commission from time to time.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>System orders.</textblock>
+    <textblock>With respect to transactions routed or effected through an automated order routing system maintained by a self-regulatory organization, registered brokers or dealers shall report, all elements of information for all transactions required to be maintained, including the time that the transaction was executed, before the close of business on the day specified in the request for such transaction information.</textblock>
+    <textblock>(4)</textblock>
+    <textblock>Manual orders.</textblock>
+    <textblock>With respect to transactions that are not routed or effected through an automated order routing system maintained by a self-regulatory organization, registered brokers or dealers shall report:</textblock>
+  </text>
+</doc>

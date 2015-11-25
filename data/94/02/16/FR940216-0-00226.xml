@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00226</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(B) The annual average of the toxics emissions</textblock>
+    <textblock>reduction percentages for all samples from a survey series</textblock>
+    <textblock>shall be calculated according to the following formula:</textblock>
+    <textblock>where</textblock>
+    <textblock>AATER = the annual average toxics emissions reduction</textblock>
+    <textblock>TER</textblock>
+    <textblock>1,i</textblock>
+    <textblock>= the toxics emissions reduction for sample i</textblock>
+    <textblock>of gasoline collected during the high ozone</textblock>
+    <textblock>season</textblock>
+    <textblock>TER</textblock>
+    <textblock>2,i</textblock>
+    <textblock>= the toxics emissions reduction for sample i</textblock>
+    <textblock>of gasoline collected outside the high ozone</textblock>
+    <textblock>season</textblock>
+    <textblock>n</textblock>
+    <textblock>1</textblock>
+    <textblock>= the number of samples collected during the</textblock>
+    <textblock>high ozone season</textblock>
+    <textblock>n</textblock>
+    <textblock>2</textblock>
+    <textblock>= the number of samples collected outside the</textblock>
+    <textblock>high ozone season</textblock>
+    <textblock>0</textblock>
+    <textblock>(C) The covered area shall have failed the simple</textblock>
+    <textblock>model toxics survey series if the annual average toxics</textblock>
+    <textblock>emissions reduction is less than the simple model per-gallon</textblock>
+    <textblock>standard for toxics emissions reduction.</textblock>
+    <textblock>(ii) The results of each complex model toxics emissions</textblock>
+    <textblock>reduction survey series conducted in any covered area shall</textblock>
+    <textblock>be determined as follows:</textblock>
+    <textblock>(A) For each complex model sample from the survey</textblock>
+    <textblock>series, the toxics emissions reduction percentage shall be</textblock>
+    <textblock>determined based upon the tested parameter values for that</textblock>
+    <textblock>sample and the appropriate methodology for calculating</textblock>
+    <textblock>toxics emissions reduction at §80.47;</textblock>
+    <textblock>(B) The annual average of the toxics emissions</textblock>
+    <textblock>reduction percentages for all samples from a survey series</textblock>
+    <textblock>shall be calculated according to the formula specified in</textblock>
+    <textblock>paragraph (c)(8)(i)(B) of this section; and</textblock>
+    <textblock>(C) The covered area shall have failed the complex</textblock>
+    <textblock>model toxics survey series if the annual average toxics</textblock>
+    <textblock>emissions reduction is less than the applicable per-gallon</textblock>
+    <textblock>complex model standard for toxics emissions reduction.</textblock>
+    <textblock>(10) The results of each NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions reduction survey</textblock>
+    <textblock>and survey series shall be determined as follows:</textblock>
+    <textblock>(i) For each sample from the survey and survey series,</textblock>
+    <textblock>the NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions reduction percentage shall be determined</textblock>
+    <textblock>based upon the tested parameter values for that sample and</textblock>
+    <textblock>the appropriate methodology for calculating NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions</textblock>
+    <textblock>reduction at §80.47; and</textblock>
+    <textblock>(ii) The covered area shall have failed the NO</textblock>
+    <textblock>X</textblock>
+    <textblock>survey</textblock>
+    <textblock>or survey series if the NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions reduction percentage</textblock>
+    <textblock>average for all survey samples is less than the applicable</textblock>
+    <textblock>Phase I or Phase II complex model per-gallon standard for</textblock>
+    <textblock>NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions reduction.</textblock>
+    <textblock>(11) For any benzene content survey series conducted in</textblock>
+    <textblock>any covered area the average benzene content for all samples</textblock>
+    <textblock>from the survey series shall be calculated. If this annual</textblock>
+    <textblock>average is greater than 1.000 percent by volume, the covered</textblock>
+    <textblock>area shall have failed a benzene survey series.</textblock>
+    <textblock>(12) For any oxygen content survey series conducted in</textblock>
+    <textblock>any covered area the average oxygen content for all samples</textblock>
+    <textblock>from the survey series shall be calculated. If this annual</textblock>
+    <textblock>average is less than 2.00 percent by weight, the covered</textblock>
+    <textblock>area shall have failed an oxygen survey series.</textblock>
+    <textblock>Each survey program shall:</textblock>
+    <textblock>(i) Be planned and conducted by a person who is</textblock>
+    <textblock>independent of the refiner or importer (the surveyor). In</textblock>
+    <textblock>order to be considered independent:</textblock>
+    <textblock>(A) The surveyor shall not be an employee of any</textblock>
+    <textblock>refiner or importer;</textblock>
+    <textblock>(B) The surveyor shall be free from any obligation to</textblock>
+    <textblock>or interest in any refiner or importer; and</textblock>
+    <textblock>(C) The refiner or importer shall be free from any</textblock>
+    <textblock>obligation to or interest in the surveyor; and</textblock>
+    <textblock>(ii) Include procedures for selecting sample collection</textblock>
+    <textblock>locations, numbers of samples, and gasoline compositions</textblock>
+    <textblock>which will result in:</textblock>
+    <textblock>(A) Simple model surveys representing all gasoline</textblock>
+    <textblock>certified using the simple model being dispensed at retail</textblock>
+    <textblock>outlets within the covered area during the period of the</textblock>
+    <textblock>survey; and</textblock>
+    <textblock>(B) Complex model surveys representing all gasoline</textblock>
+    <textblock>certified using the complex model being dispensed at retail</textblock>
+    <textblock>outlets within the covered area during the period of the</textblock>
+    <textblock>survey; and</textblock>
+    <textblock>(iii) Include procedures such that the number of samples</textblock>
+    <textblock>included in each survey assures that:</textblock>
+    <textblock>(A) In the case of simple model surveys, the average</textblock>
+    <textblock>levels of oxygen, benzene, RVP, and aromatic hydrocarbons</textblock>
+    <textblock>are determined with a 95% confidence level, with error of</textblock>
+    <textblock>less than 0.1 psi for RVP, 0.05% for benzene (by volume),</textblock>
+    <textblock>and 0.1% for oxygen (by weight); and</textblock>
+    <textblock>(B) In the case of complex model surveys, the average</textblock>
+    <textblock>levels of oxygen, benzene, RVP, aromatic hydrocarbons,</textblock>
+    <textblock>olefins, T-50, T-90, and sulfur are determined with a 95%</textblock>
+    <textblock>confidence level, with error of less than 0.1 psi for RVP,</textblock>
+    <textblock>0.05% for benzene (by volume), 0.1% for oxygen (by weight),</textblock>
+    <textblock>0.5% for aromatic hydrocarbons (by volume), 0.5% for olefins</textblock>
+    <textblock>(by volume), 5</textblock>
+    <textblock>○F. for T-50 and T-90, and 10 ppm for sulfur;</textblock>
+    <textblock>and</textblock>
+    <textblock>(iv) Require that the surveyor shall:</textblock>
+    <textblock>(A) Not inform anyone, in advance, of the date or</textblock>
+    <textblock>location for the conduct of any survey;</textblock>
+    <textblock>(B) Upon request by EPA made within thirty days</textblock>
+    <textblock>following the submission of the report of a survey, provide</textblock>
+    <textblock>a duplicate of any gasoline sample taken during that survey</textblock>
+    <textblock>to EPA at a location to be specified by EPA each sample to</textblock>
+    <textblock>be identified by the name and address of the facility where</textblock>
+    <textblock>collected, the date of collection, and the classification of</textblock>
+    <textblock>the sample as simple model or complex model; and</textblock>
+    <textblock>(C) At any time permit any representative of EPA to</textblock>
+    <textblock>monitor the conduct of the survey, including sample</textblock>
+    <textblock>collection, transportation, storage, and analysis; and</textblock>
+    <textblock>(v) Require the surveyor to submit to EPA a report of</textblock>
+    <textblock>each survey, within thirty days following completion of the</textblock>
+    <textblock>survey, such report to include the following information:</textblock>
+    <textblock>(A) The identification of the person who conducted the</textblock>
+    <textblock>survey;</textblock>
+    <textblock>(B) An attestation by an officer of the surveyor</textblock>
+    <textblock>company that the survey was conducted in accordance with the</textblock>
+    <textblock>survey plan and that the survey results are accurate;</textblock>
+    <textblock>(C) If the survey was conducted for one refiner or</textblock>
+    <textblock>importer, the identification of that party;</textblock>
+    <textblock>(D) The identification of the covered area surveyed;</textblock>
+    <textblock>(E) The dates on which the survey was conducted;</textblock>
+    <textblock>(F) The address of each facility at which a gasoline</textblock>
+    <textblock>sample was collected, the date of collection, and the</textblock>
+    <textblock>classification of the sample as simple model or complex</textblock>
+    <textblock>model;</textblock>
+    <textblock>(G) The results of the analyses of simple model</textblock>
+    <textblock>samples for oxygenate type and oxygen weight percent,</textblock>
+    <textblock>benzene content, aromatic hydrocarbon content, and RVP, and</textblock>
+    <textblock>the calculated toxics emission reduction percentage;</textblock>
+  </text>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.011</textblock>
+  </import>
+</doc>

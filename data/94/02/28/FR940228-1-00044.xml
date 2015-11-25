@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940228-1-00044</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940228-1-00006</textblock>
+  </parent>
+  <text>
+    <textblock>Fokker:</textblock>
+    <textblock>Docket 93-NM-197-AD.</textblock>
+    <textblock>Applicability:</textblock>
+    <textblock>Model F28 Mark 0100 series airplanes equipped with Aircraft Braking Systems Corporation (ABSC) main wheel assembly, part number 5008131-4, serial numbers APR91-0570 through FEB93-0965 inclusive; certificated in any category.</textblock>
+    <textblock>Compliance:</textblock>
+    <textblock>Required as indicated, unless accomplished previously. To prevent loss of a main wheel assembly during takeoff or landing, accomplish the following:</textblock>
+    <textblock>(a) For airplanes equipped with a demountable flange (inboard) wheel</textblock>
+    <textblock>subassembly, part number 5008142-4, serial numbers APR91-0570 through OCT92-0858</textblock>
+    <textblock>inclusive, or S-APR91-0097 through S-MAY92-0126 inclusive: Within 100 landings after the effective date of this AD, or at the next tire change, whichever occurs first, perform an</textblock>
+    <textblock>eddy current inspection to detect cracks of the wheel subassembly, in accordance with</textblock>
+    <textblock>paragraph C. of Section II_Accomplishment Instructions of ABSC</textblock>
+    <textblock>Service Bulletin Fo100-32-46, dated December 24, 1992. Repeat this inspection</textblock>
+    <textblock>thereafter at intervals not to exceed 500 landings or at each tire change, whichever occurs</textblock>
+    <textblock>first.</textblock>
+    <textblock>(1) If no crack is found during any inspection required by paragraph (a) of this AD: Prior to further flight following the third inspection, modify the wheel subassembly in accordance with paragraph D. of Section II_Accomplishments Instructions of the service bulletin. After modification, continue to inspect in accordance with paragraph (a) of this AD. If no crack is found during the first two inspections conducted after modification, no further action is required by this paragraph.</textblock>
+    <textblock>(2) If any crack is found during any inspection required by paragraph (a) of this AD, prior to further flight, replace the wheel subassembly, part number 5008142-4, with a serviceable part. Such replacement constitutes terminating action for the repetitive inspections required by paragraph (a) of this AD.</textblock>
+    <textblock>(b) For airplanes equipped with a demountable flange (outboard) wheel</textblock>
+    <textblock>subassembly, part number 5008140-1, serial numbers APR91-0570 through FEB93-0965 inclusive, or S-MAR91-0002 through S-FEB93-0010 inclusive: Within 100 landings after the effective date of this AD, or at the next tire change, whichever occurs first, perform an eddy current inspection to detect cracks of the bolt bosses of the wheel subassembly, in accordance with paragraph B. of Section II_Accomplishment Instructions of ABSC Service Bulletin Fo100-32-48, dated March 10, 1993. Repeat this inspection thereafter at interals not to exceed 500 landings or at each tire change, whichever occurs first.</textblock>
+    <textblock>(1) If no crack is found during any inspection required by paragraph (b) of this AD: Prior to further flight following the third inspection, modify the wheel subassembly in accordance with paragraph C. of Section II_Accomplishment Instructions of the service bulletin. Such modification constitutes terminating action for the repetitive inspections required by paragraph (b) of this AD.</textblock>
+    <textblock>(2) If any crack is found during any inspection required by paragraph (b) of this AD, prior to further flight, replace the wheel subassembly, part number 5008140-1, with a serviceable part. Such replacement constitutes terminating action for the repetitive inspections required by paragraph (b) of this AD.</textblock>
+    <textblock>(c) After the effective date of this AD, no person shall install any of the following parts on any airplane unless that part has been inspected and modified in accordance with paragraph (a) and/or (b) of this AD, as applicable.</textblock>
+    <textblock>(1) ABSC demountable flange (inboard) wheel subassembly, part number 5008142-4, having serial numbers APR91-0570 through OCT92-0858 inclusive, or S-APR91-0097 through S-MAY92-0126 inclusive;</textblock>
+    <textblock>(2) ABSC demountable flange (outboard) wheel subassembly, part number 5008140-1, having serial numbers APR91-0570 through FEB93-0965 inclusive, or S-MAR91-0002 through S-FEB93-0010 inclusive;</textblock>
+    <textblock>(3) Main wheel assembly, part number 5008131-4, having serial numbers APR91-0570 through FEB 93-0965 inclusive.</textblock>
+    <textblock>(d) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, Standardization Branch, ANM-113, FAA, Transport Airplane Directorate. Operators shall submit their requests through an appropriate FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, Standardization Branch, ANM-113.</textblock>
+    <textblock>Note:</textblock>
+    <textblock>Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Standardization Branch, ANM-113.</textblock>
+    <textblock>(e) Special flight permits may be issued in accordance with Federal Aviation Regulations (FAR) 21.197 and 21.199 to operate the airplane to a location where the requirements of this AD can be accomplished.</textblock>
+    <textblock>Issued in Renton, Washington, on February 22, 1994.</textblock>
+  </text>
+  <signer>
+    <textblock>Darrell M. Pederson,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Transport Airplane Directorate, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-4450 Filed 2-25-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-U</textblock>
+  </billing>
+</doc>

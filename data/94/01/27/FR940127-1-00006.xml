@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940127-1-00006</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940127-1-00003</textblock>
+  </parent>
+  <text>
+    <textblock>For the reasons discussed above, I certify that this proposed regulation (1) is not a ``significant regulatory action'' under Executive Order 12866; (2) is not a ``significant rule'' under the DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979); and (3) if promulgated, will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act. A copy of the draft regulatory evaluation prepared for this action is contained in the Rules Docket. A copy of it may be obtained by contacting the Rules Docket at the location provided under the caption ``</textblock>
+    <textblock>ADDRESSES</textblock>
+    <textblock>.''</textblock>
+    <textblock>List of Subjects in 14 CFR Part 39</textblock>
+    <textblock>Air transportation, Aircraft, Aviation safety, Safety.</textblock>
+    <textblock>The Proposed Amendment</textblock>
+    <textblock>Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration proposes to amend 14 CFR part 39 of the Federal Aviation Regulations as follows:</textblock>
+    <textblock>PART 39_AIRWORTHINESS DIRECTIVES</textblock>
+    <textblock>1. The authority citation for part 39 continues to read as follows:</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>49 U.S.C. App. 1354(a), 1421 and 1423; 49 U.S.C. 106(g); and 14 CFR 11.89.</textblock>
+    <textblock>§39.13</textblock>
+    <textblock>[Amended]</textblock>
+    <textblock>2. Section 39.13 is amended by adding the following new airworthiness directive:</textblock>
+    <textblock>Pratt &amp; Whitney:</textblock>
+    <textblock>Docket No. 93-ANE-81.</textblock>
+    <textblock>Applicability:</textblock>
+    <textblock>Pratt &amp; Whitney (PW) Models JT8D-1,</textblock>
+    <textblock>-1A, -1B, -7, -7A, -7B, -9, -9A, -11, -15, -15A, -17, -17A, -17R, and -17AR turbofan engines, with combustion chamber outer case (CCOC), Part Number (P/N) 796761 or 806675. These engines are installed on but not limited to Boeing 727 and 737 series, and McDonnell Douglas DC-9 series aircraft.</textblock>
+    <textblock>Compliance:</textblock>
+    <textblock>Required as indicated, unless accomplished previously.</textblock>
+    <textblock>To prevent rupture of the CCOC, which could result in fire, engine cowl release, or aircraft damage, accomplish the following:</textblock>
+    <textblock>(a) Except for CCOC's cited in paragraph (c) of this airworthiness directive (AD), ultrasonically inspect CCOC's installed in engines for cracks within 10 days or 75 cycles in service (CIS) after the effective date of this AD, whichever occurs later, in accordance with paragraph 2.A.(3) and Appendix B of PW Alert Service Bulletin (ASB) No. 5842, Revision 3, dated October 10, 1990.</textblock>
+    <textblock>(b) For CCOC's not installed in engines and not cited in paragraph (c) of this AD, ultrasonically inspect CCOC's for cracks prior to returning the CCOC's to service in accordance with paragraph 2.A.(5) and Appendix C of PW ASB No. 5842, Revision 3, dated October 10, 1990.</textblock>
+    <textblock>(c) For CCOC's, P/N 806675, listed by serial number in Table 1 and paragraph 2.A.(10) of PW ASB No. 5842, Revision 3, dated October 10, 1990, accomplish the following:</textblock>
+    <textblock>(1) At the next removal of the CCOC from the engine after the effective date of this AD, ultrasonically inspect CCOC's for cracks in accordance with paragraph 2.A.(5) and Appendix C of PW ASB No. 5842, Revision 3, dated October 10, 1990.</textblock>
+    <textblock>(2) Remove from service or reinspect CCOC's in accordance with paragraphs (d) and (e), respectively, of this AD.</textblock>
+    <textblock>(3) Mark CCOC's with new part numbers in accordance with paragraphs 2.A.(5)(c) and 2.A.(11) of PW ASB No. 5842, Revision 3, dated October 10, 1990, that:</textblock>
+    <textblock>(i) Have accumulated at least 2,500 CIS since new; and</textblock>
+    <textblock>(ii) Exhibit a maximum ultrasonic signal amplitude of less than 40% during the inspection conducted subsequent to 2,500 CIS since new.</textblock>
+    <textblock>(d) Remove from service and replace with a serviceable part CCOC's with maximum ultrasonic signal amplitude determined as follows:</textblock>
+  </text>
+</doc>

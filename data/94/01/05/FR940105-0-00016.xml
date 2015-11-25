@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940105-0-00016</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940105-0-00004</textblock>
+  </parent>
+  <text>
+    <textblock>•Lockheed L1011 series airplanes;</textblock>
+    <textblock>•McDonnell Douglas_DC-8-60, DC-9-31, DC-9-51,</textblock>
+    <textblock>DC-10-10 DC-10-30, DC-13-30F, MD-11, and MD-80 series</textblock>
+    <textblock>airplanes; and</textblock>
+    <textblock>•Rockwell International NA-265-65 airplanes.</textblock>
+    <textblock>Interested persons have been afforded an</textblock>
+    <textblock>opportunity to participate in the making of this</textblock>
+    <textblock>amendment. Due consideration has been given to the</textblock>
+    <textblock>comments received from 33 different owners, operators,</textblock>
+    <textblock>manufacturers, and organizations.</textblock>
+    <textblock>All commenters express their concern of the FAA's</textblock>
+    <textblock>compliance date of December 30, 1993, especially since</textblock>
+    <textblock>Allied Signal's service bulletin will not be available</textblock>
+    <textblock>until early 1994. The following summarizes the</textblock>
+    <textblock>compliance times that the commenters recommended:</textblock>
+    <textblock>•18 recommended one year or less;</textblock>
+    <textblock>•5 recommended longer than one year; and</textblock>
+    <textblock>•10 recommended an extension without a proposed</textblock>
+    <textblock>time.</textblock>
+    <textblock>The National Air Traffic Controllers Association and</textblock>
+    <textblock>the Airline Pilots Association both recommend an</textblock>
+    <textblock>``aggressive implementation'' of ``Change 6.04A''. The</textblock>
+    <textblock>FAA has re-evaluated the December 30, 1993, compliance</textblock>
+    <textblock>time and has determined that the compliance time should</textblock>
+    <textblock>be changed to December 31, 1994. In addition,</textblock>
+    <textblock>``Change 6.04A'' has been upgraded to ``Change 6.04A</textblock>
+    <textblock>Enhanced'', which eliminates unnecessary</textblock>
+    <textblock>non-crossing resolution advisories (RA's) included in</textblock>
+    <textblock>``Change 6.04A''.</textblock>
+    <textblock>Allied Signal has assured the FAA that (1) the upgrade</textblock>
+    <textblock>to ``Change 6.04A Enhanced'' is minor and will be</textblock>
+    <textblock>incorporated in the logic change for the TCAS II</textblock>
+    <textblock>processor upgrades; and (2) this compliance time</textblock>
+    <textblock>correlates with their schedule for disseminating</textblock>
+    <textblock>service information and kits necessary to</textblock>
+    <textblock>accomplish the incorporation of ``Change 6.04A</textblock>
+    <textblock>Enhanced''. The proposed AD has been changed to</textblock>
+    <textblock>reflect the compliance time change and logic change</textblock>
+    <textblock>described above.</textblock>
+    <textblock>In addition, Allied Signal states that ``Change</textblock>
+    <textblock>6.04'', which is</textblock>
+    <textblock>FAA-certified and is currently in service, accomplishes</textblock>
+    <textblock>the major intent of ``Change 6.04A Enhanced'' and should</textblock>
+    <textblock>be considered as an acceptable interim version to allow</textblock>
+    <textblock>the eventual upgrade to ``Change 6.04A Enhanced''. The</textblock>
+    <textblock>FAA recognizes that ``Change 6.04'' incorporates several</textblock>
+    <textblock>of the features of ``Change 6.04A Enhanced''. However,</textblock>
+    <textblock>the FAA has determined that (1) ``Change 6.04'' does not</textblock>
+    <textblock>provide an equivalent level of safety to that of</textblock>
+    <textblock>``Change 6.04A Enhanced''; and (2) ``Change 6.04A</textblock>
+    <textblock>Enhanced'' should be incorporated as a way to prevent</textblock>
+    <textblock>collisions or near misses caused by incompatibility</textblock>
+    <textblock>between the TCAS II processors and the current air</textblock>
+    <textblock>traffic control system. Compliance time extension</textblock>
+    <textblock>consideration will be given on a case-by-case basis to</textblock>
+    <textblock>airlines or operators experiencing compliance</textblock>
+    <textblock>difficulties that arise because of fleet size. The</textblock>
+    <textblock>proposed AD remains unchanged as a result of this</textblock>
+    <textblock>comment.</textblock>
+    <textblock>Allied Signal also lists several additional</textblock>
+    <textblock>aircraft that these TCAS II processor units are</textblock>
+    <textblock>certified for installation. The FAA has incorporated</textblock>
+    <textblock>these into the proposed AD.</textblock>
+    <textblock>One commenter, who supports the implementation of</textblock>
+    <textblock>``Change 6.04A Enhanced'', requests that the FAA issue a</textblock>
+    <textblock>supplementary notice of proposed rulemaking (NPRM) to</textblock>
+    <textblock>propose installing this revised software by June 30,</textblock>
+    <textblock>1995. This commenter states that significant</textblock>
+    <textblock>differences exist between ``Change 6.04A'' and ``Change</textblock>
+    <textblock>6.04A Enhanced''. The FAA does not concur. Comments</textblock>
+    <textblock>received in response to the proposed AD reflect</textblock>
+    <textblock>unanimous support for implementing ``Change 6.04A</textblock>
+    <textblock>Enhanced''. The FAA considers the logic change (which</textblock>
+    <textblock>reduces non-crossing RA's) to be minor. The intent is</textblock>
+    <textblock>to correct the unsafe condition by installing modified</textblock>
+    <textblock>TCAS II computer units that incorporate updated logic.</textblock>
+    <textblock>The FAA has determined that the requirement to</textblock>
+    <textblock>implement Version 6.04A software, including the latest</textblock>
+    <textblock>enhancement, will (1) correct the unsafe condition;</textblock>
+    <textblock>(2) maintain the same intent originally proposed</textblock>
+    <textblock>without altering the substance of the proposed rule;</textblock>
+    <textblock>and (3) impose no additional burden on the public than</textblock>
+    <textblock>was previously proposed.</textblock>
+    <textblock>In addition, issuing a supplemental NPRM would</textblock>
+    <textblock>necessitate (under the provisions of the Administrative</textblock>
+    <textblock>Procedures Act) reissuing the notice, reopening the</textblock>
+    <textblock>public comment period, considering any additional</textblock>
+    <textblock>comments received, and eventually issuing a final rule.</textblock>
+    <textblock>The time required for these procedures could take as</textblock>
+    <textblock>long as four additional months. In light of this, and</textblock>
+    <textblock>in consideration of the amount of time that has already</textblock>
+    <textblock>elapsed since issuance of the original NPRM, the FAA</textblock>
+    <textblock>concludes that soliciting further public comment is not</textblock>
+    <textblock>necessary and that further delay of the final rule</textblock>
+    <textblock>action is not appropriate.</textblock>
+    <textblock>Several commenters request that the FAA revise the</textblock>
+    <textblock>economic impact specified in the proposed AD to reflect</textblock>
+    <textblock>costs associated with the development, testing prior to</textblock>
+    <textblock>certification, and certification of the modified</textblock>
+    <textblock>processor. These costs would be absorbed by suppliers,</textblock>
+    <textblock>installers, and airline operators. The FAA does not</textblock>
+    <textblock>concur that the economic impact statement include this</textblock>
+    <textblock>information. The 1 workhour necessary to accomplish</textblock>
+    <textblock>the proposed action was provided to the FAA by the TCAS</textblock>
+    <textblock>II processor manufacturer based on the best data</textblock>
+    <textblock>available to date. This number represents the time</textblock>
+    <textblock>required to install the revised software. The cost</textblock>
+    <textblock>analysis in AD rulemaking actions typically does not</textblock>
+    <textblock>include costs associated with development, testing</textblock>
+    <textblock>prior to certification, and certification of a modified</textblock>
+    <textblock>processor. The proposed action remains unchanged as a</textblock>
+    <textblock>result of these comments.</textblock>
+    <textblock>After careful review of all available information</textblock>
+    <textblock>including the comments noted above, the FAA has</textblock>
+    <textblock>determined that air safety and the public interest</textblock>
+    <textblock>require the adoption of the rule as proposed except for</textblock>
+    <textblock>the change in compliance time, the logic reference</textblock>
+    <textblock>change, the incorporation of known aircraft that these</textblock>
+    <textblock>TCAS II processor units are installed on, and minor</textblock>
+    <textblock>editorial corrections. The FAA has determined that</textblock>
+    <textblock>these changes and corrections will not change the</textblock>
+    <textblock>meaning of the AD nor add any additional burden upon</textblock>
+    <textblock>the public than was already proposed.</textblock>
+    <textblock>The FAA estimates that 3,000 TCAS II processors</textblock>
+    <textblock>in the U.S. registry will be affected by this AD, that</textblock>
+    <textblock>it will take approximately 1 workhour per processor to</textblock>
+    <textblock>accomplish the required action, and that the average</textblock>
+    <textblock>labor rate is approximately $55 an hour. Based on</textblock>
+    <textblock>these figures, the total cost impact of this AD on U.S.</textblock>
+    <textblock>operators is estimated to be $165,000. These figures</textblock>
+    <textblock>are based on the assumption that none of the operators</textblock>
+    <textblock>of the airplanes equipped with the affected TCAS II</textblock>
+    <textblock>processors have accomplished the actions specified in</textblock>
+    <textblock>this AD.</textblock>
+    <textblock>The regulations adopted herein will not have</textblock>
+    <textblock>substantial direct effects on the States, on the</textblock>
+    <textblock>relationship between the national government and the</textblock>
+    <textblock>States, or on the distribution of power and</textblock>
+    <textblock>responsibilities among the various levels of</textblock>
+    <textblock>government. Therefore, in accordance with Executive</textblock>
+    <textblock>Order 12612, it is determined that this final rule does</textblock>
+    <textblock>not have sufficient federalism implications to warrant</textblock>
+    <textblock>the preparation of a Federalism Assessment.</textblock>
+  </text>
+</doc>

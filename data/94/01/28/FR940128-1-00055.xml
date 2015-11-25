@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940128-1-00055</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940128-1-00006</textblock>
+  </parent>
+  <text>
+    <textblock>J. Guideline for Cooked, Ready-to-Eat Fishery Products</textblock>
+    <textblock>FDA is proposing a guideline in Appendix A for cooked,</textblock>
+    <textblock>ready-to-eat fishery products. These products possess an</textblock>
+    <textblock>elevated microbiological risk relative to most other seafood</textblock>
+    <textblock>products because they are cooked as part of processing and do not</textblock>
+    <textblock>normally receive any additional cooking by consumers before</textblock>
+    <textblock>consumption. Consequently, to be safe, these products must be</textblock>
+    <textblock>essentially pathogen-free by the time they leave the processing</textblock>
+    <textblock>facility. Immediate refrigeration at proper temperatures to</textblock>
+    <textblock>prevent the growth of pathogens is also essential for these</textblock>
+    <textblock>products, which are not shelf-stable.</textblock>
+    <textblock>The guideline addresses critical control points that apply</textblock>
+    <textblock>to these products as a class and that thus will typically be</textblock>
+    <textblock>identified in the HACCP plans of most processors of cooked,</textblock>
+    <textblock>ready-to-eat products. The guideline also addresses ways of</textblock>
+    <textblock>controlling hazards at each critical control point. Processors</textblock>
+    <textblock>of cooked, ready-to-eat products that are also smoked and smoke-flavored fishery products should apply the controls set forth in</textblock>
+    <textblock>Appendix 1. If FDA adopts that regulation, it will codify it in</textblock>
+    <textblock>reserved subpart B of part 123.</textblock>
+    <textblock>This guideline is not relevant to most of the cooked, ready-to-eat products that are processed as low acid canned foods under</textblock>
+    <textblock>part 113. However, the recommendations in Appendix A, section</textblock>
+    <textblock>4. a., b., and d. for cooling, processing after cooking, and refrigerated storage, will apply to those low acid canned foods</textblock>
+    <textblock>that are cooked, processed, and then cooked again.</textblock>
+    <textblock>The guideline provides information on how to control the</textblock>
+    <textblock>growth of</textblock>
+    <textblock>S. aureus</textblock>
+    <textblock>during the processing step between cooks. It</textblock>
+    <textblock>also addresses the control of microbiological hazards that can</textblock>
+    <textblock>occur within the processing environment for cooked, ready-to-eat</textblock>
+    <textblock>products. It does not address nonprocessing hazards, because</textblock>
+    <textblock>they are not relevant to this class of products. FDA intends to</textblock>
+    <textblock>publish separate guidance that will, among other things, address</textblock>
+    <textblock>nonprocessing hazards. Likewise, this guideline will not address</textblock>
+    <textblock>the nonsafety hazards, such as decomposition that is not</textblock>
+    <textblock>associated with human illness and economic adulteration, that FDA</textblock>
+    <textblock>has suggested in proposed §123.6(c) should be covered by the</textblock>
+    <textblock>HACCP plan. These hazards will also be covered in the separately</textblock>
+    <textblock>published guidance. Economic adulteration, for example, is</textblock>
+    <textblock>addressed in Appendix D.</textblock>
+    <textblock>FDA has tentatively decided to address the processing</textblock>
+    <textblock>controls for cooked, ready-to-eat products in a guideline, rather</textblock>
+    <textblock>than by regulation, to permit flexibility in the face of changing</textblock>
+    <textblock>processing technologies and knowledge. As stated earlier in this</textblock>
+    <textblock>preamble, the guidelines are intended to advise processors about</textblock>
+    <textblock>what FDA believes will be acceptable in a HACCP plan. The agency</textblock>
+    <textblock>acknowledges, however, that there are basic processing norms to</textblock>
+    <textblock>which conscientious processors adhere, and that these norms are</textblock>
+    <textblock>not likely to change for the foreseeable future. FDA therefore</textblock>
+    <textblock>invites comments on whether any or all of the guideline on the</textblock>
+    <textblock>cooked, ready-to-eat products ought to be codified as</textblock>
+    <textblock>requirements in part 123 if it is adopted as a final regulation.</textblock>
+    <textblock>1. Thermal Processing: Cooking and Pasteurization</textblock>
+    <textblock>Processes and Equipment</textblock>
+    <textblock>The proposed guideline in Appendix A, section 4 advises</textblock>
+    <textblock>processors on how to ensure that: (1) Their cooking and</textblock>
+    <textblock>pasteurization processes are adequate to inactivate pathogens;</textblock>
+    <textblock>and (2) their cooking and pasteurization equipment is adequate</textblock>
+    <textblock>to deliver their cooking and pasteurization processes. A cooking</textblock>
+    <textblock>process is, in essence, the temperature and time at that</textblock>
+    <textblock>temperature that will both kill pathogens and create a marketable</textblock>
+    <textblock>product. A pasteurization process is the temperature and time at</textblock>
+    <textblock>temperature that is necessary to reduce the numbers of pathogens</textblock>
+    <textblock>to the point where they will not cause harm over the shelf life</textblock>
+    <textblock>of a refrigerated product. It is essential that</textblock>
+    <textblock>C. botulinum</textblock>
+    <textblock>type E not survive the pasteurization process for cooked, ready-to-eat products that are packed in hermetically sealed containers</textblock>
+    <textblock>and held at refrigerated temperatures (Ref. 52). Such containers</textblock>
+    <textblock>are typically vacuum or modified atmosphere packaged and thus can</textblock>
+    <textblock>provide a good environment for the growth of</textblock>
+    <textblock>C. botulinum</textblock>
+    <textblock>type E.</textblock>
+    <textblock>To meet the requirements in part 123, subpart A, processors</textblock>
+    <textblock>must have assurance that their cooking and pasteurization</textblock>
+    <textblock>processes are adequate to inactivate pathogens and must document</textblock>
+    <textblock>this assurance in their HACCP records. This approach is similar</textblock>
+    <textblock>to that in the regulations for low acid canned foods, which</textblock>
+    <textblock>require that processors of those products know that their thermal</textblock>
+    <textblock>processes are adequate to destroy</textblock>
+    <textblock>C. botulinum</textblock>
+    <textblock>. The low acid</textblock>
+    <textblock>canned food regulations do not specify to processors what their</textblock>
+    <textblock>time/temperature parameters must be in order to destroy those</textblock>
+    <textblock>pathogens. There are simply too many variables and possibilities</textblock>
+    <textblock>with regard to thermal processing parameters for this kind of</textblock>
+    <textblock>specificity in those regulations to be practical or appropriate.</textblock>
+    <textblock>Rather, the regulations require that processors use a thermal</textblock>
+    <textblock>process that is at least equivalent to one established by a</textblock>
+    <textblock>competent process authority, i.e., a third party who has the</textblock>
+    <textblock>expertise to determine the parameters of a thermal process that</textblock>
+    <textblock>will destroy pathogens (Ref. 85).</textblock>
+    <textblock>This approach has served the consuming public, the agency,</textblock>
+    <textblock>and the industry well over the years. FDA is therefore</textblock>
+    <textblock>recommending in proposed Appendix A, section 4. a.1. and b.1. that</textblock>
+    <textblock>processors utilize the services of process authorities to</textblock>
+    <textblock>establish the parameters of their cooking and pasteurization</textblock>
+    <textblock>processes.</textblock>
+  </text>
+</doc>

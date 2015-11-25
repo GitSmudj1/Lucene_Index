@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940228-0-00062</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940228-0-00014</textblock>
+  </parent>
+  <text>
+    <textblock>* * * * *</textblock>
+    <textblock>4. Section 32.1437 is added to read as follows:</textblock>
+    <textblock>§32.1437</textblock>
+    <textblock>Deferred tax regulatory asset.</textblock>
+    <textblock>(a) This account shall include amounts of probable future revenue for the recovery of future increases in taxes payable. As reversals occur, amounts recorded in this account shall be reduced with a credit entry and a debit entry to Account 4341, Net Deferred Tax Liability Adjustments.</textblock>
+    <textblock>(b) This account shall also be adjusted for the impact of prospective tax rate changes on the deferred tax liability for those temporary differences underlying its existing balance. If the cumulative effect of such adjustments reduce the account to a net credit balance, such balance shall be reclassified to Account 4361.</textblock>
+    <textblock>5. Section 32.4000 is amended by adding accounts 32.4341 and 32.4361 to the list of accounts to read as follows:</textblock>
+    <textblock>§32.4000</textblock>
+    <textblock>Instructions for balance sheet accounts_liabilities and stockholders' equity.</textblock>
+    <textblock>Liabilities and Stockholders' Equity Accounts to be Maintained by Class A and Class B telephone companies:</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Account title</textblock>
+    <textblock>1Class A account</textblock>
+    <textblock>1Class B account</textblock>
+    <textblock>␣</textblock>
+    <textblock>*␣␣␣␣*␣␣␣␣*␣␣␣␣*␣␣␣␣*␣␣␣␣</textblock>
+    <textblock>Net Deferred Tax Liability Adjustments</textblock>
+    <textblock>4341</textblock>
+    <textblock>4341</textblock>
+    <textblock>*␣␣␣␣ *␣␣␣␣ *␣␣␣␣ *␣␣␣␣ *␣␣␣␣</textblock>
+    <textblock>Deferred Tax Regulatory Liability</textblock>
+    <textblock>4361</textblock>
+    <textblock>4361</textblock>
+    <textblock>␣</textblock>
+    <textblock>*␣␣␣␣ *␣␣␣␣ *␣␣␣␣ *␣␣␣␣ *␣␣␣␣</textblock>
+  </table>
+</doc>

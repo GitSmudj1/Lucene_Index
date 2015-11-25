@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00075</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>An option had been proposed for comment which would not have separated the test fleet into separate emitter groups under the assumption that they may not respond differently to fuels. However, EPA's analysis of the complex model database and the complex model itself indicates that this assumption is invalid. Hence EPA has determined that the test fleet must contain vehicles from both emitter groups.</textblock>
+    <textblock>Assembling a test fleet with the specified emission performance distribution requires vehicles to be obtained with the desired emission performance. For the reformulated gasoline program, such vehicles must be obtained by randomly selecting vehicles with the desired emission performance from the in-use fleet and testing those vehicles in their as-received condition. This method helps assure that the vehicles selected for testing have emission control problems that are representative of in-use emission problems. EPA had considered allowing normal emitting vehicles with intentionally-disabled emission control systems to serve as higher emitting vehicles, but no suitable disablement scheme has been identified and evidence indicating that disabled vehicles would have emission performance representative of in-use higher emitters has not been found. For these reasons, EPA will not permit higher emitting vehicles to be created by intentionally disabling normal emitting vehicles.</textblock>
+    <textblock>Test vehicles' emission performance will need to be pre-screened to place them in the appropriate emitter group and to assure the proper emissions distribution within the test fleet. Such prescreening tests must be conducted using EPA vehicle certification fuel (Indolene) over the Federal Test Procedure since these were the conditions which were used to generate the data for the in-use emission distribution. Prescreening tests can also be performed using the Clean Air Act baseline gasoline and/or the I/M 240 test procedure. Results from such tests can be correlated with FTP test results with Indolene (as outlined in section 80.62 of the accompanying regulations).</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Technology Groups.</textblock>
+    <textblock>As discussed in Section IV, the development of the complex model revealed that the emissions effect of fuel modifications in normal emitting vehicles varied among the engine and exhaust system technologies present in 1990 model year vehicles. Hence EPA has concluded that the normal emitter test fleet must have a technology distribution that is representative of the technology distribution present in the 1990 model year fleet. The required distribution is shown in Table V.7.</textblock>
+    <textblock>In addition to the technology group criteria of Table V.7, approximately 30 percent of the vehicles selected for each emitter class sub-fleet must be light-duty trucks (LDTs) to reflect the representation of LDTs in the light-duty vehicle fleet. EPA believes that the benefits of providing flexibility in determining the selection of LDTs for the test fleet outweigh the benefits of accuracy achieved by specifying which vehicles from Table V.7 should be LDTs. However, as is also the case for other design elements of the test program, the distribution of LDTs among the normal emitter technology groups is subject to EPA approval.</textblock>
+    <textblock>A number of commenters objected to the application of this technology group distribution to the higher emitting vehicle subfleet, as was specified in prior proposals. EPA's experience in developing the complex model, as discussed in Section IV and the RIA, confirms that higher emitter emissions tend to be much less dependent on vehicle technology differences than are normal emitter emissions. Therefore, the higher emitting vehicle subfleet need not meet the technology distribution requirement, though a mixture of vehicle models and manufacturers should still be included. The higher emitter subfleet also must meet the 1990 model year and light duty vehicle criteria described previously and, like other elements of proposed testing programs, is subject to EPA approval.</textblock>
+  </text>
+  <table>
+    <textblock>Table V.</textblock>
+    <textblock>6._</textblock>
+    <textblock>Emitter Groups and In-Use Emissions</textblock>
+    <textblock>1Emitter group</textblock>
+    <textblock>1Fraction of in-use fleet</textblock>
+    <textblock>1Emission fraction</textblock>
+    <textblock>2VOCs</textblock>
+    <textblock>2NO</textblock>
+    <textblock>X</textblock>
+    <textblock>Normal: &lt;2 x THC Standard (&lt;0.82 g/mi)</textblock>
+    <textblock>0.738</textblock>
+    <textblock>0.444</textblock>
+    <textblock>0.738</textblock>
+    <textblock>Higher: ≥2 x THC Standard (≥0.82 g/mi)</textblock>
+    <textblock>0.262</textblock>
+    <textblock>0.556</textblock>
+    <textblock>0.262</textblock>
+  </table>
+  <table>
+    <textblock>Table V.</textblock>
+    <textblock>7._</textblock>
+    <textblock>Test Vehicle Characteristics</textblock>
+    <textblock>1Veh.</textblock>
+    <textblock>#</textblock>
+    <textblock>1Fuel system</textblock>
+    <textblock>1Catalyst</textblock>
+    <textblock>1Air injection</textblock>
+    <textblock>1EGR</textblock>
+    <textblock>1Tech. group</textblock>
+    <textblock>1Manufacturer</textblock>
+    <textblock>␣1</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>1</textblock>
+    <textblock>GM.</textblock>
+    <textblock>␣2</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>No EGR</textblock>
+    <textblock>2</textblock>
+    <textblock>Ford.</textblock>
+    <textblock>␣3</textblock>
+    <textblock>TBI</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>3</textblock>
+    <textblock>GM.</textblock>
+    <textblock>␣4</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W+OX</textblock>
+    <textblock>Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>4</textblock>
+    <textblock>Ford.</textblock>
+    <textblock>␣5</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>1</textblock>
+    <textblock>Honda.</textblock>
+    <textblock>␣6</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>No EGR</textblock>
+    <textblock>2</textblock>
+    <textblock>GM.</textblock>
+    <textblock>␣7</textblock>
+    <textblock>TBI</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>3</textblock>
+    <textblock>Chrysler.</textblock>
+    <textblock>␣8</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W+OX</textblock>
+    <textblock>Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>4</textblock>
+    <textblock>GM.</textblock>
+    <textblock>␣9</textblock>
+    <textblock>TBI</textblock>
+    <textblock>3W+OX</textblock>
+    <textblock>Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>7</textblock>
+    <textblock>Chrysler.</textblock>
+    <textblock>10</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W</textblock>
+    <textblock>Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>5</textblock>
+    <textblock>Toyota.</textblock>
+    <textblock>11</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>1</textblock>
+    <textblock>Ford.</textblock>
+    <textblock>12</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>No EGR</textblock>
+    <textblock>2</textblock>
+    <textblock>Chrysler.</textblock>
+    <textblock>13</textblock>
+    <textblock>Carb</textblock>
+    <textblock>3W+OX</textblock>
+    <textblock>Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>9</textblock>
+    <textblock>Toyota.</textblock>
+    <textblock>14</textblock>
+    <textblock>TBI</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>3</textblock>
+    <textblock>Ford.</textblock>
+    <textblock>15</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W+OX</textblock>
+    <textblock>Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>4</textblock>
+    <textblock>GM.</textblock>
+    <textblock>16</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>1</textblock>
+    <textblock>Toyota.</textblock>
+    <textblock>17</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>No EGR</textblock>
+    <textblock>2</textblock>
+    <textblock>Mazda.</textblock>
+    <textblock>18</textblock>
+    <textblock>TBI</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>3</textblock>
+    <textblock>GM.</textblock>
+    <textblock>19</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W+OX</textblock>
+    <textblock>Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>4</textblock>
+    <textblock>Ford.</textblock>
+    <textblock>20</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>1</textblock>
+    <textblock>Nissan.</textblock>
+  </table>
+</doc>

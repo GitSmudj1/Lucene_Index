@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00222</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(ii) The actual total using the following formula:</textblock>
+    <textblock>where</textblock>
+    <textblock>V</textblock>
+    <textblock>i</textblock>
+    <textblock>=the volume of gasoline batch i</textblock>
+    <textblock>parm</textblock>
+    <textblock>i</textblock>
+    <textblock>=the parameter value of gasoline batch i</textblock>
+    <textblock>n=the number of batches of gasoline produced or</textblock>
+    <textblock>imported during the averaging period</textblock>
+    <textblock>(2) For each standard, compare the actual total with</textblock>
+    <textblock>the compliance total.</textblock>
+    <textblock>(3) For the VOC, NO</textblock>
+    <textblock>X</textblock>
+    <textblock>, and toxics emissions performance</textblock>
+    <textblock>and oxygen standards, the actual totals must be equal to or</textblock>
+    <textblock>greater than the compliance totals to achieve compliance.</textblock>
+    <textblock>(4) For RVP and benzene standards, the actual total</textblock>
+    <textblock>must be equal to or less than the compliance totals to</textblock>
+    <textblock>achieve compliance.</textblock>
+    <textblock>(5) If the actual total for the oxygen standard is</textblock>
+    <textblock>less than the compliance total, or if the actual total for</textblock>
+    <textblock>the benzene standard is greater than the compliance total,</textblock>
+    <textblock>credits for these parameters must be obtained from another</textblock>
+    <textblock>refiner, importer or (in the case of oxygen) oxygenate</textblock>
+    <textblock>blender in order to achieve compliance:</textblock>
+    <textblock>(i) The total number of oxygen credits required to</textblock>
+    <textblock>achieve compliance is calculated by subtracting the actual</textblock>
+    <textblock>total from the compliance total oxygen; and</textblock>
+    <textblock>(ii) The total number of benzene credits required to</textblock>
+    <textblock>achieve compliance is calculated by subtracting the</textblock>
+    <textblock>compliance total from the actual total benzene.</textblock>
+    <textblock>(6) If the actual total for the oxygen standard is</textblock>
+    <textblock>greater than the compliance total, or if the actual total</textblock>
+    <textblock>for the benzene standard is less than the compliance totals,</textblock>
+    <textblock>credits for these parameters are generated:</textblock>
+    <textblock>(i) The total number of oxygen credits which may be</textblock>
+    <textblock>traded to another refinery, importer, or oxygenate blender</textblock>
+    <textblock>is calculated by subtracting the compliance total from the</textblock>
+    <textblock>actual total for oxygen; and</textblock>
+    <textblock>(ii) The total number of benzene credits which may be</textblock>
+    <textblock>traded to another refinery or importer is calculated by</textblock>
+    <textblock>subtracting the actual total from the compliance total for</textblock>
+    <textblock>benzene.</textblock>
+    <textblock>(h)</textblock>
+    <textblock>Credit transfers.</textblock>
+    <textblock>(1) Compliance with the</textblock>
+    <textblock>averaged standards specified in §80.41 for oxygen and</textblock>
+    <textblock>benzene (but for no other standards or requirements) may be</textblock>
+    <textblock>achieved through the transfer of oxygen and benzene credits</textblock>
+    <textblock>provided that:</textblock>
+    <textblock>(i) The credits were generated in the same averaging</textblock>
+    <textblock>period as they are used;</textblock>
+    <textblock>(ii) The credit transfer takes place no later than</textblock>
+    <textblock>fifteen working days following the end of the averaging</textblock>
+    <textblock>period in which the reformulated gasoline credits were</textblock>
+    <textblock>generated;</textblock>
+    <textblock>(iii) The credits are properly created;</textblock>
+    <textblock>(iv) The credits are transferred directly from the</textblock>
+    <textblock>refiner, importer, or oxygenate blender that creates the</textblock>
+    <textblock>credits to the refiner, importer, or oxygenate blender that</textblock>
+    <textblock>uses the credits to achieve compliance;</textblock>
+    <textblock>(v) Oxygen credits are generated, transferred, and</textblock>
+    <textblock>used:</textblock>
+    <textblock>(A) In the case of gasoline subject to the simple</textblock>
+    <textblock>model standards, only in the following categories:</textblock>
+    <textblock>(1)</textblock>
+    <textblock>VOC-controlled, non-OPRG;</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Non-VOC-controlled, non-OPRG;</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Non-VOC-controlled, OPRG; and</textblock>
+    <textblock>(4)</textblock>
+    <textblock>VOC-controlled, OPRG; and</textblock>
+    <textblock>(B) In the case of gasoline subject to the complex</textblock>
+    <textblock>model standards, only in the following categories:</textblock>
+    <textblock>(1)</textblock>
+    <textblock>OPRG; and</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Non-OPRG;</textblock>
+    <textblock>(vi) Oxygen credits generated from gasoline subject to</textblock>
+    <textblock>the complex model standards are not used to achieve</textblock>
+    <textblock>compliance for gasoline subject to the simple model</textblock>
+    <textblock>standards;</textblock>
+    <textblock>(vii) Oxygen credits are not used to achieve compliance</textblock>
+    <textblock>with the minimum oxygen content standards in §80.41; and</textblock>
+    <textblock>(viii) Benzene credits are not used to achieve compliance</textblock>
+    <textblock>with the maximum benzene content standards in §80.41.</textblock>
+    <textblock>(2) No party may transfer any credits to the extent</textblock>
+    <textblock>such a transfer would result in the transferor having a</textblock>
+    <textblock>negative credit balance at the conclusion of the averaging</textblock>
+    <textblock>period for which the credits were transferred. Any credits</textblock>
+    <textblock>transferred in violation of this paragraph are improperly</textblock>
+    <textblock>created credits.</textblock>
+    <textblock>(3) In the case of credits that were improperly</textblock>
+    <textblock>created, the following provisions apply:</textblock>
+    <textblock>(i) Improperly created credits may not be used to</textblock>
+    <textblock>achieve compliance, regardless of a credit transferee's good</textblock>
+    <textblock>faith belief that it was receiving valid credits;</textblock>
+    <textblock>(ii) No refiner, importer, or oxygenate blender may</textblock>
+    <textblock>create, report, or transfer improperly created credits; and</textblock>
+    <textblock>(iii) Where any credit transferor has in its balance at</textblock>
+    <textblock>the conclusion of any averaging period both credits which</textblock>
+    <textblock>were properly created and credits which were improperly</textblock>
+    <textblock>created, the properly created credits will be applied first</textblock>
+    <textblock>to any credit transfers before the transferor may apply any</textblock>
+    <textblock>credits to achieve its own compliance.</textblock>
+  </text>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.008</textblock>
+  </import>
+</doc>

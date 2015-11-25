@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940203-0-00014</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940203-0-00005</textblock>
+  </parent>
+  <text/>
+  <table>
+    <textblock>Revisions to Minimum Enroute IFR Altitudes and Changeover Points</textblock>
+    <textblock>[Amendment 381 Effective Date, March 3, 1994]</textblock>
+    <textblock>1From</textblock>
+    <textblock>1To</textblock>
+    <textblock>1MEA</textblock>
+    <textblock>2</textblock>
+    <textblock>95.6019 VOR Federal Airway 19_Is Amended to Read in Part</textblock>
+    <textblock>0</textblock>
+    <textblock>Billings, MT VORTAC *9700-MRA</textblock>
+    <textblock>l*Shela, MT FIX</textblock>
+    <textblock>␣</textblock>
+    <textblock>SE BND</textblock>
+    <textblock>6100</textblock>
+    <textblock>␣</textblock>
+    <textblock>NW BND</textblock>
+    <textblock>7700</textblock>
+    <textblock>2</textblock>
+    <textblock>§95.6068 VOR Federal Airway 68_Is Amended to Read in Part</textblock>
+    <textblock>0</textblock>
+    <textblock>Corona, NM VORTAC</textblock>
+    <textblock>Honds, NM FIX</textblock>
+    <textblock>9500</textblock>
+    <textblock>Honds, NM FIX</textblock>
+    <textblock>lChisum, NM VORTAC</textblock>
+    <textblock>␣</textblock>
+    <textblock>NW BND</textblock>
+    <textblock>9500</textblock>
+    <textblock>␣</textblock>
+    <textblock>SE BND</textblock>
+    <textblock>6500</textblock>
+    <textblock>2</textblock>
+    <textblock>§95.6083 VOR Federal Airway 83_Is Amended to Read in Part</textblock>
+    <textblock>0</textblock>
+    <textblock>Chisum, NM VORTAC</textblock>
+    <textblock>lHonds, NM FIX</textblock>
+    <textblock>␣</textblock>
+    <textblock>NW BND</textblock>
+    <textblock>9500</textblock>
+    <textblock>␣</textblock>
+    <textblock>SE BND</textblock>
+    <textblock>6500</textblock>
+    <textblock>2</textblock>
+    <textblock>§95.6120 VOR Federal Airway 120_Is Amended to Read in Part</textblock>
+    <textblock>0</textblock>
+    <textblock>Dupree, SD VORTAC *3700-MOCA</textblock>
+    <textblock>Pierre, SD VORTAC</textblock>
+    <textblock>*4300</textblock>
+    <textblock>2</textblock>
+    <textblock>§95.6178 VOR Federal Airway 178_Is Amended to Read in Part</textblock>
+    <textblock>0</textblock>
+    <textblock>Maudd, KY FIX *5000-MRA</textblock>
+    <textblock>*McFee, KY FIX</textblock>
+    <textblock>5000</textblock>
+    <textblock>McFee, KY FIX</textblock>
+    <textblock>Lexington, KY VORTAC</textblock>
+    <textblock>5000</textblock>
+    <textblock>2</textblock>
+    <textblock>§95.6220 VOR Federal Airway 220_Is Amended to Read in Part</textblock>
+    <textblock>0</textblock>
+    <textblock>Watertown, SD VORTAC *3900-MOCA</textblock>
+    <textblock>Fargo, ND VORTAC</textblock>
+    <textblock>*5000</textblock>
+    <textblock>2</textblock>
+    <textblock>§95.6252 VOR Federal Airway 252_Is Amended to Read in Part</textblock>
+    <textblock>0</textblock>
+    <textblock>DuPont, DE VORTAC</textblock>
+    <textblock>Robbinsville, NJ VORTAC</textblock>
+    <textblock>2000</textblock>
+    <textblock>2</textblock>
+    <textblock>§95.6265 VOR Federal Airway 265_Is Amended to Read in Part</textblock>
+    <textblock>0</textblock>
+    <textblock>Krant, MD FIX</textblock>
+    <textblock>Westminster, MD VOR/DME</textblock>
+    <textblock>2600</textblock>
+    <textblock>2</textblock>
+    <textblock>§95.6291 VOR Federal Airway 291_Is Amended to Read in Part</textblock>
+    <textblock>0</textblock>
+    <textblock>Chisum, NM VORTAC</textblock>
+    <textblock>lDupal, NM FIX</textblock>
+    <textblock>␣</textblock>
+    <textblock>NW BND</textblock>
+    <textblock>9500</textblock>
+    <textblock>␣</textblock>
+    <textblock>SE BND</textblock>
+    <textblock>6000</textblock>
+    <textblock>2</textblock>
+    <textblock>§95.6339 VOR Federal Airway 339_Is Amended to Read in Part</textblock>
+    <textblock>0</textblock>
+    <textblock>Hazard, KY VOR/DME *5000-MRA</textblock>
+    <textblock>*Trent, KY FIX</textblock>
+    <textblock>4000</textblock>
+    <textblock>Trent, KY FIX *5000-MRA</textblock>
+    <textblock>*Masse, KY FIX</textblock>
+    <textblock>3000</textblock>
+    <textblock>Masse, KY FIX *5000-MRA</textblock>
+    <textblock>*Sprow, KY FIX</textblock>
+    <textblock>3000</textblock>
+    <textblock>Sprow, KY FIX</textblock>
+    <textblock>Falmouth, KY VOR/DME</textblock>
+    <textblock>3000</textblock>
+    <textblock>2</textblock>
+    <textblock>§95.6517 VOR Federal Airway 517_Is Amended to Read in Part</textblock>
+    <textblock>0</textblock>
+    <textblock>London, KY VORTAC *5000-MRA</textblock>
+    <textblock>*Logic, KY FIX</textblock>
+    <textblock>3300</textblock>
+    <textblock>Logic, KY FIX *5000-MRA</textblock>
+    <textblock>*Codel, KY FIX</textblock>
+    <textblock>2800</textblock>
+    <textblock>Codel, KY FIX *5000-MRA</textblock>
+    <textblock>*Nouns, KY FIX</textblock>
+    <textblock>2800</textblock>
+    <textblock>Nouns, KY FIX</textblock>
+    <textblock>Falmouth, KY VOR/DME</textblock>
+    <textblock>2800</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1From</textblock>
+    <textblock>1To</textblock>
+    <textblock>1MEA</textblock>
+    <textblock>1MAA</textblock>
+    <textblock>§95.7201 Jet Route No. 201</textblock>
+    <textblock>lIs Deleted</textblock>
+    <textblock>Myton, UT VORTAC</textblock>
+    <textblock>Sirly, WY FIX</textblock>
+    <textblock>29000</textblock>
+    <textblock>45000</textblock>
+    <textblock>Sirly, WY FIX</textblock>
+    <textblock>Scottsbluff, NE VORTAC</textblock>
+    <textblock>#</textblock>
+    <textblock>18000</textblock>
+    <textblock>45000</textblock>
+    <textblock>45000</textblock>
+    <textblock>#</textblock>
+    <textblock>COP Measured From OCS VORTAC.</textblock>
+  </table>
+  <frfiling>
+    <textblock>[FR Doc. 94-2396 Filed 2-2-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-M</textblock>
+  </billing>
+</doc>

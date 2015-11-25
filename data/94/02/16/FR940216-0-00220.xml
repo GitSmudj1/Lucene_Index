@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00220</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(b) The percentage of oxygen by weight contained in a</textblock>
+    <textblock>gasoline blend, based upon its percentage oxygenate by</textblock>
+    <textblock>volume and density, shall exclude denaturants and water.</textblock>
+    <textblock>(c) The properties of reformulated gasoline consist of</textblock>
+    <textblock>per-gallon values separately and individually determined on</textblock>
+    <textblock>a batch-by-batch basis using the methodologies specified in</textblock>
+    <textblock>§80.46 for each of those physical and chemical parameters</textblock>
+    <textblock>necessary to determine compliance with the standards to</textblock>
+    <textblock>which the gasoline is subject, and per-gallon values for the</textblock>
+    <textblock>VOC, NO</textblock>
+    <textblock>X</textblock>
+    <textblock>, and toxics emissions performance standards to</textblock>
+    <textblock>which the gasoline is subject.</textblock>
+    <textblock>(d) Per-gallon oxygen content shall be determined</textblock>
+    <textblock>based upon the weight percent oxygen of a representative</textblock>
+    <textblock>sample of gasoline, using the method set forth in</textblock>
+    <textblock>§80.46(g). The total oxygen content associated with a</textblock>
+    <textblock>batch of gasoline (in percent-gallons) is calculated by</textblock>
+    <textblock>multiplying the weight percent oxygen content times the</textblock>
+    <textblock>volume.</textblock>
+    <textblock>(e) Per-gallon benzene content shall be determined</textblock>
+    <textblock>based upon the volume percent benzene of a representative</textblock>
+    <textblock>sample of a batch of gasoline by the method set forth in</textblock>
+    <textblock>§80.46(e). The total benzene content associated with a</textblock>
+    <textblock>batch of gasoline (in percent-gallons) is calculated by</textblock>
+    <textblock>multiplying the volume percent benzene content times the</textblock>
+    <textblock>volume.</textblock>
+    <textblock>(f) Per-gallon RVP shall be determined based upon the</textblock>
+    <textblock>measurement of RVP of a representative sample of a batch of</textblock>
+    <textblock>gasoline by the sampling methodologies specified in Appendix</textblock>
+    <textblock>D of this part and the testing methodology specified in</textblock>
+    <textblock>Appendix E of this part. The total RVP value associated</textblock>
+    <textblock>with a batch of gasoline (in RVP-gallons) is calculated by</textblock>
+    <textblock>multiplying the RVP times the volume.</textblock>
+    <textblock>(g) (1) Per-gallon values for VOC and NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions reduction shall be calculated using the</textblock>
+    <textblock>methodology specified in §80.46 that is appropriate for the</textblock>
+    <textblock>gasoline.</textblock>
+    <textblock>(2) Per-gallon values for toxic emissions performance</textblock>
+    <textblock>reduction shall be established using:</textblock>
+    <textblock>(i) For gasoline subject to the simple model, the</textblock>
+    <textblock>methodology under §80.42 that is appropriate for the</textblock>
+    <textblock>gasoline; and</textblock>
+    <textblock>(ii) For gasoline subject to the complex model, the</textblock>
+    <textblock>methodology specified in §80.46 that is appropriate for the</textblock>
+    <textblock>gasoline.</textblock>
+    <textblock>(3) The total VOC, NO</textblock>
+    <textblock>X</textblock>
+    <textblock>, and toxic emissions</textblock>
+    <textblock>performance reduction values associated with a batch of</textblock>
+    <textblock>gasoline (in percent reduction-gallons) is calculated by</textblock>
+    <textblock>multiplying the per-gallon percent emissions performance</textblock>
+    <textblock>reduction times the volume of the batch.</textblock>
+    <textblock>§80.67</textblock>
+    <textblock>Compliance on average.</textblock>
+    <textblock>The requirements of this section apply to all</textblock>
+    <textblock>reformulated gasoline and RBOB produced or imported for</textblock>
+    <textblock>which compliance with one or more of the requirements of</textblock>
+    <textblock>§80.41 is determined on average (``averaged gasoline'').</textblock>
+    <textblock>(a)</textblock>
+    <textblock>Compliance survey required in order to meet</textblock>
+    <textblock>standards on average.</textblock>
+    <textblock>(1) Any refiner, importer, or</textblock>
+    <textblock>oxygenate blender that complies with the compliance survey</textblock>
+    <textblock>requirements of §80.68 has the option of meeting the</textblock>
+    <textblock>standards specified in §80.41 for average compliance in</textblock>
+    <textblock>addition to the option of meeting the standards specified in</textblock>
+    <textblock>§80.41 for per-gallon compliance; any refiner, importer, or</textblock>
+    <textblock>oxygenate blender that does not comply with the survey</textblock>
+    <textblock>requirements must meet the standards specified in §80.41</textblock>
+    <textblock>for per-gallon compliance, and does not have the option of</textblock>
+    <textblock>meeting standards on average.</textblock>
+    <textblock>(2)(i)(A) A refiner or importer that</textblock>
+    <textblock>produces or imports reformulated gasoline that exceeds the</textblock>
+    <textblock>average standards for oxygen or benzene (but not for other</textblock>
+    <textblock>parameters that have average standards) may use such</textblock>
+    <textblock>gasoline to offset reformulated gasoline which does not</textblock>
+    <textblock>achieve such average standards, but only if the reformulated</textblock>
+    <textblock>gasoline that does not achieve such average standards is</textblock>
+    <textblock>sold to ultimate consumers in the same covered area as was</textblock>
+    <textblock>the reformulated gasoline which exceeds average standards;</textblock>
+    <textblock>provided that</textblock>
+    <textblock>(B) Prior to the beginning of the averaging period</textblock>
+    <textblock>when the averaging approach described in paragraph</textblock>
+    <textblock>(a)(2)(i)(A) of this section is used, the refiner or</textblock>
+    <textblock>importer obtains approval from EPA. In order to seek such</textblock>
+    <textblock>approval, the refiner or importer shall submit a petition to</textblock>
+    <textblock>EPA, such petition to include:</textblock>
+    <textblock>(1)</textblock>
+    <textblock>The identification of the refiner and refinery, or</textblock>
+    <textblock>importer, the covered area, and the averaging period; and</textblock>
+    <textblock>(2)</textblock>
+    <textblock>A detailed description of the procedures the</textblock>
+    <textblock>refiner or importer will use to ensure the gasoline is</textblock>
+    <textblock>produced by the refiner or is imported by the importer and</textblock>
+    <textblock>is used only in the covered area in question and is not used</textblock>
+    <textblock>in any other covered area, and the record keeping,</textblock>
+    <textblock>reporting, auditing, and other quality assurance measures</textblock>
+    <textblock>that will be followed to establish the gasoline is used as</textblock>
+    <textblock>intended; and</textblock>
+    <textblock>(C) The refiner or importer properly completes any</textblock>
+    <textblock>requirements that are specified by EPA as conditions for</textblock>
+    <textblock>approval of the petition.</textblock>
+    <textblock>(ii) Any refiner or importer that meets the</textblock>
+    <textblock>requirements of paragraph (a)(2)(i) of this section will be</textblock>
+    <textblock>deemed to have satisfied the compliance survey requirements</textblock>
+    <textblock>of §80.68 for the covered area in question.</textblock>
+    <textblock>(b)</textblock>
+    <textblock>Scope of averaging.</textblock>
+    <textblock>(1) Any refiner shall</textblock>
+    <textblock>meet all applicable averaged standards separately for each</textblock>
+    <textblock>of the refiner's refineries;</textblock>
+    <textblock>(2)(i) Any importer shall meet all applicable</textblock>
+    <textblock>averaged standards on the basis of all averaged reformulated</textblock>
+    <textblock>gasoline and RBOB imported by the importer; except that</textblock>
+    <textblock>(ii) Any importer to whom different standards apply for</textblock>
+    <textblock>gasoline imported at different facilities by operation of</textblock>
+    <textblock>§80.41(i), shall meet the averaged standards separately for</textblock>
+    <textblock>the averaged reformulated gasoline and RBOB imported into</textblock>
+    <textblock>each group of facilities that is subject to the same</textblock>
+    <textblock>standards; and</textblock>
+    <textblock>(3) Any oxygenate blender shall meet the averaged</textblock>
+    <textblock>standard for oxygen separately for each of the oxygenate</textblock>
+    <textblock>blender's oxygenate blending facilities, except that any</textblock>
+    <textblock>oxygenate blender may group the averaged reformulated</textblock>
+    <textblock>gasoline produced at facilities at which gasoline is</textblock>
+    <textblock>produced for use in a single covered area.</textblock>
+  </text>
+</doc>

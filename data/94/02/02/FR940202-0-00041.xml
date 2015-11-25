@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00041</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>Section 1.1275-3␣OID Information Reporting Requirements</textblock>
+    <textblock>The legending requirements in the final regulations for debt</textblock>
+    <textblock>instruments with OID are generally the same as the requirements</textblock>
+    <textblock>in the proposed regulations.</textblock>
+    <textblock>Section 1.1275-5␣Variable Rate Debt Instruments</textblock>
+    <textblock>In response to comments that the definition of a variable</textblock>
+    <textblock>rate debt instrument contained in the proposed regulations is</textblock>
+    <textblock>overly restrictive, the final regulations liberalize the rules in</textblock>
+    <textblock>several respects. First, the regulations allow the issue price</textblock>
+    <textblock>of a variable rate debt instrument to exceed the total</textblock>
+    <textblock>noncontingent principal payments on the instrument, provided that</textblock>
+    <textblock>the excess is not greater than a specified amount. Second, the</textblock>
+    <textblock>regulations allow a variable rate debt instrument to provide for</textblock>
+    <textblock>stated interest at more than two qualified floating rates, at a</textblock>
+    <textblock>single fixed rate and one or more qualified floating rates, and</textblock>
+    <textblock>at a single fixed rate and an objective rate that is a qualified</textblock>
+    <textblock>inverse floating rate. Third, the regulations provide that</textblock>
+    <textblock>interest that is stated at an initial fixed rate for a period of</textblock>
+    <textblock>not more than one year, followed by a qualified floating rate or</textblock>
+    <textblock>an objective rate, is treated as stated at a single qualified</textblock>
+    <textblock>floating rate or an objective rate in certain circumstances.</textblock>
+    <textblock>This rule applies, for example, if interest for the initial</textblock>
+    <textblock>accrual period is set a short time prior to the issue date at a</textblock>
+    <textblock>fixed rate chosen to approximate the expected value of the</textblock>
+    <textblock>qualified floating rate or objective rate on the issue date.</textblock>
+    <textblock>Fourth, the regulations allow certain multiples of a qualified</textblock>
+    <textblock>floating rate to be treated as qualified floating rates. Fifth,</textblock>
+    <textblock>the regulations expand the definition of an objective rate to</textblock>
+    <textblock>include a rate based on the yield of actively traded property, a</textblock>
+    <textblock>rate that would be a qualified floating rate if the debt</textblock>
+    <textblock>instrument were denominated in a foreign currency, and any</textblock>
+    <textblock>combination of objective rates. In addition, the final</textblock>
+    <textblock>regulations provide that other rates may be treated as objective</textblock>
+    <textblock>rates if designated by revenue ruling or revenue procedure.</textblock>
+    <textblock>In response to a comment, the definition of an objective</textblock>
+    <textblock>rate has been narrowed in two respects. While the proposed</textblock>
+    <textblock>regulations permit a rate based on the price of actively traded</textblock>
+    <textblock>personal property, the final regulations permit only a rate based</textblock>
+    <textblock>on the change in the price of actively traded personal property</textblock>
+    <textblock>to be an objective rate. In addition, the final regulations</textblock>
+    <textblock>provide a more general rule relating to the frontloading or</textblock>
+    <textblock>backloading of interest such that a variable rate is not an</textblock>
+    <textblock>objective rate if it results in significant frontloading or</textblock>
+    <textblock>backloading of interest.</textblock>
+    <textblock>The rules in the proposed regulations relating to</textblock>
+    <textblock>permissible objective rates on tax-exempt debt instruments have</textblock>
+    <textblock>been changed in the final regulations. Under the revised rules,</textblock>
+    <textblock>a variable rate on a tax-exempt debt instrument is an objective</textblock>
+    <textblock>rate only if it is a qualified inverse floating rate. In</textblock>
+    <textblock>general, an objective rate is a qualified inverse floating rate</textblock>
+    <textblock>if the rate is equal to a fixed rate minus a qualified floating</textblock>
+    <textblock>rate and the rate varies in a manner that inversely reflects</textblock>
+    <textblock>contemporaneous variations in the cost of newly borrowed funds.</textblock>
+    <textblock>The rules in the proposed regulations for determining the</textblock>
+    <textblock>accrual of OID and the amount of qualified stated interest on a</textblock>
+    <textblock>variable rate debt instrument have been revised and simplified in</textblock>
+    <textblock>the final regulations. Under the revised rules, a debt</textblock>
+    <textblock>instrument providing for qualified floating rates is converted to</textblock>
+    <textblock>an equivalent fixed rate debt instrument by assuming that each</textblock>
+    <textblock>qualified floating rate will remain at its value as of the issue</textblock>
+    <textblock>date. A debt instrument providing for an objective rate is</textblock>
+    <textblock>converted to an equivalent fixed rate debt instrument by assuming</textblock>
+    <textblock>that the objective rate will equal a fixed rate that reflects the</textblock>
+    <textblock>yield that is reasonably expected for the instrument. The rules</textblock>
+    <textblock>applicable to fixed rate debt instruments are then applied to</textblock>
+    <textblock>determine the OID accruals and the qualified stated interest</textblock>
+    <textblock>payments on the equivalent fixed rate debt instrument.</textblock>
+    <textblock>Appropriate adjustments to these amounts are made in each accrual</textblock>
+    <textblock>period if the interest actually accrued or paid during the</textblock>
+    <textblock>accrual period is greater than or less than the interest assumed</textblock>
+    <textblock>to be accrued or paid under the equivalent fixed rate debt</textblock>
+    <textblock>instrument.</textblock>
+  </text>
+</doc>

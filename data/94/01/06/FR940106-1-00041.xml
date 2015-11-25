@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00041</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00008</textblock>
+  </parent>
+  <text>
+    <textblock>j. Signature and affiliation of tester and witness;</textblock>
+    <textblock>k. Remarks.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Submit amended meter calibration report(s)</textblock>
+    <textblock>to authorized officer, including all required information.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>15 days.</textblock>
+    <textblock>10. Chart Recorder: The following are minimum standards that</textblock>
+    <textblock>only apply to chart recorders.</textblock>
+    <textblock>a. For meters measuring more than 100 Mcf per day on a monthly</textblock>
+    <textblock>basis, the pen that records differential pressure shall operate</textblock>
+    <textblock>in the outer 2/3 of the chart range (the physical distance on the</textblock>
+    <textblock>chart measured from zero) for the majority of the flowing period.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Size the metering equipment so that the</textblock>
+    <textblock>differential pen will record in the outer 2/3 of the chart range.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>20 days.</textblock>
+    <textblock>b. For meters measuring more than 100 Mcf per day on a monthly</textblock>
+    <textblock>basis, the static element shall be sized to make the pen that</textblock>
+    <textblock>records the static pressure operate in the outer 2/3 of the chart</textblock>
+    <textblock>range (the physical distance on the chart measured from zero) for</textblock>
+    <textblock>the majority of the flowing period.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Size static element so as to cause static</textblock>
+    <textblock>pen to record in the outer 2/3 of the chart range.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>20 days.</textblock>
+    <textblock>c. The meter's differential pen arc, the ability of the</textblock>
+    <textblock>differential pen to duplicate the test chart's time arc over the</textblock>
+    <textblock>full range of the test chart, shall be checked during each</textblock>
+    <textblock>testing of the meter's accuracy and adjustments made if</textblock>
+    <textblock>necessary.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Stop meter calibration, check differential</textblock>
+    <textblock>pen arc, make necessary adjustments, and restart calibration.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>Prior to completion of calibration.</textblock>
+    <textblock>d. During testing of the meter accuracy, the static pen time</textblock>
+    <textblock>lag shall be adjusted to ensure independent movement of the</textblock>
+    <textblock>static pen in relation to the differential pen.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Make appropriate adjustments.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>Prior to completion of calibration.</textblock>
+    <textblock>11. Electronic Flow Computers: The following are minimum</textblock>
+    <textblock>standards that only apply to electronic flow computers (EFCs).</textblock>
+    <textblock>a. The current static pressure, differential pressure, and</textblock>
+    <textblock>temperature shall be displayed on a continuous basis.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Display required data.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>30 days.</textblock>
+    <textblock>b. The EFC shall be equipped with a back-up power source</textblock>
+    <textblock>capable of retaining data collected for a minimum of 35 days.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Install back-up power source capable of</textblock>
+    <textblock>retaining data collected for a minimum of 35 days.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>30 days.</textblock>
+    <textblock>c. For meters measuring more than 100 Mcf per day on a monthly</textblock>
+    <textblock>basis, the EFC shall be installed, operated, and maintained to</textblock>
+    <textblock>achieve an overall meter uncertainty of within</textblock>
+    <textblock>3 percent.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Make any necessary changes to bring the</textblock>
+    <textblock>overall meter uncertainty within</textblock>
+    <textblock>3 percent.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>20 days.</textblock>
+  </text>
+</doc>

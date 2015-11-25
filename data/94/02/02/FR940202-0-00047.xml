@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00047</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>(e)</textblock>
+    <textblock>Aggregation rule.</textblock>
+    <textblock>For purposes of section 483, all</textblock>
+    <textblock>sales or exchanges that are part of the same transaction (or a</textblock>
+    <textblock>series of related transactions) are treated as a single sale or</textblock>
+    <textblock>exchange, and all contracts calling for deferred payments arising</textblock>
+    <textblock>from the same transaction (or a series of related transactions)</textblock>
+    <textblock>are treated as a single contract. This rule, however, generally</textblock>
+    <textblock>only applies to contracts and to sales or exchanges involving a</textblock>
+    <textblock>single buyer and a single seller.</textblock>
+    <textblock>(f)</textblock>
+    <textblock>Effective date.</textblock>
+    <textblock>This section applies to sales and</textblock>
+    <textblock>exchanges that occur on or after April 4, 1994.</textblock>
+    <textblock>Taxpayers, however, may rely on this section for sales and</textblock>
+    <textblock>exchanges that occur after December 21, 1992, and before April 4, 1994.</textblock>
+    <textblock>§1.483-2</textblock>
+    <textblock>Unstated interest.</textblock>
+    <textblock>(a)</textblock>
+    <textblock>In general</textblock>
+    <textblock>_(1)</textblock>
+    <textblock>Adequate stated interest.</textblock>
+    <textblock>For purposes</textblock>
+    <textblock>of section 483, a contract has unstated interest if the contract</textblock>
+    <textblock>does not provide for adequate stated interest. A contract does</textblock>
+    <textblock>not provide for adequate stated interest if the sum of the</textblock>
+    <textblock>deferred payments exceeds_</textblock>
+    <textblock>(i) The sum of the present values of the deferred payments</textblock>
+    <textblock>and the present values of any stated interest payments due under</textblock>
+    <textblock>the contract; or</textblock>
+    <textblock>(ii) In the case of a cash method debt instrument (within</textblock>
+    <textblock>the meaning of section 1274A(c)(2)) received in exchange for</textblock>
+    <textblock>property in a potentially abusive situation (as defined in</textblock>
+    <textblock>§1.1274-3), the fair market value of the property reduced by the</textblock>
+    <textblock>fair market value of any consideration other than the debt</textblock>
+    <textblock>instrument, and reduced by the sum of all principal payments that</textblock>
+    <textblock>are not deferred payments.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Amount of unstated interest.</textblock>
+    <textblock>For purposes of section</textblock>
+    <textblock>483, unstated interest means an amount equal to the excess of the</textblock>
+    <textblock>sum of the deferred payments over the amount described in</textblock>
+    <textblock>paragraph (a)(1)(i) or (a)(1)(ii) of this section, whichever is</textblock>
+    <textblock>applicable.</textblock>
+    <textblock>(b)</textblock>
+    <textblock>Operational rules_</textblock>
+    <textblock>(1)</textblock>
+    <textblock>In general.</textblock>
+    <textblock>For purposes of</textblock>
+    <textblock>paragraph (a) of this section, rules similar to those in</textblock>
+    <textblock>§1.1274-2 apply to determine whether a contract has adequate</textblock>
+    <textblock>stated interest and the amount of unstated interest, if any, on</textblock>
+    <textblock>the contract.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Present value.</textblock>
+    <textblock>For purposes of paragraph (a) of this</textblock>
+    <textblock>section, the present value of any deferred payment or interest</textblock>
+    <textblock>payment is determined by discounting the payment from the date it</textblock>
+    <textblock>becomes due to the date of the sale or exchange at the test rate</textblock>
+    <textblock>of interest applicable to the contract in accordance with</textblock>
+    <textblock>§1.483-3.</textblock>
+    <textblock>(c)</textblock>
+    <textblock>Examples.</textblock>
+    <textblock>The following examples illustrate the rules</textblock>
+    <textblock>of this section.</textblock>
+    <textblock>Example 1. Contract that does not have adequate stated</textblock>
+    <textblock>interest.</textblock>
+    <textblock>On January 1, 1995, A sells B nonpublicly traded</textblock>
+    <textblock>property under a contract that calls for a $100,000 payment of</textblock>
+    <textblock>principal on January 1, 2005, and 10 annual interest payments of</textblock>
+    <textblock>$9,000 on January 1 of each year, beginning on January 1, 1996.</textblock>
+    <textblock>Assume that the test rate of interest is 9.2 percent, compounded</textblock>
+    <textblock>annually. The contract does not provide for adequate stated</textblock>
+    <textblock>interest because it does not provide for interest equal to 9.2</textblock>
+    <textblock>percent, compounded annually. The present value of the deferred</textblock>
+    <textblock>payments is $98,727.69. As a result, the contract has unstated</textblock>
+    <textblock>interest of $1,272.31 ($100,000 ^ $98,727.69).</textblock>
+    <textblock>Example 2. Contract that does not have adequate stated</textblock>
+    <textblock>interest; no interest for initial short period.</textblock>
+    <textblock>On May 1, 1996,</textblock>
+    <textblock>A sells B nonpublicly traded property under a contract that calls</textblock>
+    <textblock>for B to make a principal payment of $200,000 on December 31,</textblock>
+    <textblock>1998, and semiannual interest payments of $9,000, payable on June</textblock>
+    <textblock>30 and December 31 of each year, beginning on December 31, 1996.</textblock>
+    <textblock>Assume that the test rate of interest is 9 percent, compounded</textblock>
+    <textblock>semiannually. Even though the contract calls for a stated rate</textblock>
+    <textblock>of interest no lower than the test rate of interest, the contract</textblock>
+    <textblock>does not provide for adequate stated interest because the stated</textblock>
+    <textblock>rate of interest does not apply for the short period from May 1,</textblock>
+    <textblock>1996, through June 30, 1996.</textblock>
+    <textblock>Example 3. Potentially abusive situation_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>In a</textblock>
+    <textblock>potentially abusive situation, a contract for the sale of</textblock>
+    <textblock>nonpublicly traded personal property calls for the issuance of a</textblock>
+    <textblock>cash method debt instrument (as defined in section 1274A(c)(2))</textblock>
+    <textblock>with a stated principal amount of $700,000, payable in 5 years.</textblock>
+    <textblock>No other consideration is given. The debt instrument calls for</textblock>
+    <textblock>annual payments of interest over its entire term at a rate of 9.2</textblock>
+    <textblock>percent, compounded annually (the test rate of interest</textblock>
+    <textblock>applicable to the debt instrument). Thus, the present value of</textblock>
+    <textblock>the deferred payment and the interest payments is $700,000.</textblock>
+    <textblock>Assume that the fair market value of the property is $500,000.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Amount of unstated interest.</textblock>
+    <textblock>A cash method debt</textblock>
+    <textblock>instrument received in exchange for property in a potentially</textblock>
+    <textblock>abusive situation provides for adequate stated interest only if</textblock>
+    <textblock>the sum of the deferred payments under the instrument does not</textblock>
+    <textblock>exceed the fair market value of the property. Because the</textblock>
+    <textblock>deferred payment ($700,000) exceeds the fair market value of the</textblock>
+    <textblock>property ($500,000), the debt instrument does not provide for</textblock>
+    <textblock>adequate stated interest. Therefore, the debt instrument has</textblock>
+    <textblock>unstated interest of $200,000.</textblock>
+    <textblock>Example 4. Variable rate debt instrument with adequate</textblock>
+    <textblock>stated interest; variable rate as of the issue date greater than</textblock>
+    <textblock>the test rate_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>A contract for the sale of nonpublicly</textblock>
+    <textblock>traded property calls for the issuance of a debt instrument in</textblock>
+    <textblock>the principal amount of $75,000 due in 10 years. The debt</textblock>
+    <textblock>instrument calls for interest payable semiannually at a rate of 3</textblock>
+    <textblock>percentage points above the yield on 6-month Treasury bills at</textblock>
+    <textblock>the mid-point of the semiannual period immediately preceding each</textblock>
+    <textblock>interest payment date. Assume that the interest rate is a</textblock>
+    <textblock>qualified floating rate and that the debt instrument is a</textblock>
+    <textblock>variable rate debt instrument within the meaning of §1.1275-5.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Adequate stated interest.</textblock>
+    <textblock>Under paragraph (b)(1) of</textblock>
+    <textblock>this section, rules similar to those in §1.1274-2(f) apply to</textblock>
+    <textblock>determine whether the debt instrument has adequate stated</textblock>
+    <textblock>interest. Assume that the test rate of interest applicable to</textblock>
+    <textblock>the debt instrument is 9 percent, compounded semiannually.</textblock>
+    <textblock>Assume also that the yield on 6-month Treasury bills on the date</textblock>
+    <textblock>of the sale is 8.89 percent, which is greater than the yield on</textblock>
+    <textblock>6-month Treasury bills on the first date on which there is a</textblock>
+    <textblock>binding written contract that substantially sets forth the terms</textblock>
+    <textblock>under which the sale is consummated. Under §1.1274-2(f), the</textblock>
+    <textblock>debt instrument is tested for adequate stated interest as if it</textblock>
+    <textblock>provided for a stated rate of interest of 11.89 percent (3</textblock>
+    <textblock>percent plus 8.89 percent), compounded semiannually, payable over</textblock>
+    <textblock>its entire term. Because the test rate of interest is 9 percent,</textblock>
+    <textblock>compounded semiannually, and the debt instrument is treated as</textblock>
+    <textblock>providing for stated interest of 11.89 percent, compounded</textblock>
+    <textblock>semiannually, the debt instrument provides for adequate stated</textblock>
+    <textblock>interest.</textblock>
+    <textblock>(d)</textblock>
+    <textblock>Effective date.</textblock>
+    <textblock>This section applies to sales and</textblock>
+    <textblock>exchanges that occur on or after April 4, 1994. Taxpayers, however, may rely on this section for sales and exchanges that occur after December 21, 1992, and before April 4, 1994.</textblock>
+  </text>
+</doc>

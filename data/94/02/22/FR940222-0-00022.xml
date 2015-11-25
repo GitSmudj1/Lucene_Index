@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940222-0-00022</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940222-0-00007</textblock>
+  </parent>
+  <text>
+    <textblock>The total cost impact figures discussed above are based on assumptions that no operator has yet accomplished any of the requirements of this AD action, and that no operator would accomplish those actions in the future if this AD were not adopted.</textblock>
+    <textblock>The regulations adopted herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment.</textblock>
+    <textblock>For the reasons discussed above, I certify that this action (1) is not a ``significant regulatory action'' under Executive Order 12866; (2) is not a ``significant rule'' under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979); and (3) will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act. A final evaluation has been prepared for this action and it is contained in the Rules Docket. A copy of it may be obtained from the Rules Docket at the location provided under the caption</textblock>
+    <textblock>ADDRESSES.</textblock>
+    <textblock>List of Subjects in 14 CFR Part 39</textblock>
+    <textblock>Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety.</textblock>
+    <textblock>Adoption of the Amendment</textblock>
+    <textblock>Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends 14 CFR part 39 of the Federal Aviation Regulations as follows:</textblock>
+    <textblock>PART 39_AIRWORTHINESS DIRECTIVES</textblock>
+    <textblock>1. The authority citation for part 39 continues to read as follows:</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>49 U.S.C. App. 1354(a), 1421 and 1423; 49 U.S.C. 106(g); and 14 CFR 11.89.</textblock>
+    <textblock>§39.13</textblock>
+    <textblock>[Amended]</textblock>
+    <textblock>2. Section 39.13 is amended by adding the following new airworthiness directive:</textblock>
+    <textblock>94-04-08 McDonnell Douglas:</textblock>
+    <textblock>Amendment 39-8828. Docket 93-NM-134-AD.</textblock>
+    <textblock>Applicability</textblock>
+    <textblock>: Model DC-10-10, -10F, -15, -30, -30F, -40, and -40F series airplanes, and KC-10A (military) airplanes; having fuselage numbers 1 though 374 inclusive; certificated in any category.</textblock>
+    <textblock>Compliance</textblock>
+    <textblock>: Required as indicated, unless accomplished previously.</textblock>
+    <textblock>To prevent failure of the No. 2 engine pylon lower spar forward mount and thrust link fitting attach bolts, which could reduce the fail-safe capability of the attachment assembly, accomplish the following:</textblock>
+    <textblock>(a) Within 12 months after the effective date of this AD, perform an ultrasonic inspection to detect cracking of the No. 2 engine pylon lower spar forward mount and thrust link fitting attach bolts made of H-11 material, in accordance with McDonnell Douglas DC-10 Service Bulletin 54-100, Revision 1, dated September 17, 1993.</textblock>
+    <textblock>(1) If no cracking is detected, repeat the ultrasonic inspection thereafter at intervals not to exceed 18 months, until the requirements of paragraph (b) of this AD are accomplished.</textblock>
+    <textblock>(2) If cracking is detected during any inspection required by this paragraph, prior to further flight, accomplish either paragraph (a)(2)(i) or (a)(2)(ii):</textblock>
+    <textblock>(i) Replace the cracked bolt with a new bolt made of H-11 material and continue to inspect in accordance with this paragraph at intervals not to exceed 18 months, until the requirements of paragraph (b) of this AD are accomplished. Or</textblock>
+    <textblock>(ii) Replace the cracked bolt with a bolt made of Inconel, and replace the associated hardware, in accordance with the service bulletin. Such replacement constitutes terminating action for required ultrasonic inspections for that bolt.</textblock>
+    <textblock>(b) Within 5 years after the effective date of this AD, replace all No.2 engine pylon lower spar forward mount and thrust link fitting attach bolts made of H-11 material, with bolts made of Inconel, and replace the associated hardware, in accordance with McDonnell Douglas DC-10 Service Bulletin 54-100, Revision 1, dated September 17, 1993. Such replacement constitutes terminating action for the inspections required by this AD.</textblock>
+    <textblock>(c) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, Los Angeles Aircraft Certification Office (ACO). Operators shall submit their requests through an appropriate FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, Los Angeles ACO.</textblock>
+    <textblock>Note</textblock>
+    <textblock>: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Los Angeles ACO.</textblock>
+    <textblock>(d) Special flight permits may be issued in accordance with Federal Aviation Regulations (FAR) 21.197 and 21.199 to operate the airplane to a location where the requirements of this AD can be accomplished.</textblock>
+    <textblock>(e) The inspections and replacement shall be done in accordance with McDonnell Douglas DC-10 Service Bulletin 54-100, Revision 1, dated September 17, 1993. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from McDonnell Douglas Corporation, P.O. Box 1771, Long Beach, California 90801-1771, Attention: Business Unit Manager, Technical Administrative Support, Dept. L51, Mail Code 2-98. Copies may be inspected at the FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the FAA, Transport Airplane Directorate, Los Angeles Aircraft Certification Office, 3229 East Spring Street, Long Beach, California; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC.</textblock>
+    <textblock>(f) This amendment becomes effective on March 24, 1994.</textblock>
+    <textblock>Issued in Renton, Washington, on February 14, 1994.</textblock>
+  </text>
+  <signer>
+    <textblock>Darrell M. Pederson,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Transport Airplane Directorate, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-3754 Filed 2-18-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-U</textblock>
+  </billing>
+</doc>

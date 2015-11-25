@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940114-0-00029</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940114-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(1) For benefits for which the participant or beneficiary is entitled to be in pay status on the valuation date, the immediate annuity rate shall apply.</textblock>
+    <textblock>(2) For benefits for which the deferral period is</textblock>
+    <textblock>y</textblock>
+    <textblock>years (</textblock>
+    <textblock>y</textblock>
+    <textblock>is an integer and</textblock>
+    <textblock>0&lt;y&gt;n</textblock>
+    <textblock>1</textblock>
+    <textblock>), interest rate</textblock>
+    <textblock>i</textblock>
+    <textblock>1</textblock>
+    <textblock>shall apply from the valuation date for a period of</textblock>
+    <textblock>y</textblock>
+    <textblock>years; thereafter the immediate annuity rate shall apply.</textblock>
+    <textblock>(3) For benefits for which the deferral period is</textblock>
+    <textblock>y</textblock>
+    <textblock>years (</textblock>
+    <textblock>y</textblock>
+    <textblock>is an integer and</textblock>
+    <textblock>n</textblock>
+    <textblock>1</textblock>
+    <textblock>&lt;y&gt;n</textblock>
+    <textblock>1</textblock>
+    <textblock>+n</textblock>
+    <textblock>2</textblock>
+    <textblock>), interest rate</textblock>
+    <textblock>i</textblock>
+    <textblock>2</textblock>
+    <textblock>shall apply from the valuation date for a period of</textblock>
+    <textblock>y^n</textblock>
+    <textblock>1</textblock>
+    <textblock>years, interest rate</textblock>
+    <textblock>i</textblock>
+    <textblock>1</textblock>
+    <textblock>shall apply for the following</textblock>
+    <textblock>n</textblock>
+    <textblock>1</textblock>
+    <textblock>years; thereafter the immediate annuity rate shall apply.</textblock>
+    <textblock>(4) For benefits for which the deferral period is</textblock>
+    <textblock>y</textblock>
+    <textblock>years (</textblock>
+    <textblock>y</textblock>
+    <textblock>is an integer and</textblock>
+    <textblock>y</textblock>
+    <textblock>&gt;</textblock>
+    <textblock>n</textblock>
+    <textblock>1</textblock>
+    <textblock>+n</textblock>
+    <textblock>2</textblock>
+    <textblock>), interest rate</textblock>
+    <textblock>i</textblock>
+    <textblock>3</textblock>
+    <textblock>shall apply from the valuation date for a period of</textblock>
+    <textblock>y^n</textblock>
+    <textblock>1</textblock>
+    <textblock>^n</textblock>
+    <textblock>2</textblock>
+    <textblock>years, interest rate</textblock>
+    <textblock>i</textblock>
+    <textblock>2</textblock>
+    <textblock>shall apply for the following</textblock>
+    <textblock>n</textblock>
+    <textblock>2</textblock>
+    <textblock>years, interest rate</textblock>
+    <textblock>i</textblock>
+    <textblock>1</textblock>
+    <textblock>shall apply for the following</textblock>
+    <textblock>n</textblock>
+    <textblock>1</textblock>
+    <textblock>years; thereafter the immediate annuity rate shall apply.</textblock>
+  </text>
+  <table>
+    <textblock>Table I</textblock>
+    <textblock>[Lump Sum Valuations]</textblock>
+    <textblock>1Rate set</textblock>
+    <textblock>1For plans with a valuation date</textblock>
+    <textblock>2On or after</textblock>
+    <textblock>2Before</textblock>
+    <textblock>1Immediate annuity rate (percent)</textblock>
+    <textblock>1Deferred annuities (percent)</textblock>
+    <textblock>2i</textblock>
+    <textblock>1</textblock>
+    <textblock>2i</textblock>
+    <textblock>2</textblock>
+    <textblock>2i</textblock>
+    <textblock>3</textblock>
+    <textblock>2n</textblock>
+    <textblock>1</textblock>
+    <textblock>2n</textblock>
+    <textblock>2</textblock>
+    <textblock>␣</textblock>
+    <textblock>*␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣ *</textblock>
+    <textblock>4</textblock>
+    <textblock>2-1-94</textblock>
+    <textblock>3-1-94</textblock>
+    <textblock>4.50</textblock>
+    <textblock>4.00</textblock>
+    <textblock>4.00</textblock>
+    <textblock>4.00</textblock>
+    <textblock>7</textblock>
+    <textblock>8</textblock>
+  </table>
+</doc>

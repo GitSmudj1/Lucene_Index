@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940208-1-00036</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940208-1-00011</textblock>
+  </parent>
+  <text>
+    <textblock>T</textblock>
+    <textblock>ES</textblock>
+    <textblock>= total number of external floating roof storage tanks with primary and secondary seals,</textblock>
+    <textblock>T</textblock>
+    <textblock>I</textblock>
+    <textblock>= total number of fixed-roof gasoline storage tanks with an internal floating roof,</textblock>
+    <textblock>V = number of valves in gasoline service,</textblock>
+    <textblock>P = number of pumps in gasoline service,</textblock>
+    <textblock>Q = gasoline throughput rate (liters/day),</textblock>
+    <textblock>K = 3.18 × 10</textblock>
+    <textblock>^6</textblock>
+    <textblock>for bulk gasoline terminals with uncontrolled loading racks (no vapor collection and processing systems),</textblock>
+    <textblock>OR</textblock>
+    <textblock>K = (4.5 × 10</textblock>
+    <textblock>^9</textblock>
+    <textblock>)(EF + 70) for bulk gasoline terminals with controlled loading racks (loading racks that have vapor collection and processing systems installed on the emission stream), and</textblock>
+    <textblock>EF = the federally enforceable emission standard for the vapor processor (mg of total organic compounds per liter of gasoline loaded).</textblock>
+    <textblock>A pipeline breakout station is not considered a major source if the result of the calculation in equation (2), E</textblock>
+    <textblock>p</textblock>
+    <textblock>, is less than 1.</textblock>
+    <textblock>(2) E</textblock>
+    <textblock>P</textblock>
+    <textblock>= 2.4(T</textblock>
+    <textblock>F</textblock>
+    <textblock>) + 0.09(T</textblock>
+    <textblock>E</textblock>
+    <textblock>) + 0.043(T</textblock>
+    <textblock>ES</textblock>
+    <textblock>) + 0.027(T</textblock>
+    <textblock>I</textblock>
+    <textblock>) + 0.0009(V) + 0.009(P)</textblock>
+    <textblock>where:</textblock>
+    <textblock>E</textblock>
+    <textblock>P</textblock>
+    <textblock>= major source applicability factor for pipeline breakout stations, E</textblock>
+    <textblock>P</textblock>
+    <textblock>" 1 means pipeline breakout station is a major source, and</textblock>
+    <textblock>T</textblock>
+    <textblock>F</textblock>
+    <textblock>, T</textblock>
+    <textblock>E</textblock>
+    <textblock>, T</textblock>
+    <textblock>ES</textblock>
+    <textblock>, T</textblock>
+    <textblock>I</textblock>
+    <textblock>, V, and P are the same as defined for bulk terminal equation (1).</textblock>
+    <textblock>The above equations are not allowed to be used if the bulk gasoline terminals or pipeline facilities are located within the contiguous area of and under common control with a major source petroleum refinery. For those facilities, they would demonstrate they are not a major source by providing an emission audit of all emission sources in the facility, including, but not limited to the refinery process units, wastewater systems, etc.</textblock>
+    <textblock>2. Emission Points Covered</textblock>
+    <textblock>Emission points affected at bulk gasoline terminals are storage tanks that contain or have the potential to contain gasoline, equipment leaks from the piping system that handles gasoline or gasoline vapors, loading racks that load gasoline into tank trucks or railcars, and gasoline vapor leakage from sealed tank trucks or railcars during loading. Emission points affected at pipeline breakout stations are individual storage tanks that contain or have the potential to contain gasoline, and equipment leaks from the entire breakout station piping system that handles gasoline.</textblock>
+    <textblock>There are two types of storage tanks found at bulk gasoline terminals and pipeline breakout stations, fixed-roof and floating roof tanks. The greatest portion of emissions occurring from fixed-roof tanks are those emitted through the breather (pressure-vacuum) valve as a result of tank breathing and filling. Floating roof tanks may have either external or internal floating roofs. The sources of greatest emissions associated with an external floating roof tank occur as a result of an improper fit between the seals and the tank shell, leaks associated with roof fittings, and withdrawal losses from evaporation when a wet portion of the tank wall is exposed. Losses from internal floating roof tanks occur mainly through vents in the metal shell of the tank.</textblock>
+    <textblock>Pumps and valves are used at pipeline breakout stations to move and route gasoline along the pipeline or to transfer gasoline to or from breakout station storage tanks. Pumps and valves at bulk gasoline terminals are used to transfer gasoline from storage tanks to tank trucks or railcars. In addition, other equipment at these facilities, such as compressors, pressure relief devices, sampling connection systems, flanges, or other connectors is in gasoline service.</textblock>
+    <textblock>Loading rack emissions from tank truck or railcar loading operations at bulk gasoline terminals occur when gasoline being loaded displaces vapors from the cargo tank of the truck or railcar to the atmosphere.</textblock>
+    <textblock>There is a potential for emissions due to vapor leakage even from controlled tank trucks or railcars during loading if their cargo tanks are not vapor-tight. Vapors may leak to the atmosphere from dome cover assemblies, pressure-vacuum (P-V) vents, and vapor collection piping and vents.</textblock>
+    <textblock>B. Standards for Sources</textblock>
+    <textblock>The Agency is proposing an equipment standard for storage tanks at new and existing major source bulk gasoline terminals and pipeline breakout stations. These proposed standards specify new and existing storage tanks comply with the equipment standards of the NSPS 40 CFR part 60, subpart Kb, they would require: (1) External floating roof tanks to have specified types of primary and secondary seals, and (2) fixed-roof tanks to have internal floating roofs with specific types of primary seals or secondary seals.</textblock>
+    <textblock>Additionally, the Agency is proposing an emission limit of 10 milligrams (mg) of total organic compounds (TOC) per liter of gasoline loaded (10 mg TOC/l) for the process stream outlet of control devices and continuous compliance monitoring of certain operating parameters of control devices installed at the loading racks of new and existing major source bulk gasoline terminals. Operating the control device in a manner that exceeds or fails to maintain, as appropriate, the monitored operating parameter value established during the emission performance test would be an exceedence of the emission limit. New major source bulk gasoline terminals would also be required to install vacuum assisted vapor collection equipment on their loading racks where gasoline tank trucks or railcars are loaded. This system would prevent vapor leakage from tank trucks that can occur due to the pressures normally developed in fuel compartments during loading.</textblock>
+  </text>
+</doc>

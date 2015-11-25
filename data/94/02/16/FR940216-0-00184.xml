@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00184</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(2) The model given in paragraphs (a) and (b) of this</textblock>
+    <textblock>section shall be effective from January 1, 1995 through</textblock>
+    <textblock>December 31, 1997, unless extended by action of the</textblock>
+    <textblock>Administrator.</textblock>
+    <textblock>§§80.43-80.44</textblock>
+    <textblock>[Reserved]</textblock>
+    <textblock>§80.45</textblock>
+    <textblock>Complex emissions model.</textblock>
+    <textblock>(a)</textblock>
+    <textblock>Definition of terms.</textblock>
+    <textblock>For the purposes of this</textblock>
+    <textblock>section, the following definitions shall apply:</textblock>
+    <textblock>Target fuel=The fuel which is being evaluated for its</textblock>
+    <textblock>emissions performance using the complex model</textblock>
+    <textblock>OXY=Oxygen content of the target fuel in terms of</textblock>
+    <textblock>weight percent</textblock>
+    <textblock>SUL=Sulfur content of the target fuel in terms of</textblock>
+    <textblock>parts per million by weight</textblock>
+    <textblock>RVP=Reid Vapor Pressure of the target fuel in terms of</textblock>
+    <textblock>pounds per square inch</textblock>
+    <textblock>E200=200</textblock>
+    <textblock>○F distillation fraction of the target fuel in</textblock>
+    <textblock>terms of volume percent</textblock>
+    <textblock>E300=300</textblock>
+    <textblock>○F distillation fraction of the target fuel in</textblock>
+    <textblock>terms of volume percent</textblock>
+    <textblock>ARO=Aromatics content of the target fuel in terms of</textblock>
+    <textblock>volume percent</textblock>
+    <textblock>BEN=Benzene content of the target fuel in terms of</textblock>
+    <textblock>volume percent</textblock>
+    <textblock>OLE=Olefins content of the target fuel in terms of</textblock>
+    <textblock>volume percent</textblock>
+    <textblock>MTB=Methyl tertiary butyl ether content of the target</textblock>
+    <textblock>fuel in terms of weight percent oxygen</textblock>
+    <textblock>ETB=Ethyl tertiary butyl ether content of the target</textblock>
+    <textblock>fuel in terms of weight percent oxygen</textblock>
+    <textblock>TAM=Tertiary amyl methyl ether content of the target</textblock>
+    <textblock>fuel in terms of weight percent oxygen</textblock>
+    <textblock>ETH=Ethanol content of the target fuel in terms of</textblock>
+    <textblock>weight percent oxygen</textblock>
+    <textblock>exp=The function that raises the number e (the base of</textblock>
+    <textblock>the natural logarithm) to the power in its domain</textblock>
+    <textblock>Phase I=The years 1995-1999</textblock>
+    <textblock>Phase II=Year 2000 and beyond</textblock>
+    <textblock>(b)</textblock>
+    <textblock>Weightings and baselines for the complex model.</textblock>
+    <textblock>(1) The weightings for normal and higher emitters (w</textblock>
+    <textblock>1</textblock>
+    <textblock>and</textblock>
+    <textblock>w</textblock>
+    <textblock>2</textblock>
+    <textblock>, respectively) given in Table 1 shall be used to</textblock>
+    <textblock>calculate the exhaust emission performance of any fuel for</textblock>
+    <textblock>the appropriate pollutant and Phase:</textblock>
+    <textblock>(2) The following properties of the baseline fuels</textblock>
+    <textblock>shall be used when determining baseline mass emissions of</textblock>
+    <textblock>the various pollutants:</textblock>
+    <textblock>(3) The baseline mass emissions for VOC, NO</textblock>
+    <textblock>X</textblock>
+    <textblock>and</textblock>
+    <textblock>toxics given in Tables 3, 4 and 5 of this paragraph (b)(3)</textblock>
+    <textblock>shall be used in conjunction with the complex model during</textblock>
+    <textblock>the appropriate Phase and season:</textblock>
+  </text>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>1._</textblock>
+    <textblock>Normal and Higher Emitter Weightings</textblock>
+    <textblock>for Exhaust Emissions</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1Phase I</textblock>
+    <textblock>2VOC &amp; toxics</textblock>
+    <textblock>2NO</textblock>
+    <textblock>X</textblock>
+    <textblock>1Phase II</textblock>
+    <textblock>2VOC &amp; toxics</textblock>
+    <textblock>2NO</textblock>
+    <textblock>X</textblock>
+    <textblock>Normal Emitters (w</textblock>
+    <textblock>1</textblock>
+    <textblock>)</textblock>
+    <textblock>0.52</textblock>
+    <textblock>0.82</textblock>
+    <textblock>0.444</textblock>
+    <textblock>0.738</textblock>
+    <textblock>Higher Emitters (w</textblock>
+    <textblock>2</textblock>
+    <textblock>)</textblock>
+    <textblock>0.48</textblock>
+    <textblock>0.18</textblock>
+    <textblock>0.556</textblock>
+    <textblock>0.262</textblock>
+  </table>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>2._</textblock>
+    <textblock>Summer and Winter Baseline Fuel Properties</textblock>
+    <textblock>1Fuel property</textblock>
+    <textblock>1Summer</textblock>
+    <textblock>1Winter</textblock>
+    <textblock>Oxygen (wt %)</textblock>
+    <textblock>0.0</textblock>
+    <textblock>0.0</textblock>
+    <textblock>Sulfur (ppm)</textblock>
+    <textblock>339</textblock>
+    <textblock>338</textblock>
+    <textblock>RVP (psi)</textblock>
+    <textblock>8.7</textblock>
+    <textblock>11.5</textblock>
+    <textblock>E200 (%)</textblock>
+    <textblock>41.0</textblock>
+    <textblock>50.0</textblock>
+    <textblock>E300 (%)</textblock>
+    <textblock>83.0</textblock>
+    <textblock>83.0</textblock>
+    <textblock>Aromatics (vol %)</textblock>
+    <textblock>32.0</textblock>
+    <textblock>26.4</textblock>
+    <textblock>Olefins (vol %)</textblock>
+    <textblock>9.2</textblock>
+    <textblock>11.9</textblock>
+    <textblock>Benzene (vol %)</textblock>
+    <textblock>1.53</textblock>
+    <textblock>1.64</textblock>
+  </table>
+</doc>

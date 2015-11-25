@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00261</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(g)</textblock>
+    <textblock>Compliance calculations.</textblock>
+    <textblock>(1) In the case of</textblock>
+    <textblock>any refiner or importer subject to an individual refinery</textblock>
+    <textblock>baseline, the annual average value for each parameter or</textblock>
+    <textblock>emissions performance during the averaging period,</textblock>
+    <textblock>calculated according to the following methodologies, shall</textblock>
+    <textblock>be less than or equal to the refiner's or importer's</textblock>
+    <textblock>standard under paragraph (b) of this section for that</textblock>
+    <textblock>parameter.</textblock>
+    <textblock>(i) Exhaust benzene emissions under the Simple Model</textblock>
+    <textblock>for an averaging period are calculated as follows:</textblock>
+    <textblock>EXHBEN=1.884+(0.949×BZ)+(0.113×(AR-BZ))</textblock>
+    <textblock>where</textblock>
+    <textblock>EXHBEN=the average exhaust benzene emissions</textblock>
+    <textblock>for the averaging period</textblock>
+    <textblock>BZ=the average benzene content for the</textblock>
+    <textblock>averaging period</textblock>
+    <textblock>AR=the average aromatics content for the</textblock>
+    <textblock>averaging period</textblock>
+    <textblock>(ii) The average value for each parameter for an</textblock>
+    <textblock>averaging period shall be calculated as follows:</textblock>
+    <textblock>where</textblock>
+    <textblock>APARM=the average value for the parameter</textblock>
+    <textblock>being evaluated</textblock>
+    <textblock>V</textblock>
+    <textblock>i</textblock>
+    <textblock>=the volume of conventional gasoline and</textblock>
+    <textblock>other products included under paragraph</textblock>
+    <textblock>(d) of this section, in batch i</textblock>
+    <textblock>PARM</textblock>
+    <textblock>i</textblock>
+    <textblock>=the value of the parameter being</textblock>
+    <textblock>evaluated for batch i as determined in</textblock>
+    <textblock>accordance with the test methods</textblock>
+    <textblock>specified in §80.46</textblock>
+    <textblock>n=the number of batches of conventional</textblock>
+    <textblock>gasoline and other products included</textblock>
+    <textblock>under paragraph (d) of this section</textblock>
+    <textblock>produced or imported during the</textblock>
+    <textblock>averaging period</textblock>
+    <textblock>SG</textblock>
+    <textblock>i</textblock>
+    <textblock>=specific gravity of batch i (only</textblock>
+    <textblock>applicable for properties determined on</textblock>
+    <textblock>a weight percent or ppm basis)</textblock>
+    <textblock>(iii) Exhaust benzene emissions performance for each</textblock>
+    <textblock>batch shall be calculated in accordance with the applicable</textblock>
+    <textblock>model under §80.45.</textblock>
+    <textblock>(iv) Exhaust toxics emissions performance for each</textblock>
+    <textblock>batch shall be calculated in accordance with the applicable</textblock>
+    <textblock>model under §80.45.</textblock>
+    <textblock>(v) Exhaust NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions performance for each batch</textblock>
+    <textblock>shall be calculated in accordance with the applicable model</textblock>
+    <textblock>under §80.45.</textblock>
+    <textblock>(2) In the case of any refiner or importer subject to</textblock>
+    <textblock>the anti-dumping statutory baseline, the refiner or importer</textblock>
+    <textblock>shall determine compliance using the following methodology:</textblock>
+    <textblock>(i) Calculate the compliance total for the averaging</textblock>
+    <textblock>period for sulfur, T-90, olefins, exhaust benzene emissions,</textblock>
+    <textblock>exhaust toxics and exhaust NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions, as applicable,</textblock>
+    <textblock>based upon the anti-dumping statutory baseline value for</textblock>
+    <textblock>that parameter using the formula specified at §80.67.</textblock>
+    <textblock>(ii) Calculate the actual total for the averaging</textblock>
+    <textblock>period for sulfur, T-90, olefins, exhaust benzene emissions,</textblock>
+    <textblock>exhaust toxics and exhaust NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions, as applicable,</textblock>
+    <textblock>based upon the value of the parameter for each batch of</textblock>
+    <textblock>conventional gasoline and gasoline blendstocks, if</textblock>
+    <textblock>applicable, using the formula specified at §80.67.</textblock>
+    <textblock>(iii) The actual total for exhaust benzene emissions,</textblock>
+    <textblock>exhaust toxics and exhaust NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions, shall not exceed</textblock>
+    <textblock>the compliance total, and the actual totals for sulfur,</textblock>
+    <textblock>olefins and T-90 shall not exceed 125% of the compliance</textblock>
+    <textblock>totals, as required under the applicable model.</textblock>
+    <textblock>(3) In the case of any batch of gasoline that is</textblock>
+    <textblock>produced by combining blendstock with gasoline, where the</textblock>
+    <textblock>gasoline portion of the blend is not included in the</textblock>
+    <textblock>compliance calculation, the emissions performance for</textblock>
+    <textblock>exhaust benzene, exhaust toxics, and exhaust NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions</textblock>
+    <textblock>for the blendstock shall be:</textblock>
+    <textblock>(i)(A) The emissions performance of a gasoline</textblock>
+    <textblock>that would be produced by combining the blendstock used at</textblock>
+    <textblock>the volume percentage used, with a gasoline that has</textblock>
+    <textblock>properties that are equal to the refiner's or importer's</textblock>
+    <textblock>anti-dumping baseline; minus</textblock>
+    <textblock>(B) The emissions performance of a gasoline that has</textblock>
+    <textblock>properties that are equal to the refiner's or importer's</textblock>
+    <textblock>anti-dumping baseline.</textblock>
+    <textblock>(ii) The volume weighted net emissions performance for</textblock>
+    <textblock>exhaust benzene, exhaust toxics, and exhaust NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions,</textblock>
+    <textblock>as applicable, for all batches of gasoline that are produced</textblock>
+    <textblock>during the averaging period by combining blendstock with</textblock>
+    <textblock>gasoline, shall be equal to or less than zero.</textblock>
+    <textblock>(iii) The value of those properties measured on a weight</textblock>
+    <textblock>percent or ppm basis shall be adjusted for the specific</textblock>
+    <textblock>gravity of the gasoline and blendstocks used for the</textblock>
+    <textblock>purposes of calculations under paragraph (g)(3) of this</textblock>
+    <textblock>section.</textblock>
+    <textblock>(iv) For blends which contain greater than 1.50 volume</textblock>
+    <textblock>percent ethanol, the RVP of the final blend shall be 1.0 psi</textblock>
+    <textblock>greater than the RVP of the base gasoline and blendstocks</textblock>
+    <textblock>without the ethanol for the purposes of calculations under</textblock>
+    <textblock>paragraph (g)(3) of this section.</textblock>
+  </text>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.023</textblock>
+  </import>
+</doc>

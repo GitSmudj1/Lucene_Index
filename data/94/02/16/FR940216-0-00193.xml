@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00193</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>BUTA=Emissions of 1,3-butadiene in terms of milligrams</textblock>
+    <textblock>per mile, as determined in paragraph (e)(7) of</textblock>
+    <textblock>this section.</textblock>
+    <textblock>POM=Polycyclic organic matter emissions in terms of</textblock>
+    <textblock>milligrams per mile, as determined in paragraph</textblock>
+    <textblock>(e)(8) of this section.</textblock>
+    <textblock>(ii) The percentage change in winter toxics performance</textblock>
+    <textblock>in VOC Control Regions 1 and 2 shall be given by the</textblock>
+    <textblock>following equation:</textblock>
+    <textblock>For Phase I:</textblock>
+    <textblock>TOXICW%=[100%×(TOXICW^58.36 mg/mi)] / (58.36 mg/mi)</textblock>
+    <textblock>For Phase II:</textblock>
+    <textblock>TOXICW%=[100%×(TOXICW^120.55 mg/mi)] / (120.55 mg/mi)</textblock>
+    <textblock>where</textblock>
+    <textblock>TOXICW%=Percentage change in winter toxics emissions in</textblock>
+    <textblock>VOC Control Regions 1 and 2 from baseline levels.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Year-round toxics performance.</textblock>
+    <textblock>(i) Year-round</textblock>
+    <textblock>toxics performance in VOC Control Regions 1 and 2 shall be</textblock>
+    <textblock>given by the following equation for reformulated and Clean</textblock>
+    <textblock>Air Act baseline gasolines:</textblock>
+    <textblock>TOXICY1=[(0.396×TOXICS1)+</textblock>
+    <textblock>(0.604×TOXICW) ]</textblock>
+    <textblock>TOXICY2=[(0.396×TOXICS2)+</textblock>
+    <textblock>(0.604×TOXICW) ]</textblock>
+    <textblock>where</textblock>
+    <textblock>TOXICY1=Year-round toxics performance in VOC Control</textblock>
+    <textblock>Region 1 in terms of milligrams per mile.</textblock>
+    <textblock>TOXICS1=Summer toxics performance in VOC Control Region 1</textblock>
+    <textblock>in terms of milligrams per mile, as determined in</textblock>
+    <textblock>paragraph (e)(1)(i) of this section.</textblock>
+    <textblock>TOXICY2=Year-round toxics performance in VOC Control</textblock>
+    <textblock>Region 2 in terms of milligrams per mile.</textblock>
+    <textblock>TOXICS2=Summer toxics performance in VOC Control Region 2</textblock>
+    <textblock>in terms of milligrams per mile, as determined in</textblock>
+    <textblock>paragraph (e)(1)(i) of this section.</textblock>
+    <textblock>TOXICW=Winter toxics performance in VOC Control Regions 1</textblock>
+    <textblock>and 2 in terms of milligrams per mile, as</textblock>
+    <textblock>determined in paragraph (e)(2)(i) of this section.</textblock>
+    <textblock>(ii) The percentage change in year-round toxics</textblock>
+    <textblock>performance in VOC Control Regions 1 and 2 shall be given by</textblock>
+    <textblock>the following equations:</textblock>
+    <textblock>For Phase I:</textblock>
+    <textblock>TOXICY1%=[100%×(TOXICY1^54.50 mg/mi)] / (54.50 mg/mi)</textblock>
+    <textblock>TOXICY2%=[100%×(TOXICY2^54.09 mg/mi)] / (54.09 mg/mi)</textblock>
+    <textblock>For Phase II:</textblock>
+    <textblock>TOXICY1%=[100%×(TOXICY1^107.00 mg/mi)] / (107.00</textblock>
+    <textblock>mg/mi)</textblock>
+    <textblock>TOXICY2%=[100%×(TOXICY2^106.71 mg/mi)] / (106.71</textblock>
+    <textblock>mg/mi)</textblock>
+    <textblock>TOXICY1%=Percentage change in year-round toxics</textblock>
+    <textblock>emissions in VOC Control Region 1 from</textblock>
+    <textblock>baseline levels.</textblock>
+    <textblock>TOXICY2%=Percentage change in year-round toxics</textblock>
+    <textblock>emissions in VOC Control Region 2 from</textblock>
+    <textblock>baseline levels.</textblock>
+    <textblock>(4) Exhaust benzene emissions shall be given by the</textblock>
+    <textblock>following equation, subject to paragragh (e)(4)(iii) of this</textblock>
+    <textblock>section:</textblock>
+    <textblock>EXHBZ=BENZ(b) + (BENZ(b) × Y</textblock>
+    <textblock>BEN</textblock>
+    <textblock>(t)/100)</textblock>
+    <textblock>Y</textblock>
+    <textblock>BEN</textblock>
+    <textblock>(t)=</textblock>
+    <textblock>(w</textblock>
+    <textblock>1</textblock>
+    <textblock>× N</textblock>
+    <textblock>b</textblock>
+    <textblock>) + (w</textblock>
+    <textblock>2</textblock>
+    <textblock>× H</textblock>
+    <textblock>b</textblock>
+    <textblock>) ^ 1</textblock>
+    <textblock>× 100</textblock>
+    <textblock>where</textblock>
+    <textblock>EXHBZ=Exhaust benzene emissions in milligrams/mile</textblock>
+    <textblock>Y</textblock>
+    <textblock>BEN</textblock>
+    <textblock>(t)=Benzene performance of target fuel in terms of</textblock>
+    <textblock>percentage change from baseline.</textblock>
+    <textblock>BENZ(b)=Baseline benzene emissions as defined in paragraph</textblock>
+    <textblock>(b)(2) of this section for the appropriate phase</textblock>
+    <textblock>and season.</textblock>
+  </text>
+</doc>

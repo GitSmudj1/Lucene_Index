@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00204</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(A) Calibration check standards and calibration</textblock>
+    <textblock>standards may be prepared from the same oxygenate stocks and</textblock>
+    <textblock>by the same analyst. However, calibration check standards</textblock>
+    <textblock>and calibration standards must be prepared from separate</textblock>
+    <textblock>batches of the final diluted standards. For the</textblock>
+    <textblock>specification limits listed in paragraph (g)(8)(ii)(C) of</textblock>
+    <textblock>this section, the concentration of the check standards</textblock>
+    <textblock>should be in the range given in paragraph (g)(8)(i)(C) of</textblock>
+    <textblock>this section.</textblock>
+    <textblock>(B) Calibration check standards shall be analyzed at a</textblock>
+    <textblock>rate of at least one per analysis batch and at least one per</textblock>
+    <textblock>10 samples, whichever is more frequent.</textblock>
+    <textblock>(C) If the measured concentration of a calibration</textblock>
+    <textblock>check standard is outside the range of 100.0%</textblock>
+    <textblock>#</textblock>
+    <textblock>6.0% of the</textblock>
+    <textblock>theoretical concentration for a selected oxygenate of 1.0</textblock>
+    <textblock>mass percent or above, the sources of error in the analysis</textblock>
+    <textblock>should be determined, corrected, and all analyses subsequent</textblock>
+    <textblock>to and including the last standard analysis confirmed to be</textblock>
+    <textblock>within the compliance specifications must be repeated. The</textblock>
+    <textblock>specification limits for the accuracy of calibration check</textblock>
+    <textblock>standards analyses are minimum performance requirements.</textblock>
+    <textblock>The performance of individual laboratories may indeed be</textblock>
+    <textblock>better than these minimum requirements. For this reason it</textblock>
+    <textblock>is recommended that control charts be utilized to monitor</textblock>
+    <textblock>the variability of measurements in order to optimally detect</textblock>
+    <textblock>abnormal situations and ensure a stable measurement process.</textblock>
+    <textblock>(D) Independent reference standards should be</textblock>
+    <textblock>purchased or prepared from materials that are independent of</textblock>
+    <textblock>the calibration standards and calibration check standards,</textblock>
+    <textblock>and must not be prepared by the same analyst. For the</textblock>
+    <textblock>specification limits listed in paragraph (g)(8)(ii)(F) of</textblock>
+    <textblock>this section, the concentration of the reference standards</textblock>
+    <textblock>should be in the range given in paragraph (g)(8)(i)(C) of</textblock>
+    <textblock>this section.</textblock>
+    <textblock>(E) Independent reference standards shall be analyzed</textblock>
+    <textblock>at a rate of at least one per analysis batch and at least</textblock>
+    <textblock>one per 100 samples, whichever is more frequent.</textblock>
+    <textblock>(F) If the measured concentration of an independent</textblock>
+    <textblock>reference standard is outside the range of 100.0%</textblock>
+    <textblock>#</textblock>
+    <textblock>10.0% of</textblock>
+    <textblock>the theoretical concentration for a selected oxygenate of</textblock>
+    <textblock>1.0 mass percent or above, the sources of error in the</textblock>
+    <textblock>analysis should be determined, corrected, and all analyses</textblock>
+    <textblock>subsequent to and including the last independent reference</textblock>
+    <textblock>standard analysis confirmed to be within the compliance</textblock>
+    <textblock>specifications in that batch must be repeated. The</textblock>
+    <textblock>specification limits for the accuracy of independent</textblock>
+    <textblock>reference standards analyses are minimum performance</textblock>
+    <textblock>requirements. The performance of individual laboratories</textblock>
+    <textblock>may be better than these minimum requirements. For this</textblock>
+    <textblock>reason it is recommended that control charts be utilized to</textblock>
+    <textblock>monitor the variability of measurements in order to</textblock>
+    <textblock>optimally detect abnormal situations and ensure a stable</textblock>
+    <textblock>measurement process.</textblock>
+    <textblock>(G) The preparation and analysis of spiked samples at</textblock>
+    <textblock>a rate of one per analysis batch and at least one per ten</textblock>
+    <textblock>samples.</textblock>
+    <textblock>(H) Spiked samples shall be prepared by adding a</textblock>
+    <textblock>volume of a standard to a known volume of sample. To ensure</textblock>
+    <textblock>adequate method detection limits, the volume of the standard</textblock>
+    <textblock>added to the sample shall be limited to 5% or less than the</textblock>
+    <textblock>volume of the sample. The spiked sample shall be carried</textblock>
+    <textblock>through the same sample preparation steps as the background</textblock>
+    <textblock>sample.</textblock>
+    <textblock>(I) The percent recovery of the spiked sample shall be</textblock>
+    <textblock>calculated as follows:</textblock>
+    <textblock>where:</textblock>
+    <textblock>V</textblock>
+    <textblock>o</textblock>
+    <textblock>=Volume of sample (Ml)</textblock>
+    <textblock>V</textblock>
+    <textblock>l</textblock>
+    <textblock>=Volume of spiking standard added (Ml)</textblock>
+    <textblock>C</textblock>
+    <textblock>m</textblock>
+    <textblock>=Measured concentration of spiked sample</textblock>
+    <textblock>C</textblock>
+    <textblock>o</textblock>
+    <textblock>=Measured background concentration of sample</textblock>
+    <textblock>C</textblock>
+    <textblock>s</textblock>
+    <textblock>=Known concentration of spiking standard</textblock>
+    <textblock>(J) If the percent recovery of any individual spiked</textblock>
+    <textblock>sample is outside the range 100%</textblock>
+    <textblock>#</textblock>
+    <textblock>10% from the theoretical</textblock>
+    <textblock>concentration, then the sources of error in the analysis</textblock>
+    <textblock>must be determined and corrected, and all analyses</textblock>
+    <textblock>subsequent to and including the last analysis confirmed to</textblock>
+    <textblock>be within the compliance specifications must be repeated.</textblock>
+    <textblock>The maintenance of control charts is one acceptable method</textblock>
+    <textblock>or ensuring compliance with this specification.</textblock>
+    <textblock>(K)</textblock>
+    <textblock>(1)</textblock>
+    <textblock>Either the range (absolute difference)</textblock>
+    <textblock>or relative range (but not necessarily both) for duplicate</textblock>
+    <textblock>samples shall be less than the following limits:</textblock>
+  </text>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.003</textblock>
+  </import>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Oxygenate</textblock>
+    <textblock>1Concentration (volume percent)</textblock>
+    <textblock>1Range</textblock>
+    <textblock>1Relative range (volume percent)</textblock>
+    <textblock>Methanol</textblock>
+    <textblock>1.0-12.0</textblock>
+    <textblock>7.2</textblock>
+    <textblock>Ethanol</textblock>
+    <textblock>3.0-12.0</textblock>
+    <textblock>7.1</textblock>
+    <textblock>t-Butanol</textblock>
+    <textblock>3.0-12.0</textblock>
+    <textblock>9.4</textblock>
+    <textblock>MTBE</textblock>
+    <textblock>3.0-15.0</textblock>
+    <textblock>0.55</textblock>
+    <textblock>9.2</textblock>
+  </table>
+</doc>
