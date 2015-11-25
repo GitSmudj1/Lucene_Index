@@ -62,7 +62,7 @@ public class SearchEngine extends JFrame {
 		{
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				new SearchEngine().setVisible(true);
+				new FirstResults().setVisible(true);
 				
 				
 			}
