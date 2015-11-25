@@ -14,6 +14,8 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 import javax.swing.JButton;
 import javax.swing.SwingConstants;
 import java.awt.Panel;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class SearchEngine extends JFrame {
 
@@ -55,6 +57,15 @@ public class SearchEngine extends JFrame {
 		textField.setColumns(10);
 		
 		JButton btnNewButton = new JButton("Go");
+		btnNewButton.addActionListener(new ActionListener() 
+		{
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				new SearchEngine().setVisible(true);
+				
+				
+			}
+		});
 		GroupLayout gl_contentPane = new GroupLayout(contentPane);
 
 		gl_contentPane.setHorizontalGroup(
