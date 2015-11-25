@@ -2,33 +2,56 @@ package gen;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 
-import org.eclipse.emf.common.util.URI;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.transform.OutputKeys;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
+
 import org.eclipse.emf.ecore.EClass;
 import org.eclipse.emf.ecore.EClassifier;
-import org.eclipse.emf.ecore.EObject;
-import org.eclipse.emf.ecore.EStructuralFeature;
-import org.eclipse.emf.ecore.resource.Resource;
-import org.eclipse.emf.ecore.util.EcoreUtil;
-import org.eclipse.emf.ecore.xmi.impl.XMIResourceFactoryImpl;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Node;
 
-import DataModel.DataModelPackage;
+import DataModel.ParserPackage;
 
 public class PopulateModel {
+	
+	DocumentBuilderFactory factory;
+	DocumentBuilder builder;
 	
 	public void populateModel() {
 		
 		try {
 			
-			parse(Jsoup.parse(new File("data/source/01/FR940104.0"), "UTF-8"));
+			Files.walk(Paths.get("data/source/")).forEach(filePath -> {
+				
+				if(Files.isRegularFile(filePath)) {
+					
+					File theFile = filePath.toFile();
+					
+					if(theFile.getName().startsWith("FR")) {
+					
+						try {
+							System.out.println("Current File: " + filePath);
+							parse(Jsoup.parse(theFile, "UTF-8"));
+						} catch (Exception e) {
+							e.printStackTrace();
+						}
+					
+					}
+					
+				}
+				
+			});
 			
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -38,101 +61,114 @@ public class PopulateModel {
 
 	private void parse(Document doc) {
 		
-		List<EObject> eObjects = new ArrayList<EObject>();
-		EClass eClass = null;
 		boolean firstRun = true;
 		boolean inDoc = false;
 		String newFileName = "";
+		
+		//Set Up XML
+		org.w3c.dom.Document xmlDoc = null;
+		org.w3c.dom.Element rootElem = null;
+		
+		try {
+			factory = DocumentBuilderFactory.newInstance();
+			builder = factory.newDocumentBuilder();
+		} catch(Exception e) {
+			e.printStackTrace();
+		}
 		
 		for(Element e : doc.getAllElements()) {
 			
 			String currentNode = e.nodeName();
 			
-			EClassifier eClassifier = DataModelPackage.eINSTANCE.getEClassifier(currentNode);
+			EClassifier eClassifier = ParserPackage.eINSTANCE.getEClassifier(currentNode);
 			if (eClassifier instanceof EClass && firstRun){
 				
-				System.out.println("----------\n START OF DOC \n----------");
+				//System.out.println("----------\n START OF DOC \n----------");
 				
 				firstRun = false;
 				inDoc = true;
-				System.out.println("Adding: " + currentNode);
-				eClass = (EClass)eClassifier;
+				
+				xmlDoc = builder.newDocument();
+				
+				rootElem = xmlDoc.createElement("doc");
+				xmlDoc.appendChild(rootElem);
 				
 			} else if (eClassifier instanceof EClass && !firstRun) { //new doc tag
 				
-				//save old stuff
+				saveData(newFileName, xmlDoc);
 				
-				saveData(newFileName, eObjects);
+				//System.out.println("----------\n START OF DOC \n----------");
 				
-				System.out.println("----------\n START OF DOC \n----------");
+				xmlDoc = builder.newDocument();
 				
-				System.out.println("Adding: " + currentNode);
-				eClass = (EClass)eClassifier;
+				rootElem = xmlDoc.createElement("doc");
+				xmlDoc.appendChild(rootElem);
 				
 			} else if(inDoc) {
 				
-				System.out.println("Node Name: " + currentNode);
+				//System.out.println("Node Name: " + currentNode);
 				
-				EObject eObject = EcoreUtil.create(eClass);
 				String currentAttribute = "";
+				
+				org.w3c.dom.Element currentNodeElem = xmlDoc.createElement(currentNode.toString());
+				rootElem.appendChild(currentNodeElem);
 				
 				for(Node n : e.childNodes()) {
 					
 					String attr = n.attributes().get("text").trim();
-					
-					if(!attr.equals(""))
-						currentAttribute = currentAttribute + attr + "\n\n";
-					
+					attr = attr.replace("\n", " ");
+					attr = attr.replace("&hyph;", "-");
+					attr = attr.replace("hyph;", "-");
+						
+					currentAttribute = attr;
+
+					if(!attr.equals("")) {
+						org.w3c.dom.Element paraElem = xmlDoc.createElement("textblock");
+						paraElem.appendChild(xmlDoc.createTextNode(attr));
+						currentNodeElem.appendChild(paraElem);
+					}
 				}
 				
-				//System.out.println(currentAttribute);
-				
 				if(currentNode.equals("docno"))
-					newFileName = "data/converted/" + currentAttribute.trim() + ".xmi";
-				
-				eObject.eSet(findFeature(currentNode, eClass), currentAttribute.trim());
-				eObjects.add(eObject);
+					newFileName = "data/converted/" + currentAttribute.trim() + ".xml";
 				
 			}
 			
 		}
 		
-		saveData(newFileName, eObjects);
+		saveData(newFileName, xmlDoc);
 		
 	}
 	
-	private void saveData(String newFileName, List<EObject> eObjects) {
+	private void saveData(String newFileName, org.w3c.dom.Document xmlDoc) {
 		
-		System.out.println("----------\n END OF DOC \n----------");
+		//System.out.println("----------\n END OF DOC \n----------");
 		
 		try {
-			URI output = URI.createFileURI(newFileName);
-			Resource ecore = new XMIResourceFactoryImpl().createResource(output);
-			ecore.getContents().addAll(eObjects);
-			ecore.save(Collections.EMPTY_MAP);
-		} catch(Exception exception) {
-			exception.printStackTrace();
+			
+			TransformerFactory tranFact = TransformerFactory.newInstance();
+			Transformer transformer = tranFact.newTransformer();
+			transformer.setOutputProperty(OutputKeys.INDENT, "yes");
+			transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "2");
+			DOMSource source = new DOMSource(xmlDoc);
+			StreamResult result = new StreamResult(new File(newFileName));
+			transformer.transform(source, result);
+			
+		} catch(Exception e) {
+			e.printStackTrace();
 		}
-		
-		eObjects.clear();
-		
-	}
-	
-	private EStructuralFeature findFeature(String currentNode, EClass eClass) {
-		
-		for(EStructuralFeature f : eClass.getEStructuralFeatures())
-			if(f.getName().equals(currentNode))
-				return f;
-		
-		return null;
 		
 	}
 	
 	public static void main(String[] args) {
 		
+		System.out.println("BEGIN");
+		
 		PopulateModel modelPop = new PopulateModel();
 		
 		modelPop.populateModel();
+		
+		System.out.println("COMPLETE");
 		
 	}
 
