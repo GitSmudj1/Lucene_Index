@@ -24,9 +24,12 @@ import javax.swing.JTextPane;
 import javax.swing.JScrollPane;
 import javax.swing.LayoutStyle.ComponentPlacement;
 
+import controller.RunListener;
+
 public class FirstResults extends JFrame {
 
 	private JPanel contentPane;
+	private ActionListener listener;
 
 	/**
 	 * Launch the application.
@@ -53,6 +56,8 @@ public class FirstResults extends JFrame {
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
+		
+		listener = new RunListener();
 
 		String label[] = { "Title", "Date", "Author"};
 
@@ -118,16 +123,17 @@ public class FirstResults extends JFrame {
 
 
 
-		JButton button = new JButton("BACK");
-		button.addActionListener(new ActionListener() 
-		{
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				new SearchEngine().setVisible(true);
-
-
-			}
-		});
+		JButton button = new JButton("Home");
+		button.addActionListener(listener);
+//		(new ActionListener() 
+//		{
+//			@Override
+//			public void actionPerformed(ActionEvent e) {
+//				new SearchEngine().setVisible(true);
+//
+//
+//			}
+//		});
 		GroupLayout gl_contentPane = new GroupLayout(contentPane);
 		gl_contentPane.setHorizontalGroup(
 				gl_contentPane.createParallelGroup(Alignment.LEADING)

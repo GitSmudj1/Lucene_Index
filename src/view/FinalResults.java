@@ -16,9 +16,13 @@ import javax.swing.GroupLayout.Alignment;
 import javax.swing.JButton;
 import javax.swing.LayoutStyle.ComponentPlacement;
 
+import controller.RunListener;
+
 public class FinalResults extends JFrame {
 
 	private JPanel contentPane;
+	private ActionListener listener;
+	
 
 	/**
 	 * Launch the application.
@@ -46,18 +50,21 @@ public class FinalResults extends JFrame {
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		
+		listener = new RunListener();
+		
 		JPanel panel = new JPanel();
 		
-		JButton btnNewButton = new JButton("BACK");
-		btnNewButton.addActionListener(new ActionListener() 
-		{
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				new FirstResults().setVisible(true);
-				
-				
-			}
-		});
+		JButton btnNewButton = new JButton("Back");
+		btnNewButton.addActionListener(listener);
+//		(new ActionListener() 
+//		{
+//			@Override
+//			public void actionPerformed(ActionEvent e) {
+//				new FirstResults().setVisible(true);
+//				
+//				
+//			}
+//		});
 		GroupLayout gl_contentPane = new GroupLayout(contentPane);
 		gl_contentPane.setHorizontalGroup(
 			gl_contentPane.createParallelGroup(Alignment.LEADING)
