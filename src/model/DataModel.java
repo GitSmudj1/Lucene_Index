@@ -8,15 +8,27 @@ import java.util.Date;
 public interface DataModel {
     String getDoc();
 
-    String getTitle();
+    static String getTitle() {
+		// Testing
+    	System.out.println("Title");
+		return null;
+	}
 
-    Date getDate();
+    static Date getDate() {
+		// Testing
+    	System.out.println("Date");
+		return null;
+	}
 
     String getDept();
 
     String getBureau();
 
-    String getAgency();
+    static String getAgency() {
+		// Testing
+    	System.out.println("Agency");
+		return null;
+	}
 
     String getAction();
 

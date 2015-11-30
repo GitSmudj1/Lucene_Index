@@ -3,10 +3,12 @@ package view;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
+import java.awt.Point;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -24,12 +26,14 @@ import javax.swing.JTextPane;
 import javax.swing.JScrollPane;
 import javax.swing.LayoutStyle.ComponentPlacement;
 
+import controller.ResultsListener;
 import controller.RunListener;
 
 public class FirstResults extends JFrame {
 
 	private JPanel contentPane;
 	private ActionListener listener;
+	private MouseListener ml;
 
 	/**
 	 * Launch the application.
@@ -58,6 +62,7 @@ public class FirstResults extends JFrame {
 		setContentPane(contentPane);
 		
 		listener = new RunListener();
+		ml = new ResultsListener();
 
 		String label[] = { "Title", "Date", "Author"};
 
@@ -93,31 +98,32 @@ public class FirstResults extends JFrame {
 
 		JScrollPane scrollPane_1 = new JScrollPane();
 
-		list.addMouseListener(new MouseAdapter() {
-		    public void mouseClicked(MouseEvent evt) {
-		        JList list = (JList)evt.getSource();
-		        if (evt.getClickCount() == 2) {
-
-		            // Double-click detected
-		            int index = list.locationToIndex(evt.getPoint());
-		            System.out.println(index);
-		            if(index == 0){
-		            	scrollPane_1.setViewportView(titleList);
-		            }
-		            if(index == 1){
-		            	scrollPane_1.setViewportView(dateList);
-		            }
-		            if(index == 2){
-		            	scrollPane_1.setViewportView(authorList);
-		            }
-		            
-		        } else if (evt.getClickCount() == 3) {
-
-		            // Triple-click detected
-		            int index = list.locationToIndex(evt.getPoint());
-		        }
-		    }
-		});
+		list.addMouseListener(ml);
+//		list.addMouseListener(new MouseAdapter() {
+//		    public void mouseClicked(MouseEvent evt) {
+//		        JList list = (JList)evt.getSource();
+//		        if (evt.getClickCount() == 2) {
+//
+//		            // Double-click detected
+//		            int index = list.locationToIndex(evt.getPoint());
+//		            System.out.println(index);
+//		            if(index == 0){
+//		            	scrollPane_1.setViewportView(titleList);
+//		            }
+//		            if(index == 1){
+//		            	scrollPane_1.setViewportView(dateList);
+//		            }
+//		            if(index == 2){
+//		            	scrollPane_1.setViewportView(authorList);
+//		            }
+//		            
+//		        } else if (evt.getClickCount() == 3) {
+//
+//		            // Triple-click detected
+//		            int index = list.locationToIndex(evt.getPoint());
+//		        }
+//		    }
+//		});
 
 
 
@@ -158,12 +164,6 @@ public class FirstResults extends JFrame {
 						.addContainerGap())
 				);
 		contentPane.setLayout(gl_contentPane);
-
-
-
-
-
-
 
 	}
 }
