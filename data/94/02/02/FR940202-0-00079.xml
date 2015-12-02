@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00079</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>Example 8. Variable rate based on the cost of borrowed</textblock>
+    <textblock>funds in a foreign currency.</textblock>
+    <textblock>Y issues a 5-year dollar</textblock>
+    <textblock>denominated debt instrument that provides for annual interest</textblock>
+    <textblock>payments at a rate equal to the value of 1-year French franc</textblock>
+    <textblock>LIBOR as of the payment date. Variations in the value of French</textblock>
+    <textblock>franc LIBOR do not measure contemporaneous changes in the cost of</textblock>
+    <textblock>newly borrowed funds in dollars. As a result, the rate is not a</textblock>
+    <textblock>qualified floating rate for an instrument denominated in dollars.</textblock>
+    <textblock>However, because French franc LIBOR is a qualified floating rate</textblock>
+    <textblock>for a debt instrument denominated in French francs, the rate is</textblock>
+    <textblock>an objective rate.</textblock>
+    <textblock>Example 9. Qualified inverse floating rate.</textblock>
+    <textblock>X issues a</textblock>
+    <textblock>debt instrument that provides for annual interest payments at the</textblock>
+    <textblock>end of each year at a rate equal to 12 percent minus the value of</textblock>
+    <textblock>1-year LIBOR as of the payment date. On the issue date, the</textblock>
+    <textblock>value of 1-year LIBOR is 6 percent. Because the rate can</textblock>
+    <textblock>reasonably be expected to inversely reflect contemporaneous</textblock>
+    <textblock>variations in the cost of newly borrowed funds, it is a qualified</textblock>
+    <textblock>inverse floating rate. However, if the value of 1-year LIBOR on</textblock>
+    <textblock>the issue date was 11 percent rather than 6 percent, the rate</textblock>
+    <textblock>would not be a qualified inverse floating rate because the rate</textblock>
+    <textblock>could not reasonably be expected to inversely reflect</textblock>
+    <textblock>contemporaneous variations in the cost of newly borrowed funds.</textblock>
+    <textblock>(e)</textblock>
+    <textblock>Qualified stated interest and OID with respect to a</textblock>
+    <textblock>variable rate debt instrument_</textblock>
+    <textblock>(1)</textblock>
+    <textblock>In general.</textblock>
+    <textblock>This paragraph</textblock>
+    <textblock>(e) provides rules to determine the amount and accrual of OID and</textblock>
+    <textblock>qualified stated interest on a variable rate debt instrument. In</textblock>
+    <textblock>general, the rules convert the debt instrument into a fixed rate</textblock>
+    <textblock>debt instrument and then apply the general OID rules to the debt</textblock>
+    <textblock>instrument. The issue price of a variable rate debt instrument,</textblock>
+    <textblock>however, is not determined under this paragraph (e). See</textblock>
+    <textblock>§§1.1273-2 and 1.1274-2 to determine the issue price of a</textblock>
+    <textblock>variable rate debt instrument.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Variable rate debt instrument that provides for annual</textblock>
+    <textblock>payments of interest at a single variable rate.</textblock>
+    <textblock>If a variable</textblock>
+    <textblock>rate debt instrument provides for stated interest at a single</textblock>
+    <textblock>qualified floating rate or objective rate that is unconditionally</textblock>
+    <textblock>payable in cash or in property (other than debt instruments of</textblock>
+    <textblock>the issuer), or that will be constructively received under</textblock>
+    <textblock>section 451, at least annually_</textblock>
+    <textblock>(i) All stated interest with respect to the debt instrument</textblock>
+    <textblock>is qualified stated interest; and</textblock>
+    <textblock>(ii) The amount of OID, if any, is determined under the</textblock>
+    <textblock>rules applicable to fixed rate debt instruments by assuming that</textblock>
+    <textblock>the variable rate is a fixed rate equal to_</textblock>
+    <textblock>(A) In the case of a qualified floating rate or qualified</textblock>
+    <textblock>inverse floating rate, the value, as of the issue date, of the</textblock>
+    <textblock>qualified floating rate or qualified inverse floating rate; or</textblock>
+    <textblock>(B) In the case of an objective rate (other than a qualified</textblock>
+    <textblock>inverse floating rate), a fixed rate that reflects the yield that</textblock>
+    <textblock>is reasonably expected for the debt instrument.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>All other variable rate debt instruments except for</textblock>
+    <textblock>those that provide for a fixed rate.</textblock>
+    <textblock>If a variable rate debt</textblock>
+    <textblock>instrument is not described in paragraph (e)(2) of this section</textblock>
+    <textblock>and does not provide for interest payable at a fixed rate (other</textblock>
+    <textblock>than an initial fixed rate described in paragraph (a)(3)(ii) of</textblock>
+    <textblock>this section), the amount of interest and OID accruals for the</textblock>
+    <textblock>instrument are determined under this paragraph (e)(3).</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Step one: Determine the fixed rate substitute for each</textblock>
+    <textblock>variable rate provided under the debt instrument_</textblock>
+    <textblock>(A)</textblock>
+    <textblock>Qualified</textblock>
+    <textblock>floating rate.</textblock>
+    <textblock>The fixed rate substitute for each qualified</textblock>
+    <textblock>floating rate provided for in the debt instrument is the value of</textblock>
+    <textblock>each rate as of the issue date. If, however, a variable rate</textblock>
+    <textblock>debt instrument provides for two or more qualified floating rates</textblock>
+    <textblock>with different intervals between interest adjustment dates, the</textblock>
+    <textblock>fixed rate substitutes for the rates must be based on intervals</textblock>
+    <textblock>that are equal in length. For example, if a 4-year debt</textblock>
+    <textblock>instrument provides for 24 monthly interest payments based on the</textblock>
+    <textblock>value of the 30-day commercial paper rate on each payment date</textblock>
+    <textblock>followed by 8 quarterly interest payments based on the value of</textblock>
+    <textblock>quarterly LIBOR on each payment date, the fixed rate substitutes</textblock>
+    <textblock>may be based on the values, as of the issue date, of the 90-day</textblock>
+    <textblock>commercial paper rate and quarterly LIBOR. Alternatively, the</textblock>
+    <textblock>fixed rate substitutes may be based on the values, as of the</textblock>
+    <textblock>issue date, of the 30-day commercial paper rate and monthly</textblock>
+    <textblock>LIBOR.</textblock>
+    <textblock>(B)</textblock>
+    <textblock>Qualified inverse floating rate.</textblock>
+    <textblock>The fixed rate</textblock>
+    <textblock>substitute for a qualified inverse floating rate is the value of</textblock>
+    <textblock>the qualified inverse floating rate as of the issue date.</textblock>
+    <textblock>(C)</textblock>
+    <textblock>Objective rate.</textblock>
+    <textblock>The fixed rate substitute for an</textblock>
+    <textblock>objective rate (other than a qualified inverse floating rate) is</textblock>
+    <textblock>a fixed rate that reflects the yield that is reasonably expected</textblock>
+    <textblock>for the debt instrument.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Step two: Construct the equivalent fixed rate debt</textblock>
+    <textblock>instrument.</textblock>
+    <textblock>The equivalent fixed rate debt instrument has terms</textblock>
+    <textblock>that are identical to those provided under the variable rate debt</textblock>
+    <textblock>instrument, except that the equivalent fixed rate debt instrument</textblock>
+    <textblock>provides for the fixed rate substitutes (determined in paragraph</textblock>
+    <textblock>(e)(3)(i) of this section) in lieu of the qualified floating</textblock>
+    <textblock>rates or objective rate provided under the variable rate debt</textblock>
+    <textblock>instrument.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Step three: Determine the amount of qualified stated</textblock>
+    <textblock>interest and OID with respect to the equivalent fixed rate debt</textblock>
+    <textblock>instrument.</textblock>
+    <textblock>The amount of qualified stated interest and OID, if</textblock>
+    <textblock>any, are determined for the equivalent fixed rate debt instrument</textblock>
+    <textblock>under the rules applicable to fixed rate debt instruments and are</textblock>
+    <textblock>taken into account as if the holder held the equivalent fixed</textblock>
+    <textblock>rate debt instrument.</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Step four: Make appropriate adjustments for actual</textblock>
+    <textblock>variable rates.</textblock>
+    <textblock>Qualified stated interest or OID allocable to an</textblock>
+    <textblock>accrual period must be increased (or decreased) if the interest</textblock>
+    <textblock>actually accrued or paid during an accrual period exceeds (or is</textblock>
+    <textblock>less than) the interest assumed to be accrued or paid during the</textblock>
+    <textblock>accrual period under the equivalent fixed rate debt instrument.</textblock>
+    <textblock>This increase or decrease is an adjustment to qualified stated</textblock>
+    <textblock>interest for the accrual period if the equivalent fixed rate debt</textblock>
+    <textblock>instrument (as determined under paragraph (e)(3)(ii) of this</textblock>
+    <textblock>section) provides for qualified stated interest and the increase</textblock>
+    <textblock>or decrease is reflected in the amount actually paid during the</textblock>
+    <textblock>accrual period. Otherwise, this increase or decrease is an</textblock>
+    <textblock>adjustment to OID for the accrual period.</textblock>
+  </text>
+</doc>

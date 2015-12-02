@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940112-0-00136</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940112-0-00024</textblock>
+  </parent>
+  <text>
+    <textblock>(h) When upper and lower case or all lowercase letters are used in SI metric symbols, it is the uppercase ``L,'' lowercase ``d,'' or their equivalent in the print or type used that shall meet the minimum height requirement. Other letters and exponents must be presented in the same type style and in proportion to the type size used. However, no letter shall be less than 1.6 mm (1/16 inch) in height.</textblock>
+    <textblock>§500.22</textblock>
+    <textblock>Abbreviations.</textblock>
+    <textblock>The following abbreviations and none other may be employed in the required net quantity declaration:</textblock>
+    <textblock>Inch_in.</textblock>
+    <textblock>Feet or foot_ft.</textblock>
+    <textblock>Fluid_fl.</textblock>
+    <textblock>Liquid_liq.</textblock>
+    <textblock>Ounce_oz.</textblock>
+    <textblock>Gallon_gal.</textblock>
+    <textblock>Pint_pt.</textblock>
+    <textblock>Pound_lb.</textblock>
+    <textblock>Quart_qt.</textblock>
+    <textblock>Square_sq.</textblock>
+    <textblock>Weight_wt.</textblock>
+    <textblock>Yard_yd.</textblock>
+    <textblock>Avoirdupois_avdp.</textblock>
+    <textblock>Cubic_cu.</textblock>
+    <textblock>Note:</textblock>
+    <textblock>Periods and plural forms shall be optional.</textblock>
+    <textblock>§500.23</textblock>
+    <textblock>Expression of net quantity of contents in SI Metric units.</textblock>
+    <textblock>(a) The selected multiple or submultiple prefixes for SI metric units shall result in numerical values between 1 and 1000, except that centimeters or millimeters may be used where a length declaration is less than 100 centimeters. For example, ``1.96 kg'' instead of ``1960 g'' and ``750 mL'' instead of ``0.75 L''.</textblock>
+    <textblock>(b) The following symbols for SI metric units and none others may be employed in the required net quantity declaration:</textblock>
+    <textblock>centimeter_cm</textblock>
+    <textblock>cubic centimeter_cm3</textblock>
+    <textblock>cubic decimeter_dm3</textblock>
+    <textblock>meter_m</textblock>
+    <textblock>milligram_mg</textblock>
+    <textblock>liter_L or l</textblock>
+    <textblock>milliliter_mL or ml</textblock>
+    <textblock>square decimeter_dm2</textblock>
+    <textblock>cubic meter_m3</textblock>
+    <textblock>kilogram_kg</textblock>
+    <textblock>micrometer_μm</textblock>
+    <textblock>gram_g</textblock>
+    <textblock>millimeter_mm</textblock>
+    <textblock>square meter_m2</textblock>
+    <textblock>square centimeter_cm2</textblock>
+    <textblock>Note:</textblock>
+    <textblock>Symbols, except for liter, are not capitalized. Periods should not be used after the symbol. Symbols are always written in the singular form.</textblock>
+    <textblock>§500.24</textblock>
+    <textblock>Supplemental statements.</textblock>
+    <textblock>Nothing contained in the regulations in this part shall prohibit supplemental statements, at locations other than the principal display panel, describing in non-deceptive terms the net quantity of contents:</textblock>
+    <textblock>Provided</textblock>
+    <textblock>that such supplemental statements of net quantity of contents shall not include any term qualifying a unit of weight or mass, measure, or count that tends to exaggerate the amount of commodity contained in the package. (Examples of prohibited language are: ``Giant Quart,'' ``Jumbo Liter,'' ``Full Gallon,'' ``When Packed,'' ``Minimum,'' or words of similar import.) Required combination declarations of net quantity of contents (for example, a combination of net weight or mass plus numerical count, numerical count plus dimensions of the commodity, etc.) are not regarded as supplemental net quantity statements and shall be located on the principal display panel. Dilution directions or other similar directions for use are not regarded as supplemental net quantity statements and may be located on the principal display panel. Size characterizations in compliance with standards promulgated under section 5(c)(1) of the Act may appear on the principal display panel.</textblock>
+    <textblock>§500.25</textblock>
+    <textblock>Net quantity, average quantity, permitted variations.</textblock>
+    <textblock>(a) The statement of net quantity of contents shall accurately reveal the quantity of the commodity in the container exclusive of wrappers and other material packed therewith:</textblock>
+    <textblock>Provided,</textblock>
+    <textblock>that in the case of a commodity packed in a container designed to deliver the commodity under pressure, the statement shall declare the net quantity of the contents that will be expelled when the instructions for use are followed. The propellant is included in the net quantity statement.</textblock>
+    <textblock>(b) Variations from the stated weight or mass or measure shall be permitted when caused by ordinary and customary exposure, after the commodity is introduced into interstate commerce, to conditions which normally occur in good distribution practice and which unavoidably result in change of weight or mass or measure.</textblock>
+    <textblock>(c) Variations from the stated weight or mass, measure, or numerical count shall be permitted when caused by unavoidable deviations in weighing, measuring, or counting the contents of individual packages which occur in good packaging practice:</textblock>
+    <textblock>Provided,</textblock>
+    <textblock>that such variations shall not be permitted to such extent that the average of the quantities in the packages comprising a shipment or other delivery of the commodity is below the quantity stated, and no unreasonable shortage in any package will be permitted even though overages in other packages in the same shipment or delivery compensate for such shortage. Variations from stated quantity of contents shall not be unreasonably large.</textblock>
+  </text>
+</doc>

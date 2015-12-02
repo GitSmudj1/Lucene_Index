@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00099</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00011</textblock>
+  </parent>
+  <text>
+    <textblock>(ii)</textblock>
+    <textblock>San Joaquin Basin Water Year Type.</textblock>
+    <textblock>Water year types in the San Joaquin River Basin are computed as follows:</textblock>
+    <textblock>(A) The San Joaquin Valley Index is computed according to the following formula:</textblock>
+    <textblock>I</textblock>
+    <textblock>SJ</textblock>
+    <textblock>=0.6X+0.2Y and 0.2Z</textblock>
+    <textblock>where I</textblock>
+    <textblock>SJ</textblock>
+    <textblock>=San Joaquin Valley Index</textblock>
+    <textblock>X = Current year's April-July San Joaquin Valley unimpaired runoff</textblock>
+    <textblock>Y = Current year's October-March San Joaquin Valley unimpaired runoff</textblock>
+    <textblock>Z = Previous year's index in MAF, not to exceed 0.9 MAF</textblock>
+    <textblock>(B)</textblock>
+    <textblock>Measuring San Joaquin Valley unimpaired runoff.</textblock>
+    <textblock>San Joaquin Valley unimpaired runoff for the current water year from the preceding year's October 1 to September 30 of the current calendar year) is a forecast of the sum of the following locations: Stanislaus River, total flow to New Melones Reservoir; Tuolumne River, total inflow to Don Pedro Reservoir; Merced River, total flow to Exchequer Reservoir; San Joaquin River, total inflow to Millerton Lake. Preliminary determinations of year classification shall be made in February, March and April with final determination in May. These preliminary determinations shall be based on hydrologic conditions to date plus forecasts of future runoff assuming normal precipitation for the remainder of the water year.</textblock>
+    <textblock>(C) San Joaquin Valley Water Year Type shall be categorized according to the following table:</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Water year.</textblock>
+    <textblock>A water year is the twelve calendar months beginning October 1.</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Sacramento basin water year type</textblock>
+    <textblock>1Sacramento basin index value</textblock>
+    <textblock>Wet (W)</textblock>
+    <textblock>≥ 9.2 MAF.</textblock>
+    <textblock>Above normal (AN)</textblock>
+    <textblock>&lt; 9.2 MAF, &gt; 7.8 MAF.</textblock>
+    <textblock>Below normal (BN)</textblock>
+    <textblock>&lt; 7.8 MAF, &gt; 6.5 MAF.</textblock>
+    <textblock>Dry (D)</textblock>
+    <textblock>&lt; 6.5 MAF, &gt; 5.4 MAF.</textblock>
+    <textblock>Critical (C)</textblock>
+    <textblock>&lt; 5.4 MAF.</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1San Joaquin valley water year type</textblock>
+    <textblock>1San Joaquin valley index value</textblock>
+    <textblock>Wet (W)</textblock>
+    <textblock>≥ 3.8 MAF.</textblock>
+    <textblock>Above normal (AN)</textblock>
+    <textblock>&lt; 3.8 MAF, &gt; 3.1 MAF.</textblock>
+    <textblock>Below normal (BN)</textblock>
+    <textblock>&lt; 3.1 MAF, &gt; 2.5 MAF.</textblock>
+    <textblock>Dry (D)</textblock>
+    <textblock>&lt; 2.5 MAF, &gt; 2.1 MAF.</textblock>
+    <textblock>Critical (C)</textblock>
+    <textblock>&lt; 2.1 MAF.</textblock>
+  </table>
+  <frfiling>
+    <textblock>[FR Doc. 94-120 Filed 1-5-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 6560-50-P</textblock>
+  </billing>
+</doc>

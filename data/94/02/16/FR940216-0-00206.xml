@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00206</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>where:</textblock>
+    <textblock>C</textblock>
+    <textblock>c</textblock>
+    <textblock>=concentration of spiked sample</textblock>
+    <textblock>C</textblock>
+    <textblock>o</textblock>
+    <textblock>=concentration of sample without spiking</textblock>
+    <textblock>C</textblock>
+    <textblock>s</textblock>
+    <textblock>=known concentration of spiking standard</textblock>
+    <textblock>V</textblock>
+    <textblock>o</textblock>
+    <textblock>=volume of sample</textblock>
+    <textblock>V</textblock>
+    <textblock>s</textblock>
+    <textblock>=volume of spiking standard added to the sample</textblock>
+    <textblock>(3)</textblock>
+    <textblock>If the percent recovery of a spiked sample is</textblock>
+    <textblock>outside the range of 100%</textblock>
+    <textblock>#</textblock>
+    <textblock>13% of the theoretical</textblock>
+    <textblock>concentration for methanol and ethanol, or 100%</textblock>
+    <textblock>#</textblock>
+    <textblock>16% for</textblock>
+    <textblock>t-butanol and MTBE, the sources of error in the analysis</textblock>
+    <textblock>should be determined, corrected, and all analyses subsequent</textblock>
+    <textblock>to and including the last analysis confirmed to be within</textblock>
+    <textblock>the compliance specifications must be repeated. The</textblock>
+    <textblock>specification limits for the accuracy of the percent</textblock>
+    <textblock>recovery of spiked sample analyses are minimum performance</textblock>
+    <textblock>requirements. The performance of individual laboratories</textblock>
+    <textblock>may indeed be better than these minimum requirements. For</textblock>
+    <textblock>this reason it is recommended that control charts be</textblock>
+    <textblock>utilized to monitor the variability of measurements in order</textblock>
+    <textblock>to optimally detect abnormal situations and ensure a stable</textblock>
+    <textblock>measurement process.</textblock>
+    <textblock>(9)(i) Prior to January 1, 1997, and when the</textblock>
+    <textblock>oxygenates present are limited to MTBE, ETBE, TAME, DIPE,</textblock>
+    <textblock>tertiary-amyl alcohol, and C</textblock>
+    <textblock>1</textblock>
+    <textblock>to C</textblock>
+    <textblock>4</textblock>
+    <textblock>alcohols, any refiner,</textblock>
+    <textblock>importer, or oxygenate blender may determine oxygen and</textblock>
+    <textblock>oxygenate content using ASTM standard method D-4815-93,</textblock>
+    <textblock>entitled ``Standard Test Method for Determination of MTBE,</textblock>
+    <textblock>ETBE, TAME, DIPE, tertiary-Amyl Alcohol and C</textblock>
+    <textblock>1</textblock>
+    <textblock>to C</textblock>
+    <textblock>4</textblock>
+    <textblock>Alcohols in Gasoline by Gas Chromatography,'' for purposes of</textblock>
+    <textblock>meeting any testing requirement; provided that</textblock>
+    <textblock>(ii) The refiner or importer test result is correlated</textblock>
+    <textblock>with the method set forth in paragraphs (g)(1) through</textblock>
+    <textblock>(g)(8) of this section.</textblock>
+    <textblock>(h)</textblock>
+    <textblock>Incorporations by reference.</textblock>
+    <textblock>ASTM standard</textblock>
+    <textblock>methods D-3606-92, D-1319-93, D-4815-93, D-2622-92, and D-86-90 with the exception of the degrees Fahrenheit figures</textblock>
+    <textblock>in Table 9 of D-86-90, are incorporated by reference. These</textblock>
+    <textblock>incorporations by reference were approved by the Director of</textblock>
+    <textblock>the Federal Register in accordance with 5 U.S.C. 552(A) and</textblock>
+    <textblock>1 CFR part 51. Copies may be obtained from the American</textblock>
+    <textblock>Society of Testing Materials, 1916 Race Street,</textblock>
+    <textblock>Philadelphia, PA 19103. Copies may be inspected at the Air</textblock>
+    <textblock>Docket Section (LE-131), room M-1500, U.S. Environmental</textblock>
+    <textblock>Protection Agency, Docket No. A-92-12, 401 M Street SW.,</textblock>
+    <textblock>Washington, DC 20460 or at the Office of the Federal</textblock>
+    <textblock>Register, 800 North Capitol Street, NW., suite 700,</textblock>
+    <textblock>Washington, DC.</textblock>
+    <textblock>§80.47</textblock>
+    <textblock>[Reserved]</textblock>
+    <textblock>§80.48</textblock>
+    <textblock>Augmentation of the complex emission model by</textblock>
+    <textblock>vehicle testing.</textblock>
+    <textblock>(a) The provisions of this section apply only if a</textblock>
+    <textblock>fuel claims emission reduction benefits from fuel parameters</textblock>
+    <textblock>that are not included in the complex emission model or</textblock>
+    <textblock>complex emission model database, or if the values of fuel</textblock>
+    <textblock>parameters included in the complex emission model set forth</textblock>
+    <textblock>in §80.45 fall outside the range of values for which the</textblock>
+    <textblock>complex emission model is deemed valid.</textblock>
+    <textblock>(b) To augment the complex emission model described at</textblock>
+    <textblock>§80.45, the following requirements apply:</textblock>
+    <textblock>(1) The petitioner must obtain prior approval from the</textblock>
+    <textblock>Administrator for the design of the test program before</textblock>
+    <textblock>beginning the vehicle testing process. To obtain approval,</textblock>
+    <textblock>the petitioner must at minimum provide the following</textblock>
+    <textblock>information: the fuel parameter to be evaluated for</textblock>
+    <textblock>emission effects; the number and description of vehicles to</textblock>
+    <textblock>be used in the test fleet, including model year, model name,</textblock>
+    <textblock>vehicle identification number (VIN), mileage, emission</textblock>
+    <textblock>performance (exhaust THC emission level), technology type,</textblock>
+    <textblock>and manufacturer; a description of the methods used to</textblock>
+    <textblock>procure and prepare the vehicles; the properties of the</textblock>
+    <textblock>fuels to be used in the testing program (as specified at</textblock>
+    <textblock>§80.49); the pollutants and emission categories intended to</textblock>
+    <textblock>be evaluated; the precautions used to ensure that the</textblock>
+    <textblock>effects of the parameter in question are independent of the</textblock>
+    <textblock>effects of other parameters already included in the model; a</textblock>
+    <textblock>description of the quality assurance procedures to be used</textblock>
+    <textblock>during the test program; the statistical analysis techniques</textblock>
+    <textblock>to be used in analyzing the test data, and the identity and</textblock>
+    <textblock>location of the organization performing the testing.</textblock>
+    <textblock>(2) Exhaust emissions shall be measured per the</textblock>
+    <textblock>requirements of this section and §80.49 through §80.62.</textblock>
+    <textblock>(3) The nonexhaust emission model (including</textblock>
+    <textblock>evaporative, running loss, and refueling VOC and toxics</textblock>
+    <textblock>emissions) shall not be augmented by vehicle testing.</textblock>
+    <textblock>(4) The Agency reserves the right to observe and</textblock>
+    <textblock>monitor any testing that is performed pursuant to the</textblock>
+    <textblock>requirements of this section.</textblock>
+    <textblock>(5) The Agency reserves the right to evaluate the</textblock>
+    <textblock>quality and suitability of data submitted pursuant to the</textblock>
+    <textblock>requirements of this section and to reject, re-analyze, or</textblock>
+    <textblock>otherwise evaluate such data as is technically warranted.</textblock>
+    <textblock>(6) Upon a showing satisfactory to the Administrator,</textblock>
+    <textblock>the Administrator may approve a petition to waive the</textblock>
+    <textblock>requirements of this section and §80.49, §80.50(a),</textblock>
+    <textblock>§80.60(d)(3), and §80.60(d)(4) in order to better optimize</textblock>
+    <textblock>the test program to the needs of the particular fuel</textblock>
+    <textblock>parameter. Any such waiver petition should provide</textblock>
+    <textblock>information justifying the requested waiver, including an</textblock>
+    <textblock>acceptable rationale and supporting data. Petitioners must</textblock>
+    <textblock>obtain approval from the Administrator prior to conducting</textblock>
+    <textblock>testing for which the requirements in question are waived.</textblock>
+    <textblock>The Administrator may waive the noted requirements in whole</textblock>
+    <textblock>or in part, and may impose appropriate conditions on any</textblock>
+    <textblock>such waiver.</textblock>
+    <textblock>(c) In the case of petitions to augment the complex</textblock>
+    <textblock>model defined at §80.45 with a new parameter, the effect of</textblock>
+    <textblock>the parameter being tested shall be determined separately,</textblock>
+    <textblock>for each pollutant and for each emitter class category. If</textblock>
+    <textblock>the parameter is not included in the complex model but is</textblock>
+    <textblock>represented in whole or in part by one or more parameters</textblock>
+    <textblock>included in the model, the petitioner shall be required to</textblock>
+    <textblock>demonstrate the emission effects of the parameter in</textblock>
+    <textblock>question independent of the effects of the already-included</textblock>
+    <textblock>parameters. The petitioner shall also have to demonstrate</textblock>
+    <textblock>the effects of the already-included parameters independent</textblock>
+    <textblock>of the effects of the parameter in question. The emission</textblock>
+    <textblock>performance of each vehicle on the fuels specified at</textblock>
+    <textblock>§80.49, as measured through vehicle testing in accordance</textblock>
+    <textblock>with §80.50 through §80.62, shall be analyzed to determine</textblock>
+    <textblock>the effects of the fuel parameter being tested on emissions</textblock>
+    <textblock>according to the following procedure:</textblock>
+  </text>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.005</textblock>
+  </import>
+</doc>

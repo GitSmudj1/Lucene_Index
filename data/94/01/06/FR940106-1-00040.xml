@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00040</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00008</textblock>
+  </parent>
+  <text>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Stop calibration, substitute proper</textblock>
+    <textblock>calibrating equipment, and restart calibration.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>Prior to completion of calibration.</textblock>
+    <textblock>5. Documentation of the certification/recertification of the</textblock>
+    <textblock>calibrating equipment shall be available to the authorized</textblock>
+    <textblock>officer at the time of calibration.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Provide documentation.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>20 days.</textblock>
+    <textblock>6. The accuracy of the recording device(s) shall be tested</textblock>
+    <textblock>following initial meter installation and following repairs.</textblock>
+    <textblock>Meters measuring more than 100 Mcf per day on a monthly basis</textblock>
+    <textblock>shall be tested at least quarterly. Meters measuring 100 Mcf per</textblock>
+    <textblock>day or less on a monthly basis shall be tested at least</textblock>
+    <textblock>semi-annually.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Test meter for accuracy.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>a. 24 hours for initial meter installation</textblock>
+    <textblock>or following repairs.</textblock>
+    <textblock>b. 30 days to conduct the quarterly or semi-annual meter test,</textblock>
+    <textblock>as applicable.</textblock>
+    <textblock>7. The authorized officer shall be notified in writing of all</textblock>
+    <textblock>meter calibrations. Calibration schedules covering monthly,</textblock>
+    <textblock>quarterly, semiannual, or annual periods shall be submitted at</textblock>
+    <textblock>least 10 days prior to the date of the first calibration on the</textblock>
+    <textblock>schedule.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Submit the calibration schedule, as</textblock>
+    <textblock>required.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>Prior to next calibration.</textblock>
+    <textblock>8. If the inaccuracy in the recording device(s) results in a</textblock>
+    <textblock>volume calculation more than 1 percent in error, the volume</textblock>
+    <textblock>measured since the last calibration shall be corrected. However,</textblock>
+    <textblock>if the magnitude of the volume error is less than 200 Mcf per</textblock>
+    <textblock>month, it will not be pursued unless it occurs on a continuing</textblock>
+    <textblock>basis. In that case, the meter shall be adjusted in accordance</textblock>
+    <textblock>with Sections III.D.2. and III.D.3. Also, the operator shall</textblock>
+    <textblock>submit a report adjusting the volumes of gas measured, and</textblock>
+    <textblock>showing or discussing all calculations made in correcting the</textblock>
+    <textblock>volumes. The volumes shall be corrected back to the time the</textblock>
+    <textblock>inaccuracy occurred, if known. If this time is unknown, volumes</textblock>
+    <textblock>shall be corrected for the last half of the period elapsed since</textblock>
+    <textblock>the date of last calibration.</textblock>
+    <textblock>Violation:</textblock>
+    <textblock>Minor.</textblock>
+    <textblock>Corrective Action:</textblock>
+    <textblock>Submit report with adjusted volumes.</textblock>
+    <textblock>Abatement Period:</textblock>
+    <textblock>60 days.</textblock>
+    <textblock>9. All meter calibration report forms shall include the</textblock>
+    <textblock>following information, if applicable, and shall be submitted to</textblock>
+    <textblock>the authorized officer upon request.</textblock>
+    <textblock>a. Name of producer or seller;</textblock>
+    <textblock>b. Name of purchaser;</textblock>
+    <textblock>c. Federal or Indian lease number, communitization agreement</textblock>
+    <textblock>number, or unit name or number and participating area</textblock>
+    <textblock>identification;</textblock>
+    <textblock>d. Station or meter number;</textblock>
+    <textblock>e. Meter data (make, differential, and static and temperature</textblock>
+    <textblock>range, recording period);</textblock>
+    <textblock>f. Type of connections (flange or pipe, upstream or downstream</textblock>
+    <textblock>static connections);</textblock>
+    <textblock>g. Orifice data (plate size and ID of meter tube);</textblock>
+    <textblock>h. Time and date of test;</textblock>
+    <textblock>i. Instrument error(s) found and certification of corrections,</textblock>
+    <textblock>and ``as found'' and ``as left'' data for all instruments;</textblock>
+  </text>
+</doc>

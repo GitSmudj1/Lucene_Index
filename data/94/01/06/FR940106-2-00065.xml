@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-2-00065</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-2-00035</textblock>
+  </parent>
+  <text>
+    <textblock>The October 7, 1992 final notice contained provisions relating to:</textblock>
+    <textblock>(1) Separate group limits for labor-related and nonlabor-related components of SNF per diem routine service costs;</textblock>
+    <textblock>(2) Adjustments to the cost limits by an area wage index developed from hospital industry wages;</textblock>
+    <textblock>(3) A ``market basket'' index developed to reflect changes in the price of goods and services purchased by SNFs;</textblock>
+    <textblock>(4) Application of the adjusted hospital wage index to wages, employee benefits, health service costs, costs of business services, and other miscellaneous expenses;</textblock>
+    <textblock>(5) Freestanding SNF cost limits set at 112 percent of the average per diem labor-related and nonlabor-related costs;</textblock>
+    <textblock>(6) Hospital-based SNF cost limits set at the limit for freestanding SNFs, plus 50 percent of the difference between the freestanding limit and 112 percent of the average per diem routine service costs of hospital-based SNFs, and an add-on for administrative and general (A&amp;G) costs;</textblock>
+    <textblock>(7) Cost-of-living adjustments for Alaska, Hawaii, Puerto Rico, and the Virgin Islands;</textblock>
+    <textblock>(8) Exceptions to the cost limits;</textblock>
+    <textblock>(9) A classification system based on whether the SNF is hospital-based or freestanding and whether it is located in an urban or rural area.</textblock>
+    <textblock>In addition to the above provisions, the October 7, 1992 final notice also provided for a per diem add-on to recognize the costs incurred by SNFs in complying with the additional nursing home reform requirements of section 1819 of the Act (including the costs of conducting nurse aide training and competency evaluations). (Section 1861(v)(1)(E) of the Act provides for Medicare payment for costs incurred by SNFs in complying with the requirements of section 1819 of the Act.) The October 7, 1992 notice also included an add-on to the cost limits to recognize the costs that SNFs may incur in meeting the universal precaution requirements of the Occupational Safety and Health Administration (OSHA). These requirements were described in a final rule published by OSHA in the</textblock>
+    <textblock>Federal Register</textblock>
+    <textblock>on December 6, 1991 (54 FR 64004) that set forth a standard under section 6(b) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655) to eliminate or minimize occupational exposure to bloodborne pathogens.</textblock>
+    <textblock>II. Provisions of This Final Notice With Comment Period</textblock>
+    <textblock>A. No Changes in the Cost Limits</textblock>
+    <textblock>On August 10, 1993, the Omnibus Budget Reconciliation Act of 1993 (OBRA '93), Public Law 103-66, was enacted. Section 13503(a)(1) of OBRA '93 requires that there be no changes in the SNF routine cost limits (except as may be necessary to take into account the elimination of the administrative and general add-on for hospital-based SNFs) for cost reporting periods beginning during Federal fiscal years (FY) 1994 and 1995, that is, for cost reporting periods beginning on or after October 1, 1993, and before October 1, 1995. The effect of this provision is that a SNF's latest routine cost limit for a period beginning on or after October 1, 1992 and before October 1, 1993, as calculated under the October 7, 1992 notice, without regard to any subsequent adjustments under section 1888(c) of the Act such as exceptions, will remain in effect until its cost reporting period beginning on or after October 1, 1995. Accordingly, there will be no changes to a SNF's cost limit for cost reporting periods beginning on or after October 1, 1993, and before October 1, 1995, to account for inflation, updates of the data, changes to the wage index or to MSA designations. Thus, in computing a provider's cost limit for cost reporting periods beginning on or after October 1, 1993 and before October 1, 1995, the cost reporting period adjustment factors that were to apply for cost reporting periods beginning on or after October 1, 1993, as set forth in Table IV of the October 7, 1992 notice (57 FR 46188), will not be used. Other components of the October 7, 1992 notice, specifically the SNF Group Limits in Table I, and the wage indexes in Tables II and III will continue to be used to compute the limits, with the exception in Table I of the add-on for administrative and general costs of hospital-based SNFs.</textblock>
+    <textblock>In the example below, a freestanding SNF in Dallas, Texas has a cost reporting period beginning date of January 1, 1993. As calculated under the October 7, 1992 notice, its cost limit for the 12-month period beginning January 1, 1993 is $96.97. Under the provisions of this notice, the cost limit of $96.97 will remain in effect for its 12-month cost reporting periods beginning January 1, 1994 and January 1, 1995. As explained above, the cost reporting period adjustment factors that would have been used under the October 7, 1992 notice for calculating the limits for the SNF's new cost reporting periods beginning January 1, 1994 and January 1, 1995, are not used. Accordingly, the provider in this example will not have any change in its cost limit until its cost reporting period beginning January 1, 1996.</textblock>
+    <textblock>Example_</textblock>
+    <textblock>Calculation of Adjusted Limit for a Freestanding SNF Located in Dallas, Texas (using the appropriate tables from the October 7, 1992 schedule of limits):</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>Labor-Related Component</textblock>
+    <textblock>$79.56</textblock>
+    <textblock>(Table I).</textblock>
+    <textblock>Wage Index</textblock>
+    <textblock>×0.9638</textblock>
+    <textblock>(Table II).</textblock>
+    <textblock>n,s,n</textblock>
+    <textblock>Adjusted Labor Component</textblock>
+    <textblock>$76.68</textblock>
+    <textblock>Nonlabor-Related Component</textblock>
+    <textblock>+17.08</textblock>
+    <textblock>(Table I).</textblock>
+    <textblock>Nursing Home Reform and OSHA Per Diem Add-On</textblock>
+    <textblock>+1.98.</textblock>
+    <textblock>n,s,n</textblock>
+    <textblock>Limit Prior To Inflation Adjustment $95.74</textblock>
+    <textblock>l</textblock>
+    <textblock>Adjustment Factor</textblock>
+    <textblock>×1.01286</textblock>
+    <textblock>(Table IV).</textblock>
+    <textblock>n,s,n</textblock>
+    <textblock>Inflation Adjusted Limit</textblock>
+    <textblock>$96.97</textblock>
+  </table>
+</doc>

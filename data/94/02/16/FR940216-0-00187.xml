@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00187</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>v</textblock>
+    <textblock>1</textblock>
+    <textblock>, v</textblock>
+    <textblock>2</textblock>
+    <textblock>=The equations defined in paragraphs (c)(1) (i) and</textblock>
+    <textblock>(ii) of this section</textblock>
+    <textblock>et=Collection of fuel parameters for the ``edge</textblock>
+    <textblock>target'' fuel. These parameters are defined in</textblock>
+    <textblock>paragraphs (c)(1)(iv)(C) and (D) of this section</textblock>
+    <textblock>v</textblock>
+    <textblock>1</textblock>
+    <textblock>(et)=The function v</textblock>
+    <textblock>1</textblock>
+    <textblock>evaluated with ``edge target'' fuel</textblock>
+    <textblock>parameters, which are defined in paragraphs</textblock>
+    <textblock>(c)(1)(iv)(C) and (D) of this section</textblock>
+    <textblock>v</textblock>
+    <textblock>2</textblock>
+    <textblock>(et)=The function v</textblock>
+    <textblock>2</textblock>
+    <textblock>evaluated with ``edge target'' fuel</textblock>
+    <textblock>parameters, which are defined in paragraphs</textblock>
+    <textblock>(c)(1)(iv)(C) and (D) of this section</textblock>
+    <textblock>v</textblock>
+    <textblock>1</textblock>
+    <textblock>(b)=The function v</textblock>
+    <textblock>1</textblock>
+    <textblock>evaluated with the appropriate</textblock>
+    <textblock>baseline fuel defined in paragraph (b)(2) of this</textblock>
+    <textblock>section</textblock>
+    <textblock>v</textblock>
+    <textblock>2</textblock>
+    <textblock>(b)=The function v</textblock>
+    <textblock>2</textblock>
+    <textblock>evaluated with the appropriate</textblock>
+    <textblock>baseline fuel defined in paragraph (b)(2) of this</textblock>
+    <textblock>section</textblock>
+    <textblock>E200</textblock>
+    <textblock>et</textblock>
+    <textblock>=The value of E200 for the ``edge target'' fuel, as</textblock>
+    <textblock>defined in paragraphs (c)(1)(iv)(C) and (D) of</textblock>
+    <textblock>this section</textblock>
+    <textblock>E300</textblock>
+    <textblock>et</textblock>
+    <textblock>=The value of E300 for the ``edge target'' fuel, as</textblock>
+    <textblock>defined in paragraphs (c)(1)(iv)(C) and (D) of</textblock>
+    <textblock>this section</textblock>
+    <textblock>ARO</textblock>
+    <textblock>et</textblock>
+    <textblock>=The value of ARO for the ``edge target'' fuel, as</textblock>
+    <textblock>defined in paragraphs (c)(1)(iv)(C) and (D) of</textblock>
+    <textblock>this section.</textblock>
+    <textblock>(C) During Phase I, the ``edge target'' fuel shall be</textblock>
+    <textblock>identical to the target fuel for all fuel parameters, with</textblock>
+    <textblock>the following exceptions:</textblock>
+    <textblock>(1)</textblock>
+    <textblock>If the E200 level of the target fuel is less than</textblock>
+    <textblock>33 volume percent, then the E200 value for the ``edge target''</textblock>
+    <textblock>fuel shall be set equal to 33 volume percent.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>If the aromatics level of the target fuel is less</textblock>
+    <textblock>than 18 volume percent, then the ARO value for the ``edge</textblock>
+    <textblock>target'' fuel shall be set equal to 18 volume percent.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>If the aromatics level of the target fuel is</textblock>
+    <textblock>greater than 46 volume percent, then the ARO value for the</textblock>
+    <textblock>``edge target'' fuel shall be set equal to 46 volume percent.</textblock>
+    <textblock>(4)</textblock>
+    <textblock>If the E300 level of the target fuel is less than</textblock>
+    <textblock>72 volume percent, then the E300 value for the ``edge target''</textblock>
+    <textblock>fuel shall be set equal to 72 volume percent.</textblock>
+    <textblock>(5)</textblock>
+    <textblock>If the E300 level of the target fuel is greater</textblock>
+    <textblock>than 95 volume percent, then the E300 value for the ``edge</textblock>
+    <textblock>target'' fuel shall be set equal to 95 volume percent.</textblock>
+    <textblock>(6)</textblock>
+    <textblock>If [80.32+(0.390×ARO)] exceeds 94 for the</textblock>
+    <textblock>target fuel, then the E300 value for the ``edge target'' fuel</textblock>
+    <textblock>shall be set equal to 94 volume percent.</textblock>
+    <textblock>(7)</textblock>
+    <textblock>If the E200 level of the target fuel is less than</textblock>
+    <textblock>33 volume percent, then</textblock>
+    <textblock>D</textblock>
+    <textblock>E200 shall be set equal to (E200^</textblock>
+    <textblock>33 volume percent).</textblock>
+    <textblock>(8)</textblock>
+    <textblock>If the E200 level of the target fuel equals or</textblock>
+    <textblock>exceeds 33 volume percent, then</textblock>
+    <textblock>D</textblock>
+    <textblock>E200 shall be set equal to</textblock>
+    <textblock>zero.</textblock>
+    <textblock>(9)</textblock>
+    <textblock>If the aromatics level of the target fuel is less</textblock>
+    <textblock>than 18 volume percent, then</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO shall be set equal to (ARO^18 volume percent). If the aromatics level of the target</textblock>
+    <textblock>fuel is less than 10 volume percent, then</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO shall be set</textblock>
+    <textblock>equal to 8 volume percent.</textblock>
+    <textblock>(10)</textblock>
+    <textblock>If the aromatics level of the target fuel is</textblock>
+    <textblock>greater than 46 volume percent, then</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO shall be set equal</textblock>
+    <textblock>to (ARO^46 volume percent).</textblock>
+    <textblock>(11)</textblock>
+    <textblock>If neither of the conditions established in</textblock>
+    <textblock>paragraphs (c)(1)(iv)(C)</textblock>
+    <textblock>(8)</textblock>
+    <textblock>and</textblock>
+    <textblock>(9)</textblock>
+    <textblock>of this section are met,</textblock>
+    <textblock>then</textblock>
+    <textblock>D</textblock>
+    <textblock>ARO shall be set equal to zero.</textblock>
+    <textblock>(12)</textblock>
+    <textblock>If the E300 level of the target fuel is less than</textblock>
+    <textblock>72 volume percent, then E300 shall be set equal to (E300^</textblock>
+    <textblock>72 volume percent).</textblock>
+    <textblock>(13)</textblock>
+    <textblock>If the E300 level of the target fuel is less than</textblock>
+    <textblock>94 volume percent and [80.32+(0.390×ARO)] also is</textblock>
+    <textblock>greater than 94, then</textblock>
+    <textblock>D</textblock>
+    <textblock>E300 shall be set equal to (E300^94</textblock>
+    <textblock>volume percent). If the E300 level of the target fuel is</textblock>
+    <textblock>greater than 95 volume percent and [80.32+(0.390×ARO)]</textblock>
+    <textblock>also is greater than 94, then</textblock>
+    <textblock>D</textblock>
+    <textblock>E300 shall be set equal to 1</textblock>
+    <textblock>volume percent.</textblock>
+    <textblock>(14)</textblock>
+    <textblock>If neither of the conditions established in</textblock>
+    <textblock>paragraphs (c)(1)(iv)(C)</textblock>
+    <textblock>(11)</textblock>
+    <textblock>and</textblock>
+    <textblock>(12)</textblock>
+    <textblock>of this section are</textblock>
+    <textblock>met, then</textblock>
+    <textblock>D</textblock>
+    <textblock>E300 shall be set equal to zero.</textblock>
+    <textblock>(D) During Phase II, the ``edge target'' fuel is</textblock>
+    <textblock>identical to the target fuel for all fuel parameters, with</textblock>
+    <textblock>the following exceptions:</textblock>
+    <textblock>(1)</textblock>
+    <textblock>If the E200 level of the target fuel is less than</textblock>
+    <textblock>33 volume percent, then the E200 value for the ``edge target''</textblock>
+    <textblock>fuel shall be set equal to 33 volume percent.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>If the aromatics level of the target fuel is less</textblock>
+    <textblock>than 18 volume percent, then the ARO value for the ``edge</textblock>
+    <textblock>target'' fuel shall be set equal to 18 volume percent.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>If the aromatics level of the target fuel is</textblock>
+    <textblock>greater than 46 volume percent, then the ARO value for the</textblock>
+    <textblock>``edge target'' fuel shall be set equal to 46 volume percent.</textblock>
+    <textblock>(4)</textblock>
+    <textblock>If the E300 level of the target fuel is less than</textblock>
+    <textblock>72 volume percent, then the E300 value for the ``edge target''</textblock>
+    <textblock>fuel shall be set equal to 72 volume percent.</textblock>
+    <textblock>(5)</textblock>
+    <textblock>If the E300 level of the target fuel is greater</textblock>
+    <textblock>than 95 volume percent, then the E300 value for the ``edge</textblock>
+    <textblock>target'' fuel shall be set equal to 95 volume percent.</textblock>
+    <textblock>(6)</textblock>
+    <textblock>If [79.75+(0.385×ARO)] exceeds 94 for the</textblock>
+    <textblock>target fuel, then the E300 value for the ``edge target'' fuel</textblock>
+    <textblock>shall be set equal to 94 volume percent.</textblock>
+  </text>
+</doc>

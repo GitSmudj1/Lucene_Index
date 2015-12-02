@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940112-0-00134</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940112-0-00024</textblock>
+  </parent>
+  <text>
+    <textblock>(d) For purposes of this section, the use of the terms ``capacity,'' ``diameter,'' and ``fluid'' is optional.</textblock>
+    <textblock>§500.17</textblock>
+    <textblock>Fractions.</textblock>
+    <textblock>(a) SI metric declarations of net quantity of contents of any consumer commodity may contain only decimal fractions. Other declarations of net quantity of contents may contain common or decimal fractions. A common fraction shall be in terms of halves, quarters, eighths, sixteenths, or thirty-seconds; except that:</textblock>
+    <textblock>(1) If there exists a firmly established general consumer usage and trade custom of employing different common fractions in the net quantity declaration of a particular commodity, they may be employed, and</textblock>
+    <textblock>(2) If linear measurements are required in terms of yards or feet, common fractions may be in terms of thirds. A common fraction shall be reduced to its lowest terms; a decimal fraction shall not be carried out to more than three places.</textblock>
+    <textblock>(b) If a statement includes small fractions, smaller variations in the actual size or weight of the commodity will be permitted as provided in §500.25, than in cases where the larger fractions or whole numbers are used.</textblock>
+    <textblock>§500.18</textblock>
+    <textblock>SI metric prefixes.</textblock>
+    <textblock>The following chart indicates SI prefixes that may be used on a broad range of consumer commodity labels:</textblock>
+    <textblock>§500.19</textblock>
+    <textblock>Conversion of SI metric quantities to inch/pound quantities and inch/pound quantities to SI metric quantities.</textblock>
+    <textblock>(a) For calculating the conversion of SI metric quantities to inch/pound quantities and inch/pound quantities to metric quantities, the factors in the following chart and none others shall be employed:</textblock>
+    <textblock>(b) The SI metric quantity declaration should be shown in three digits except where the quantity is below 100 grams, milliliters, centimeters, square centimeters or cubic centimeters, where it can be shown in two figures. In either case, any final zero appearing to the right of a decimal point need not be shown.</textblock>
+    <textblock>(</textblock>
+    <textblock>Examples:</textblock>
+    <textblock>``1 lb (453 g)'' not ``1 lb (453.592 g)''; ``Net Wt. 2 oz (56 g)'' or ``Net Wt 2 oz (56.6 g)'' not ``Net Wt. 2 oz (56.69 g)''.)</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Prefix</textblock>
+    <textblock>1Symbol</textblock>
+    <textblock>1Multiplying factor1</textblock>
+    <textblock>Kilo-</textblock>
+    <textblock>k</textblock>
+    <textblock>x 103</textblock>
+    <textblock>Deca-</textblock>
+    <textblock>da</textblock>
+    <textblock>x 10</textblock>
+    <textblock>Deci-</textblock>
+    <textblock>d</textblock>
+    <textblock>x 10^1</textblock>
+    <textblock>Centi-</textblock>
+    <textblock>c</textblock>
+    <textblock>x 10^2</textblock>
+    <textblock>Milli-</textblock>
+    <textblock>m</textblock>
+    <textblock>x 10^3</textblock>
+    <textblock>Micro-</textblock>
+    <textblock>μ</textblock>
+    <textblock>x 10^6</textblock>
+    <textblock>1102=100; 103=1000; 10^1=0.1; 10^2=0.01.</textblock>
+    <textblock>Thus, 2 kg=2x1000 g=2000 g, and 3 cm=3x0.01 m=0.03 m.</textblock>
+  </table>
+  <table>
+    <textblock>SI</textblock>
+    <textblock>Metric Inch/Pound Conversion Factors</textblock>
+    <textblock>1Inch/pound</textblock>
+    <textblock>1Metric</textblock>
+    <textblock>1</textblock>
+    <textblock>Length</textblock>
+    <textblock>0</textblock>
+    <textblock>s</textblock>
+    <textblock>1 mil=25.4 micrometers (μm)*</textblock>
+    <textblock>1 micrometer= 0.039370 mil.</textblock>
+    <textblock>1 inch=2.54 cm*</textblock>
+    <textblock>1 millimeter=0.039 370 in.</textblock>
+    <textblock>1 foot=30.48 cm*</textblock>
+    <textblock>1 centimeter=0.393 701 in.</textblock>
+    <textblock>1 yard=0.9144m*</textblock>
+    <textblock>1 meter=3.280 84 ft.</textblock>
+    <textblock>s</textblock>
+    <textblock>1</textblock>
+    <textblock>Area</textblock>
+    <textblock>0</textblock>
+    <textblock>s</textblock>
+    <textblock>1 square inch=6.4516 cm2*</textblock>
+    <textblock>1 square centimeter=0.155 000 in2.</textblock>
+    <textblock>1 square foot=929.0304 cm2*</textblock>
+    <textblock>1 square decimeter=0.107 639 ft2.</textblock>
+    <textblock>=9.290 304 dm2</textblock>
+    <textblock>1 square meter=10.763 9 ft2.</textblock>
+    <textblock>1 square yard=0.836 127 m2</textblock>
+    <textblock>s</textblock>
+    <textblock>1</textblock>
+    <textblock>Volume or Capacity</textblock>
+    <textblock>0</textblock>
+    <textblock>s</textblock>
+    <textblock>1 cubic inch=16.3871 cm3</textblock>
+    <textblock>1 cubic centimeter=0.061 023 7 in3.</textblock>
+    <textblock>1 cubic foot=0.028 316 8 m3</textblock>
+    <textblock>1 cubic decimeter=0.035 314 7 ft3.</textblock>
+    <textblock>=2.83 168 dm3</textblock>
+    <textblock>1 cubic meter=35.314 7 ft3.</textblock>
+    <textblock>1 cubic yard=0.764 555 m3</textblock>
+    <textblock>␣=1.307 95 yd3.</textblock>
+    <textblock>1 fluid ounce=29.573 5 mL</textblock>
+    <textblock>1 milliliter=0.033 814 0 fluid oz.</textblock>
+    <textblock>1 liquid pint=473.177 mL</textblock>
+    <textblock>1 liter=1.05669 liquid quart.</textblock>
+    <textblock>=0.473 177 L</textblock>
+    <textblock>1 liter=0.264 172 gallon.</textblock>
+    <textblock>1 liquid quart=946.353 mL</textblock>
+    <textblock>1 dry pint=550.610 5 mL.</textblock>
+    <textblock>=0.946 353 L</textblock>
+    <textblock>1 dry quart=1.101 221 L.</textblock>
+    <textblock>1 gallon=3.785 41 L</textblock>
+    <textblock>1 dry peck=8.809 768 L.</textblock>
+    <textblock>1 bushel=35.2391 L</textblock>
+    <textblock>s</textblock>
+    <textblock>1</textblock>
+    <textblock>Weight or Mass</textblock>
+    <textblock>0</textblock>
+    <textblock>s</textblock>
+    <textblock>1 ounce=28.349 5 g</textblock>
+    <textblock>1 milligram=0.000 035 274 0 oz.</textblock>
+    <textblock>1 pound=453.592 g</textblock>
+    <textblock>␣=0.015 432 4 grain.</textblock>
+    <textblock>=0.453 592 kg</textblock>
+    <textblock>1 gram=0.035 274 0 oz.</textblock>
+    <textblock>␣</textblock>
+    <textblock>1 kilogram=2.204 62 lb.</textblock>
+    <textblock>*Exactly.</textblock>
+    <textblock>Note:</textblock>
+    <textblock>These conversion factors are given to six significant digits to provide such accuracy when necessary.</textblock>
+  </table>
+</doc>

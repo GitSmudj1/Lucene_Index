@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940224-1-00040</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940224-1-00009</textblock>
+  </parent>
+  <text/>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>6._</textblock>
+    <textblock>Propane Base Fuel Specifications</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>RVP, psig, max</textblock>
+    <textblock>208</textblock>
+    <textblock>Evaporative temperature, 95%,</textblock>
+    <textblock>○F, max</textblock>
+    <textblock>^37</textblock>
+    <textblock>Propane, vol%, min</textblock>
+    <textblock>92.5</textblock>
+    <textblock>Propylene, vol%, max</textblock>
+    <textblock>5.0</textblock>
+    <textblock>Butane, vol%, max</textblock>
+    <textblock>2.5</textblock>
+    <textblock>Sulfur (odorant additive), ppmw, max</textblock>
+    <textblock>120</textblock>
+  </table>
+</doc>

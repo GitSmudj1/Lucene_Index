@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940104-1-00028</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940104-1-00004</textblock>
+  </parent>
+  <text>
+    <textblock>(4) The Storage Discounted Rate Record</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Item No.</textblock>
+    <textblock>1Item</textblock>
+    <textblock>1Character position</textblock>
+    <textblock>1Data type</textblock>
+    <textblock>1Comments</textblock>
+    <textblock>l</textblock>
+    <textblock>Schedule ID</textblock>
+    <textblock>1-2</textblock>
+    <textblock>Character</textblock>
+    <textblock>Sch=X1.</textblock>
+    <textblock>l</textblock>
+    <textblock>Record ID</textblock>
+    <textblock>3-4</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Code=04.</textblock>
+    <textblock>l</textblock>
+    <textblock>Sequence No</textblock>
+    <textblock>5-10</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Right justified, zero filled, see general instruction 3.</textblock>
+    <textblock>4</textblock>
+    <textblock>Contract ID</textblock>
+    <textblock>11-18</textblock>
+    <textblock>Character</textblock>
+    <textblock>See general instruction 6(b).</textblock>
+    <textblock>5</textblock>
+    <textblock>Request ID</textblock>
+    <textblock>19-25</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>See specific instruction 1.</textblock>
+    <textblock>35</textblock>
+    <textblock>Delivery Point ID</textblock>
+    <textblock>26-45</textblock>
+    <textblock>Character</textblock>
+    <textblock>See specific instruction 4 and note 3.</textblock>
+    <textblock>38</textblock>
+    <textblock>Billing Period</textblock>
+    <textblock>46-65</textblock>
+    <textblock>Character</textblock>
+    <textblock>The billing period during which the discounted rate was collected.</textblock>
+    <textblock>39</textblock>
+    <textblock>Duration of Discount</textblock>
+    <textblock>66-67</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Number of days in the billing period the discount was offered or provided.</textblock>
+    <textblock>14</textblock>
+    <textblock>Shipper</textblock>
+    <textblock>68-107</textblock>
+    <textblock>Character</textblock>
+    <textblock>Name of the shipper receiving storage service.</textblock>
+    <textblock>18</textblock>
+    <textblock>Shipper Type</textblock>
+    <textblock>108</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Code=1, LDC/distributor; code=2, interstate pipeline; code=3, intrastate pipeline; code=4, end user; code=5, producer; code=6, marketer; code=7, other, (specify in footnote).</textblock>
+    <textblock>42</textblock>
+    <textblock>Maximum Rate for Storage Capacity</textblock>
+    <textblock>109-118</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(Cents/MMbtu); format f(10,2); see specific instruction 5 for definition.</textblock>
+    <textblock>43</textblock>
+    <textblock>Maximum Rate for Maximum Storage Withdrawal Quantity</textblock>
+    <textblock>119-128</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(Cents/MMbtu); format f(10,2); see specific instruction 5 for definition</textblock>
+    <textblock>44</textblock>
+    <textblock>Maximum Storage Injection Rate</textblock>
+    <textblock>129-138</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(Cents/MMbtu); format f(10,2); see specific instruction 5 for definition.</textblock>
+    <textblock>45</textblock>
+    <textblock>Maximum Storage Withdrawal Rate</textblock>
+    <textblock>139-148</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(Cents/MMbtu); format f(10,2); see specific instruction 5 for definition.</textblock>
+    <textblock>46</textblock>
+    <textblock>Discounted Rate For Storage Capacity</textblock>
+    <textblock>149-158</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(Cents/MMbtu); format f(10,2); see specific instruction 6 for definition</textblock>
+    <textblock>47</textblock>
+    <textblock>Discounted Rate For Maximum Storage Withdrawal Quantity</textblock>
+    <textblock>159-168</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(Cents/MMbtu); format f(10,2); see specific instruction 6 for definition.</textblock>
+    <textblock>48</textblock>
+    <textblock>Discounted Storage Injection Rate</textblock>
+    <textblock>169-178</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(Cents/MMbtu); format f(10,2); see specific instruction 6 for definition</textblock>
+    <textblock>49</textblock>
+    <textblock>Discounted Storage Withdrawal Rate</textblock>
+    <textblock>179-188</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(Cents/MMbtu); format f(10,2); see specific instruction 6 for definition.</textblock>
+    <textblock>50</textblock>
+    <textblock>Discounted Storage Capacity Volume</textblock>
+    <textblock>189-198</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(MMbtu).</textblock>
+    <textblock>51</textblock>
+    <textblock>Discounted Maximum Storage Withdrawal Quantity</textblock>
+    <textblock>199-208</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(MMbtu).</textblock>
+    <textblock>52</textblock>
+    <textblock>Discounted Storage Injection Volume</textblock>
+    <textblock>209-218</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(MMbtu).</textblock>
+    <textblock>53</textblock>
+    <textblock>Discounted Storage Withdrawal Volume</textblock>
+    <textblock>219-228</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(MMbtu).</textblock>
+    <textblock>l</textblock>
+    <textblock>Posting Date</textblock>
+    <textblock>229-234</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(YYMMDD), year, month, and day entry is posted on pipeline's electronic bulletin board.</textblock>
+    <textblock>l</textblock>
+    <textblock>Footnote</textblock>
+    <textblock>235</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Code=1, footnote is provided for this record; Code=0, no footnote provided.</textblock>
+    <textblock>Note 3:</textblock>
+    <textblock>This record is filed for each delivery point actually used during the billing period reported. Only transactions actually discounted should be reported.</textblock>
+  </table>
+</doc>

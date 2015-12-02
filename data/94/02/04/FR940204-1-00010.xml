@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940204-1-00010</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940204-1-00001</textblock>
+  </parent>
+  <text>
+    <textblock>It should be noted that direct reserve values are not</textblock>
+    <textblock>available for hydroelectric or nuclear power. Thus,</textblock>
+    <textblock>relative scarcity values of .01 are assigned to each</textblock>
+    <textblock>since zero values would theoretically mean infinite</textblock>
+    <textblock>supplies of each exist.</textblock>
+    <textblock>5. Petroleum Equivalency Factor Calculation</textblock>
+    <textblock>The Petroleum Equivalency Factor terms, including the</textblock>
+    <textblock>driving pattern factor term, average national</textblock>
+    <textblock>electricity transmission efficiency term, accessory</textblock>
+    <textblock>factor term, and the electric generation output, input</textblock>
+    <textblock>and relative scarcity term, are multiplied together to</textblock>
+    <textblock>determine the proposed Petroleum Equivalency Factor</textblock>
+    <textblock>(Table V). The three different Petroleum Equivalency</textblock>
+    <textblock>Factor values reflect the three possible values of the</textblock>
+    <textblock>accessory factor.</textblock>
+  </text>
+  <table>
+    <textblock>Table IV._Calculation of Relative Scarcity Value, V</textblock>
+    <textblock>1Fuel source</textblock>
+    <textblock>1Years before depletion</textblock>
+    <textblock>1% of total (abundance)</textblock>
+    <textblock>11</textblock>
+    <textblock>2Abundance</textblock>
+    <textblock>1Relative scarcity, V</textblock>
+    <textblock>Crude Oil</textblock>
+    <textblock>34</textblock>
+    <textblock>.176</textblock>
+    <textblock>5.68</textblock>
+    <textblock>.487</textblock>
+    <textblock>Natural Gas</textblock>
+    <textblock>45</textblock>
+    <textblock>.233</textblock>
+    <textblock>4.29</textblock>
+    <textblock>.368</textblock>
+    <textblock>Coal</textblock>
+    <textblock>114</textblock>
+    <textblock>.591</textblock>
+    <textblock>1.69</textblock>
+    <textblock>.145</textblock>
+    <textblock>Nuclear</textblock>
+    <textblock>NA</textblock>
+    <textblock>NA</textblock>
+    <textblock>NA</textblock>
+    <textblock>.010</textblock>
+    <textblock>Hydro</textblock>
+    <textblock>NA</textblock>
+    <textblock>NA</textblock>
+    <textblock>NA</textblock>
+    <textblock>.010</textblock>
+    <textblock>n,s</textblock>
+    <textblock>Total</textblock>
+    <textblock>193</textblock>
+    <textblock>11.66</textblock>
+  </table>
+</doc>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00248</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(d)</textblock>
+    <textblock>Data collection and testing requirements_</textblock>
+    <textblock>(1)</textblock>
+    <textblock>Minimum sampling requirements.</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>General requirements.</textblock>
+    <textblock>(A) Data shall have been obtained for at least three months of the refiner's or importer's production of summer gasoline and at least three months of its production of winter gasoline.</textblock>
+    <textblock>(1)</textblock>
+    <textblock>A summer month shall be any month during which the refiner produced any gasoline which met the federal summer gasoline volatility requirements. Winter shall be any month which could not be considered a summer month.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>The three months which compose the summer and the winter data do not have to be consecutive nor within the same year.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>If, in 1990, a refiner marketed all of its gasoline only in an area or areas which experience no seasonal changes relative to gasoline requirements, e.g., Hawaii, only 3 months of data are required.</textblock>
+    <textblock>(B) Once the minimum sampling requirements have been met, data collection may cease. Additional data may only be included for the remainder of the calendar year in which the minimum sampling requirements were met. In any case, all available data collected up until the time data collection ceases must be utilized in the baseline determination.</textblock>
+    <textblock>(C) Less than the minimum requirements specified in paragraph (d)(1) of this section may be allowed, upon petition and approval (per §80.93), if it can be shown that the available data is sufficient in quality and quantity to use in the baseline determination.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Method 1 sampling requirements.</textblock>
+    <textblock>At least half of the batches, or shipments if not batch blended, in a calendar month shall have been sampled over a minimum of six months in 1990.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Method 2 sampling requirements.</textblock>
+    <textblock>(A) Continuous blendstock streams shall have been sampled at least weekly over a minimum of six months in 1990.</textblock>
+    <textblock>(B) For blendstocks produced on a batch basis, at least half of all batches of a single blendstock type produced in a calendar month shall have been sampled over a minimum of six months in 1990.</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Method 3 sampling requirements</textblock>
+    <textblock>_(A)</textblock>
+    <textblock>Blendstock data. (1)</textblock>
+    <textblock>Post-1990 continuous blendstock streams shall have been sampled at least weekly over a minimum of six months.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>For post-1990 blendstocks produced on a batch basis, at least half of all batches of a single blendstock type produced in a calendar month shall have been sampled over a minimum of six months.</textblock>
+    <textblock>(B)</textblock>
+    <textblock>Gasoline data.</textblock>
+    <textblock>At least half of the post-1990 batches, or shipments if not batch blended, in a calendar month shall have been sampled over a minimum of six months in order to use post-1990 gasoline data.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Sampling beyond today's date.</textblock>
+    <textblock>The necessity and actual occurrence of data collection after today's date must be shown.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Negligible quantity sampling.</textblock>
+    <textblock>Testing of a blendstock stream for a fuel parameter listed in this paragraph (d)(3) is not required if the refiner can show that the fuel parameter exists in the stream at less than or equal to the amount, on average, shown in this paragraph (d)(3) for that fuel parameter. Any fuel parameter shown to exist in a refinery stream in negligible amounts shall be assigned a value of 0.0:</textblock>
+    <textblock>Aromatics, volume percent_1.0</textblock>
+    <textblock>Benzene, volume percent_0.15</textblock>
+    <textblock>Olefins, volume percent_1.0</textblock>
+    <textblock>Oxygen, weight percent_0.2</textblock>
+    <textblock>Sulfur, ppm_30.0</textblock>
+    <textblock>(4)</textblock>
+    <textblock>Sample compositing.</textblock>
+    <textblock>(i) Samples of gasoline or blendstock which have been retained, but not analyzed, may be mixed prior to analysis and analyzed, as described in paragraphs (d)(4)(iii) (A) through (H) of this section, for the required fuel parameters. Samples must be from the same season and year and must be of a single grade or of a single type of batch-produced blendstock.</textblock>
+    <textblock>(ii) Blendstock samples of a single blendstock type obtained from continuous processes over a calendar month may be mixed together in equal volumes to form one blendstock sample and the sample subsequently analyzed for the required fuel parameters.</textblock>
+  </text>
+</doc>

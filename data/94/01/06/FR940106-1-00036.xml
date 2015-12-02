@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00036</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00008</textblock>
+  </parent>
+  <text>
+    <textblock>A. ``Authorized officer'' means any employee of the Bureau of</textblock>
+    <textblock>Land Management authorized to perform the duties described in 43</textblock>
+    <textblock>CFR Groups 3000 and 3100 (see 43 CFR 3000.0-5).</textblock>
+    <textblock>B. ``Business day'' means any day Monday through Friday</textblock>
+    <textblock>excluding Federal holidays.</textblock>
+    <textblock>C. ``Gas'' means any fluid, either combustible or</textblock>
+    <textblock>noncombustible, that is produced in a natural state from the</textblock>
+    <textblock>earth and that maintains a gaseous or rarefied state at standard</textblock>
+    <textblock>temperature and pressure conditions (see 43 CFR 3000.0-5(a)).</textblock>
+    <textblock>D. ``INC'' means incident of noncompliance, which serves as a</textblock>
+    <textblock>Notice of Violation under CFR subpart 3163.</textblock>
+    <textblock>E. ``Lessee'' means a person or entity holding record title in a</textblock>
+    <textblock>lease issued by the United States (see 43 CFR 3160.0-5).</textblock>
+    <textblock>F. ``Major violation'' means noncompliance that causes or</textblock>
+    <textblock>threatens immediate, substantial, and adverse impacts on public</textblock>
+    <textblock>health and safety, the environment, production accountability, or</textblock>
+    <textblock>royalty income (see 43 CFR 3160.0-5).</textblock>
+    <textblock>G. ``Meter uncertainty'' means the overall inaccuracy of a flow</textblock>
+    <textblock>meter caused by the inherent errors of the flow measurement</textblock>
+    <textblock>equipment.</textblock>
+    <textblock>H. ``Minor violation'' means noncompliance that does not rise to</textblock>
+    <textblock>the level of a major violation (see 43 CFR 3160.0-5).</textblock>
+    <textblock>I. ``Operating rights owner'' means a person or entity holding</textblock>
+    <textblock>operating rights in a lease issued by the United States. A</textblock>
+    <textblock>lessee also may be an operating rights owner if the operating</textblock>
+    <textblock>rights in a lease or portion thereof have not been severed from</textblock>
+    <textblock>record title.</textblock>
+    <textblock>J. ``Operator'' means any person or entity, including but not</textblock>
+    <textblock>limited to the lessee or operating rights owner, who has stated</textblock>
+    <textblock>in writing to the authorized officer that it is responsible under</textblock>
+    <textblock>the terms and conditions of the lease for the operations</textblock>
+    <textblock>conducted on the leased lands or portion thereof.</textblock>
+    <textblock>K. ``Production unit'' means, for purposes of reporting gas</textblock>
+    <textblock>production, a measurement unit of 1000 standard cubic feet (Mcf).</textblock>
+    <textblock>L. ``Standard cubic foot'' means the volume of gas contained in</textblock>
+    <textblock>one cubic foot at a base pressure of 14.73 pounds per square inch</textblock>
+    <textblock>absolute, and at a base temperature of 60</textblock>
+    <textblock>○ F or 519.67</textblock>
+    <textblock>○ Rankine</textblock>
+    <textblock>(see 43 CFR 3162.7-3).</textblock>
+    <textblock>III. Requirements</textblock>
+    <textblock>A. Required Recordkeeping</textblock>
+    <textblock>The operator shall keep all test data, meter reports, charts/recordings, or other similar records for 6 years from the date they were generated, unless the operator is notified that an audit or investigation involving</textblock>
+    <textblock>such records has been initiated. If the operator is notified</textblock>
+    <textblock>that an audit or investigation involving the records has been</textblock>
+    <textblock>initiated, the operator shall maintain the records until released</textblock>
+    <textblock>in writing from the obligation to maintain them. The authorized</textblock>
+    <textblock>officer may request, and the operator shall produce, such records</textblock>
+    <textblock>any time within this period. For electronic flow computers</textblock>
+    <textblock>(EFCs), this includes but is not limited to:</textblock>
+    <textblock>1. Field edits or volume adjustments.</textblock>
+    <textblock>2. Hourly average static and differential pressures, hourly</textblock>
+    <textblock>flow temperatures, hourly sums of extensions calculated at each</textblock>
+    <textblock>data point, hourly volumes, and the method used to obtain the</textblock>
+    <textblock>summation of extensions, averages, and volumes. For the purposes</textblock>
+    <textblock>of this Order, extensions are the square root of the product of</textblock>
+    <textblock>the differential pressure and static pressure.</textblock>
+    <textblock>3. Subsequent edits or adjustments. If several changes are</textblock>
+    <textblock>made, only the original and the final readings shall be retained.</textblock>
+    <textblock>Along with any records submitted at the request of the authorized</textblock>
+    <textblock>officer, the operator shall provide all additional information</textblock>
+    <textblock>used to compute volumes so that computations may be verified.</textblock>
+    <textblock>B. General</textblock>
+    <textblock>All gas production shall be measured in accordance with an</textblock>
+    <textblock>authorized method of measurement. As set out in 43 CFR 3162.7-3,</textblock>
+    <textblock>gas measurement authorized for gas produced from leases, unit</textblock>
+    <textblock>areas, and communitization agreements subject to the jurisdiction</textblock>
+    <textblock>of the Bureau of Land Management, as such jurisdiction is defined</textblock>
+    <textblock>in 43 CFR 3161.1, may be by orifice meter or other methods</textblock>
+    <textblock>acceptable to the authorized officer. The requirements and</textblock>
+    <textblock>minimum standards for gas measurement are set out below. If</textblock>
+    <textblock>these requirements for the primary element and chart recorder are</textblock>
+    <textblock>met, a meter accuracy of plus or minus 3 percent will be</textblock>
+    <textblock>attained. However, given the complex components and</textblock>
+    <textblock>sophistication of electronic flow computers (EFCs), no ``cook</textblock>
+    <textblock>book'' method can be established. Therefore, an uncertainty</textblock>
+    <textblock>standard of plus or minus 3 percent would be included for EFCs.</textblock>
+    <textblock>The requirements of this Order are based on the standards and</textblock>
+    <textblock>specifications published by the American Gas Association (AGA)</textblock>
+    <textblock>and officially designated as ANSI/API 2530 and AGA Committee</textblock>
+    <textblock>Report No. 3, second edition, 1985, hereafter referred to as AGA</textblock>
+    <textblock>Committee Report No. 3. The AGA-published standards and</textblock>
+    <textblock>specifications are considered to be appropriate for proper gas</textblock>
+    <textblock>measurement by both the Department of the Interior and the oil</textblock>
+    <textblock>and gas industry. The requirements set minimum standards</textblock>
+    <textblock>necessary to promote conservation of natural resources and to</textblock>
+    <textblock>ensure proper measurement of gas production for sales and</textblock>
+    <textblock>allocation purposes, so that the Federal Government and Indian</textblock>
+    <textblock>mineral owners will receive the royalties due under governing oil</textblock>
+    <textblock>and gas leases.</textblock>
+  </text>
+</doc>

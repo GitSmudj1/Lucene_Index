@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940127-0-00031</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940127-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>List of Subjects in 14 CFR Part 39</textblock>
+    <textblock>Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety.</textblock>
+    <textblock>Adoption of the Amendment</textblock>
+    <textblock>Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends 14 CFR part 39 of the Federal Aviation Regulations as follows:</textblock>
+    <textblock>PART 39_AIRWORTHINESS DIRECTIVES</textblock>
+    <textblock>1. The authority citation for part 39 continues to read as follows:</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>49 U.S.C. App. 1354(a), 1421 and 1423; 49 U.S.C. 106(g); and 14 CFR 11.89.</textblock>
+    <textblock>§39.13</textblock>
+    <textblock>[Amended]</textblock>
+    <textblock>2. Section 39.13 is amended by removing Amendment</textblock>
+    <textblock>39-8120 (57 FR 5378, February 14, 1992) and by adding a new airworthiness directive, Amendment 39-8804, to read as follows:</textblock>
+    <textblock>94-02-06␣Wytwornia Sprzetu Komunikacyjnego ``PZL-RZESZOW'':</textblock>
+    <textblock>Amendment 39-8804. Docket 92-ANE-21. Supersedes AD 91-18-12, Amendment 39-8120.</textblock>
+    <textblock>Applicability</textblock>
+    <textblock>: Wytwornia Sprzetu Komunikacyjnego ``PZL-RZESZOW'' PZL-3S Second Series reciprocating engines installed on but not limited to Grumman AG CAT aircraft.</textblock>
+    <textblock>Compliance</textblock>
+    <textblock>: Required as indicated, unless accomplished previously. To prevent separation of the propeller and loss of the aircraft, accomplish the following:</textblock>
+    <textblock>(a) For pistons that have been modified and assembled with compression ring, part number (P/N) JRS 123421, scraper ring, P/N JRS 123423, and oil control ring, P/N JRS 123424, prior to further flight:</textblock>
+    <textblock>(1) Remove these pistons from service and replace with serviceable parts.</textblock>
+    <textblock>(2) Remove, clean, and visually inspect using 10x magnification the propeller to engine propeller-flange attachment bolts for evidence of cracking or failure, and perform the following:</textblock>
+    <textblock>(i) For engines with bolts found to be cracked or broken, replace with new bolts and disassemble and visually inspect for distress of the rear crankshaft, rear counterweight, and rear counterweight pins.</textblock>
+    <textblock>(A) If any distress is found in the rear crankshaft, rear counterweight, or rear counterweight pins, replace distressed parts with new parts.</textblock>
+    <textblock>(B) Distress is defined as any evidence of wear, galling, pitting, or scoring, and includes discoloration (blue color) of the counterweight pins.</textblock>
+    <textblock>(ii) For engines with bolts found not to be cracked, inspect the engine propeller-flange retaining nut for looseness and perform the following:</textblock>
+    <textblock>(A) Retorque the propeller-flange retaining nut if found loose in accordance with Section 3.3.4 of the PZL-3S Engine Servicing Instructions, revised March 1984.</textblock>
+    <textblock>(B) Replace all propeller to engine propeller-flange attachment bolts with new bolts.</textblock>
+    <textblock>(b) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, Engine Certification Office. The request should be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Engine Certification Office.</textblock>
+    <textblock>Note</textblock>
+    <textblock>: Information concerning the existence of approved alternative method of compliance with this AD, if any, may be obtained from the Engine Certification Office.</textblock>
+    <textblock>(c) Special flight permits may be issued in accordance with FAR 21.197 and 21.199 to operate the aircraft to a location where the requirements of this AD can be accomplished.</textblock>
+    <textblock>(d) This amendment becomes effective on February 28, 1994. Issued in Burlington, Massachusetts, on January 12, 1994.</textblock>
+  </text>
+  <signer>
+    <textblock>Jay J. Pardee,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Engine and Propeller Directorate,</textblock>
+    <textblock>Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-1687 Filed 1-26-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-P</textblock>
+  </billing>
+</doc>

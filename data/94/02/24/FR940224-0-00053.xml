@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940224-0-00053</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940224-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>Provided:</textblock>
+    <textblock>1. The TP</textblock>
+    <textblock>i</textblock>
+    <textblock>of each ``CE'' or group of ``CEs'' does not exceed 30 Mtops;</textblock>
+    <textblock>2. The ``CEs'' or groups of ``CEs'' share access to main memory (excluding cache memory) over a single channel; and</textblock>
+    <textblock>3. Only one ``CE'' or group of ``CEs'' can have use of the channel at any given time.</textblock>
+    <textblock>N.B.:</textblock>
+    <textblock>This does not apply to items controlled under Category 3.</textblock>
+    <textblock>Note 2:</textblock>
+    <textblock>``CEs'' share memory if they access a common segment of solid state memory. This memory may include cache memory, main memory, or other internal memory. Peripheral memory devices such as disk drives, tape drives, or RAM disks are not included.</textblock>
+    <textblock>For multiple ``CEs'' or groups of ``CEs'' not sharing memory, interconnected by one or more data channels:</textblock>
+    <textblock>C</textblock>
+    <textblock>i</textblock>
+    <textblock>=0.75 * k</textblock>
+    <textblock>i</textblock>
+    <textblock>(i=2, ..., 32) (see</textblock>
+    <textblock>NOTE</textblock>
+    <textblock>on k</textblock>
+    <textblock>i</textblock>
+    <textblock>factor)</textblock>
+    <textblock>=0.60 * k</textblock>
+    <textblock>i</textblock>
+    <textblock>(i=33, ..., 64)</textblock>
+    <textblock>=0.45 * k</textblock>
+    <textblock>i</textblock>
+    <textblock>(i=65, ..., 256)</textblock>
+    <textblock>=0.30 * k</textblock>
+    <textblock>i</textblock>
+    <textblock>(i &gt; 256)</textblock>
+    <textblock>The value of C</textblock>
+    <textblock>i</textblock>
+    <textblock>is based on the number of ``CEs'', not the number of nodes.</textblock>
+    <textblock>where:</textblock>
+    <textblock>k</textblock>
+    <textblock>i</textblock>
+    <textblock>=min (S</textblock>
+    <textblock>i</textblock>
+    <textblock>/K</textblock>
+    <textblock>r</textblock>
+    <textblock>, 1), and</textblock>
+    <textblock>K</textblock>
+    <textblock>r</textblock>
+    <textblock>=normalizing factor of 20 MByte/s.</textblock>
+    <textblock>S</textblock>
+    <textblock>i</textblock>
+    <textblock>=sum of the maximum data rates (in units of</textblock>
+    <textblock>MByte/s) for all data channels connected to the i</textblock>
+    <textblock>th</textblock>
+    <textblock>``CE'' or group of ``CEs'' sharing memory.</textblock>
+    <textblock>When calculating a C</textblock>
+    <textblock>i</textblock>
+    <textblock>for a group of ``CEs'', the number of the first ``CE'' in a group determines the proper limit for C</textblock>
+    <textblock>i</textblock>
+    <textblock>. For example, in an aggregation of groups consisting of 3 ``CEs'' each, the 22nd group will contain ``CE''</textblock>
+    <textblock>64</textblock>
+    <textblock>, ``CE''</textblock>
+    <textblock>65</textblock>
+    <textblock>, and ``CE''</textblock>
+    <textblock>66</textblock>
+    <textblock>. The proper limit for C</textblock>
+    <textblock>i</textblock>
+    <textblock>for this group is 0.60.</textblock>
+    <textblock>Aggregation (of ``CEs'' or groups of ``CEs'') should be from the fastest-to-slowest; i.e.:</textblock>
+    <textblock>TP</textblock>
+    <textblock>1</textblock>
+    <textblock>" TP</textblock>
+    <textblock>2</textblock>
+    <textblock>" TP</textblock>
+    <textblock>n</textblock>
+    <textblock>, and</textblock>
+    <textblock>in the case of TP</textblock>
+    <textblock>i</textblock>
+    <textblock>=TP</textblock>
+    <textblock>i+1</textblock>
+    <textblock>, from the largest to smallest; i.e.:</textblock>
+    <textblock>C</textblock>
+    <textblock>i</textblock>
+    <textblock>" C</textblock>
+    <textblock>i+1</textblock>
+    <textblock>Note:</textblock>
+    <textblock>The k</textblock>
+    <textblock>i</textblock>
+    <textblock>factor is not to be applied to ``CEs'' to 2</textblock>
+    <textblock>to 12 if the TP</textblock>
+    <textblock>i</textblock>
+    <textblock>of the ``CE'' or group of ``CEs'' is more than 50 Mtops; i.e., C</textblock>
+    <textblock>i</textblock>
+    <textblock>for ``CEs'' 2 to 12 is 0.75.</textblock>
+    <textblock>Dated: February 18, 1994.</textblock>
+  </text>
+  <signer>
+    <textblock>Sue E. Eckert,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Assistant Secretary for Export Administration.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-4156 Filed 2-18-94; 4:49 pm]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 3510-DT-P</textblock>
+  </billing>
+</doc>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00076</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>Legend for Tables V.7 and V.8</textblock>
+    <textblock>Fuel System:</textblock>
+    <textblock>Multi</textblock>
+    <textblock>=</textblock>
+    <textblock>Multi-point fuel injection</textblock>
+    <textblock>TBI</textblock>
+    <textblock>=</textblock>
+    <textblock>Throttle body fuel injection</textblock>
+    <textblock>Carb</textblock>
+    <textblock>=</textblock>
+    <textblock>Carburetted</textblock>
+    <textblock>Catalyst:</textblock>
+    <textblock>3W</textblock>
+    <textblock>=</textblock>
+    <textblock>3-Way catalyst</textblock>
+    <textblock>3W+OX</textblock>
+    <textblock>=</textblock>
+    <textblock>3-Way catalyst plus an oxidation catalyst</textblock>
+    <textblock>Air Injection:</textblock>
+    <textblock>Air</textblock>
+    <textblock>=</textblock>
+    <textblock>Air injection</textblock>
+    <textblock>No Air</textblock>
+    <textblock>=</textblock>
+    <textblock>No air injection</textblock>
+    <textblock>EGR:</textblock>
+    <textblock>EGR</textblock>
+    <textblock>=</textblock>
+    <textblock>Exhaust gas recirculation</textblock>
+    <textblock>No EGR</textblock>
+    <textblock>=</textblock>
+    <textblock>No exhaust gas recirculation</textblock>
+    <textblock>Vehicles must be added to the normal emitter sub-fleet in the order in which they appear in the table. If more than 20 vehicles are included in the normal emitter sub-fleet, then the additional vehicles must be selected starting over with vehicle number one in Table V.7.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Number of Test Vehicles.</textblock>
+    <textblock>Exhaust emissions are subject to considerable variability due to the complexity of combustion chemistry, engine behavior, and emission control. As a result, substantial statistical uncertainty typically exists in exhaust emission reduction estimates based on a single test program. To reduce this uncertainty, an adequate number of vehicles must be tested for their exhaust emissions. In order to keep statistical uncertainty reasonably low while at the same time limit the test fleet size to reasonable levels, the test fleet for exhaust emissions must consist of a minimum of 20 vehicles. To maintain adequate statistical confidence in test results, however, the distribution of the test fleet among the emitter groups must also be defined so as to minimize statistical uncertainty. As discussed in the April 16, 1992 proposal, differences in VOC, NO</textblock>
+    <textblock>X</textblock>
+    <textblock>and toxics emission distributions for in-use vehicles prevents optimization of the size of the emitter groups for all three pollutants simultaneously. EPA is basing the number of vehicles in each emitter group on their VOC emission performance, based on the reasons discussed in the April 16, 1992 proposal and on the use of VOC emission performance to define emitter groups.</textblock>
+    <textblock>The uncertainty associated with VOC emissions is quite complex. The higher emitting vehicles in various test programs have tended to have significantly greater variability in emission effects than normal emitting vehicles. Hence to minimize statistical uncertainty, a greater proportion of higher emitters should be tested than would be suggested by their contribution to in-use emissions. However, EPA believes that pre-screening and stabilization of higher emitters can reduce their variability to approach that of normal emitters. Therefore, to minimize the statistical uncertainty in the test program the number of normal and higher emitters in the test fleet should represent the contribution of each sub-fleet to total in-use emissions. Since the relative contribution of normal and higher emitters to total VOC emissions is approximately equal (as discussed at length in the RIA), equal numbers of normal and higher emitters must be contained in any test fleet.</textblock>
+    <textblock>(4)</textblock>
+    <textblock>Waiver Provisions for Different Test Program Requirements.</textblock>
+    <textblock>A number of options were discussed in April 16, 1992 which attempted to simplify or minimize the vehicle test fleet requirements while still maintaining the statistical confidence in the results of any test program. Based upon EPA's experience with the programs conducted as part of the complex model development, the test fleet provisions promulgated here represent the minimum possible if adequate statistical confidence in test program results is to be maintained. In fact, EPA believes that many petitioners may desire to test additional vehicles in order to improve their study's statistical power and thereby improve the likelihood that an augmentation petition would be granted.</textblock>
+    <textblock>Nevertheless, in some instances petitioners may believe that a more optimal test fleet composition than the one specified above exists for the fuel parameter being tested. In such cases, petitioners can petition the Administrator to approve a waiver from certain of the requirements in this section relating to the number of test vehicles and their distribution among the normal and higher emitter groups. Any such waiver would have to be obtained in advance of the start of the test program involved. A request for such a waiver must include an adequate justification for the requested change, including the rationale for the request and supporting data and information. EPA reserves the right to require testing of additional vehicles beyond the 20-vehicle minimum where such testing is necessary to evaluate emission effects properly.</textblock>
+    <textblock>8. Data Analysis</textblock>
+    <textblock>a.</textblock>
+    <textblock>Weighting of emission test data.</textblock>
+    <textblock>The manner in which the test data is to be analyzed must be consistent with the goal that the emission benefits from reformulated gasoline be realized in-use, just as is the case for the exhaust emission complex model itself (as discussed in Section IV). Therefore, augmentation of the models with vehicle testing results must reflect the effects of fuel modifications on emissions of each exhaust pollutant (VOC, NO</textblock>
+    <textblock>X</textblock>
+    <textblock>, benzene, 1,3-butadiene, formaldehyde, and acetaldehyde) on 1990 vehicles. The augmentation also must incorporate differences in these effects for vehicles with different emission control technologies and different emission levels. The vehicle selection criteria discussed above are intended to satisfy these requirements without requiring an extremely large test fleet. The results of vehicle test programs will be weighted to reflect the contribution of each emitter class and technology type to in-use emissions according to the procedure described in Section IV for the exhaust emission complex model.</textblock>
+  </text>
+  <table>
+    <textblock>Table V.</textblock>
+    <textblock>8_</textblock>
+    <textblock>Technology Group Definitions</textblock>
+    <textblock>1Tech. group</textblock>
+    <textblock>1Fuel system</textblock>
+    <textblock>1Catalyst</textblock>
+    <textblock>1Air injection</textblock>
+    <textblock>1EGR</textblock>
+    <textblock>1</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>2</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>No EGR</textblock>
+    <textblock>3</textblock>
+    <textblock>TBI</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>4</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W+OX</textblock>
+    <textblock>Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>5</textblock>
+    <textblock>Multi</textblock>
+    <textblock>3W</textblock>
+    <textblock>Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>6</textblock>
+    <textblock>TBI</textblock>
+    <textblock>3W</textblock>
+    <textblock>Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>7</textblock>
+    <textblock>TBI</textblock>
+    <textblock>3W+OX</textblock>
+    <textblock>Air</textblock>
+    <textblock>EGR</textblock>
+    <textblock>8</textblock>
+    <textblock>TBI</textblock>
+    <textblock>3W</textblock>
+    <textblock>No Air</textblock>
+    <textblock>No EGR</textblock>
+    <textblock>9</textblock>
+    <textblock>Carb</textblock>
+    <textblock>3W+OX</textblock>
+    <textblock>Air</textblock>
+    <textblock>EGR</textblock>
+  </table>
+</doc>

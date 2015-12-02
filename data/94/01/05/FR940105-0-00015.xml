@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940105-0-00015</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940105-0-00004</textblock>
+  </parent>
+  <text>
+    <textblock>Airworthiness Directives: Allied Signal Aerospace Company, Air Transport Avionics (Formerly Bendix/King Air Transport Avionics Division) Traffic Alert and Collision Avoidance System II Processors</textblock>
+  </text>
+  <cfrno>
+    <textblock>14 CFR Part 39</textblock>
+  </cfrno>
+  <rindock>
+    <textblock>[Docket No. 93-CE-46-AD; Amendment 39-8787; AD 94-01-05]</textblock>
+  </rindock>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>Federal Aviation Administration, DOT.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>Final rule.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>This amendment adopts a new airworthiness directive (AD) that applies to certain Allied Signal Aerospace Company, Air Transport Avionics (Allied Signal) Traffic Alert and Collision Avoidance System (TCAS) II processors that are installed on aircraft. This action requires replacing the existing TCAS II processor with a new processor that incorporates updated computer logic. The development of candidate enhancements to TCAS II logic that improves its utility and increases its overall operational acceptance prompted the proposed action. The actions specified by this AD are intended to prevent collisions or near misses caused by incompatibility between the TCAS II processors and the current air traffic control system.</textblock>
+  </summary>
+  <date>
+    <textblock>EFFECTIVE DATE:</textblock>
+    <textblock>February 4, 1994.</textblock>
+  </date>
+  <address>
+    <textblock>ADDRESSES:</textblock>
+    <textblock>Information that relates to this AD may be examined at the Federal Aviation Administration (FAA), Central Region, Office of the Assistant Chief Counsel, room 1558, 601 E. 12th Street, Kansas City, Missouri 64106.</textblock>
+  </address>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>Mr. A. E. Clark, Manager, Systems and Equipment Branch, FAA, Atlanta Aircraft Certification Office, 1669 Phoenix Parkway, suite 210C, Atlanta, Georgia 30349; telephone (404) 991-3020; facsimile (404) 991-3606.</textblock>
+  </further>
+  <supplem>
+    <textblock>SUPPLEMENTARY INFORMATION:</textblock>
+    <textblock>A proposal to amend part 39 of the Federal Aviation Regulations to include an AD that applies to certain Allied Signal TCAS II processors that are installed on aircraft was published in the</textblock>
+    <textblock>Federal Register</textblock>
+    <textblock>on September 9, 1993 (58 FR 47405). The action proposed to require (1) removing from service all processors that do not have computer logic ``Change 6.04A'' incorporated; and (2) mandatory incorporation of ``Change 6.04A'' into the TCAS II computer system.</textblock>
+    <textblock>The affected TCAS II processors are not designed for a specific aircraft type. These Allied Signal TCAS II processors are installed on, but not limited to the following airplanes:</textblock>
+    <textblock>•Aerospatiale ATR-42;</textblock>
+    <textblock>•Airbus Industries A-340;</textblock>
+    <textblock>•Beech Model 65-A90 airplanes;</textblock>
+    <textblock>•Boeing 727-100, 727-200, 737-200, 737-300, 737-400, 737-500, 747-100, 747-200, 747-300, 747-400, 747SP, 757-200, 767-200, and 767-300 Series airplanes;</textblock>
+    <textblock>•de Havilland DHC-7 series and Model DHC-8-100</textblock>
+    <textblock>airplanes;</textblock>
+    <textblock>•Fokker Models F.28 Mark 1000 and Mark 4000</textblock>
+    <textblock>airplanes;</textblock>
+    <textblock>•General Dynamics Models Convair 340 and 440</textblock>
+    <textblock>airplanes;</textblock>
+    <textblock>•Gulfstream Models G-159 and G-IV airplanes;</textblock>
+  </supplem>
+</doc>

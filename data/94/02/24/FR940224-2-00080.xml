@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940224-2-00080</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940224-2-00041</textblock>
+  </parent>
+  <text/>
+  <table>
+    <textblock>Operating Hours of Selected Large-Value Interbank Funds Transfer System (as of August</textblock>
+    <textblock>1993</textblock>
+    <textblock>)</textblock>
+    <textblock>1System</textblock>
+    <textblock>1Gross (G) or net (N)</textblock>
+    <textblock>1Opening-closing time for same-day value (local time)</textblock>
+    <textblock>1Settlement finality (local time)</textblock>
+    <textblock>1Cut-off for all third-party payment orders</textblock>
+    <textblock>1Cut-off for international correspondents' payment orders</textblock>
+    <textblock>1Memo item: Standard money market hours (local time)</textblock>
+    <textblock>Belgium:</textblock>
+    <textblock>C.E.C.</textblock>
+    <textblock>N</textblock>
+    <textblock>13:46-13:45</textblock>
+    <textblock>16:30</textblock>
+    <textblock>13:30</textblock>
+    <textblock>8:30</textblock>
+    <textblock>(9:00-16:15)</textblock>
+    <textblock>Clearing House</textblock>
+    <textblock>of Belgium</textblock>
+    <textblock>N</textblock>
+    <textblock>␣9:00-16:30</textblock>
+    <textblock>16:30</textblock>
+    <textblock>13:00</textblock>
+    <textblock>8:30</textblock>
+    <textblock>Canada:</textblock>
+    <textblock>IIPS</textblock>
+    <textblock>N</textblock>
+    <textblock>␣8:00-16:00</textblock>
+    <textblock>15:00</textblock>
+    <textblock>14:30</textblock>
+    <textblock>16:00</textblock>
+    <textblock>(8:30-17:30)</textblock>
+    <textblock>ACSS</textblock>
+    <textblock>N</textblock>
+    <textblock>18:00-24:00</textblock>
+    <textblock>15:00</textblock>
+    <textblock>17:00</textblock>
+    <textblock>n.a.</textblock>
+    <textblock>France:</textblock>
+    <textblock>SAGITTAIRE</textblock>
+    <textblock>N</textblock>
+    <textblock>␣8:00-13:00</textblock>
+    <textblock>18:30</textblock>
+    <textblock>n.a.</textblock>
+    <textblock>8:00</textblock>
+    <textblock>(8:15-17:00)</textblock>
+    <textblock>TBF (planned)</textblock>
+    <textblock>G</textblock>
+    <textblock>␣8:00-17:15</textblock>
+    <textblock>␣8:00-17:15</textblock>
+    <textblock>8:00</textblock>
+    <textblock>Germany:</textblock>
+    <textblock>Express electronic</textblock>
+    <textblock>credit transfer</textblock>
+    <textblock>system</textblock>
+    <textblock>G</textblock>
+    <textblock>␣8:30-14:30</textblock>
+    <textblock>␣8:30-14:30</textblock>
+    <textblock>8:00</textblock>
+    <textblock>Express (paper</textblock>
+    <textblock>based) local</textblock>
+    <textblock>credit transfer</textblock>
+    <textblock>system</textblock>
+    <textblock>G</textblock>
+    <textblock>␣8:00-12:00</textblock>
+    <textblock>␣8:00-12:00</textblock>
+    <textblock>8:00</textblock>
+    <textblock>(9:30-13:00)</textblock>
+    <textblock>EAF</textblock>
+    <textblock>N</textblock>
+    <textblock>␣8:00-12:30</textblock>
+    <textblock>14:30</textblock>
+    <textblock>8:00</textblock>
+    <textblock>Italy:</textblock>
+    <textblock>BISS.</textblock>
+    <textblock>G</textblock>
+    <textblock>␣8:00-17:00</textblock>
+    <textblock>␣8:00-17:00</textblock>
+    <textblock>17:00</textblock>
+    <textblock>9:00</textblock>
+    <textblock>(8:30-17:30)</textblock>
+    <textblock>SIPS</textblock>
+    <textblock>N</textblock>
+    <textblock>␣8:00-14:00</textblock>
+    <textblock>16:30</textblock>
+    <textblock>14:00</textblock>
+    <textblock>9:00</textblock>
+    <textblock>ME</textblock>
+    <textblock>N</textblock>
+    <textblock>␣8:00-16:00</textblock>
+    <textblock>16:30</textblock>
+    <textblock>16:00</textblock>
+    <textblock>9:00</textblock>
+    <textblock>Japan:</textblock>
+    <textblock>FEYSS</textblock>
+    <textblock>N</textblock>
+    <textblock>␣9:00-13:45</textblock>
+    <textblock>15:00</textblock>
+    <textblock>10:30</textblock>
+    <textblock>10:30</textblock>
+    <textblock>(9:00-17:00)</textblock>
+    <textblock>BOJ-NET</textblock>
+    <textblock>G</textblock>
+    <textblock>␣9:00-17:00</textblock>
+    <textblock>␣9:00-17:00</textblock>
+    <textblock>14:00</textblock>
+    <textblock>n.a.</textblock>
+    <textblock>Netherlands:</textblock>
+    <textblock>Central Bank</textblock>
+    <textblock>FA System</textblock>
+    <textblock>G</textblock>
+    <textblock>␣8:00-15:30</textblock>
+    <textblock>␣8:00-15:30</textblock>
+    <textblock>12:45</textblock>
+    <textblock>n.a.</textblock>
+    <textblock>(8:00-15:30)</textblock>
+    <textblock>8007</textblock>
+    <textblock>S.W.I.F.T.</textblock>
+    <textblock>N</textblock>
+    <textblock>␣8:00-11:30</textblock>
+    <textblock>13:00</textblock>
+    <textblock>n.a.</textblock>
+    <textblock>8:00</textblock>
+    <textblock>Sweden:</textblock>
+    <textblock>RIX</textblock>
+    <textblock>G</textblock>
+    <textblock>␣8:15-16:30</textblock>
+    <textblock>␣8:15-16:30</textblock>
+    <textblock>12:00</textblock>
+    <textblock>8:00</textblock>
+    <textblock>(9:00-16:00)</textblock>
+    <textblock>Switzerland:</textblock>
+    <textblock>SIC</textblock>
+    <textblock>G</textblock>
+    <textblock>18:00-16:15</textblock>
+    <textblock>18:00-16:15</textblock>
+    <textblock>15:00</textblock>
+    <textblock>8:00</textblock>
+    <textblock>(9:00-16:00)</textblock>
+    <textblock>United Kingdom:</textblock>
+    <textblock>CHAPS</textblock>
+    <textblock>N</textblock>
+    <textblock>␣8:30-15:10</textblock>
+    <textblock>end of day</textblock>
+    <textblock>none</textblock>
+    <textblock>12:00</textblock>
+    <textblock>(9:00-12:00)</textblock>
+    <textblock>United States:</textblock>
+    <textblock>Fedwire</textblock>
+    <textblock>G</textblock>
+    <textblock>␣8:30-18:30</textblock>
+    <textblock>␣8:30-18:30</textblock>
+    <textblock>18:00</textblock>
+    <textblock>18:00</textblock>
+    <textblock>(8:30-18:30)</textblock>
+    <textblock>CHIPS</textblock>
+    <textblock>N</textblock>
+    <textblock>␣7:00-16:30</textblock>
+    <textblock>18:00</textblock>
+    <textblock>16:30</textblock>
+    <textblock>16:30</textblock>
+    <textblock>ECU clearing</textblock>
+    <textblock>system</textblock>
+    <textblock>N</textblock>
+    <textblock>14:01-14:00</textblock>
+    <textblock>15:45</textblock>
+    <textblock>none</textblock>
+    <textblock>none</textblock>
+    <textblock>(TOM/NEXT)</textblock>
+  </table>
+  <frfiling>
+    <textblock>[FR Doc. 94-3847 Filed 2-23-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 6210-01-P</textblock>
+  </billing>
+</doc>

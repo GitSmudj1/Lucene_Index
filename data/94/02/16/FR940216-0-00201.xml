@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00201</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(v) Reference standard solutions containing known quantities of suspected oxygenates in gasoline.</textblock>
+    <textblock>(vi) Glass standard and test sample containers (between 5 and 100 Ml capacity) fitted with a self-sealing polytetrafluoroethlene (PTFE) faced rubber septum crimp-on or screw-down sealing cap for preparation of standards and samples.</textblock>
+    <textblock>(6)</textblock>
+    <textblock>Calibration._</textblock>
+    <textblock>(i)(A) Calibration standards of reagent-grade or better oxygenates (such as methanol, absolute ethanol, methyl t-butyl ether (MTBE), di-i-propyl ether (DIPE), ethyl t-butyl ether (ETBE), and t-amyl methyl ether (TAME)) are to be prepared gravimetrically by blending with gasoline that has been previously determined by GC/OFID to be free of oxygenates. Newly acquired stocks of reagent grade oxygenates shall be analyzed for contamination by GC/FID and GC/OFID before use.</textblock>
+    <textblock>(B) Required calibration standards (percent by volume in gasoline):</textblock>
+    <textblock>(ii) Take a glass sample container and its PTFE faced rubber septum sealing cap. Transfer a quantity of an oxygenate to the sample container and record the mass of the oxygenate to the nearest 0.1 mg. Repeat this process for any additional oxygenates of interest except the internal standard. Add oxygenate-free gasoline to dilute the oxygenates to the desired concentration. Record the mass of gasoline added to the nearest 0.1 mg, and determine and label the standard according to the mass percent quantities of each oxygenate added. These standards are not to exceed 20 mass percent for any individual pure component due to potential hydrocarbon breakthrough and/or loss of calibration linearity.</textblock>
+    <textblock>(iii) Inject a quantity of an internal standard (such as 2-butanol) and weigh the contents again. Record the difference in masses as the mass of internal standard to the nearest 0.1 mg. The mass of the internal standard shall amount to between 2 and 6 percent of the mass of the test sample (standard). The addition of an internal standard reduces errors caused by variations in injection volumes.</textblock>
+    <textblock>(iv) Ensure that the prepared standard is thoroughly mixed and transfer approximately 2 Ml of the solution to a vial compatible with the autosampler if such equipment is used.</textblock>
+    <textblock>(v) At least five concentrations of each of the expected oxygenates should be prepared. The standards should be as equally spaced as possible within the range and may contain more than one oxygenate. A blank for zero concentration assessments is also to be included. Additional standards should be prepared for other oxygenates of concern.</textblock>
+    <textblock>(vi) Based on the recommended chromatographic operating conditions specified in paragraph (g)(7)(i) of this section, determine the retention time of each oxygenate component by analyzing dilute aliquots either separately or in known mixtures. Reference should be made to the Chemical Abstracts Service (CAS) registry number of each of the analytes for proper identification. Approximate retention times for selected oxygenates under these conditions are as follows:</textblock>
+    <textblock>(vii) By GC/OFID analysis, determine the peak area of each oxygenate and of the internal standard.</textblock>
+    <textblock>(viii) Obtain a calibration curve by performing a least-squares fit of the relative area response factors of the oxygenate standards to their relative mass response factors as follows:</textblock>
+    <textblock>R</textblock>
+    <textblock>ao</textblock>
+    <textblock>=b</textblock>
+    <textblock>o</textblock>
+    <textblock>R</textblock>
+    <textblock>mo</textblock>
+    <textblock>+b</textblock>
+    <textblock>1</textblock>
+    <textblock>(R</textblock>
+    <textblock>mo</textblock>
+    <textblock>)</textblock>
+    <textblock>2</textblock>
+    <textblock>where:</textblock>
+    <textblock>R</textblock>
+    <textblock>ao</textblock>
+    <textblock>= relative area response factor of the oxygenate, A</textblock>
+    <textblock>o</textblock>
+    <textblock>/A</textblock>
+    <textblock>i</textblock>
+    <textblock>R</textblock>
+    <textblock>mo</textblock>
+    <textblock>= relative mass response factor of the oxygenate, M</textblock>
+    <textblock>o</textblock>
+    <textblock>/M</textblock>
+    <textblock>i</textblock>
+    <textblock>A</textblock>
+    <textblock>o</textblock>
+    <textblock>= area of the oxygenate peak</textblock>
+    <textblock>A</textblock>
+    <textblock>i</textblock>
+    <textblock>= area of the internal standard peak</textblock>
+    <textblock>M</textblock>
+    <textblock>o</textblock>
+    <textblock>= mass of the oxygenate added to the calibration standard</textblock>
+    <textblock>M</textblock>
+    <textblock>i</textblock>
+    <textblock>= mass of internal standard added to the calibration standard</textblock>
+    <textblock>b</textblock>
+    <textblock>0</textblock>
+    <textblock>= linear regression coefficient</textblock>
+    <textblock>b</textblock>
+    <textblock>1</textblock>
+    <textblock>= quadratic regression coefficient</textblock>
+    <textblock>(7)</textblock>
+    <textblock>Procedure.</textblock>
+    <textblock>(i) GC operating conditions:</textblock>
+    <textblock>(A) Oxygenate-free helium carrier gas: 1.1 Ml/min (2 bar), 22.7 cm/sec at 115</textblock>
+    <textblock>○C;</textblock>
+    <textblock>(B) Carrier gas split ratio: 1:100;</textblock>
+    <textblock>(C) Zero air FID fuel: 370 Ml/min (2 bar);</textblock>
+    <textblock>(D) Oxygenate free hydrogen FID fuel: 15 Ml/min (2 bar);</textblock>
+    <textblock>(E) Injector temperature: 250</textblock>
+    <textblock>○C;</textblock>
+    <textblock>(F) Injection volume: 0.5 μL;</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Oxygenate</textblock>
+    <textblock>1Range</textblock>
+    <textblock>(percent)</textblock>
+    <textblock>1Number of standards (minimum)</textblock>
+    <textblock>Methanol</textblock>
+    <textblock>0.25-12.00</textblock>
+    <textblock>5</textblock>
+    <textblock>Ethanol</textblock>
+    <textblock>0.25-12.00</textblock>
+    <textblock>5</textblock>
+    <textblock>t-Butanol</textblock>
+    <textblock>0.25-12.00</textblock>
+    <textblock>5</textblock>
+    <textblock>MTBE</textblock>
+    <textblock>0.25-15.00</textblock>
+    <textblock>5</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Oxygenate</textblock>
+    <textblock>1CAS</textblock>
+    <textblock>1Retention time (minutes)</textblock>
+    <textblock>Dissolved oxygen</textblock>
+    <textblock>7782-44-7</textblock>
+    <textblock>5.50</textblock>
+    <textblock>Water</textblock>
+    <textblock>7732-18-5</textblock>
+    <textblock>7.20</textblock>
+    <textblock>Methanol</textblock>
+    <textblock>67-56-1</textblock>
+    <textblock>9.10</textblock>
+    <textblock>Ethanol</textblock>
+    <textblock>64-17-5</textblock>
+    <textblock>12.60</textblock>
+    <textblock>Propanone</textblock>
+    <textblock>67-64-1</textblock>
+    <textblock>15.00</textblock>
+    <textblock>2-Propanol</textblock>
+    <textblock>67-63-0</textblock>
+    <textblock>15.70</textblock>
+    <textblock>t-Butanol</textblock>
+    <textblock>75-65-0</textblock>
+    <textblock>18.00</textblock>
+    <textblock>n-Propanol</textblock>
+    <textblock>71-23-8</textblock>
+    <textblock>21.10</textblock>
+    <textblock>MTBE</textblock>
+    <textblock>1634-04-4</textblock>
+    <textblock>23.80</textblock>
+    <textblock>2-Butanol</textblock>
+    <textblock>15892-23-6</textblock>
+    <textblock>26.30</textblock>
+    <textblock>i-Butanol</textblock>
+    <textblock>78-83-1</textblock>
+    <textblock>30.30</textblock>
+    <textblock>ETBE</textblock>
+    <textblock>637-92-3</textblock>
+    <textblock>31.10</textblock>
+    <textblock>n-Butanol</textblock>
+    <textblock>71-36-3</textblock>
+    <textblock>33.50</textblock>
+    <textblock>TAME</textblock>
+    <textblock>994-05-8</textblock>
+    <textblock>35.30</textblock>
+    <textblock>i-Pentanol</textblock>
+    <textblock>137-32-6</textblock>
+    <textblock>38.10</textblock>
+  </table>
+</doc>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00054</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>(e)</textblock>
+    <textblock>Convertible debt instruments.</textblock>
+    <textblock>For purposes of section</textblock>
+    <textblock>1272, an option is ignored if it is an option to convert a debt</textblock>
+    <textblock>instrument into the stock of the issuer, into the stock or debt</textblock>
+    <textblock>of a related party (within the meaning of section 267(b) or</textblock>
+    <textblock>707(b)(1)), or into cash or other property in an amount equal to</textblock>
+    <textblock>the approximate value of such stock or debt.</textblock>
+    <textblock>(f)</textblock>
+    <textblock>Special rules to determine whether a debt instrument is</textblock>
+    <textblock>a short-term obligation</textblock>
+    <textblock>_(1)</textblock>
+    <textblock>Counting of either the issue date or</textblock>
+    <textblock>maturity date.</textblock>
+    <textblock>For purposes of determining whether a debt</textblock>
+    <textblock>instrument is a short-term obligation (i.e., a debt instrument</textblock>
+    <textblock>with a fixed maturity date that is not more than 1 year from the</textblock>
+    <textblock>date of issue), the term of the debt instrument includes either</textblock>
+    <textblock>the issue date or the maturity date, but not both dates.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Coordination with paragraph (c) of this section for</textblock>
+    <textblock>certain sections of the Internal Revenue Code.</textblock>
+    <textblock>Notwithstanding</textblock>
+    <textblock>paragraph (c) of this section, solely for purposes of determining</textblock>
+    <textblock>whether a debt instrument is a short-term obligation under</textblock>
+    <textblock>sections 871(g)(1)(B)(i), 881, 1271(a)(3), 1271(a)(4),</textblock>
+    <textblock>1272(a)(2)(C), and 1283(a)(1), the maturity date of a debt</textblock>
+    <textblock>instrument is the last possible date that the instrument could be</textblock>
+    <textblock>outstanding under the terms of the instrument.</textblock>
+    <textblock>(g)</textblock>
+    <textblock>Basis adjustment.</textblock>
+    <textblock>The basis of a debt instrument in the</textblock>
+    <textblock>hands of the holder is increased by the amount of OID included in</textblock>
+    <textblock>the holder's gross income and decreased by the amount of any</textblock>
+    <textblock>payment from the issuer to the holder under the debt instrument</textblock>
+    <textblock>other than a payment of qualified stated interest. See, however,</textblock>
+    <textblock>§1.1275-2(f) for rules regarding basis adjustments on a pro rata</textblock>
+    <textblock>prepayment.</textblock>
+    <textblock>(h)</textblock>
+    <textblock>Debt instruments denominated in a currency other than</textblock>
+    <textblock>the U.S. dollar.</textblock>
+    <textblock>Section 1272 and this section apply to a debt</textblock>
+    <textblock>instrument that provides for all payments denominated in, or</textblock>
+    <textblock>determined by reference to, the functional currency of the</textblock>
+    <textblock>taxpayer or qualified business unit of the taxpayer (even if that</textblock>
+    <textblock>currency is other than the U.S. dollar). See §1.988-2(b) to</textblock>
+    <textblock>determine interest income or expense for debt instruments that</textblock>
+    <textblock>provide for payments denominated in, or determined by reference</textblock>
+    <textblock>to, a nonfunctional currency.</textblock>
+    <textblock>(i) [Reserved]</textblock>
+    <textblock>(j)</textblock>
+    <textblock>Examples.</textblock>
+    <textblock>The following examples illustrate the rules</textblock>
+    <textblock>of this section. Each example assumes that all taxpayers use the</textblock>
+    <textblock>calendar year as the taxable year. In addition, each example</textblock>
+    <textblock>assumes a 30-day month, 360-day year, and that the initial</textblock>
+    <textblock>accrual period begins on the issue date and the final accrual</textblock>
+    <textblock>period ends on the day before the stated maturity date.</textblock>
+    <textblock>Although, for purposes of simplicity, the yield as stated is</textblock>
+    <textblock>rounded to two decimal places, the computations do not reflect</textblock>
+    <textblock>any such rounding convention.</textblock>
+    <textblock>Example 1. Accrual of OID on zero coupon debt instrument;</textblock>
+    <textblock>choice of accrual periods</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>On July 1, 1994, A</textblock>
+    <textblock>purchases at original issue, for $675,564.17, a debt instrument</textblock>
+    <textblock>that matures on July 1, 1999, and provides for a single payment</textblock>
+    <textblock>of $1,000,000 at maturity.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Determination of yield.</textblock>
+    <textblock>Under paragraph (b)(1)(i) of</textblock>
+    <textblock>this section, the yield of the debt instrument is 8 percent,</textblock>
+    <textblock>compounded semiannually.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Determination of accrual period.</textblock>
+    <textblock>Under paragraph</textblock>
+    <textblock>(b)(1)(ii) of this section, accrual periods may be of any length,</textblock>
+    <textblock>provided that each accrual period is no longer than 1 year and</textblock>
+    <textblock>each scheduled payment of principal or interest occurs either on</textblock>
+    <textblock>the first or final day of an accrual period. The yield to</textblock>
+    <textblock>maturity to be used in computing OID accruals in any accrual</textblock>
+    <textblock>period, however, must reflect the length of the accrual period</textblock>
+    <textblock>chosen. A yield based on compounding b times per year is</textblock>
+    <textblock>equivalent to a yield based on compounding c times per year as</textblock>
+    <textblock>indicated by the following formula:</textblock>
+    <textblock>r=c</textblock>
+    <textblock>m</textblock>
+    <textblock>(1+i/b)</textblock>
+    <textblock>b/c</textblock>
+    <textblock>^1</textblock>
+    <textblock>n</textblock>
+    <textblock>In which:</textblock>
+    <textblock>i=The yield based on compounding b times per year</textblock>
+    <textblock>expressed as a decimal</textblock>
+    <textblock>r=The equivalent yield based on compounding c times</textblock>
+    <textblock>per year expressed as a decimal</textblock>
+    <textblock>b=The number of compounding periods in a year on</textblock>
+    <textblock>which i is based (for example, 12, if i is based</textblock>
+    <textblock>on monthly compounding)</textblock>
+    <textblock>c=The number of compounding periods in a year on</textblock>
+    <textblock>which r is based</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Determination of OID allocable to each accrual period.</textblock>
+    <textblock>Assume that A decides to compute OID on the debt instrument using</textblock>
+    <textblock>semiannual accrual periods. Under paragraph (b)(1)(iii) of this</textblock>
+    <textblock>section, the OID allocable to the first semiannual accrual period</textblock>
+    <textblock>is $27,022.56: the product of the issue price ($675,564.17) and</textblock>
+    <textblock>the yield properly adjusted for the length of the accrual period</textblock>
+    <textblock>(8 percent/2), less qualified stated interest allocable to the</textblock>
+    <textblock>accrual period ($0). The daily portion of OID for the first</textblock>
+    <textblock>semiannual accrual period is $150.13 ($27,022.56/180).</textblock>
+    <textblock>(v)</textblock>
+    <textblock>Determination of OID if monthly accrual periods are</textblock>
+    <textblock>used.</textblock>
+    <textblock>Alternatively, assume that A decides to compute OID on the</textblock>
+    <textblock>debt instrument using monthly accrual periods. Using the above</textblock>
+    <textblock>formula, the yield on the debt instrument reflecting monthly</textblock>
+    <textblock>compounding is 7.87 percent, compounded monthly (12</textblock>
+    <textblock>m</textblock>
+    <textblock>(1+.08/2)</textblock>
+    <textblock>2/12</textblock>
+    <textblock>^1</textblock>
+    <textblock>n</textblock>
+    <textblock>). Under paragraph (b)(1)(iii) of this section,</textblock>
+    <textblock>the OID allocable to the first monthly accrual period is</textblock>
+    <textblock>$4,430.48: the product of the issue price ($675,564.17) and the</textblock>
+    <textblock>yield properly adjusted for the length of the accrual period</textblock>
+    <textblock>(7.87 percent/12), less qualified stated interest allocable to</textblock>
+    <textblock>the accrual period ($0). The daily portion of OID for the first</textblock>
+    <textblock>monthly accrual period is $147.68 ($4,430.48/30).</textblock>
+  </text>
+</doc>

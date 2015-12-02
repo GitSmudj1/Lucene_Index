@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00084</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>d.</textblock>
+    <textblock>Cost-effectiveness.</textblock>
+    <textblock>The costs and emissions reductions for each parameter change are combined to determine the incremental cost-effectiveness ($/ton) of each level of control, assigning all of the costs to the control of the pollutant of concern (VOC or NO</textblock>
+    <textblock>X</textblock>
+    <textblock>). Several comments were received regarding this method of establishing cost-effectiveness. One comment suggested that refiners are likely to reduce parameters to levels lower than the mandated limits to ensure compliance with the standards. Thus it was suggested that the cost analysis should be based on a marginal increase in the standard to determine the true cost-effectiveness of the program. EPA's cost-effectiveness analysis is inherently an averaging analysis, however, since the cost estimates are based on the responses of average regional refineries to changes in fuel composition. Averaging allows refiners to be high or low for any batch of fuel, as long as their average meets the standard over the course of the entire compliance period. Measurement error goes both above and below the true values on any given batch of fuel, but should average zero over the course of many batches. As a result, there is no need for a compliance margin in setting an averaging standard.</textblock>
+    <textblock>EPA proposed a range of VOC and NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emission reduction standards based, in part, on two possible benchmarks for cost-effectiveness, $5,000/ton and 10,000/ton.</textblock>
+    <textblock>23</textblock>
+    <textblock>Several commenters stated that $5,000/ton was most appropriate, particularly in light of the inaccuracies in the cost analysis. Some commenters believed that $5,000/ton was too high compared to alternate control strategies, while others stated that this was reasonable compared to other strategies currently required.</textblock>
+    <textblock>Upon review of the costs of other VOC and NO</textblock>
+    <textblock>X</textblock>
+    <textblock>control programs (see subsections C.1 and C.2 below), EPA believes that a cost-effectiveness benchmark of $10,000/ton is too high at this point in time and that a cost-effectiveness of approximately $5,000/ton is more appropriate for the Phase II VOC standard and the accompanying NO</textblock>
+    <textblock>X</textblock>
+    <textblock>standard. The standards presented today fall within this guideline.</textblock>
+    <textblock>The cost-effectiveness of toxics control was similarly determined as the ratio of the total incremental cost for the incremental reduction in emissions to the total tons of toxics reduced. The cost-effectiveness of toxics control was also calculated as the ratio of total costs to incremental reductions in cancer incidences. EPA's proposal did not include any benchmark limits for the cost-effectiveness of toxics control, but did acknowledge that in most cases control above the statutory minimum was not cost-effective. This conclusion was supported by the comments received, and by the final analysis presented here.</textblock>
+    <textblock>C. Phase II Reformulated Gasoline Standards and NO</textblock>
+    <textblock>X</textblock>
+    <textblock>Standards for Reformulated Gasoline</textblock>
+    <textblock>The following sections explain the development of the VOC standards for Phase II reformulated gasoline, and the NO</textblock>
+    <textblock>X</textblock>
+    <textblock>standards EPA is setting for gasoline sold in RFG areas after 1999. The final standards are summarized in subsection 3 below.</textblock>
+    <textblock>1. VOC Standards Development</textblock>
+    <textblock>Table VI-1 shows the incremental fuel parameter control costs, emissions reductions, and cost-effectiveness calculated by EPA for use in setting the VOC emissions standards. The specific fuel parameter changes shown in the table are only examples; refiners may achieve the required standards by any combination of fuel component controls resulting in the required emissions performance. EPA received conflicting comments regarding which parameters would likely be controlled to meet the proposed standards in a cost effective manner. As demonstrated in the RIA, EPA has used all available information to determine which parameters can be controlled in a cost effective manner to achieve VOC emission reductions.</textblock>
+    <textblock>As the information in the Table VI-1 shows, RVP control down to 6.7 psi achieves virtually all of the VOC emission reductions that are achievable at less than $5,000 per incremental ton of VOC reduced.</textblock>
+    <textblock>24</textblock>
+    <textblock>Sulfur can be reduced to a level of approximately 250 ppm at an incremental cost-effectiveness of less than $5,000 per ton, gaining an additional 0.6% VOC reduction, to achieve a total reduction (on average) of 26.1%. RVP could also be reduced further to 6.5 psi, the level currently considered a reasonable limit for driveability purposes, to obtain an additional 1.1% reduction (for a total of 27.2%). Incremental changes in fuel parameters other than RVP have only a marginal effect on VOC emissions and can be very costly; less than an additional one percent reduction would be achieved at a significantly higher incremental cost of over $10,000/ton VOC. In spite of the uncertainty in the cost estimates used, the level of VOC control that is cost effective is relatively insensitive to variations in cost due to the fact that anything other than RVP and the first increment of sulfur control causes the costs to escalate dramatically, making control of other parameters cost ineffective.</textblock>
+    <textblock>The cost-effectiveness of VOC control in Phase II RFG presented in Table VI-1 has been compared to the cost-effectiveness of other stationary and mobile source VOC control strategies. As summarized in the RIA, a review of the estimated cost-effectiveness of controlling VOC emissions from stationary sources yielded a wide range of values. Many of the existing VOC control strategies have minimal costs or even result in savings. However, a number of VOC control options have significant costs associated with them. For example, the estimated cost-effectiveness of reducing emissions from automobile and light truck coating operations in assembly plants is $1,000-4,000/ton VOC. Reducing emissions from the production of pneumatic rubber tires is estimated to cost between $150 and $18,800 per ton of VOC reduced, depending on the operation to which control is applied. Control of emissions from floating roof tanks used for storage of petroleum liquids can cost up to $3,700/ton VOC reduced. Reducing emissions from the production of high density polyethylene, polypropylene, and polystyrene resins can cost between $1,000 and $3,000/ton VOC reduced depending on the level of control.</textblock>
+  </text>
+  <footnote>
+    <textblock>As discussed later, EPA considered a number of issues, including flexibility of refiners and burden to the industry, in addition to cost-effectiveness when setting the Phase II RFG standards.</textblock>
+  </footnote>
+  <footname>
+    <textblock>23</textblock>
+  </footname>
+  <table>
+    <textblock>Table VI-</textblock>
+    <textblock>1._</textblock>
+    <textblock>Fuel Parameter Control Costs and VOC Reductions1</textblock>
+    <textblock>1Fuel parameter control</textblock>
+    <textblock>1Incremental cost (</textblock>
+    <textblock>¢</textblock>
+    <textblock>/gal)</textblock>
+    <textblock>1Cumulative reduction (%)</textblock>
+    <textblock>1Incremental cost-eff. ($/ton)</textblock>
+    <textblock>1Incremental to phase I ($/ton)</textblock>
+    <textblock>Phase I_</textblock>
+    <textblock>RVP: 8.0 psi,</textblock>
+    <textblock>Oxygen: 2.1wt%,</textblock>
+    <textblock>Benzene: 0.95%:</textblock>
+    <textblock>RVP to 7.1 psi</textblock>
+    <textblock>0.18</textblock>
+    <textblock>22.9</textblock>
+    <textblock>400</textblock>
+    <textblock>400</textblock>
+    <textblock>RVP to 6.7 psi</textblock>
+    <textblock>0.08</textblock>
+    <textblock>25.5</textblock>
+    <textblock>600</textblock>
+    <textblock>400</textblock>
+    <textblock>Sulfur to 250 ppm</textblock>
+    <textblock>0.12</textblock>
+    <textblock>226.1</textblock>
+    <textblock>3,700</textblock>
+    <textblock>600</textblock>
+    <textblock>Sulfur to 160 ppm</textblock>
+    <textblock>0.56</textblock>
+    <textblock>27.1</textblock>
+    <textblock>11,000</textblock>
+    <textblock>1,300</textblock>
+    <textblock>Sulfur to 138 ppm</textblock>
+    <textblock>0.24</textblock>
+    <textblock>27.4</textblock>
+    <textblock>19,000</textblock>
+    <textblock>1,600</textblock>
+    <textblock>Sulfur to 100 ppm</textblock>
+    <textblock>0.52</textblock>
+    <textblock>27.8</textblock>
+    <textblock>24,000</textblock>
+    <textblock>2,300</textblock>
+    <textblock>Olefins to 8.0 vol%</textblock>
+    <textblock>0.78</textblock>
+    <textblock>26.2</textblock>
+    <textblock>(^)</textblock>
+    <textblock>3,700</textblock>
+    <textblock>Aromatics to 20 vol%</textblock>
+    <textblock>2.01</textblock>
+    <textblock>27.8</textblock>
+    <textblock>24,000</textblock>
+    <textblock>6,000</textblock>
+    <textblock>Oxygen to 2.7 vol%</textblock>
+    <textblock>0.61</textblock>
+    <textblock>28.2</textblock>
+    <textblock>28,000</textblock>
+    <textblock>6,600</textblock>
+    <textblock>Olefins to 5.0 vol%</textblock>
+    <textblock>2.77</textblock>
+    <textblock>27.4</textblock>
+    <textblock>(^)</textblock>
+    <textblock>11,000</textblock>
+    <textblock>E300 to 88%</textblock>
+    <textblock>0.35</textblock>
+    <textblock>27.4</textblock>
+    <textblock>48,000</textblock>
+    <textblock>11,000</textblock>
+    <textblock>E300 to 91%</textblock>
+    <textblock>2.01</textblock>
+    <textblock>27.5</textblock>
+    <textblock>198,000</textblock>
+    <textblock>14,000</textblock>
+    <textblock>E200 to 44%</textblock>
+    <textblock>0.38</textblock>
+    <textblock>27.7</textblock>
+    <textblock>37,000</textblock>
+    <textblock>14,000</textblock>
+    <textblock>E200 to 47%</textblock>
+    <textblock>1.32</textblock>
+    <textblock>28.4</textblock>
+    <textblock>36,000</textblock>
+    <textblock>15,000</textblock>
+    <textblock>E200 to 50%</textblock>
+    <textblock>2.97</textblock>
+    <textblock>29.0</textblock>
+    <textblock>96,000</textblock>
+    <textblock>18,000</textblock>
+    <textblock>1Based on costs and emissions reductions for VOC control region 2 (northern areas). Assumes all costs allocated to VOC control.</textblock>
+    <textblock>2RVP control down to 6.5 psi, the limit considered reasonable at this point in time for driveability purposes, would increase this value to 27.2% at a similar cost-effectiveness level.</textblock>
+  </table>
+  <footnote>
+    <textblock>Note that the cost of this level of reduction incremental to the emission reductions achieved by Phase I RFG is significantly less than $1,000/ton VOC.</textblock>
+  </footnote>
+  <footname>
+    <textblock>24</textblock>
+  </footname>
+</doc>

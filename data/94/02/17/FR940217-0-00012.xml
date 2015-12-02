@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940217-0-00012</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940217-0-00004</textblock>
+  </parent>
+  <text>
+    <textblock>List of Subjects in 14 CFR Part 39</textblock>
+    <textblock>Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety.</textblock>
+    <textblock>Adoption of the Amendment</textblock>
+    <textblock>Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends 14 CFR part 39 of the Federal Aviation Regulations as follows:</textblock>
+    <textblock>PART 39_AIRWORTHINESS DIRECTIVES</textblock>
+    <textblock>1. The authority citation for part 39 continues to read as follows:</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>49 U.S.C. App. 1354(a), 1421 and 1423; 49 U.S.C. 106(g); and 14 CFR 11.89.</textblock>
+    <textblock>§39.13</textblock>
+    <textblock>[Amended]</textblock>
+    <textblock>2. Section 39.13 is amended by removing amendment 39-6155 (54 FR 11165, March 17, 1989), and by adding a new airworthiness directive (AD), amendment 39-8825, to read as follows:</textblock>
+    <textblock>89-02-12 R1 Gulfstream:</textblock>
+    <textblock>Amendment 39-8825. Docket 93-NM-58-AD. Revises AD 89-02-12, Amendment 39-6155.</textblock>
+    <textblock>Applicability:</textblock>
+    <textblock>Model G-IV airplanes, as listed in Gulfstream Aircraft Service Change No. 110, dated January 24, 1989, certificated in any category.</textblock>
+    <textblock>Compliance:</textblock>
+    <textblock>Required as indicated, unless accomplished previously.</textblock>
+    <textblock>Note 1:</textblock>
+    <textblock>Paragraphs (a) and (b) of this AD merely restate the requirements of paragraphs A. and B. of AD 89-02-12, Amendment 39-6155. As allowed by the phrase, ``unless accomplished previously,'' if those requirements of AD 89-02-12 have already been accomplished, paragraphs (a) and (b) of this AD do not require that those actions be repeated.</textblock>
+    <textblock>To prevent hazardous deviations from the intended course, accomplish the following:</textblock>
+    <textblock>(a) Prior to further flight after April 3, 1989 (the effective date of AD 89-02-12, Amendment 39-6155), discontinue use of the Bendix instrument landing system (ILS) radios for any type of approach. Pull both circuit breakers (C/B) on the co-pilot's C/B panel labeled ``ILS</textblock>
+    <textblock>#</textblock>
+    <textblock>1'' and ``ILS</textblock>
+    <textblock>#</textblock>
+    <textblock>2.'' Tie-wrap the C/B's out, using TY23M or equivalent tie-wraps. Affix placards (Gulfstream decal</textblock>
+    <textblock>#</textblock>
+    <textblock>1159F40000-911 or equivalent) to the control heads and the C/B's, labeling them ``INOP.''</textblock>
+    <textblock>(b) Within 10 hours of airplane operation after April 3, 1989 (the effective date of AD 89-02-12, Amendment 39-6155), modify the wiring to the</textblock>
+    <textblock>#</textblock>
+    <textblock>1 and</textblock>
+    <textblock>#</textblock>
+    <textblock>2 electronic display controllers, in accordance with Gulfstream Aircraft Service Change No. 110, dated January 24, 1989.</textblock>
+    <textblock>(c) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, Atlanta Aircraft Certification Office (ACO), FAA, Small Airplane Directorate. Operators shall submit their requests through an appropriate FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, Atlanta ACO.</textblock>
+    <textblock>Note 2:</textblock>
+    <textblock>Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Atlanta ACO.</textblock>
+    <textblock>(d) Special flight permits may be issued in accordance with FAR 21.197 and 21.199 to operate the airplane to a location where the requirements of this AD can be accomplished.</textblock>
+    <textblock>(e) Accomplishment of the actions specified in both paragraphs (e)(1) and (e)(2) of this AD constitutes terminating action for the requirements of this AD:</textblock>
+    <textblock>(1) Modify the Bendix ILS systems in accordance with Gulfstream Aircraft Service Change No. 110A, dated April 9, 1993; and</textblock>
+    <textblock>(2) Prior to further flight after accomplishing the actions specified in paragraph (e)(1) of this AD, reactivate the Bendix ILS systems after relocating the forward radome mounted AM/FM entertainment antenna system in accordance with a method approved by the Manager, Atlanta ACO, FAA, Small Airplane Directorate.</textblock>
+    <textblock>(f) The modifications shall be done in accordance with Gulfstream Aircraft Service Change No. 110, dated January 24, 1989, and Gulfstream Aircraft Service Change No. 110A, dated April 9, 1993. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from Gulfstream Aerospace Corporation, P.O. Box 2206, M/S D-10, Savannah, Georgia 31402-2206. Copies may be inspected at the FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the FAA, Small Airplane Directorate, Atlanta Aircraft Certification Office, 1669 Phoenix Parkway, suite 210C, Atlanta, Georgia; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC.</textblock>
+    <textblock>(g) This amendment becomes effective on March 21, 1994.</textblock>
+    <textblock>Issued in Renton, Washington, on February 7, 1994.</textblock>
+  </text>
+  <signer>
+    <textblock>Darrell M. Pederson,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Transport Airplane Directorate, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-3235 Filed 2-16-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-U</textblock>
+  </billing>
+</doc>

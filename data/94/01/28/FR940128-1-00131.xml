@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940128-1-00131</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940128-1-00006</textblock>
+  </parent>
+  <text>
+    <textblock>Example</textblock>
+    <textblock>The ABC Crab Co. produces pasteurized crabmeat. The</textblock>
+    <textblock>pasteurization process being used has been established by</textblock>
+    <textblock>the university extension service (a process authority). The</textblock>
+    <textblock>process provided by the extension service includes limits on</textblock>
+    <textblock>how to stack the canned product into the pasteurizer, the</textblock>
+    <textblock>process temperature, and the length of time needed to</textblock>
+    <textblock>achieve proper pasteurization.</textblock>
+    <textblock>The pasteurization equipment being used by ABC Crab Co. is</textblock>
+    <textblock>at least equivalent to that described by the information</textblock>
+    <textblock>received from the extension service. It is equipped with</textblock>
+    <textblock>both a mercury-in-glass thermometer and a recording</textblock>
+    <textblock>thermometer. The recording thermometer is compared to the</textblock>
+    <textblock>mercury-in-glass thermometer during each pasteurization</textblock>
+    <textblock>cycle. It is adjusted as necessary to meet the critical</textblock>
+    <textblock>limit. The mercury-in-glass thermometer is calibrated at an</textblock>
+    <textblock>independent laboratory every 6 months. The temperature of</textblock>
+    <textblock>each pasteurization cycle is controlled to meet the critical</textblock>
+    <textblock>limits using the mercury-in-glass thermometer and the length</textblock>
+    <textblock>of each cycle is controlled using a wall clock. The loading</textblock>
+    <textblock>of the cans is checked before starting each batch.</textblock>
+    <textblock>Frequency</textblock>
+    <textblock>1. For making sure that the pasteurization process was</textblock>
+    <textblock>properly established: before using a pasteurization process.</textblock>
+    <textblock>2. For making sure that the pasteurizing equipment is</textblock>
+    <textblock>properly designed: before using pasteurizing equipment.</textblock>
+    <textblock>3. For properly delivering the process: each lot or batch.</textblock>
+    <textblock>4. For monitoring the temperature: each lot or batch.</textblock>
+    <textblock>5. For checking the accuracy of the temperature recorder:</textblock>
+    <textblock>at the beginning and end of each production day.</textblock>
+    <textblock>6. For calibrating the thermometer: at installation and at</textblock>
+    <textblock>least annually after that.</textblock>
+    <textblock>7. For monitoring the length of the pasteurizing cycle:</textblock>
+    <textblock>each lot or batch.</textblock>
+    <textblock>8. For monitoring other critical factors: as often as</textblock>
+    <textblock>necessary to achieve control.</textblock>
+    <textblock>Critical Limits</textblock>
+    <textblock>Zero tolerance for product produced with a deviation from</textblock>
+    <textblock>the minimum established pasteurization process, including such</textblock>
+    <textblock>critical factors as time, temperature, initial temperature,</textblock>
+    <textblock>container size, and product formulation.</textblock>
+    <textblock>The temperature-indicating device should agree within 1</textblock>
+    <textblock>○C</textblock>
+    <textblock>(</textblock>
+    <textblock>#</textblock>
+    <textblock>2</textblock>
+    <textblock>○F) of the National Institute of Standards and Technology</textblock>
+    <textblock>(NIST) traceable thermometer.</textblock>
+    <textblock>The temperature recording device should be adjusted to agree</textblock>
+    <textblock>as nearly as possible, but never to be higher, than the</textblock>
+    <textblock>temperature indicating device.</textblock>
+    <textblock>Records</textblock>
+    <textblock>A record that describes the results of a scientific</textblock>
+    <textblock>evaluation, conducted by a process authority, of the adequacy of</textblock>
+    <textblock>the pasteurizing process. Such document may consist of, but is</textblock>
+    <textblock>not limited to, a letter from a process authority, articles in</textblock>
+    <textblock>scientific journals, or Federal, State, or local government</textblock>
+    <textblock>regulations or advisories.</textblock>
+    <textblock>A record that describes the results of a scientific</textblock>
+    <textblock>evaluation, conducted by a process authority, which applies to</textblock>
+    <textblock>the design and operation of the type of equipment used by the</textblock>
+    <textblock>processor.</textblock>
+    <textblock>A record for each lot or batch that shows the results of the</textblock>
+    <textblock>pasteurization process. The records should include: the time of</textblock>
+    <textblock>day that the pasteurization temperature is achieved; the time of</textblock>
+    <textblock>day that the pasteurization cycle ends; the time of day that the</textblock>
+    <textblock>product is placed in the water; and, as appropriate, the product</textblock>
+    <textblock>size, belt speed (continuous pasteurizer), the temperature at the</textblock>
+    <textblock>time that the processing starts, and any other factors of the</textblock>
+    <textblock>process or of the product that are identified by the process</textblock>
+    <textblock>authority as being critical to achieving pathogen reduction.</textblock>
+    <textblock>Temperature recorder charts or computerized temperature data</textblock>
+    <textblock>storage. A record of calibration for thermometers that specify</textblock>
+    <textblock>the date, standard against which the thermometers were compared</textblock>
+    <textblock>(NIST-traceable thermometer), procedure used, results, and person</textblock>
+    <textblock>performing the test.</textblock>
+    <textblock>A record of accuracy checks for the temperature recorder</textblock>
+    <textblock>that specifies the time, date, temperatures shown by the</textblock>
+    <textblock>thermometer and temperature recorder before adjustment, the</textblock>
+    <textblock>corrective action taken, and person performing the accuracy</textblock>
+    <textblock>check.</textblock>
+  </text>
+</doc>

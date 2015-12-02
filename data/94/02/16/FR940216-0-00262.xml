@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00262</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(v) For blends containing less than 1.50 volume</textblock>
+    <textblock>percent ethanol, the RVP of the base gasoline and</textblock>
+    <textblock>blendstocks without ethanol shall be used for the purposes</textblock>
+    <textblock>of calculations under paragraph (g)(3) of this section.</textblock>
+    <textblock>(4) Compliance calculations under this subpart E shall</textblock>
+    <textblock>be based on computations to the same degree of accuracy that</textblock>
+    <textblock>are specified in establishing individual baselines under</textblock>
+    <textblock>§80.91.</textblock>
+    <textblock>(5) The emissions performance of gasoline that has an</textblock>
+    <textblock>RVP that is equal to or less than the RVP required under §</textblock>
+    <textblock>80.27 (``summer gasoline'') shall be determined using the</textblock>
+    <textblock>applicable summer complex model under §80.45.</textblock>
+    <textblock>(6) The emissions performance of gasoline that has an</textblock>
+    <textblock>RVP greater than the RVP required under §80.27 (``winter</textblock>
+    <textblock>gasoline'') shall be determined using the applicable winter</textblock>
+    <textblock>complex model under §80.45, using an RVP of 8.7 psi for</textblock>
+    <textblock>compliance calculation purposes under this subpart E.</textblock>
+    <textblock>(7)(i) For the 1998 averaging period any</textblock>
+    <textblock>refiner or importer may elect to determine compliance with</textblock>
+    <textblock>the requirement for exhaust NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions performance either</textblock>
+    <textblock>with or without the inclusion of oxygenates in its</textblock>
+    <textblock>compliance calculations, in accordance with §80.91(e)(4),</textblock>
+    <textblock>provided that the baseline exhaust NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions performance</textblock>
+    <textblock>is calculated using the same with- or without-oxygen</textblock>
+    <textblock>approach.</textblock>
+    <textblock>(ii)(A) Any refiner or importer must use the</textblock>
+    <textblock>with- or without-oxygen approach elected under paragraph</textblock>
+    <textblock>(g)(7)(i) of this section for all subsequent averaging</textblock>
+    <textblock>periods; except that</textblock>
+    <textblock>(B) In the case of any refiner or importer who elects</textblock>
+    <textblock>to determines compliance for the calendar year 1998</textblock>
+    <textblock>averaging period without the inclusion of oxygenates, such</textblock>
+    <textblock>refiner or importer may elect to include oxygenates in its</textblock>
+    <textblock>compliance calculations for the 1999 averaging period.</textblock>
+    <textblock>(iii) Any refiner or importer who elects to use the</textblock>
+    <textblock>with-oxygen approach under paragraph (g)(7)(ii)(B) of this</textblock>
+    <textblock>section must use this approach for all subsequent averaging</textblock>
+    <textblock>periods.</textblock>
+    <textblock>(h)</textblock>
+    <textblock>Refinery grouping for determining compliance.</textblock>
+    <textblock>(1) Any refiner that operates more than one refinery may:</textblock>
+    <textblock>(i) Elect to achieve compliance individually for the</textblock>
+    <textblock>refineries; or</textblock>
+    <textblock>(ii) Elect to achieve compliance on an aggregate basis</textblock>
+    <textblock>for a group, or for groups, of refineries, some of which may</textblock>
+    <textblock>be individual refineries; provided that</textblock>
+    <textblock>(iii) Compliance is achieved for each refinery</textblock>
+    <textblock>separately or as part of a group; and</textblock>
+    <textblock>(iv) The data for any refinery is included only in one</textblock>
+    <textblock>compliance calculation.</textblock>
+    <textblock>(2) Any election by a refiner to group refineries</textblock>
+    <textblock>under paragraph (h)(1) of this section shall:</textblock>
+    <textblock>(i) Be made as part of the report for the 1995</textblock>
+    <textblock>averaging period required by §80.105;</textblock>
+    <textblock>(ii) Apply for the 1995 averaging period and for each</textblock>
+    <textblock>subsequent averaging period, and may not thereafter be</textblock>
+    <textblock>changed; and</textblock>
+    <textblock>(iii) Apply for purposes of the blendstock tracking and</textblock>
+    <textblock>accounting provisions under §80.102.</textblock>
+    <textblock>(3)(i) Any standards under this section shall</textblock>
+    <textblock>apply, and compliance calculations shall be made, separately</textblock>
+    <textblock>for each refinery or refinery group; except that</textblock>
+    <textblock>(ii) Any refiner that produces conventional gasoline</textblock>
+    <textblock>for distribution to a specified geographic area which is the</textblock>
+    <textblock>subject of a petition approved by EPA pursuant to</textblock>
+    <textblock>§80.91(f)(3) shall achieve compliance separately for</textblock>
+    <textblock>gasoline supplied to such specified geographic area.</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Sampling and testing.</textblock>
+    <textblock>(1) Any refiner or importer shall for each batch of</textblock>
+    <textblock>conventional gasoline, and other products if included</textblock>
+    <textblock>paragraph (d) of this section, prior to such gasoline or</textblock>
+    <textblock>product leaving the refinery or import facility:</textblock>
+    <textblock>(i)(A) Determine the value of each of the</textblock>
+    <textblock>properties required for determining compliance with the</textblock>
+    <textblock>standards that are applicable to the refiner or importer, by</textblock>
+    <textblock>collecting and analyzing a representative sample of gasoline</textblock>
+    <textblock>or blendstock taken from the batch, using the methodologies</textblock>
+    <textblock>specified in §80.46; except that</textblock>
+    <textblock>(B) Any refiner that produces gasoline by combining</textblock>
+    <textblock>blendstock with gasoline that has been included in the</textblock>
+    <textblock>compliance calculations of another refiner or of an importer</textblock>
+    <textblock>may for such gasoline meet this sampling and testing</textblock>
+    <textblock>requirement by collecting and analyzing a representative</textblock>
+    <textblock>sample of the blendstock used subsequent to each receipt of</textblock>
+    <textblock>such blendstock if the compliance calculation method</textblock>
+    <textblock>specified in paragraph (g)(3) of this section is used.</textblock>
+    <textblock>(ii) Assign a number to the batch (the ``batch number''),</textblock>
+    <textblock>as specified in §80.65(d)(3);</textblock>
+    <textblock>(2) For the purposes of meeting the sampling and</textblock>
+    <textblock>testing requirements under paragraph (i)(1) of this section,</textblock>
+    <textblock>any refiner or importer may, prior to analysis, combine</textblock>
+    <textblock>samples of gasoline collected from more than one batch of</textblock>
+    <textblock>gasoline or blendstock (``composite sample''), and treat such</textblock>
+    <textblock>composite sample as one batch of gasoline or blendstock</textblock>
+    <textblock>provided that the refiner or importer:</textblock>
+    <textblock>(i) Meets each of the requirements specified in</textblock>
+    <textblock>§80.91(d)(4)(iii) for the samples contained in the</textblock>
+    <textblock>composite sample;</textblock>
+    <textblock>(ii) Combines samples of gasoline that are produced or</textblock>
+    <textblock>imported over a period no longer than one month;</textblock>
+  </text>
+</doc>

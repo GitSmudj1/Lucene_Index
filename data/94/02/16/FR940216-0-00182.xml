@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00182</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>FORM=Formaldehyde emissions from the fuel in question, in milligrams per mile</textblock>
+    <textblock>ACET=Acetaldehyde emissions from the fuel in question, in milligrams per mile</textblock>
+    <textblock>POM=Emissions of polycyclic organic matter from the fuel in question, in milligrams per mile</textblock>
+    <textblock>BUTA=Emissions of 1,3-Butadiene from the fuel in question, in milligrams per mile</textblock>
+    <textblock>FBEN=Fuel benzene of the fuel in question, in terms of volume percent (as measured under §80.46)</textblock>
+    <textblock>FAROM=Fuel aromatics of the fuel in question, in terms of volume percent (as measured under §80.46)</textblock>
+    <textblock>TOXREDS1=Total toxics reduction of the fuel in question during the summer period for VOC control region 1 in percent</textblock>
+    <textblock>TOXREDS2=Total toxics reduction of the fuel in question during the summer period for VOC control region 2 in percent</textblock>
+    <textblock>TOXREDW=Total toxics reduction of the fuel in question during the winter period in percent</textblock>
+    <textblock>(1) The following equations shall comprise the simple model for toxics emissions in VOC control region 1 during the summer period:</textblock>
+    <textblock>TOXREDS1=[100×(53.2^EXHBEN ^EVPBEN^RLBEN^REFBEN ^FORM^ACET^BUTA ^POM)]/53.2</textblock>
+    <textblock>EXHBEN=[1.884+0.949 × FBEN+0.113 × (FAROM^FBEN))/100] × 1000 × EXHVOCS1</textblock>
+    <textblock>EVPBEN=HSBEN+DIBEN</textblock>
+    <textblock>HSBEN=FBEN × (EVPVOCS1 × 0.679) × 1000 × [(1.4448^(0.0684 × MTBE/2.0)^(0.080274 × RVP))/100]</textblock>
+    <textblock>DIBEN=FBEN × (EVPVOCS1 × 0.321) × 1000 × [(1.3758^(0.0579 × MTBE/2.0)^(0.080274 × RVP))/100]</textblock>
+    <textblock>RLBEN=FBEN × RLVOCS1 × 1000 × [(1.4448^(0.0684 × MTBE/2.0)^(0.080274 × RVP))/100]</textblock>
+    <textblock>REFBEN=FBEN × REFVOCS1 × 1000 × [(1.3972^(0.0591xMTBE/2.0)^(0.081507 × RVP))/100] BUTA=0.00556xEXHVOCS1x1000</textblock>
+    <textblock>POM=3.15 × EXHVOCS1</textblock>
+    <textblock>(i) For any oxygenate or mixtures of oxygenates, the formaldehyde and acetaldehyde shall be calculated with the following equations:</textblock>
+    <textblock>FORM=0.01256 × EXHVOCS1 × 1000 × [1+(0.421/2.7) × MTBE+TAME)+(0.358/3.55) × ETOH + (0.137/2.7) × (ETBE+ETAE)]</textblock>
+    <textblock>ACET=0.00891 × EXHVOCS1 × 1000 × [1 + (0.078/2.7) × (MTBE+TAME)+(0.865/3.55) × ETOH+(0.867/2.7) × (ETBE+ETAE)]</textblock>
+    <textblock>(ii) When calculating formaldehyde and acetaldehyde emissions using the equations in paragraph (b)(1)(i) of this section, oxygen in the form of alcohols which are more complex or have higher molecular weights than ethanol shall be evaluated as if it were in the form of ethanol. Oxygen in the form of methyl ethers other than TAME and MTBE shall be evaluated as if it were in the form of MTBE. Oxygen in the form of ethyl ethers other than ETBE shall be evaluated as if it were in the form of ETBE. Oxygen in the form of non-methyl, non-ethyl ethers shall be evaluated as if it were in the form of ETBE.</textblock>
+    <textblock>(2) The following equations shall comprise the simple model for toxics emissions in VOC control region 2 during the summer period:</textblock>
+    <textblock>TOXREDS2=100 × (52.1 ^ EXHBEN ^ EVPBEN ^ RLBEN ^ REFBEN ^ FORM ^ ACET ^ BUTA ^ POM)/52.1</textblock>
+    <textblock>EXHBEN=[(1.884+0.949 × FBEN+0.113 × (FAROM^FBEN))/100] × 1000 × EXHVOCS2</textblock>
+    <textblock>EVPBEN=HSBEN+DIBEN</textblock>
+    <textblock>HSBEN=FBEN × (EVPVOCS2 × 0.679) × 1000 × [(1.4448^(0.0684 × MTBE/2.0)^(0.080274 × RVP))/100]</textblock>
+    <textblock>DIBEN=FBEN × (EVPVOCS2 × 0.321) × 1000 × [(1.3758^(0.0579 × MTBE/2.0)^(0.080274 × RVP))/100]</textblock>
+  </text>
+</doc>

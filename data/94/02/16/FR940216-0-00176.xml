@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00176</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(a)</textblock>
+    <textblock>Simple model per-gallon standards.</textblock>
+    <textblock>The ``simple</textblock>
+    <textblock>model'' standards for compliance when achieved on a per-gallon basis are as follows:</textblock>
+    <textblock>(b)</textblock>
+    <textblock>Simple model averaged standards.</textblock>
+    <textblock>The ``simple</textblock>
+    <textblock>model'' standards when achieved on average are as follows:</textblock>
+    <textblock>(c)</textblock>
+    <textblock>Phase I complex model per gallon standards.</textblock>
+    <textblock>The</textblock>
+    <textblock>Phase I ``complex model'' standards for compliance when</textblock>
+    <textblock>achieved on a per-gallon basis are as follows:</textblock>
+    <textblock>(d)</textblock>
+    <textblock>Phase I complex model averaged standards.</textblock>
+    <textblock>The</textblock>
+    <textblock>Phase I ``complex model'' standards for compliance when</textblock>
+    <textblock>achieved on average are as follows:</textblock>
+  </text>
+  <table>
+    <textblock>Simple Model Per-Gallon Standards</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>Reid vapor pressure (in pounds per square inch):</textblock>
+    <textblock>Gasoline designated for VOC-Control Region 1</textblock>
+    <textblock>&lt;7.2</textblock>
+    <textblock>Gasoline designated for VOC-Control Region 2</textblock>
+    <textblock>&lt;8.1</textblock>
+    <textblock>Oxygen content (percent, by weight)</textblock>
+    <textblock>≥2.0</textblock>
+    <textblock>Toxic air pollutants emissions reduction</textblock>
+    <textblock>(percent)</textblock>
+    <textblock>≥15.0</textblock>
+    <textblock>Benzene (percent, by volume)</textblock>
+    <textblock>&lt;1.00</textblock>
+  </table>
+  <table>
+    <textblock>Simple Model Averaged Standards</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>Reid vapor pressure (in pounds per square inch):</textblock>
+    <textblock>Gasoline designated for VOC-Control Region 1:</textblock>
+    <textblock>Standard</textblock>
+    <textblock>&lt;7.1</textblock>
+    <textblock>Per-Gallon Maximum</textblock>
+    <textblock>&lt;7.4</textblock>
+    <textblock>Gasoline designated for VOC-Control Region 2:</textblock>
+    <textblock>Standard</textblock>
+    <textblock>&lt;8.0</textblock>
+    <textblock>Per-Gallon Maximum</textblock>
+    <textblock>&lt;8.3</textblock>
+    <textblock>Oxygen content (percent, by weight):</textblock>
+    <textblock>Standard</textblock>
+    <textblock>≥2.1</textblock>
+    <textblock>Per-Gallon Minimum</textblock>
+    <textblock>≥1.5</textblock>
+    <textblock>Toxic air pollutants emissions reduction</textblock>
+    <textblock>(percent)</textblock>
+    <textblock>≥16.5</textblock>
+    <textblock>Benzene (percent, by volume):</textblock>
+    <textblock>Standard</textblock>
+    <textblock>&lt;0.95</textblock>
+    <textblock>Per-Gallon Maximum</textblock>
+    <textblock>&lt;1.30</textblock>
+  </table>
+  <table>
+    <textblock>Phase I_Complex Model Per-Gallon Standards</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>VOC emissions performance reduction (percent):</textblock>
+    <textblock>Gasoline designated for VOC-Control Region 1</textblock>
+    <textblock>≥35.1</textblock>
+    <textblock>Gasoline designated for VOC-Control Region 2</textblock>
+    <textblock>≥15.6</textblock>
+    <textblock>Toxic air pollutants emissions performance</textblock>
+    <textblock>reduction (percent)</textblock>
+    <textblock>≥15.0</textblock>
+    <textblock>NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions performance reduction (percent)</textblock>
+    <textblock>≥0.0</textblock>
+    <textblock>Oxygen content (percent, by weight)</textblock>
+    <textblock>≥2.0</textblock>
+    <textblock>Benzene (percent, by volume)</textblock>
+    <textblock>&lt;1.00</textblock>
+  </table>
+  <table>
+    <textblock>Phase I_Complex Model Averaged Standards</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>VOC emissions performance reduction (percent):</textblock>
+    <textblock>Gasoline designated for VOC-Control Region 1:</textblock>
+    <textblock>Standard</textblock>
+    <textblock>≥36.6</textblock>
+    <textblock>Per-Gallon Minimum</textblock>
+    <textblock>&lt;32.6</textblock>
+    <textblock>Gasoline designated for VOC-Control Region 2:</textblock>
+    <textblock>Standard</textblock>
+    <textblock>≥17.1</textblock>
+    <textblock>Per-Gallon Minimum</textblock>
+    <textblock>≥13.1</textblock>
+    <textblock>Toxics air pollutants emissions performance</textblock>
+    <textblock>reduction (percent)</textblock>
+    <textblock>≥16.5</textblock>
+    <textblock>NO</textblock>
+    <textblock>X</textblock>
+    <textblock>emissions performance reduction (percent):</textblock>
+    <textblock>Standard</textblock>
+    <textblock>≥1.5</textblock>
+    <textblock>Per-Gallon Minimum</textblock>
+    <textblock>&lt;^2.5</textblock>
+    <textblock>Oxygen content (percent, by weight):</textblock>
+    <textblock>Standard</textblock>
+    <textblock>≥2.1</textblock>
+    <textblock>Per-Gallon Minimum</textblock>
+    <textblock>≥1.5</textblock>
+    <textblock>Benzene (percent, by volume):</textblock>
+    <textblock>Standard</textblock>
+    <textblock>&lt;0.95</textblock>
+    <textblock>Per-Gallon Maximum</textblock>
+    <textblock>&lt;1.30</textblock>
+  </table>
+</doc>

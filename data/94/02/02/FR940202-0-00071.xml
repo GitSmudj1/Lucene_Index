@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00071</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>§1.1274-4</textblock>
+    <textblock>Test rate.</textblock>
+    <textblock>(a)</textblock>
+    <textblock>Determination of test rate of interest</textblock>
+    <textblock>_(1)</textblock>
+    <textblock>In</textblock>
+    <textblock>general</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>Test rate is the 3-month rate</textblock>
+    <textblock>. Except as provided</textblock>
+    <textblock>in paragraph (a)(2) of this section, the test rate of interest</textblock>
+    <textblock>for a debt instrument issued in consideration for the sale or</textblock>
+    <textblock>exchange of property is the 3-month rate.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>The 3-month rate</textblock>
+    <textblock>. Except as provided in paragraph</textblock>
+    <textblock>(a)(1)(iii) of this section, the 3-month rate is the lower of_</textblock>
+    <textblock>(A) The lowest applicable Federal rate (based on the appropriate compounding period) in effect during the 3-month</textblock>
+    <textblock>period ending with the first month in which there is a binding</textblock>
+    <textblock>written contract that substantially sets forth the terms under</textblock>
+    <textblock>which the sale or exchange is ultimately consummated; or</textblock>
+    <textblock>(B) The lowest applicable Federal rate (based on the</textblock>
+    <textblock>appropriate compounding period) in effect during the 3-month</textblock>
+    <textblock>period ending with the month in which the sale or exchange</textblock>
+    <textblock>occurs.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Special rule if there is no binding written contract.</textblock>
+    <textblock>If there is no binding written contract that substantially sets forth the terms under which the sale or exchange is ultimately consummated, the 3-month rate is the lowest applicable Federal rate (based on the appropriate compounding period) in effect during the 3-month period ending with the month in which the sale or exchange occurs.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Test rate for certain debt instruments</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>Sale-leaseback transactions.</textblock>
+    <textblock>Under section 1274(e) (relating to</textblock>
+    <textblock>certain sale-leaseback transactions), the test rate is 110</textblock>
+    <textblock>percent of the 3-month rate determined under paragraph (a)(1) of</textblock>
+    <textblock>this section. For purposes of section 1274(e)(3), related party</textblock>
+    <textblock>means a person related to the transferor within the meaning of</textblock>
+    <textblock>section 267(b) or 707(b)(1).</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Qualified debt instrument.</textblock>
+    <textblock>Under section 1274A(a), the</textblock>
+    <textblock>test rate for a qualified debt instrument is no greater than 9</textblock>
+    <textblock>percent, compounded semiannually, or an equivalent rate based on</textblock>
+    <textblock>an appropriate compounding period.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Alternative test rate for short-term obligations</textblock>
+    <textblock>_(A)</textblock>
+    <textblock>Requirements</textblock>
+    <textblock>. This paragraph (a)(2)(iii)(A) provides an</textblock>
+    <textblock>alternative test rate under section 1274(d)(1)(D) for a debt</textblock>
+    <textblock>instrument with a maturity of 1 year or less. This alternative</textblock>
+    <textblock>test rate applies, however, only if the debt instrument provides</textblock>
+    <textblock>for adequate stated interest using the alternative test rate, the</textblock>
+    <textblock>issuer provides on the face of the debt instrument that the</textblock>
+    <textblock>instrument qualifies as having adequate stated interest under</textblock>
+    <textblock>section 1274(d)(1)(D), and the issuer and holder treat or agree</textblock>
+    <textblock>to treat the instrument as having adequate stated interest.</textblock>
+    <textblock>(B)</textblock>
+    <textblock>Alternative test rate</textblock>
+    <textblock>. For purposes of paragraph</textblock>
+    <textblock>(a)(2)(iii)(A), the alternative test rate is the market yield on</textblock>
+    <textblock>U.S. Treasury bills with the same maturity date as the debt</textblock>
+    <textblock>instrument. If the same maturity date is not available, the</textblock>
+    <textblock>market yield on U.S. Treasury bills that mature in the same week</textblock>
+    <textblock>or month as the debt instrument is used. The alternative test</textblock>
+    <textblock>rate is determined as of the date on which there is a binding</textblock>
+    <textblock>written contract that substantially sets forth the terms under</textblock>
+    <textblock>which the sale or exchange is ultimately consummated or as of the</textblock>
+    <textblock>date of the sale or exchange, whichever date results in a lower</textblock>
+    <textblock>rate. If there is no binding written contract, however, the alternative test rate is determined as of the date of the sale or</textblock>
+    <textblock>exchange.</textblock>
+    <textblock>(b)</textblock>
+    <textblock>Applicable Federal rate</textblock>
+    <textblock>. Except as otherwise provided in this section, the applicable Federal rate for a debt instrument is based on the term of the instrument (i.e., short-term, mid-term, or long-term). See section 1274(d)(1). The Internal Revenue Service publishes the applicable Federal rates for each month in the Internal Revenue Bulletin (see §601.601(d)(2)(ii) of this chapter). The applicable Federal rates are based on the yield to maturity of outstanding marketable obligations of the United States of similar maturities during the one month period ending on the 14th day of the month preceding the month for which the rates are applicable.</textblock>
+    <textblock>(c)</textblock>
+    <textblock>Special rules to determine the term of a debt instrument for purposes of determining the applicable Federal rate</textblock>
+    <textblock>_(1)</textblock>
+    <textblock>Installment obligation</textblock>
+    <textblock>. If a debt instrument is an installment obligation (as defined in §1.1273-1(e)(1)), the term of the instrument is the instrument's weighted average maturity (as defined in §1.1273-1(e)(3)).</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Certain variable rate debt instruments</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>In general</textblock>
+    <textblock>.</textblock>
+    <textblock>Except as otherwise provided in paragraph (c)(2)(ii) of this</textblock>
+    <textblock>section, if a variable rate debt instrument (as defined in</textblock>
+    <textblock>§1.1275-5(a)) provides for stated interest at a qualified</textblock>
+    <textblock>floating rate (or rates), the term of the instrument is</textblock>
+    <textblock>determined by reference to the longest interval between interest</textblock>
+    <textblock>adjustment dates, or, if the variable rate debt instrument</textblock>
+    <textblock>provides for a fixed rate, the interval between the issue date</textblock>
+    <textblock>and the last day on which the fixed rate applies, if this</textblock>
+    <textblock>interval is longer.</textblock>
+  </text>
+</doc>

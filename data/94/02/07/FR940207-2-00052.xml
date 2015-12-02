@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940207-2-00052</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940207-2-00028</textblock>
+  </parent>
+  <text>
+    <textblock>Existing and Provisional P-DP Rates</textblock>
+    <textblock>A comparison of existing P-DP rates and two-step provisional P-DP rates follows:</textblock>
+  </text>
+  <table>
+    <textblock>Comparison of Existing P-DP Rates and Step One Provisional P-DP Rates</textblock>
+    <textblock>1Type of Service</textblock>
+    <textblock>1Existing rates 10/1/1990</textblock>
+    <textblock>1Provisional rates</textblock>
+    <textblock>2/1/1994*</textblock>
+    <textblock>1Percent change (%)</textblock>
+    <textblock>Power Rate Schedule</textblock>
+    <textblock>PD-F3</textblock>
+    <textblock>PD-F4</textblock>
+    <textblock>Composite (mills/kWh)</textblock>
+    <textblock>9.03</textblock>
+    <textblock>11.58</textblock>
+    <textblock>28</textblock>
+    <textblock>Energy (mills/kWh)</textblock>
+    <textblock>4.52</textblock>
+    <textblock>5.79</textblock>
+    <textblock>28</textblock>
+    <textblock>Capacity ($/kW/month)</textblock>
+    <textblock>1.98</textblock>
+    <textblock>2.54</textblock>
+    <textblock>28</textblock>
+    <textblock>Firm Transmission Rate Service Schedule</textblock>
+    <textblock>PD-FT3</textblock>
+    <textblock>PD-FT4</textblock>
+    <textblock>Firm Transmission Service ($/kW/year)</textblock>
+    <textblock>8.20</textblock>
+    <textblock>10.40</textblock>
+    <textblock>27</textblock>
+    <textblock>Nonfirm Transmission Service Rate Schedule</textblock>
+    <textblock>PD-NFT3</textblock>
+    <textblock>PD-NFT4</textblock>
+    <textblock>Nonfirm Transmission Service (mills/kWh)</textblock>
+    <textblock>1.50</textblock>
+    <textblock>1.98</textblock>
+    <textblock>32</textblock>
+    <textblock>Firm Transmission Service For SLCA/IP Rate Schedule</textblock>
+    <textblock>PD-FCT3</textblock>
+    <textblock>PD-FCT4</textblock>
+    <textblock>Firm Transmission Service for SLCA/IP ($/kW/season)</textblock>
+    <textblock>4.10</textblock>
+    <textblock>5.20</textblock>
+    <textblock>27</textblock>
+    <textblock>*The first steps of the provisional P-DP rates are in effect from February 1, 1994, through September 30, 1995.</textblock>
+  </table>
+</doc>

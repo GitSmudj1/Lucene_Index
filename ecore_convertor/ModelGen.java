@@ -3,6 +3,8 @@ package gen;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.Collections;
 import java.util.HashSet;
 import java.util.Scanner;
@@ -19,6 +21,12 @@ import org.eclipse.emf.ecore.xmi.impl.EcoreResourceFactoryImpl;
 public class ModelGen {
 	
 	private EPackage newPackage;
+	private HashSet<String> visited;
+	private EClass classObject = null;
+	
+	public ModelGen() {
+		visited = new HashSet<String>();
+	}
 	
 	private void createEcoreModel() {
 		
@@ -29,24 +37,66 @@ public class ModelGen {
 		newPackage.setNsURI("com.example");
 		newPackage.setNsPrefix("DataModel");
 		
+		classObject = EcoreFactory.eINSTANCE.createEClass();
+		classObject.setName("doc");
+		
+		newPackage.getEClassifiers().add(classObject);
+		
 		try {
-			parse(new Scanner(new File("data/FR940104.0")));
-		} catch (FileNotFoundException e) {
+			
+			Files.walk(Paths.get("data/source/")).forEach(filePath -> {
+				
+				if(Files.isRegularFile(filePath)) {
+					
+					File theFile = filePath.toFile();
+					
+					if(theFile.getName().startsWith("FR")) {
+					
+						try {
+							parse(new Scanner(filePath.toFile()));
+						} catch (Exception e) {
+							e.printStackTrace();
+						}
+					
+					}
+					
+				}
+				
+			});
+			
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		
+		saveFile();
+		
+	}
+	
+	private void saveFile() {
+		
+		try {
+			
+			URI output = URI.createFileURI("model/parser.ecore");
+			
+			Resource ecore = new EcoreResourceFactoryImpl().createResource(output);
+	
+			ecore.getContents().add(newPackage);
+		
+			ecore.save(Collections.EMPTY_MAP);
+			
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		System.out.println("Complete");
 		
 	}
 	
 	private void parse(Scanner scanner) {
 		
 		boolean inDefinition = false;
-		EClass classObject = null;
-		HashSet<String> visited = new HashSet<String>();
 		
-		classObject = EcoreFactory.eINSTANCE.createEClass();
-		classObject.setName("doc");
-		
-		newPackage.getEClassifiers().add(classObject);
 		
 		while(scanner.hasNextLine()) {
 			
@@ -62,7 +112,7 @@ public class ModelGen {
 				
 				if(line.startsWith("<") && !line.startsWith("</") && !line.startsWith("<!--") && !line.startsWith("<DOC>")) {
 					
-					System.out.println(line);
+					//System.out.println(line);
 					String name = line.substring(1, line.indexOf(">")).toLowerCase();
 					
 					if(!visited.contains(name)) {
@@ -87,22 +137,6 @@ public class ModelGen {
 			}
 			
 		}
-		
-		try {
-		
-			URI output = URI.createFileURI("model/model.ecore");
-			
-			Resource ecore = new EcoreResourceFactoryImpl().createResource(output);
-	
-			ecore.getContents().add(newPackage);
-		
-			ecore.save(Collections.EMPTY_MAP);
-			
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		
-		System.out.println("Complete");
 		
 	}
 	

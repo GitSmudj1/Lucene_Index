@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00052</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>The fuels to be used in determining baseline emissions are unchanged from the February 26, 1993 proposal and are shown below.</textblock>
+    <textblock>3. Definition of Ozone-Forming VOC</textblock>
+    <textblock>The Act requires reductions in emissions of ozone-forming VOCs. This interpretation is consistent with the focus of Section 211(k) on the areas with the most extreme ozone pollution problem. EPA proposed in April 16, 1992 that methane would be excluded from the definition of VOC on the basis of its low reactivity in keeping with past EPA actions, but included all other VOCs including ethane. EPA further proposed, however, that should the Agency modify the definition of VOC, we might do so for the reformulated gasoline rulemaking as well. As discussed in the February 26, 1993 proposal, EPA has also modified the definition of VOC to exclude ethane in a separate Agency rulemaking (57 FR 3941). As a result, the performance of fuels meeting the VOC emission requirements under the simple model are expressed on a non-methane, non-ethane basis. This change resulted in slight changes to the simple model equations previously proposed, but the overall results of the simple model are essentially unaffected.</textblock>
+    <textblock>4. Simple Model Baseline</textblock>
+    <textblock>The following table shows the baseline emissions under the simple model which result from the assumptions discussed above. Since the MOBILE model does not estimate toxics emissions, however, separate data and information was necessary to determine their baseline emissions. The toxics baseline was developed in essentially the same manner as that proposed in the April 16, 1992 proposal. An explanation of this derivation can be found in Section II of the RIA.</textblock>
+    <textblock>E. Phase I Performance Standards Under the Simple Model</textblock>
+    <textblock>Section 211(k)(3) directs EPA to require, at minimum, that Phase I reformulated gasoline comply with the more stringent of two alternative VOC and toxics emission requirements_either a performance standard of a 15 percent reduction from baseline levels on a mass basis, or compositional requirements specified as a formula in Section 211(k)(3)(A). The formula effectively defines a set of maximum or minimum fuel parameter specifications. In evaluating which requirement is more stringent, EPA is to consider VOC and toxics separately.</textblock>
+    <textblock>The stringency of the formula is best evaluated by determining the emissions performance of the fuels that would be certifiable if EPA were to impose the requirements of Section 211(k)(3)(A). A gasoline would meet these requirements if it (1) had no more than 1.0 volume percent benzene, (2) had no more than 25 volume percent aromatics, (3) had no less than 2.0 weight percent oxygen, and (4) met the requirements for detergent additives and lead content. The formula does not specify or limit any additional gasoline properties, and therefore a wide variety of fuels with very different properties would qualify as complying with the formula. For example, the formula specifies the weight percent oxygen but does not specify the type of oxygenate. If EPA were to impose the requirements of Section 211(k)(3)(A), then any approved oxygenate could be used to meet the formula's oxygen requirement, as long as it was blended to achieve the required weight percent oxygen. The same would be true of sulfur levels, distillation characteristics, olefin levels, RVP levels, and so on. As long as the formula's requirements were met, the fuel would be certifiable if EPA were to base its certification requirements on Section 211(k)(3)(A).</textblock>
+    <textblock>To evaluate the emissions performance of the various fuels that would comply with the formula requirements, EPA used the Phase I complex model. Given the Phase I baseline emission levels, EPA considers the complex model to be the most appropriate means of evaluating emissions performance since it incorporates the Agency's most recent, complete, and accurate knowledge of the effects of fuel properties on VOC and toxics emissions. Since many of the fuel parameters that are not specified for the formula affect VOC and toxics emissions, the various possible formula fuels exhibit a wide variety of emission performance levels as these unspecified parameters vary. According to the Complex Model, requirements based on many possible formula fuels would be less stringent than requirements based on the 15 percent minimum reduction requirements of Section (211)(k)(3)(B). In addition, the lack of specificity of the formula fuel would make establishment of an equivalent emissions performance standard impossible, since one or more possible formula fuels would fail to meet any specific standard.</textblock>
+  </text>
+  <table>
+    <textblock>Table III-</textblock>
+    <textblock>1._</textblock>
+    <textblock>Baseline Fuel Compositions</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1Summer</textblock>
+    <textblock>1Winter</textblock>
+    <textblock>Sulfur, ppm</textblock>
+    <textblock>339</textblock>
+    <textblock>338</textblock>
+    <textblock>Benzene, volume percent</textblock>
+    <textblock>1.53</textblock>
+    <textblock>1.64</textblock>
+    <textblock>RVP, psi</textblock>
+    <textblock>8.7</textblock>
+    <textblock>11.5</textblock>
+    <textblock>Octane, R+M/2</textblock>
+    <textblock>87.3</textblock>
+    <textblock>88.2</textblock>
+    <textblock>T10, degrees F</textblock>
+    <textblock>128</textblock>
+    <textblock>112</textblock>
+    <textblock>T50, degrees F</textblock>
+    <textblock>218</textblock>
+    <textblock>200</textblock>
+    <textblock>T90, degrees F</textblock>
+    <textblock>330</textblock>
+    <textblock>333</textblock>
+    <textblock>Aromatics, volume percent</textblock>
+    <textblock>32.0</textblock>
+    <textblock>26.4</textblock>
+    <textblock>Olefins, volume percent</textblock>
+    <textblock>9.2</textblock>
+    <textblock>11.9</textblock>
+    <textblock>Saturates, volume percent</textblock>
+    <textblock>58.8</textblock>
+    <textblock>61.7</textblock>
+  </table>
+  <table>
+    <textblock>Table III-</textblock>
+    <textblock>2._</textblock>
+    <textblock>Simple Model Baseline Emissions</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1Summer</textblock>
+    <textblock>2Region 1</textblock>
+    <textblock>2Region 2</textblock>
+    <textblock>1Winter</textblock>
+    <textblock>Exhaust VOCs (g/mi)</textblock>
+    <textblock>0.444</textblock>
+    <textblock>0.444</textblock>
+    <textblock>0.656</textblock>
+    <textblock>Non-Exhaust VOC (g/mi)</textblock>
+    <textblock>.856</textblock>
+    <textblock>.766</textblock>
+    <textblock>0</textblock>
+    <textblock>Total VOCs (g/mi)</textblock>
+    <textblock>1.30</textblock>
+    <textblock>1.21</textblock>
+    <textblock>0.656</textblock>
+    <textblock>Exhaust Benzene (mg/mi)</textblock>
+    <textblock>30.1</textblock>
+    <textblock>30.1</textblock>
+    <textblock>40.9</textblock>
+    <textblock>Evaporative Benzene</textblock>
+    <textblock>4.3</textblock>
+    <textblock>3.8</textblock>
+    <textblock>0.0</textblock>
+    <textblock>Running Loss Benzene</textblock>
+    <textblock>4.9</textblock>
+    <textblock>4.5</textblock>
+    <textblock>0.0</textblock>
+    <textblock>Refueling Benzene</textblock>
+    <textblock>0.4</textblock>
+    <textblock>0.4</textblock>
+    <textblock>0.0</textblock>
+    <textblock>1,3-Butadiene</textblock>
+    <textblock>2.5</textblock>
+    <textblock>2.5</textblock>
+    <textblock>3.6</textblock>
+    <textblock>Formaldehyde</textblock>
+    <textblock>5.6</textblock>
+    <textblock>5.6</textblock>
+    <textblock>5.6</textblock>
+    <textblock>Acetaldehyde</textblock>
+    <textblock>4.0</textblock>
+    <textblock>4.0</textblock>
+    <textblock>4.0</textblock>
+    <textblock>POMs</textblock>
+    <textblock>1.4</textblock>
+    <textblock>1.4</textblock>
+    <textblock>1.4</textblock>
+    <textblock>n,s</textblock>
+    <textblock>Total TAPs (mg/mi)</textblock>
+    <textblock>53.2</textblock>
+    <textblock>52.1</textblock>
+    <textblock>55.5</textblock>
+  </table>
+</doc>

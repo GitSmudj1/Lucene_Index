@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940119-2-00085</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940119-2-00062</textblock>
+  </parent>
+  <text/>
+  <usbureau>
+    <textblock>Federal Aviation Administration</textblock>
+  </usbureau>
+  <doctitle>
+    <textblock>Proposed Change</textblock>
+    <textblock>#</textblock>
+    <textblock>2 to FAA P-8110-2, Airship Design Criteria</textblock>
+  </doctitle>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>Federal Aviation Administration (FAA), DOT.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>Notice of availability of Proposed Change</textblock>
+    <textblock>#</textblock>
+    <textblock>2 to FAA P-8110-2, Airship Design Criteria (ADC); request for comments.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>This proposed change adds the requirements for fly-by-light control systems. We propose to add two new paragraphs to the ADC that cover concerns related to optical couplings and optical degradation. We do not consider loss of primary flight controls critical to continued safe flight and landing in airships, because they essentially become free balloons if they lose controllability.</textblock>
+  </summary>
+  <date>
+    <textblock>DATES:</textblock>
+    <textblock>Comments must be received on or before March 21, 1994.</textblock>
+  </date>
+  <address>
+    <textblock>ADDRESSES:</textblock>
+    <textblock>Mail or deliver comments on the Proposed Change</textblock>
+    <textblock>#</textblock>
+    <textblock>2 to FAA P-8110-2, Airship Design Criteria (ADC), to: Federal Aviation Administration, Small Airplane Directorate, Aircraft Certification Service, Standards Office (ACE-110), 601 East 12th Street, Kansas City, Missouri 64106.</textblock>
+  </address>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>J. Lowell Foster, Aerospace Engineer, Standards Office (ACE-110), Small Airplane Directorate, Aircraft Certification Service, Standards Office (ACE-110), 601 East 12th Street, Kansas City, Missouri 64106.</textblock>
+    <textblock>comments invited:</textblock>
+    <textblock>Interested parties are invited to submit such written data, views, or arguments as they may desire. Commenters must identify the report number (FAA-P-8110-2), and submit comments to the address specified above. We will consider all written comments received on or before the closing data for comments before we revise the ADC. The proposed changes to the ADC and comments received may be inspected at the Standards Office (ACE-110), 1201 E. Walnut, Suite 900, Kansas City, Missouri, between the hours of 7:30 a.m. and 4 p.m. weekdays, except Federal holidays.</textblock>
+    <textblock>background:</textblock>
+    <textblock>The requirements for a control system not directly (mechanically) connected to the control surface are applicable to both fly-by-wire and fly-by-light. The fiber optics used in fly-by-light systems, though immune to some of the problems associated with fly-by-wire systems, has its own set of problems. Those problems are addressed in this change.</textblock>
+    <textblock>Issued in Kansas City, Missouri, January 4, 1994.</textblock>
+  </further>
+  <signer>
+    <textblock>Barry D. Clements,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Manager, Small Airplane Directorate, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-1207 Filed 1-18-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-M</textblock>
+  </billing>
+</doc>

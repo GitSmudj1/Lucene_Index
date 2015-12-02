@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940204-1-00004</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940204-1-00001</textblock>
+  </parent>
+  <text>
+    <textblock>(iii) The need of the Nation to conserve all forms of</textblock>
+    <textblock>energy, and the relative scarcity and value to the</textblock>
+    <textblock>Nation of all fuel used to generate electricity;</textblock>
+    <textblock>and</textblock>
+    <textblock>(iv) The specific driving patterns of electric vehicles</textblock>
+    <textblock>as compared with those of petroleum-fueled</textblock>
+    <textblock>vehicles.</textblock>
+    <textblock>Section 503(a)(3) also provides for revision of such values</textblock>
+    <textblock>if necessary.</textblock>
+    <textblock>Due to continued technology development and a strong</textblock>
+    <textblock>interest in the corporate average fuel economy of electric</textblock>
+    <textblock>vehicles from industry, DOE is proposing an updated method</textblock>
+    <textblock>of calculating the petroleum equivalency factor. Unlike the</textblock>
+    <textblock>current version of 10 CFR part 474 which required annual</textblock>
+    <textblock>updating of the petroleum equivalency factor, the updated</textblock>
+    <textblock>methodology yields a fixed value valid through the year</textblock>
+    <textblock>2004.</textblock>
+    <textblock>B. Test Procedures</textblock>
+    <textblock>DOE is proposing to revise §474.3 to provide that the</textblock>
+    <textblock>test procedure to be used in determining equivalent</textblock>
+    <textblock>petroleum-based fuel economy shall be based on the Society</textblock>
+    <textblock>of Automotive Engineers Electric Vehicle Energy Consumption</textblock>
+    <textblock>and Range Test Procedure J1634, effective May 1993. In</textblock>
+    <textblock>accordance with 1 CFR part 51, the DOE will incorporate by</textblock>
+    <textblock>reference this test procedure for the final rulemaking.</textblock>
+    <textblock>Copies of the material to be incorporated by reference are</textblock>
+    <textblock>available at the location indicated in the</textblock>
+    <textblock>``ADDRESSES''</textblock>
+    <textblock>section of this notice. The Society of Automotive Engineers</textblock>
+    <textblock>Test Procedure J1634 provides standard tests for determining</textblock>
+    <textblock>the energy consumption and range of electric vehicles based</textblock>
+    <textblock>on the same highway and urban cycles used for gasoline-</textblock>
+    <textblock>powered vehicles. The tests address electric vehicles only,</textblock>
+    <textblock>and judge performance on the total vehicle system and the</textblock>
+    <textblock>battery.</textblock>
+    <textblock>The current version of 10 CFR part 474 attempted to</textblock>
+    <textblock>duplicate the Environmental Protection Agency urban driving</textblock>
+    <textblock>cycle. The Environmental Protection Agency urban driving</textblock>
+    <textblock>cycle was based heavily on stop-and-go as opposed to highway</textblock>
+    <textblock>vehicle usage. Roughly 91 percent of this cycle was</textblock>
+    <textblock>dedicated to stop-and-go testing and nine percent to freeway</textblock>
+    <textblock>testing. The Society of Automotive Engineers J227a driving</textblock>
+    <textblock>pattern closely duplicated the Environmental Protection</textblock>
+    <textblock>Agency urban driving cycle and was used for electric vehicle</textblock>
+    <textblock>testing in both the stop-and-go and freeway driving</textblock>
+    <textblock>patterns.</textblock>
+    <textblock>DOE is today proposing that Society of Automotive Engineers</textblock>
+    <textblock>Test Procedure J1634 replace Society of Automotive Engineers</textblock>
+    <textblock>Test Procedure J227a to determine equivalent petroleum-based</textblock>
+    <textblock>fuel economy. The current version of 10 CFR part 474 was</textblock>
+    <textblock>based on the premise that electric vehicles would only be</textblock>
+    <textblock>appropriate for urban use, and therefore excluded use of a</textblock>
+    <textblock>separate highway test cycle when testing the electric</textblock>
+    <textblock>vehicle. The resultant measurements were typical of stop-</textblock>
+    <textblock>and-go driving with minimal freeway vehicle usage. In</textblock>
+    <textblock>addition, the Society of Automotive Engineers Test Procedure</textblock>
+    <textblock>J227a has a shorter, repetitive test cycle compared to the</textblock>
+    <textblock>Society of Automotive Engineers Test Procedure J1634. This</textblock>
+    <textblock>shorter, repetitive test cycle of Test Procedure J227a does</textblock>
+    <textblock>not represent driving conditions for a gasoline-powered</textblock>
+    <textblock>vehicle as well as the test cycle proposed in Society of</textblock>
+    <textblock>Automotive Engineers Test Procedure J1634.</textblock>
+    <textblock>C. Calculation Procedures</textblock>
+    <textblock>Section 474.4 describes the steps necessary to calculate the</textblock>
+    <textblock>equivalent petroleum-based fuel economy of an electric</textblock>
+    <textblock>vehicle. The rule itself specifies a series of arithmetic</textblock>
+    <textblock>steps one of which requires the inclusion of a Petroleum</textblock>
+    <textblock>Equivalency Factor. The Petroleum Equivalency Factor is a</textblock>
+    <textblock>single value incorporating the factors ii-iv specified by</textblock>
+    <textblock>Congress in the Act.</textblock>
+    <textblock>While the determination of the energy efficiency of an</textblock>
+    <textblock>electric vehicle as specified in section 503(a)(3)(A)(i) is</textblock>
+    <textblock>a straightforward task based on physical testing, the</textblock>
+    <textblock>measurement of the remaining parameters listed in section</textblock>
+    <textblock>503(a)(3)(A) of the Motor Vehicle Information and Cost</textblock>
+    <textblock>Savings Act is subject to less precise quantification. A</textblock>
+    <textblock>discussion of DOE's consideration of these parameters</textblock>
+    <textblock>follows and is further documented in ``Electric Vehicles and</textblock>
+    <textblock>the Corporate Average Fuel Economy'' and ``Proposed Electric</textblock>
+    <textblock>Vehicle Petroleum Equivalency Factor Equation'' which are</textblock>
+    <textblock>contained in Docket No. EE-RM-93-301.</textblock>
+    <textblock>At this time DOE is proposing the Petroleum Equivalency</textblock>
+    <textblock>Factor value to be used through the year 2004. The actual</textblock>
+    <textblock>figures are provided below.</textblock>
+  </text>
+</doc>

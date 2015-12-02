@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00065</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00011</textblock>
+  </parent>
+  <text>
+    <textblock>For a number of reasons, however, strict adherence to the late 1960's and early 1970's target is inappropriate. Salmon fisheries, especially on the San Joaquin River, were already somewhat degraded during that historical period, and the degradation has been more severe in drier years. This is demonstrated in Table 2, above, which provides estimated historical survival index values for the relevant period. This Table shows that the decline in the survival index was more pronounced in critical, dry, and below normal water years than in wetter years. Accordingly, to protect salmon from falling to dangerously low population levels, and more nearly mimic the natural historical response of smolts migrating through the Delta to year-to-year changes in hydrology, EPA is proposing more protective target values in drier years and less in wetter years.</textblock>
+    <textblock>On the Sacramento River system, EPA believes salmon smolt migration will be protected if the long-term average survival over all water year types replicates the target historical period values. Protection at the late 1960's to early 1970's level in the wetter years is not necessary if better protection is afforded migrating smolts in the drier years. On the San Joaquin River system, however, the drop in survival has been more severe in drier years, the runs are smaller and more at risk, and the overall survival index was less than in the Sacramento system during the target historical period. For that reason, in order to protect the Fish Migration designated use on the San Joaquin, EPA is proposing index values that afford both better protection in drier years and overall index values that are higher than in the historical late 1960's to early 1970's period.</textblock>
+    <textblock>To achieve this level of protection and to address this bias in the historical reference period index values, EPA is proposing the use of target values derived from the recommendations and analyses carried out by the Delta Team of the Five Agency Chinook Salmon Committee. This interagency group consists of representatives from the USFWS, California DFG, California DWR, NMFS, and USBR. Its reports (Five Agency Delta Salmon Team, 1991a, 1991b) represent a consensus on the most effective and feasible implementation measures to protect downstream migrant salmon smolts in the Delta. In preparing its recommendations for the 1992 State Board hearings, USFWS reviewed recommendations from the Five Agency Delta Salmon Team in its salmon smolt model, and presented a set of index values and corresponding operational recommendations to the State Board (USFWS 1992a, WRINT-USFWS-7; USFWS 1992c). These index values, which are intended to be consistent with the fisheries agencies recommended target index values that would restore habitat conditions and salmon populations to those characteristic of the late 1960's to early 1970's (USFWS 1992a, WRINT-USFWS-7; USFWS 1992c, WRINT-USFWS-8; CDFG 1992b, WRINT-DFG-8), are shown in Table 3. The values for the Sacramento River index differ slightly from those presented in the 1992 State Board hearings because these Table 3 values are based on the most recent version of the Sacramento River model.</textblock>
+  </text>
+  <table>
+    <textblock>Table 2._Historical Salmon Smolt Survival Indices for the Sacramento and San Joaquin River Portions of the Delta</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣WATER YEAR TYPE</textblock>
+    <textblock>2W</textblock>
+    <textblock>2AN</textblock>
+    <textblock>2BN</textblock>
+    <textblock>2D</textblock>
+    <textblock>2C</textblock>
+    <textblock>1Mean of year types</textblock>
+    <textblock>Sacramento River</textblock>
+    <textblock>goal:</textblock>
+    <textblock>1940 Level of Development</textblock>
+    <textblock>.76</textblock>
+    <textblock>.81</textblock>
+    <textblock>.77</textblock>
+    <textblock>.63</textblock>
+    <textblock>.44</textblock>
+    <textblock>.68</textblock>
+    <textblock>1956-70 Historical</textblock>
+    <textblock>.56</textblock>
+    <textblock>a</textblock>
+    <textblock>.45</textblock>
+    <textblock>.35</textblock>
+    <textblock>.26</textblock>
+    <textblock>a</textblock>
+    <textblock>.20</textblock>
+    <textblock>.36</textblock>
+    <textblock>1960-88 Historical</textblock>
+    <textblock>.44</textblock>
+    <textblock>.43</textblock>
+    <textblock>.31</textblock>
+    <textblock>.25</textblock>
+    <textblock>.19</textblock>
+    <textblock>.32</textblock>
+    <textblock>1978-90 Historical</textblock>
+    <textblock>.39</textblock>
+    <textblock>a</textblock>
+    <textblock>.32</textblock>
+    <textblock>a</textblock>
+    <textblock>.28</textblock>
+    <textblock>.22</textblock>
+    <textblock>.16</textblock>
+    <textblock>.27</textblock>
+    <textblock>San Joaquin River Goal:</textblock>
+    <textblock>1940 Level of Development</textblock>
+    <textblock>.58</textblock>
+    <textblock>.50</textblock>
+    <textblock>.52</textblock>
+    <textblock>.47</textblock>
+    <textblock>.39</textblock>
+    <textblock>.49</textblock>
+    <textblock>1956-70 Historical</textblock>
+    <textblock>.61</textblock>
+    <textblock>a</textblock>
+    <textblock>.25</textblock>
+    <textblock>.18</textblock>
+    <textblock>.17</textblock>
+    <textblock>a</textblock>
+    <textblock>.15</textblock>
+    <textblock>.27</textblock>
+    <textblock>1960-88 Historical</textblock>
+    <textblock>.43</textblock>
+    <textblock>.12</textblock>
+    <textblock>.17</textblock>
+    <textblock>.13</textblock>
+    <textblock>.12</textblock>
+    <textblock>.19</textblock>
+    <textblock>1978-90 Historical</textblock>
+    <textblock>.48</textblock>
+    <textblock>a</textblock>
+    <textblock>.15</textblock>
+    <textblock>a</textblock>
+    <textblock>.09</textblock>
+    <textblock>*.06</textblock>
+    <textblock>.07</textblock>
+    <textblock>.17*</textblock>
+    <textblock>a</textblock>
+    <textblock>Interpolated: there were no water years in these categories during the relevant historical period. Source: USFWS 1992a.</textblock>
+  </table>
+</doc>

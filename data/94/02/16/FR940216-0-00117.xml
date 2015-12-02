@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00117</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>In order for oxygen credit creation and use to be consistent with the separate classes of oxygen averaging, the creator/transferor of any credits must identify which of the four categories the credits represent. The user/transferee of credits must apply the credits to that same category, in order to determine if the oxygen averaging requirements have been met for the three classes specified above.</textblock>
+    <textblock>By way of example, assume that Refiner A produced the following batches of reformulated gasoline, each of which was designated for average compliance for oxygen, and each of which was produced during the same calendar year:</textblock>
+    <textblock>Refiner A then calculated the compliance total for oxygen for each of the four categories, by multiplying the volume of gasoline in that category times 2.1; and the actual total for oxygen for each category, by multiplying the volume of each batch in a category times the oxygen content of the batch, and summing the results for the category. The refiner's results are as follows:</textblock>
+    <textblock>Refiner A transferred 52 credits in the VOC-controlled, non-OPRG category to another refiner, and recalculated its actual total in that category to be 851.</textblock>
+    <textblock>Refiner A then calculated its compliance position with regard to each separate class of oxygen averaging, by calculating the compliance total and the actual total for the three classes of oxygen averaging: VOC-controlled, non-OPRG, and overall. The results of these calculations are as follows:</textblock>
+    <textblock>Because the actual total for oxygen is, for each class of oxygen averaging, equal to or greater than the compliance total, Refiner A has met the oxygen averaging standards.</textblock>
+    <textblock>For gasoline subject to the complex model, there are only two classes for oxygen averaging: non-OPRG, and overall. In consequence, oxygen credits must be placed into one of only two categories_OPRG, and non-OPRG. With these simplifications, oxygen credits for gasoline subject to complex model standards would be created, transferred, and use in a manner similar to the example described above. Because of the differences in oxygen categories for simple and complex gasoline, however, oxygen credits generated from gasoline subject to the complex model could not be used to achieve compliance for gasoline subject to the simple model.</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Batch No.</textblock>
+    <textblock>1Volume (gallons)</textblock>
+    <textblock>1Oxygen content</textblock>
+    <textblock>1Designations</textblock>
+    <textblock>2VOC-controlled</textblock>
+    <textblock>2OPRG</textblock>
+    <textblock>1</textblock>
+    <textblock>100</textblock>
+    <textblock>2.3</textblock>
+    <textblock>Yes</textblock>
+    <textblock>No.</textblock>
+    <textblock>2</textblock>
+    <textblock>150</textblock>
+    <textblock>1.9</textblock>
+    <textblock>No</textblock>
+    <textblock>No.</textblock>
+    <textblock>3</textblock>
+    <textblock>120</textblock>
+    <textblock>2.2</textblock>
+    <textblock>No</textblock>
+    <textblock>Yes.</textblock>
+    <textblock>4</textblock>
+    <textblock>100</textblock>
+    <textblock>1.8</textblock>
+    <textblock>Yes</textblock>
+    <textblock>Yes.</textblock>
+    <textblock>5</textblock>
+    <textblock>130</textblock>
+    <textblock>2.1</textblock>
+    <textblock>Yes</textblock>
+    <textblock>No.</textblock>
+    <textblock>6</textblock>
+    <textblock>160</textblock>
+    <textblock>2.2</textblock>
+    <textblock>No</textblock>
+    <textblock>No.</textblock>
+    <textblock>7</textblock>
+    <textblock>160</textblock>
+    <textblock>2.5</textblock>
+    <textblock>Yes</textblock>
+    <textblock>No.</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1Categories</textblock>
+    <textblock>2VOC-control, non-OPRG</textblock>
+    <textblock>2Non-VOC-control, non-OPRG</textblock>
+    <textblock>2Non-VOC-control, OPRG</textblock>
+    <textblock>2VOC-control, OPRG</textblock>
+    <textblock>Compliance total</textblock>
+    <textblock>819</textblock>
+    <textblock>651</textblock>
+    <textblock>252</textblock>
+    <textblock>210</textblock>
+    <textblock>Actual total</textblock>
+    <textblock>903</textblock>
+    <textblock>637</textblock>
+    <textblock>264</textblock>
+    <textblock>180</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1Class of oxygen averaging</textblock>
+    <textblock>2VOC-control</textblock>
+    <textblock>2Non-OPRG</textblock>
+    <textblock>2Overall</textblock>
+    <textblock>Compliance total</textblock>
+    <textblock>1029</textblock>
+    <textblock>1470</textblock>
+    <textblock>1932</textblock>
+    <textblock>Actual total</textblock>
+    <textblock>1031</textblock>
+    <textblock>1488</textblock>
+    <textblock>1932</textblock>
+    <textblock>Net total</textblock>
+    <textblock>2</textblock>
+    <textblock>18</textblock>
+    <textblock>0</textblock>
+  </table>
+</doc>

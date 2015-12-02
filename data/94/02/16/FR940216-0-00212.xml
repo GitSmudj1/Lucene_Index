@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00212</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(ii) The number of independent tests to be conducted shall be sufficiently large to reduce the measurement uncertainty for each parameter to a sufficiently small value. At a minimum the 95% confidence limits (as calculated using a standard t-test) for each parameter must be within the following range of the mean measured value of each parameter:</textblock>
+    <textblock>(iii) Petitioners shall obtain approval from EPA for the 95% confidence limits for measurements of fuel parameters for which emission reduction benefits are claimed and for which tolerances are not defined in paragraph (c)(2)(i) of this section.</textblock>
+    <textblock>(iv) Each test must be conducted in the same laboratory in accordance with the procedures outlined at §80.46.</textblock>
+    <textblock>(v) The complex emission model described at §80.45 shall be used to adjust the emission performance of the addition and extension fuels to compensate for differences in fuel compositions that are incorporated in the complex model, as described at §80.48. Compensating adjustments for naturally-resulting variations in fuel parameters shall also be made using the complex model. The adjustment process is described in paragraph (d) of this section.</textblock>
+    <textblock>(d) The complex emission model described at §80.45 shall be used to adjust the emission performance of addition and extension fuels to compensate for differences in fuel parameters other than the parameter being tested. Compensating adjustments for naturally-resulting variations in fuel parameters shall also be made using the complex model. These adjustments shall be calculated as follows:</textblock>
+    <textblock>(1) Determine the exhaust emissions performance of the actual addition or extension fuels relative to the exhaust emissions performance of Clean Air Act baseline fuel using the complex model. For addition fuels, set the level of the parameter being tested at baseline levels for purposes of emissions performance evaluation using the complex model. For extension fuel</textblock>
+    <textblock>#</textblock>
+    <textblock>1, set the level of the parameter being extended at the level specified in extension fuel</textblock>
+    <textblock>#</textblock>
+    <textblock>2. Also determine the exhaust emissions performance of the addition fuels specified in paragraph (a)(1) of this section with the level of the parameter being tested set at baseline levels.</textblock>
+    <textblock>(2) Calculate adjustment factors for each addition fuel as follows:</textblock>
+    <textblock>(i) Adjustment factors shall be calculated using the formula:</textblock>
+    <textblock>where</textblock>
+    <textblock>A=the adjustment factor</textblock>
+    <textblock>P(actual)=the performance of the actual fuel used in testing according to the complex model</textblock>
+    <textblock>P(nominal)=the performance that would have been achieved by the test fuel defined in paragraph (a)(1) of this section according to the complex model (as described in paragraph (d)(1) of this section).</textblock>
+    <textblock>(ii) Adjustment factors shall be calculated for each pollutant and for each emitter class.</textblock>
+    <textblock>(3) Multiply the measured emissions from each vehicle by the corresponding adjustment factor for the appropriate addition or extension fuel, pollutant, and emitter class. Use the resulting adjusted emissions to conduct all modeling and emission effect estimation activities described in §80.48.</textblock>
+    <textblock>(e) All fuels included in vehicle testing programs shall have an octane number of 87.5, as measured by the (R+M)/2 method following the ASTM D4814 procedures, to within the measurement and blending tolerances specified in paragraph (c) of this section.</textblock>
+    <textblock>(f) A single batch of each addition or extension fuel shall be used throughout the duration of the testing program.</textblock>
+    <textblock>§80.50</textblock>
+    <textblock>General test procedure requirements for augmentation of the emission models.</textblock>
+    <textblock>(a) The following test procedure must be followed when testing to augment the complex emission model described at §80.45.</textblock>
+    <textblock>(1) VOC, NO</textblock>
+    <textblock>X</textblock>
+    <textblock>, CO, and CO</textblock>
+    <textblock>2</textblock>
+    <textblock>emissions must be measured for all fuel-vehicle combinations tested.</textblock>
+    <textblock>(2) Toxics emissions must be measured when testing the extension fuels per the requirements of §80.49(a) or when testing addition fuels 1, 2, and 3 per the requirements of §80.49(a).</textblock>
+    <textblock>(3) When testing addition fuels 4, 5, 6, and 7 per the requirements of §80.49(a), toxics emissions need not be measured. However, EPA reserves the right to require the inclusion of such measurements in the test program prior to approval of the test program if evidence exists which suggests that adverse interactive effects of the parameter in question may exist for toxics emissions.</textblock>
+    <textblock>(b) The general requirements per 40 CFR 86.130-96 shall be met.</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Fuel parameter</textblock>
+    <textblock>1Measurement uncertainty</textblock>
+    <textblock>API gravity</textblock>
+    <textblock>#</textblock>
+    <textblock>0.2</textblock>
+    <textblock>○API.</textblock>
+    <textblock>Sulfur content</textblock>
+    <textblock>#</textblock>
+    <textblock>5 ppm.</textblock>
+    <textblock>Benzene content</textblock>
+    <textblock>#</textblock>
+    <textblock>0.05 vol %.</textblock>
+    <textblock>RVP</textblock>
+    <textblock>#</textblock>
+    <textblock>0.08 psi.</textblock>
+    <textblock>Octane</textblock>
+    <textblock>#</textblock>
+    <textblock>0.1 (R+M/2).</textblock>
+    <textblock>E200 level</textblock>
+    <textblock>#</textblock>
+    <textblock>2 %.</textblock>
+    <textblock>E300 level</textblock>
+    <textblock>#</textblock>
+    <textblock>2 %.</textblock>
+    <textblock>Oxygenate content</textblock>
+    <textblock>#</textblock>
+    <textblock>0.2 vol %.</textblock>
+    <textblock>Aromatics content</textblock>
+    <textblock>#</textblock>
+    <textblock>0.5 vol %.</textblock>
+    <textblock>Olefins content</textblock>
+    <textblock>#</textblock>
+    <textblock>0.3 vol %.</textblock>
+    <textblock>Saturates content</textblock>
+    <textblock>#</textblock>
+    <textblock>1.0 vol.%</textblock>
+    <textblock>Octane</textblock>
+    <textblock>#</textblock>
+    <textblock>0.2.</textblock>
+    <textblock>Candidate parameter</textblock>
+    <textblock>To be determined as part of the augmentation process.</textblock>
+  </table>
+  <import>
+    <textblock>E:GRAPHICSER16FE94.006</textblock>
+  </import>
+</doc>

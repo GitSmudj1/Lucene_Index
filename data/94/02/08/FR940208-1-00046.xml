@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940208-1-00046</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940208-1-00011</textblock>
+  </parent>
+  <text>
+    <textblock>The initial equations were simplified to match the desired approach to provide a simple and reasonable set of equations to distinguish between area and major sources. The initial equations were simplified and narrowed through testing the equations against different model facility parameters and assumptions. Consequently, the original equations were reduced to a limited number of equipment parameter variables and reduced to one equation for bulk terminals and another for pipeline breakout stations. The resulting equations presented below are determined by the Agency to capture all major sources under the realistic mix of facility equipment and operating parameters.</textblock>
+    <textblock>A bulk gasoline terminal is not considered a major source if the result of the calculation in equation (1), E</textblock>
+    <textblock>T</textblock>
+    <textblock>, is less than 1.</textblock>
+    <textblock>(1) E</textblock>
+    <textblock>T</textblock>
+    <textblock>=0.63(T</textblock>
+    <textblock>F</textblock>
+    <textblock>)+0.19(T</textblock>
+    <textblock>E</textblock>
+    <textblock>)+0.092(T</textblock>
+    <textblock>ES</textblock>
+    <textblock>)+0.03(T</textblock>
+    <textblock>I</textblock>
+    <textblock>)+0.0012(V)+0.024(P)+KQ</textblock>
+    <textblock>where:</textblock>
+    <textblock>E</textblock>
+    <textblock>T</textblock>
+    <textblock>=major source applicability factor for bulk gasoline terminals, E</textblock>
+    <textblock>T</textblock>
+    <textblock>"1 means bulk gasoline terminal is estimated to be a major source.,</textblock>
+    <textblock>T</textblock>
+    <textblock>F</textblock>
+    <textblock>=total number of fixed-roof gasoline storage tanks,</textblock>
+    <textblock>T</textblock>
+    <textblock>E</textblock>
+    <textblock>=total number of external floating roof gasoline storage tanks with only primary seals,</textblock>
+    <textblock>T</textblock>
+    <textblock>ES</textblock>
+    <textblock>=total number of external floating roof storage tanks with primary and secondary seals,</textblock>
+    <textblock>T</textblock>
+    <textblock>I</textblock>
+    <textblock>=total number of fixed-roof gasoline storage tanks with an internal floating roof,</textblock>
+    <textblock>V=number of valves in gasoline service,</textblock>
+    <textblock>P=number of pumps in gasoline service,</textblock>
+    <textblock>Q=gasoline throughput rate (liters/day),</textblock>
+    <textblock>K=3.18×10</textblock>
+    <textblock>^6</textblock>
+    <textblock>for bulk gasoline terminals with uncontrolled loading racks (no vapor collection and processing systems),</textblock>
+    <textblock>OR</textblock>
+    <textblock>K=(4.5×10</textblock>
+    <textblock>^9</textblock>
+    <textblock>)(EF+70) for bulk gasoline terminals with controlled loading racks (loading racks that have vapor collection and processing systems installed on the emission stream), and</textblock>
+    <textblock>EF=the federally enforceable emission standard for the vapor processor (mg of total organic compounds per liter of gasoline loaded).</textblock>
+    <textblock>A pipeline breakout station is not considered a major source if the result of the calculation in equation (2), E</textblock>
+    <textblock>P</textblock>
+    <textblock>, is less than 1.</textblock>
+    <textblock>(2) E</textblock>
+    <textblock>P</textblock>
+    <textblock>=2.4(T</textblock>
+    <textblock>F</textblock>
+    <textblock>)+0.09(T</textblock>
+    <textblock>E</textblock>
+    <textblock>)+0.043(T</textblock>
+    <textblock>ES</textblock>
+    <textblock>)+0.027(T</textblock>
+    <textblock>I</textblock>
+    <textblock>)+0.0009(V)+0.009(P)</textblock>
+    <textblock>where:</textblock>
+    <textblock>E</textblock>
+    <textblock>P</textblock>
+    <textblock>=major source applicability factor for pipeline breakout stations, E</textblock>
+    <textblock>P</textblock>
+    <textblock>"1 means pipeline breakout station is estimated to be a major source., and</textblock>
+    <textblock>T</textblock>
+    <textblock>F</textblock>
+    <textblock>, T</textblock>
+    <textblock>E</textblock>
+    <textblock>, T</textblock>
+    <textblock>ES</textblock>
+    <textblock>, T</textblock>
+    <textblock>I</textblock>
+    <textblock>, V, and P are the same as defined for bulk terminal equation (1).</textblock>
+    <textblock>The Agency provides the above equations to simplify and reduce the implementation burden to affected and non-affected facilities. The Agency requests public comments on the utility, accuracy, and need for these equations.</textblock>
+    <textblock>2. Determination of Floor Control Levels</textblock>
+    <textblock>A boundary in the formulation of the regulatory alternatives is a determination of the MACT floor for new and existing sources. The statutory requirements for determining these floors was previously discussed in section V.D of this preamble. Selection of floor levels of control using the statutory criteria is described in the following subsections.</textblock>
+    <textblock>a.</textblock>
+    <textblock>Loading racks.</textblock>
+    <textblock>In many of the areas where bulk terminal loading rack controls are mandated authorities have imposed control requirements more stringent than the limit of 80 mg TOC per liter of gasoline loaded recommended in the CTG for bulk gasoline terminals. A summary of State regulations pertaining to gasoline tank truck loading indicated that some terminals currently are operating under a 10 mg TOC per liter limitation in parts of California. In addition, the NSPS for tank truck loading at bulk gasoline terminals (subpart XX of 40 CFR part 60) limits emissions to 35 mg/liter. There are currently three types of vapor processor systems, refrigeration condensers, carbon adsorbers, and thermal oxidation systems, used to meet these three control requirement emission limits. Each type of control can be specifically designed to meet each limit.</textblock>
+    <textblock>To establish the control requirements for new sources the Agency is required to select controls not less stringent (floor) than the control achieved in practice by the best similar source. The best performing control systems at similar sources, or systems achieving the maximum degree of reduction in emissions, are those systems designed and operated to meet the 10 mg TOC per liter standard. Therefore, control systems achieving the 10 mg TOC per liter limit are considered the floor control level for new sources.</textblock>
+  </text>
+</doc>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940223-1-00030</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940223-1-00001</textblock>
+  </parent>
+  <text>
+    <textblock>(1) The gross values per hundredweight of milk used to manufacture cheddar cheese and butter-nonfat dry milk shall be computed, using price data determined pursuant to §1135.19 and yield factors in effect under the Dairy Price Support Program authorized by the Agricultural Act of 1949, as amended, for the first 15 days of the preceding month and, separately, for the first 15 days of the second preceding month as follows:</textblock>
+    <textblock>(i) The gross value of milk used to manufacture cheddar cheese shall be the sum of the following computations:</textblock>
+    <textblock>(A) Multiply the cheddar cheese price by the yield factor used under the Price Support Program for cheddar cheese;</textblock>
+    <textblock>(B) Multiply the butter price by the yield factor used under the Price Support Program for determining the butterfat component of the whey value in the cheese price computation; and</textblock>
+    <textblock>(C) Subtract from the edible whey price the processing cost used under the Price Support Program for edible whey and multiply any positive difference by the yield factor used under the Price Support Program for edible whey.</textblock>
+    <textblock>(ii) The gross value of milk used to manufacture butter-nonfat dry milk shall be the sum of the following computations:</textblock>
+    <textblock>(A) Multiply the butter price by the yield factor used under the Price Support Program for butter; and</textblock>
+    <textblock>(B) Multiply the nonfat dry milk price by the yield factor used under the Price Support Program for nonfat dry milk.</textblock>
+    <textblock>(2) Determine the amounts by which the gross value per hundredweight of milk used to manufacture cheddar cheese and the gross value per hundredweight of milk used to manufacture butter-nonfat dry milk for the first 15 days of the preceding month exceed or are less than the respective gross values for the first 15 days of the second preceding month.</textblock>
+    <textblock>(3) Compute weighting factors to be applied to the changes in gross values determined pursuant to paragraph (b)(2) of this section by determining the relative proportion that the data included in each of the following paragraphs is of the total of the data represented in paragraphs (b)(3) (i) and (ii) of this section:</textblock>
+    <textblock>(i) Combine the total American cheese production for the States of Minnesota and Wisconsin, as reported by the Statistical Reporting Service of the Department for the most recent preceding period, and divide by the yield factor used under the Price Support Program for cheddar cheese to determine the quantity of milk used in the production of American cheddar cheese; and</textblock>
+    <textblock>(ii) Combine the total nonfat dry milk production for the States of Minnesota and Wisconsin, as reported by the Statistical Reporting Service of the Department for the most recent preceding period, and divide by the yield factor used under the Price Support Program for nonfat dry milk to determine the quantity of milk used in the production of butter-nonfat dry milk.</textblock>
+    <textblock>(4) Compute a weighted average of the changes in gross values per hundredweight of milk determined pursuant to paragraph (b)(2) of this section in accordance with the relative proportions of milk determined pursuant to paragraph (b)(3) of this section.</textblock>
+    <textblock>§1135.51a</textblock>
+    <textblock>[Removed]</textblock>
+    <textblock>9. Section 1135.51a is removed.</textblock>
+    <textblock>10. Section 1135.53 is revised to read as follows:</textblock>
+    <textblock>§1135.53</textblock>
+    <textblock>Announcement of class and component prices.</textblock>
+    <textblock>The market administrator shall announce publicly:</textblock>
+    <textblock>(a) On or before the 5th day of each month, the Class I price for the following month and the Class III and Class III-A prices for the preceding month;</textblock>
+    <textblock>(b) On or before the 15th day of each month, the Class II price for the following month; and</textblock>
+    <textblock>(c) On or before the 5th day after the end of each month, the basic formula price, the prices for skim milk and butterfat, and the milk protein price.</textblock>
+    <textblock>11. A center heading preceding §1135.60 is added to read</textblock>
+    <textblock>``Differential Pool and Handler Obligations''.</textblock>
+    <textblock>12. Section 1135.60 is revised to read as follows:</textblock>
+    <textblock>§1135.60</textblock>
+    <textblock>Computation of handlers' obligations to pool.</textblock>
+    <textblock>The market administrator shall compute each month for each handler described in §1135.9(a) with respect to each of the handler's pool plants and for each handler qualified pursuant to §1135.9 (b), (c), or (d) an obligation to the pool by combining the amounts computed as follows:</textblock>
+    <textblock>(a) Multiply the hundredweight of producer milk assigned to Class I milk pursuant to §1135.44(c) by the difference between the Class I price and the Class III price;</textblock>
+    <textblock>(b) Multiply the hundredweight of producer milk assigned to Class II milk pursuant to §1135.44(c) by the difference between the Class II price and the Class III price;</textblock>
+    <textblock>(c) Add or subtract, as appropriate, the amount that results from multiplying the pounds of producer milk in Class III-A by the amount that the Class III-A price is more or less, respectively, than the Class III price;</textblock>
+    <textblock>(d) Multiply the skim milk price by the hundredweight of</textblock>
+    <textblock>producer skim milk assigned to Class I milk pursuant to §1135.44(a);</textblock>
+  </text>
+</doc>

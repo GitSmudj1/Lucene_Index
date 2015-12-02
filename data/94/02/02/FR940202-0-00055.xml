@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00055</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>Example 2.</textblock>
+    <textblock>Accrual of OID on debt instrument with qualified</textblock>
+    <textblock>stated interest</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>On September 1, 1994, A purchases at</textblock>
+    <textblock>original issue, for $90,000, B corporation's debt instrument that</textblock>
+    <textblock>matures on September 1, 2004, and has a stated principal amount</textblock>
+    <textblock>of $100,000, payable on that date. The debt instrument provides</textblock>
+    <textblock>for semiannual payments of interest of $3,000, payable on</textblock>
+    <textblock>September 1 and March 1 of each year, beginning on March 1, 1995.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Determination of yield.</textblock>
+    <textblock>The debt instrument is a 10-year debt instrument with an issue price of $90,000 and a stated</textblock>
+    <textblock>redemption price at maturity of $100,000. The semiannual</textblock>
+    <textblock>payments of $3,000 are qualified stated interest payments. Under</textblock>
+    <textblock>paragraph (b)(1)(i) of this section, the yield is 7.44 percent,</textblock>
+    <textblock>compounded semiannually.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Accrual of OID if semiannual accrual periods are used.</textblock>
+    <textblock>Assume that A decides to compute OID on the debt instrument using</textblock>
+    <textblock>semiannual accrual periods. Under paragraph (b)(1)(iii) of this</textblock>
+    <textblock>section, the OID allocable to the first semiannual accrual period</textblock>
+    <textblock>equals the product of the issue price ($90,000) and the yield</textblock>
+    <textblock>properly adjusted for the length of the accrual period (7.44</textblock>
+    <textblock>percent/2), less qualified stated interest allocable to the</textblock>
+    <textblock>accrual period ($3,000). Therefore, the amount of OID for the</textblock>
+    <textblock>first semiannual accrual period is $345.78 ($3,345.78-$3,000).</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Adjustment for accrued but unpaid qualified stated</textblock>
+    <textblock>interest if monthly accrual periods are used.</textblock>
+    <textblock>Assume,</textblock>
+    <textblock>alternatively, that A decides to compute OID on the debt</textblock>
+    <textblock>instrument using monthly accrual periods. The yield, compounded</textblock>
+    <textblock>monthly, is 7.32 percent. Under paragraph (b)(1)(iii) of this</textblock>
+    <textblock>section, the OID allocable to the first monthly accrual period is</textblock>
+    <textblock>the product of the issue price ($90,000) and the yield properly</textblock>
+    <textblock>adjusted for the length of the accrual period (7.32 percent/12),</textblock>
+    <textblock>less qualified stated interest allocable to the accrual period.</textblock>
+    <textblock>Under paragraph (b)(4)(i)(A) of this section, the qualified</textblock>
+    <textblock>stated interest allocable to the first monthly accrual period is</textblock>
+    <textblock>the pro rata amount of qualified stated interest allocable to the</textblock>
+    <textblock>interval between payment dates ($3,000×1/6, or $500).</textblock>
+    <textblock>Therefore, the amount of OID for the first monthly accrual period</textblock>
+    <textblock>is $49.18 ($549.18-$500). Under paragraph (b)(4)(i)(B) of this</textblock>
+    <textblock>section, the adjusted issue price of the debt instrument for</textblock>
+    <textblock>purposes of determining the amount of OID for the second monthly</textblock>
+    <textblock>accrual period is $90,549.18 ($90,000 + $49.18 + $500). Although</textblock>
+    <textblock>the adjusted issue price of the debt instrument for this purpose</textblock>
+    <textblock>includes the amount of qualified stated interest allocable to the</textblock>
+    <textblock>first monthly accrual period, A includes the qualified stated</textblock>
+    <textblock>interest in income based on A's regular method of accounting</textblock>
+    <textblock>(e.g., an accrual method or the cash receipts and disbursements</textblock>
+    <textblock>method).</textblock>
+    <textblock>Example 3.</textblock>
+    <textblock>Accrual of OID for debt instrument with initial</textblock>
+    <textblock>short accrual period</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>On May 1, 1994, G purchases at</textblock>
+    <textblock>original issue, for $80,000, H corporation's debt instrument</textblock>
+    <textblock>maturing on July 1, 2004. The debt instrument provides for a</textblock>
+    <textblock>single payment at maturity of $250,000. G computes its OID using</textblock>
+    <textblock>6-month accrual periods ending on January 1 and July 1 of each</textblock>
+    <textblock>year and an initial short 2-month accrual period from May 1,</textblock>
+    <textblock>1994, through June 30, 1994.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Determination of yield.</textblock>
+    <textblock>The yield on the debt</textblock>
+    <textblock>instrument is 11.53 percent, compounded semiannually.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Determination of OID allocable to initial short</textblock>
+    <textblock>accrual period.</textblock>
+    <textblock>Under paragraph (b)(4)(iii) of this section, G</textblock>
+    <textblock>may use any reasonable method to compute OID for the initial</textblock>
+    <textblock>short accrual period. One reasonable method is to calculate the</textblock>
+    <textblock>amount of OID pursuant to the following formula:</textblock>
+    <textblock>OID</textblock>
+    <textblock>short</textblock>
+    <textblock>=IP×(i/k)×f</textblock>
+    <textblock>In which:</textblock>
+    <textblock>OID</textblock>
+    <textblock>short</textblock>
+    <textblock>=The amount of OID allocable to the initial short</textblock>
+    <textblock>accrual period</textblock>
+    <textblock>IP=The issue price of the debt instrument</textblock>
+    <textblock>i=The yield to maturity expressed as a decimal</textblock>
+    <textblock>k=The number of accrual periods in a year</textblock>
+    <textblock>f=A fraction whose numerator is the number of days</textblock>
+    <textblock>in the initial short accrual period, and whose</textblock>
+    <textblock>denominator is the number of days in a full</textblock>
+    <textblock>accrual period</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Amount of OID for the initial short accrual period.</textblock>
+    <textblock>Under this method, the amount of OID for the initial short</textblock>
+    <textblock>accrual period is $1,537 ($80,000×(11.53 percent/2) ×</textblock>
+    <textblock>(60/180)).</textblock>
+    <textblock>(v)</textblock>
+    <textblock>Alternative method.</textblock>
+    <textblock>Another reasonable method is to</textblock>
+    <textblock>calculate the amount of OID for the initial short accrual period</textblock>
+    <textblock>using the yield based on bi-monthly compounding, computed</textblock>
+    <textblock>pursuant to the formula set forth in</textblock>
+    <textblock>Example 1</textblock>
+    <textblock>of paragraph (j)</textblock>
+    <textblock>of this section. Under this method, the amount of OID for the</textblock>
+    <textblock>initial short accrual period is $1,508.38 ($80,000×(11.31</textblock>
+    <textblock>percent/6)).</textblock>
+    <textblock>Example 4.</textblock>
+    <textblock>Impermissible accrual of OID using a method</textblock>
+    <textblock>other than constant yield method</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>On July 1, 1994, B</textblock>
+    <textblock>purchases at original issue, for $100,000, C corporation's debt</textblock>
+    <textblock>instrument that matures on July 1, 1999, and has a stated</textblock>
+    <textblock>principal amount of $100,000. The debt instrument provides for a</textblock>
+    <textblock>single payment at maturity of $148,024.43. The yield of the debt</textblock>
+    <textblock>instrument is 8 percent, compounded semiannually.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Determination of yield.</textblock>
+    <textblock>Assume that C uses 6 monthly</textblock>
+    <textblock>accrual periods to compute its OID for 1994. The yield must</textblock>
+    <textblock>reflect monthly compounding (as determined using the formula</textblock>
+    <textblock>described in</textblock>
+    <textblock>Example 1</textblock>
+    <textblock>of paragraph (j) of this section). As a</textblock>
+    <textblock>result, the monthly yield of the debt instrument is 7.87 percent,</textblock>
+    <textblock>divided by 12. C may not compute its monthly yield for the last</textblock>
+    <textblock>6 months in 1994 by dividing 8 percent by 12.</textblock>
+    <textblock>Example 5.</textblock>
+    <textblock>Debt instrument subject to put option</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>On January 1, 1995, G purchases at original issue, for</textblock>
+    <textblock>$70,000, H corporation's debt instrument maturing on January 1,</textblock>
+    <textblock>2010, with a stated principal amount of $100,000, payable at</textblock>
+    <textblock>maturity. The debt instrument provides for semiannual payments</textblock>
+    <textblock>of interest of $4,000, payable on January 1 and July 1 of each</textblock>
+    <textblock>year, beginning on July 1, 1995. The debt instrument gives G an</textblock>
+    <textblock>unconditional right to put the bond back to H, exercisable on</textblock>
+    <textblock>January 1, 2005, in return for $85,000 (exclusive of the $4,000</textblock>
+    <textblock>of stated interest payable on that date).</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Determination of yield and maturity.</textblock>
+    <textblock>Yield determined</textblock>
+    <textblock>without regard to the put option is 12.47 percent, compounded</textblock>
+    <textblock>semiannually. Yield determined by assuming that the put option</textblock>
+    <textblock>is exercised (i.e., by using January 1, 2005, as the maturity</textblock>
+    <textblock>date and $85,000 as the stated principal amount payable on that</textblock>
+    <textblock>date) is 12.56 percent, compounded semiannually. Thus, under</textblock>
+    <textblock>paragraph (c)(5) of this section, it is assumed that G will</textblock>
+    <textblock>exercise the put option, because exercise of the option would</textblock>
+    <textblock>increase the yield of the debt instrument. Thus, for purposes of</textblock>
+    <textblock>calculating OID, the debt instrument is assumed to be a 10-year</textblock>
+    <textblock>debt instrument with an issue price of $70,000, a stated</textblock>
+    <textblock>redemption price at maturity of $85,000, and a yield of 12.56</textblock>
+    <textblock>percent, compounded semiannually.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Consequences if put option is, in fact, not exercised.</textblock>
+    <textblock>If the put option is, in fact, not exercised, then, under</textblock>
+    <textblock>paragraph (c)(6) of this section, the debt instrument is treated,</textblock>
+    <textblock>solely for purposes of determining yield and maturity, as if it</textblock>
+    <textblock>were reissued on January 1, 2005, for an amount equal to its</textblock>
+    <textblock>adjusted issue price on that date, $85,000. The new debt</textblock>
+    <textblock>instrument matures on January 1, 2010, with a stated principal</textblock>
+    <textblock>amount of $100,000 payable on that date and provides for</textblock>
+    <textblock>semiannual payments of interest of $4,000. The yield of the new</textblock>
+    <textblock>debt instrument is 12.08 percent, compounded semiannually.</textblock>
+    <textblock>Example 6.</textblock>
+    <textblock>Debt instrument subject to partial call</textblock>
+    <textblock>option</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>On January 1, 1995, H purchases at original</textblock>
+    <textblock>issue, for $95,000, J corporation's debt instrument that matures</textblock>
+    <textblock>on January 1, 2000, and has a stated principal amount of</textblock>
+    <textblock>$100,000, payable on that date. The debt instrument provides for</textblock>
+    <textblock>semiannual payments of interest of $4,000, payable on January 1</textblock>
+    <textblock>and July 1 of each year, beginning on July 1, 1995. On January</textblock>
+    <textblock>1, 1998, J has an unconditional right to call 50 percent of the</textblock>
+    <textblock>principal amount of the debt instrument for $55,000 (exclusive of</textblock>
+    <textblock>the $4,000 of stated interest payable on that date). If the call</textblock>
+    <textblock>is exercised, the semiannual payments of interest made after the</textblock>
+    <textblock>call date will be reduced to $2,000.</textblock>
+  </text>
+</doc>

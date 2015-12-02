@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940224-0-00041</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940224-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>Computers: General License Eligibility; Supercomputer Definition</textblock>
+  </text>
+  <usbureau>
+    <textblock>Bureau of Export Administration</textblock>
+  </usbureau>
+  <cfrno>
+    <textblock>15 CFR Parts 770, 772, 773, 776, and 799</textblock>
+  </cfrno>
+  <rindock>
+    <textblock>[Docket No. 931245-3345]</textblock>
+  </rindock>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>Bureau of Export Administration, Commerce.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>Final rule.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>The Bureau of Export Administration (BXA) is amending the Export Administration Regulations (EAR) to revise the definition of ``supercomputers''. This final rule increases the ``supercomputer'' threshold level from a CTP (composite theoretical performance) equal to or exceeding 195 Mtops (million theoretical operations per second) to a CTP equal to or exceeding 1,500 Mtops.</textblock>
+    <textblock>This rule also increases the General License GFW eligibility level for digital computers controlled by ECCN 4A03A to a CTP of 500 Mtops or less for eligible countries listed in the Nuclear Nonproliferation Special Country List (i.e., Supplement No. 4) and 1,000 Mtops or less for other eligible countries. To conform with recent COCOM changes to the International Industrial List (IL), this rule makes General License G-DEST available for exports of ``digital'' computers with a ``CTP'' not exceeding 260 Mtops, except to Country Groups S and Z, Iran, Syria, and South African military and police entities. The Department of the Treasury's Office of Foreign Assets Control maintains an embargo on other destinations, such as Iraq and the Federal Republic of Yugoslavia (Serbia and Montenegro).</textblock>
+    <textblock>In addition, this rule raises the level at which nuclear nonproliferation controls apply to digital computers controlled by ECCNs 4A01A, 4A02A, and 4A03A. Nuclear nonproliferation controls now apply to computers with a CTP exceeding 500 Mtops for countries listed in Supplement No. 4.</textblock>
+    <textblock>This rule makes more computers eligible for export under the special license procedures because the eligibility levels for certain countries are tied to either the supercomputer threshold level or the nuclear nonproliferation control level for computers, both of which are increased by this rule.</textblock>
+    <textblock>Finally, this rule revises the Technical Note in the Commerce Control List that provides instructions on calculating ``CTP''.</textblock>
+  </summary>
+  <date>
+    <textblock>EFFECTIVE DATE:</textblock>
+    <textblock>February 24, 1994.</textblock>
+  </date>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>For technical information on computers contact Joseph Young, Information Sytems Technology Center, Office of Technology and Policy Analysis, Telephone: (202) 482-0706.</textblock>
+    <textblock>For information on licensing policies and procedures applicable to supercomputers, contact Gene Peterson-Beard, Office of Technology and Policy Analysis, Telephone: (202) 482-4220.</textblock>
+  </further>
+  <supplem>
+    <textblock>SUPPLEMENTARY INFORMATION:</textblock>
+    <textblock>Background</textblock>
+    <textblock>This interim rule revises the definition of a supercomputer, expands the General License GFW eligibility level for digital computers controlled by ECCN 4A03A, raises the levels at which nuclear nonproliferation controls apply to computers controlled by ECCNs 4A01A, 4A02A, and 4A03A, and makes more computers eligible for export under the special license procedures.</textblock>
+  </supplem>
+</doc>

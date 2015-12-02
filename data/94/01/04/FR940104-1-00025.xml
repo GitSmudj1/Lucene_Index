@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940104-1-00025</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940104-1-00004</textblock>
+  </parent>
+  <text>
+    <textblock>Specific Instructions</textblock>
+    <textblock>1. Request ID:</textblock>
+    <textblock>The Request ID is the unique sequential number assigned by the respondent to a request for transportation service when that request is received by the respondent.</textblock>
+    <textblock>2. Date Request Received:</textblock>
+    <textblock>The month, day, and year the pipeline company received the request for transportation service.</textblock>
+    <textblock>3. Maximum Daily Contract Volumes To Be Transported (or Maximum Storage Withdrawal Quantity):</textblock>
+    <textblock>The total maximum daily contract volumes of natural gas to be transported by the pipeline company (or withdrawn from storage).</textblock>
+    <textblock>4. Delivery Point ID:</textblock>
+    <textblock>The point at which the pipeline company delivers the natural gas to a designated end user, local distribution company, etc. as specified by the transportation service requested. The respondent will provide a unique 20-byte alphanumeric identifier for each delivery point on his pipeline system. This delivery point ID will be the alphanumeric label/name which the respondent uses in conducting his daily business, (or a unique abbreviation thereof if the company identifier is more than 20 characters in length.)</textblock>
+    <textblock>5. Maximum Rate for Transportation Service:</textblock>
+    <textblock>The maximum rate contained in the respondent's currently effective tariff for the rate schedule under which the interruptible transportation service is being conducted.</textblock>
+    <textblock>6. Discounted Rate for Transportation Service:</textblock>
+    <textblock>A rate that is less than the maximum rate on file with the Commission.</textblock>
+    <textblock>7. Contracted Storage Capacity:</textblock>
+    <textblock>Contracted working gas (Top Gas) volume.</textblock>
+    <textblock>Schedules</textblock>
+    <textblock>Marketing Affiliates of Interstate Pipelines_Schedule X1</textblock>
+    <textblock>Definitions of Items and File Layout for the Marketing Affiliates of Interstate Pipelines_Schedule X1</textblock>
+    <textblock>This schedule will consist of six record formats:</textblock>
+    <textblock>(01) The Header Record</textblock>
+    <textblock>(02) The Transportation/Storage Request Record</textblock>
+    <textblock>(03) The Transportation Discounted Rate Record</textblock>
+    <textblock>(04) The Storage Discounted Rate Record</textblock>
+    <textblock>(05) The Narrative Record</textblock>
+    <textblock>(06) The Footnotes Record</textblock>
+  </text>
+</doc>

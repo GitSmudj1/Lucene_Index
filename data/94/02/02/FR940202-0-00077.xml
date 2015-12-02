@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00077</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>(i) .015 multiplied by the product of the total</textblock>
+    <textblock>noncontingent principal payments and the number of complete years</textblock>
+    <textblock>to maturity from the issue date (or, in the case of an</textblock>
+    <textblock>installment obligation, the weighted average maturity as defined</textblock>
+    <textblock>in §1.1273-1(e)(3)); or</textblock>
+    <textblock>(ii) 15 percent of the total noncontingent principal</textblock>
+    <textblock>payments.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Stated interest_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>General rule.</textblock>
+    <textblock>The debt instrument</textblock>
+    <textblock>must provide for stated interest (compounded or paid at least</textblock>
+    <textblock>annually) at_</textblock>
+    <textblock>(A) One or more qualified floating rates;</textblock>
+    <textblock>(B) A single fixed rate and one or more qualified floating</textblock>
+    <textblock>rates;</textblock>
+    <textblock>(C) A single objective rate; or</textblock>
+    <textblock>(D) A single fixed rate and a single objective rate that is</textblock>
+    <textblock>a qualified inverse floating rate.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Certain debt instruments bearing interest at a fixed</textblock>
+    <textblock>rate for an initial period.</textblock>
+    <textblock>If interest on a debt instrument is</textblock>
+    <textblock>stated at a fixed rate for an initial period of less than 1 year</textblock>
+    <textblock>followed by a variable rate that is either a qualified floating</textblock>
+    <textblock>rate or an objective rate for a subsequent period, and the value</textblock>
+    <textblock>of the variable rate on the issue date is intended to approximate</textblock>
+    <textblock>the fixed rate, the fixed rate and the variable rate together</textblock>
+    <textblock>constitute a single qualified floating rate or objective rate. A</textblock>
+    <textblock>fixed rate and a variable rate will be conclusively presumed to</textblock>
+    <textblock>meet the requirements of the preceding sentence if the value of</textblock>
+    <textblock>the variable rate on the issue date does not differ from the</textblock>
+    <textblock>value of the fixed rate by more than .25 percentage points (25</textblock>
+    <textblock>basis points).</textblock>
+    <textblock>(4)</textblock>
+    <textblock>Current value.</textblock>
+    <textblock>The debt instrument must provide that a</textblock>
+    <textblock>qualified floating rate or objective rate in effect at any time</textblock>
+    <textblock>during the term of the instrument is set at a current value of</textblock>
+    <textblock>that rate. A current value is the value of the rate on any day</textblock>
+    <textblock>that is no earlier than 3 months prior to the first day on which</textblock>
+    <textblock>that value is in effect and no later than 1 year following that</textblock>
+    <textblock>first day.</textblock>
+    <textblock>(b)</textblock>
+    <textblock>Qualified floating rate_</textblock>
+    <textblock>(1)</textblock>
+    <textblock>In general.</textblock>
+    <textblock>A variable</textblock>
+    <textblock>rate is a qualified floating rate if variations in the value of</textblock>
+    <textblock>the rate can reasonably be expected to measure contemporaneous</textblock>
+    <textblock>variations in the cost of newly borrowed funds in the currency in</textblock>
+    <textblock>which the debt instrument is denominated. The rate may measure</textblock>
+    <textblock>contemporaneous variations in borrowing costs for the issuer of</textblock>
+    <textblock>the debt instrument or for issuers in general. Except as</textblock>
+    <textblock>provided in paragraph (b)(2) of this section, a multiple of a</textblock>
+    <textblock>qualified floating rate is not a qualified floating rate. If a</textblock>
+    <textblock>debt instrument provides for two or more qualified floating rates</textblock>
+    <textblock>that can reasonably be expected to have approximately the same</textblock>
+    <textblock>values throughout the term of the instrument, the qualified</textblock>
+    <textblock>floating rates together constitute a single qualified floating</textblock>
+    <textblock>rate. Two or more qualified floating rates will be conclusively</textblock>
+    <textblock>presumed to meet the requirements of the preceding sentence if</textblock>
+    <textblock>the values of all rates on the issue date are within .25</textblock>
+    <textblock>percentage points (25 basis points) of each other.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Certain rates based on a qualified floating rate.</textblock>
+    <textblock>A</textblock>
+    <textblock>variable rate is a qualified floating rate if it is equal to</textblock>
+    <textblock>either_</textblock>
+    <textblock>(i) The product of a qualified floating rate described in</textblock>
+    <textblock>paragraph (b)(1) of this section and a fixed multiple that is</textblock>
+    <textblock>greater than zero but not more than 1.35; or</textblock>
+    <textblock>(ii) The product of a qualified floating rate described in</textblock>
+    <textblock>paragraph (b)(1) of this section and a fixed multiple that is</textblock>
+    <textblock>greater than zero but not more than 1.35, increased or decreased</textblock>
+    <textblock>by a fixed rate.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Restrictions on the stated rate of interest.</textblock>
+    <textblock>A variable</textblock>
+    <textblock>rate is not a qualified floating rate if it is subject to a</textblock>
+    <textblock>restriction or restrictions on the maximum stated interest rate</textblock>
+    <textblock>(cap), a restriction or restrictions on the minimum stated</textblock>
+    <textblock>interest rate (floor), a restriction or restrictions on the</textblock>
+    <textblock>amount of increase or decrease in the stated interest rate</textblock>
+    <textblock>(governor), or other similar restrictions. Notwithstanding the</textblock>
+    <textblock>preceding sentence, the following restrictions will not cause a</textblock>
+    <textblock>variable rate to fail to be a qualified floating rate_</textblock>
+    <textblock>(i) A cap, floor, or governor that is fixed throughout the</textblock>
+    <textblock>term of the debt instrument;</textblock>
+    <textblock>(ii) A cap or similar restriction that is not reasonably</textblock>
+    <textblock>expected as of the issue date to cause the yield on the debt</textblock>
+    <textblock>instrument to be significantly less than the expected yield</textblock>
+    <textblock>determined without the cap;</textblock>
+    <textblock>(iii) A floor or similar restriction that is not reasonably</textblock>
+    <textblock>expected as of the issue date to cause the yield on the debt</textblock>
+    <textblock>instrument to be significantly more than the expected yield</textblock>
+    <textblock>determined without the floor; or</textblock>
+  </text>
+</doc>

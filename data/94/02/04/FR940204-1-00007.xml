@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940204-1-00007</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940204-1-00001</textblock>
+  </parent>
+  <text/>
+  <table>
+    <textblock>Table I._E</textblock>
+    <textblock>qi</textblock>
+    <textblock>, I</textblock>
+    <textblock>qi</textblock>
+    <textblock>and E</textblock>
+    <textblock>qi</textblock>
+    <textblock>/I</textblock>
+    <textblock>qi</textblock>
+    <textblock>Ratio</textblock>
+    <textblock>1Fuel source</textblock>
+    <textblock>1E</textblock>
+    <textblock>qi1</textblock>
+    <textblock>(quads)</textblock>
+    <textblock>1I</textblock>
+    <textblock>qi2</textblock>
+    <textblock>(quads)</textblock>
+    <textblock>1E</textblock>
+    <textblock>qi</textblock>
+    <textblock>/I</textblock>
+    <textblock>qi</textblock>
+    <textblock>Ratio</textblock>
+    <textblock>Coal</textblock>
+    <textblock>5.318</textblock>
+    <textblock>16.150</textblock>
+    <textblock>0.329</textblock>
+    <textblock>Nuclear</textblock>
+    <textblock>1.968</textblock>
+    <textblock>6.186</textblock>
+    <textblock>0.318</textblock>
+    <textblock>Hydroelectric</textblock>
+    <textblock>0.955</textblock>
+    <textblock>2.911</textblock>
+    <textblock>0.328</textblock>
+    <textblock>Natural Gas</textblock>
+    <textblock>0.901</textblock>
+    <textblock>2.881</textblock>
+    <textblock>0.313</textblock>
+    <textblock>Petroleum</textblock>
+    <textblock>0.400</textblock>
+    <textblock>1.251</textblock>
+    <textblock>0.320</textblock>
+    <textblock>n,s,n</textblock>
+    <textblock>Total</textblock>
+    <textblock>9.542</textblock>
+    <textblock>29.379</textblock>
+    <textblock>1Source: Monthly Energy Review, November 1991, Table</textblock>
+    <textblock>7.1, Electric Utility Net Generation of Electricity,</textblock>
+    <textblock>p. 89 (million kilowatthours).</textblock>
+    <textblock>2Source: Monthly Energy Review, November 1991, Table</textblock>
+    <textblock>2.6, Energy Input at Electric Utilities, p. 31</textblock>
+    <textblock>(quadrillion BTU).</textblock>
+  </table>
+</doc>

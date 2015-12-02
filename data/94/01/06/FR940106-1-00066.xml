@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00066</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00011</textblock>
+  </parent>
+  <text>
+    <textblock>Finally, in arriving at index values for its proposal contained in Table 4, EPA has adjusted the index values of Table 3 to meet concerns over potential closure of the Georgiana Slough. As discussed below, EPA has been engaged in consultations with USFWS and NMFS under the ESA about possible effects of EPA's water quality standards actions on threatened and endangered species. During the course of these consultations, it was suggested that one of the measures the Five Agency Chinook Salmon Committee had recommended as an effective protective measure for salmon smolts_putting a temporary barrier at the head of Georgiana Slough_may have deleterious effects on the Delta smelt and other native aquatic life in the central Delta, and possibly on adult salmon returning upstream. For that reason, EPA has recomputed the index values (see Table 4) to reflect model results if the Georgiana Slough were left open. Lower exports, particularly during times of peak San Joaquin salmon outmigration, were incorporated as an additional feasible and effective implementation measure benefiting salmon, in part to compensate for the additional mortality associated with keeping Georgiana Slough open. EPA believes that these adjustments still provide protection consistent with the goal of restoring habitat conditions to those existing in the late 1960's to early 1970's (mean Sacramento River survival index of .37), while also taking into account achievable implementation measures. The recomputed index values in Table 4 are included as EPA's proposal.</textblock>
+  </text>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>3._</textblock>
+    <textblock>Salmon Smolt Survival Indices Based on Five Agency Chinook Salmon Committee Analysis and Recommendations</textblock>
+    <textblock>1Sacramento River</textblock>
+    <textblock>2Water year type</textblock>
+    <textblock>2Index value</textblock>
+    <textblock>1San Joaquin River</textblock>
+    <textblock>2Water year type</textblock>
+    <textblock>2Index value</textblock>
+    <textblock>Wet</textblock>
+    <textblock>.49</textblock>
+    <textblock>Wet</textblock>
+    <textblock>.46</textblock>
+    <textblock>Above Normal</textblock>
+    <textblock>.41</textblock>
+    <textblock>Above normal</textblock>
+    <textblock>.30</textblock>
+    <textblock>Below Normal</textblock>
+    <textblock>.40</textblock>
+    <textblock>Below normal</textblock>
+    <textblock>.26</textblock>
+    <textblock>Dry</textblock>
+    <textblock>.35</textblock>
+    <textblock>Dry</textblock>
+    <textblock>.23</textblock>
+    <textblock>Critical</textblock>
+    <textblock>.32</textblock>
+    <textblock>Critical</textblock>
+    <textblock>.20</textblock>
+    <textblock>Mean</textblock>
+    <textblock>.41</textblock>
+    <textblock>Mean</textblock>
+    <textblock>.31</textblock>
+  </table>
+</doc>

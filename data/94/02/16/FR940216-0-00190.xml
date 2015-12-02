@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00190</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>N</textblock>
+    <textblock>n</textblock>
+    <textblock>=exp n</textblock>
+    <textblock>1</textblock>
+    <textblock>(t)/exp n</textblock>
+    <textblock>1</textblock>
+    <textblock>(b)</textblock>
+    <textblock>H</textblock>
+    <textblock>n</textblock>
+    <textblock>=exp n</textblock>
+    <textblock>2</textblock>
+    <textblock>(t)/exp n</textblock>
+    <textblock>2</textblock>
+    <textblock>(b)</textblock>
+    <textblock>w</textblock>
+    <textblock>1</textblock>
+    <textblock>=Weighting factor for normal emitters as defined in paragraph (b)(1) of this section for the appropriate Phase</textblock>
+    <textblock>w</textblock>
+    <textblock>2</textblock>
+    <textblock>=Weighting factor for higher emitters as defined in paragraph (b)(1) of this section for the appropriate Phase</textblock>
+    <textblock>n</textblock>
+    <textblock>1</textblock>
+    <textblock>(t)=Normal emitter NO</textblock>
+    <textblock>X</textblock>
+    <textblock>equation as defined in paragraph (d)(1)(i) of this section, evaluated using the target fuel's properties subject to paragraphs (d)(1)(iii) and (iv) of this section</textblock>
+    <textblock>n</textblock>
+    <textblock>2</textblock>
+    <textblock>(t)=Higher emitter NO</textblock>
+    <textblock>X</textblock>
+    <textblock>equation as defined in paragraph (d)(1)(ii) of this section, evaluated using the target fuel's properties subject to paragraphs (d)(1)(iii) and (iv) of this section</textblock>
+    <textblock>n</textblock>
+    <textblock>1</textblock>
+    <textblock>(b)=Normal emitter NO</textblock>
+    <textblock>X</textblock>
+    <textblock>equation as defined in paragraph (d)(1)(i) of this section, evaluated using the base fuel's properties</textblock>
+    <textblock>n</textblock>
+    <textblock>2</textblock>
+    <textblock>(b)=Higher emitter NO</textblock>
+    <textblock>X</textblock>
+    <textblock>equation as defined in paragraph (d)(1)(ii) of this section, evaluated using the base fuel's properties</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Consolidated equation for normal emitters.</textblock>
+    <textblock>n</textblock>
+    <textblock>1</textblock>
+    <textblock>=(0.0018571×OXY)+</textblock>
+    <textblock>(0.0006921×SUL)</textblock>
+    <textblock>+(0.0090744×RVP)+</textblock>
+    <textblock>(0.0009310×E200)+</textblock>
+    <textblock>(0.0008460×E300)+</textblock>
+    <textblock>(0.0083632×ARO)+</textblock>
+    <textblock>(^0.002774×OLE)+</textblock>
+    <textblock>(^6.63X10</textblock>
+    <textblock>^7</textblock>
+    <textblock>×SUL2)+</textblock>
+    <textblock>(^0.000119×ARO2)+</textblock>
+    <textblock>(0.0003665×OLE2)</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Equation for higher emitters.</textblock>
+    <textblock>n</textblock>
+    <textblock>2</textblock>
+    <textblock>=(^0.00913×OXY)+</textblock>
+    <textblock>(0.000252×SUL)+</textblock>
+    <textblock>(^0.01397×RVP)</textblock>
+    <textblock>+(0.000931×E200)+</textblock>
+    <textblock>(^0.00401×E300)+</textblock>
+    <textblock>(0.007097×ARO)</textblock>
+    <textblock>+(^0.00276×OLE)</textblock>
+    <textblock>+(0.0003665×OLE2)+</textblock>
+    <textblock>(^7.995x10</textblock>
+    <textblock>^5</textblock>
+    <textblock>×ARO2)</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Flat line extrapolations.</textblock>
+    <textblock>(A) During Phase I, fuels with olefin levels less than 3.77 volume percent shall be evaluated with the OLE fuel parameter set equal to 3.77 volume percent when calculating NO</textblock>
+    <textblock>X</textblock>
+    <textblock>performance using the equations described in paragraphs (d)(1)(i) and (ii) of this section. Fuels with aromatics levels greater than 36.2 volume percent shall be evaluated with the ARO fuel parameter set equal to 36.2 volume percent when calculating NO</textblock>
+    <textblock>X</textblock>
+    <textblock>performance using the equations described in paragraphs (d)(1)(i) and (ii) of this section.</textblock>
+    <textblock>(B) During Phase II, fuels with olefin levels less than 3.77 volume percent shall be evaluated with the OLE fuel parameter set equal to 3.77 volume percent when calculating NO</textblock>
+    <textblock>X</textblock>
+    <textblock>performance using the equations described in paragraphs (d)(1)(i) and (ii) of this section. Fuels with aromatics levels greater than 36.8 volume percent shall be evaluated with the ARO fuel parameter set equal to 36.8 volume percent when calculating NO</textblock>
+    <textblock>X</textblock>
+    <textblock>performance using the equations described in paragraphs (d)(1)(i) and (ii) of this section.</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Linear extrapolations.</textblock>
+    <textblock>(A) The equations in paragraphs (d)(1)(i) and (ii) of this section shall be used within the allowable range of SUL, E300, OLE, and ARO for the appropriate Phase, as defined in the following Table 7:</textblock>
+  </text>
+</doc>

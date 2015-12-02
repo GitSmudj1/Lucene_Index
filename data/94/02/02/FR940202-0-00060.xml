@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00060</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>§1.1273-1</textblock>
+    <textblock>Definition of OID.</textblock>
+    <textblock>(a)</textblock>
+    <textblock>In general</textblock>
+    <textblock>. Section 1273(a)(1) defines OID as the</textblock>
+    <textblock>excess of a debt instrument's stated redemption price at maturity</textblock>
+    <textblock>over its issue price. Section 1.1273-2 defines issue price, and</textblock>
+    <textblock>paragraph (b) of this section defines stated redemption price at</textblock>
+    <textblock>maturity. Paragraph (d) of this section provides rules for de</textblock>
+    <textblock>minimis amounts of OID. Although the total amount of OID for a</textblock>
+    <textblock>debt instrument may be indeterminate, §1.1272-1(d) provides a</textblock>
+    <textblock>rule to determine OID accruals on certain debt instruments that</textblock>
+    <textblock>provide for principal payments uncertain as to time. See</textblock>
+    <textblock>Example 10</textblock>
+    <textblock>in §1.1272-1(j).</textblock>
+    <textblock>(b)</textblock>
+    <textblock>Stated redemption price at maturity.</textblock>
+    <textblock>A debt</textblock>
+    <textblock>instrument's stated redemption price at maturity is the sum of</textblock>
+    <textblock>all payments provided by the debt instrument other than qualified</textblock>
+    <textblock>stated interest payments. If the payment schedule of a debt</textblock>
+    <textblock>instrument is determined under §1.1272-1(c) (relating to certain</textblock>
+    <textblock>debt instruments subject to contingencies), that payment schedule</textblock>
+    <textblock>is used to determine the instrument's stated redemption price at</textblock>
+    <textblock>maturity.</textblock>
+    <textblock>(c)</textblock>
+    <textblock>Qualified stated interest</textblock>
+    <textblock>_(1)</textblock>
+    <textblock>Definition</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>In</textblock>
+    <textblock>general</textblock>
+    <textblock>. Qualified stated interest is stated interest that is</textblock>
+    <textblock>unconditionally payable in cash or in property (other than debt</textblock>
+    <textblock>instruments of the issuer), or that will be constructively</textblock>
+    <textblock>received under section 451, at least annually at a single fixed</textblock>
+    <textblock>rate (within the meaning of paragraph (c)(1)(iii) of this</textblock>
+    <textblock>section).</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Unconditionally payable.</textblock>
+    <textblock>Interest is unconditionally</textblock>
+    <textblock>payable only if late payment (other than a late payment that</textblock>
+    <textblock>occurs within a reasonable grace period) or nonpayment is</textblock>
+    <textblock>expected to be penalized or reasonable remedies exist to compel</textblock>
+    <textblock>payment. Notwithstanding the preceding sentence, interest is not</textblock>
+    <textblock>unconditionally payable if the lending transaction does not</textblock>
+    <textblock>reflect arm's length dealing and the holder does not intend to</textblock>
+    <textblock>enforce such remedies. For purposes of determining whether</textblock>
+    <textblock>interest is unconditionally payable, the possibility of</textblock>
+    <textblock>nonpayment due to default, insolvency, or similar circumstances,</textblock>
+    <textblock>or due to the exercise of a conversion right described in</textblock>
+    <textblock>§1.1272-1(e) is ignored.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Single fixed rate</textblock>
+    <textblock>_(A)</textblock>
+    <textblock>In general.</textblock>
+    <textblock>Interest is</textblock>
+    <textblock>payable at a single fixed rate only if the rate appropriately</textblock>
+    <textblock>takes into account the length of the interval between payments.</textblock>
+    <textblock>Thus, if the interval between payments varies during the term of</textblock>
+    <textblock>the debt instrument, the value of the fixed rate on which a</textblock>
+    <textblock>payment is based generally must be adjusted to reflect a</textblock>
+    <textblock>compounding assumption that is consistent with the length of the</textblock>
+    <textblock>interval preceding the payment. See</textblock>
+    <textblock>Example 1</textblock>
+    <textblock>in paragraph (f)</textblock>
+    <textblock>of this section.</textblock>
+    <textblock>(B)</textblock>
+    <textblock>Special rule for certain first and final payment</textblock>
+    <textblock>intervals.</textblock>
+    <textblock>Notwithstanding paragraph (c)(1)(iii)(A) of this</textblock>
+    <textblock>section, if a debt instrument provides for payment intervals that</textblock>
+    <textblock>are equal in length throughout the term of the instrument, except</textblock>
+    <textblock>that the first or final payment interval differs in length from</textblock>
+    <textblock>the other payment intervals, the first or final interest payment</textblock>
+    <textblock>is considered to be made at a fixed rate if the value of the rate</textblock>
+    <textblock>on which the payment is based is adjusted in any reasonable</textblock>
+    <textblock>manner to take into account the length of the interval. See</textblock>
+    <textblock>Example 2</textblock>
+    <textblock>of paragraph (f) of this section. The rule in this</textblock>
+    <textblock>paragraph (c)(1)(iii)(B) also applies if the lengths of both the</textblock>
+    <textblock>first and final payment intervals differ from the length of the</textblock>
+    <textblock>other payment intervals.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Debt instruments subject to contingencies.</textblock>
+    <textblock>The</textblock>
+    <textblock>determination of whether a debt instrument described in §1.1272-1(c) (a debt instrument providing for an alternative payment</textblock>
+    <textblock>schedule (or schedules) upon the occurrence of one or more</textblock>
+    <textblock>contingencies) provides for qualified stated interest is made by</textblock>
+    <textblock>analyzing each alternative payment schedule (including the stated</textblock>
+    <textblock>payment schedule) as if it were the debt instrument's sole</textblock>
+    <textblock>payment schedule. Under this analysis, the debt instrument</textblock>
+    <textblock>provides for qualified stated interest to the extent of the</textblock>
+    <textblock>lowest fixed rate at which qualified stated interest would be</textblock>
+    <textblock>payable under any payment schedule. See</textblock>
+    <textblock>Example (4)</textblock>
+    <textblock>of paragraph</textblock>
+    <textblock>(f) of this section.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Variable rate debt instrument.</textblock>
+    <textblock>In the case of a</textblock>
+    <textblock>variable rate debt instrument, qualified stated interest is</textblock>
+    <textblock>determined under §1.1275-5(e).</textblock>
+    <textblock>(4)</textblock>
+    <textblock>Stated interest in excess of qualified stated interest</textblock>
+    <textblock>.</textblock>
+    <textblock>To the extent that stated interest payable under a debt</textblock>
+    <textblock>instrument exceeds qualified stated interest, the excess is</textblock>
+    <textblock>included in the debt instrument's stated redemption price at</textblock>
+    <textblock>maturity.</textblock>
+    <textblock>(5)</textblock>
+    <textblock>Short-term obligations.</textblock>
+    <textblock>In the case of a debt</textblock>
+    <textblock>instrument with a term that is not more than 1 year from the date</textblock>
+    <textblock>of issue, no payments of interest are treated as qualified stated</textblock>
+    <textblock>interest payments.</textblock>
+    <textblock>(d)</textblock>
+    <textblock>De minimis OID</textblock>
+    <textblock>_(1)</textblock>
+    <textblock>In general</textblock>
+    <textblock>. If the amount of OID</textblock>
+    <textblock>with respect to a debt instrument is less than the de minimis</textblock>
+    <textblock>amount, the amount of OID is treated as zero, and all stated</textblock>
+    <textblock>interest (including stated interest that would otherwise be</textblock>
+    <textblock>characterized as OID) is treated as qualified stated interest.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>De minimis amount</textblock>
+    <textblock>. The de minimis amount is an amount</textblock>
+    <textblock>equal to 0.0025 multiplied by the product of the stated</textblock>
+    <textblock>redemption price at maturity and the number of complete years to</textblock>
+    <textblock>maturity from the issue date.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Installment obligations</textblock>
+    <textblock>. In the case of an installment</textblock>
+    <textblock>obligation (as defined in paragraph (e)(1) of this section),</textblock>
+    <textblock>paragraph (d)(2) of this section is applied by substituting for</textblock>
+    <textblock>the number of complete years to maturity the weighted average</textblock>
+    <textblock>maturity (as defined in paragraph (e)(3) of this section).</textblock>
+    <textblock>Alternatively, in the case of a debt instrument that provides for</textblock>
+    <textblock>payments of principal no more rapidly than a self-amortizing</textblock>
+    <textblock>installment obligation (as defined in paragraph (e)(2) of this</textblock>
+    <textblock>section), the de minimis amount defined in paragraph (d)(2) of</textblock>
+    <textblock>this section may be calculated by substituting 0.00167 for</textblock>
+    <textblock>0.0025.</textblock>
+  </text>
+</doc>

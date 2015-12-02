@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940126-0-00003</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940126-0-00002</textblock>
+  </parent>
+  <text>
+    <textblock>Airworthiness Directives; McDonnell Douglas Model MD-11 Series Airplanes</textblock>
+  </text>
+  <usdept>
+    <textblock>DEPARTMENT OF TRANSPORTATION</textblock>
+  </usdept>
+  <usbureau>
+    <textblock>Federal Aviation Administration</textblock>
+  </usbureau>
+  <cfrno>
+    <textblock>14 CFR Part 39</textblock>
+  </cfrno>
+  <rindock>
+    <textblock>[Docket No. 93-NM-231-AD; Amendment 39-8806; AD 94-02-08]</textblock>
+  </rindock>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>Federal Aviation Administration, DOT.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>Final rule; request for comments.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>This amendment adopts a new airworthiness directive (AD) that is applicable to certain McDonnell Douglas Model MD-11 series airplanes. This action requires an inspection to detect chafing damage to certain wiring in the main avionics rack, repair or replacement of damaged wiring, and modification of the wiring installation. This amendment is prompted by a report of a chafed wire harness found on the main avionics rack on one airplane that resulted in arcing damage to the wire harness and adjacent structure. The actions specified in this AD are intended to prevent chafing of the main avionics rack wiring, which could result in arcing and a fire in the wire bundle; this could lead to damage to aircraft systems and loss of associated aircraft functions.</textblock>
+  </summary>
+  <date>
+    <textblock>DATES:</textblock>
+    <textblock>Effective February 10, 1994.</textblock>
+    <textblock>The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of February 10, 1994.</textblock>
+    <textblock>Comments for inclusion in the Rules Docket must be received on or before March 28, 1994.</textblock>
+  </date>
+  <address>
+    <textblock>ADDRESSES:</textblock>
+    <textblock>Submit comments in triplicate to the Federal Aviation Administration (FAA), Transport Airplane Directorate, ANM-103, Attention: Rules Docket No. 93-NM-231-AD, 1601 Lind Avenue SW., Renton, Washington 98055-4056.</textblock>
+    <textblock>The service information referenced in this AD may be obtained from McDonnell Douglas Corporation, P.O. Box 1771, Long Beach, California 90846-0001, Attention: Business Unit Manager, Technical Publications, C1-HDR (54-60). This information may be examined at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, Washington; or at the Los Angeles Aircraft Certification Office, FAA, Transport Airplane Directorate, 3229 East Spring Street, Long Beach, California; or at the Office of the Federal Register, 800 North Capitol Street NW., suite 700, Washington, DC.</textblock>
+  </address>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>Brett Portwood, Aerospace Engineer, Systems &amp; Equipment Branch, ANM-132L, Los Angeles Aircraft Certification Office, FAA, Transport Airplane Directorate, 3229 East Spring Street, Long Beach, California 90806-2425; telephone (310) 988-5347; fax (310) 988-5210.</textblock>
+  </further>
+  <supplem>
+    <textblock>SUPPLEMENTARY INFORMATION:</textblock>
+    <textblock>Recently, one operator of McDonnell Douglas Model MD-11 series airplanes reported one instance of the auto ground spoiler failing to arm on one airplane. Investigation revealed two wires that had burnt in half and several charred wires on shelf 3 of the aft section of the main avionics rack. These wires apparently had chafed and shorted on the screws that attach the wire bundle trough assembly to the rack. Additionally, the protective tape was worn from the attach screw heads. The operator then conducted a fleet inspection and found additional wire chafing at the same location on another airplane. The operator also found worn protective tape (exposed screw heads) at various locations on the avionics racks on other airplanes. Chafing of the wiring in the main avionics rack, if not detected and corrected in a timely manner, could result in arcing and a fire in the wire bundle; this could lead to damage to aircraft systems and the loss of associated aircraft functions.</textblock>
+    <textblock>The FAA has reviewed and approved McDonnell Douglas MD-11 Alert Service Bulletin A24-75, dated December 22, 1993, that describes procedures for performing a visual inspection to detect chafing damage to the wire harness located on the aft side of the main avionics rack on shelves 1 through 4. It also describes procedures for repairing or replacing damaged wiring, and modifying the wiring installation by bonding nylon sheets between the wire harnesses and the protective tape on the screw heads.</textblock>
+    <textblock>Since an unsafe condition has been identified that is likely to exist or develop on other Model MD-11 series airplanes of the same type design, this AD is being issued to prevent chafing of the main avionics rack wiring, which could result in arcing and fire in the wire bundle, and lead to damage to aircraft systems and the subsequent loss of associated aircraft functions. This AD requires a detailed visual inspection to detect chafing damage to the wire harnesses located on the aft side of the main avionics rack on shelves 1 through 4. Any damaged wiring must be replaced or repaired prior to further flight. Additionally, operators are required to modify the wiring installation by bonding nylon sheets between the wire harnesses and the protective tape on the screw heads. The actions are required to be accomplished in accordance with the service bulletin described previously.</textblock>
+    <textblock>This is considered interim action until final action is identified, at which time the FAA may consider additional rulemaking.</textblock>
+    <textblock>Since a situation exists that requires the immediate adoption of this regulation, it is found that notice and opportunity for prior public comment hereon are impracticable, and that good cause exists for making this amendment effective in less than 30 days.</textblock>
+    <textblock>Comments Invited</textblock>
+    <textblock>Although this action is in the form of a final rule that involves requirements affecting flight safety and, thus, was not preceded by notice and an opportunity for public comment, comments are invited on this rule. Interested persons are invited to comment on this rule by submitting such written data, views, or arguments as they may desire. Communications shall identify the Rules Docket number and be submitted in triplicate to the address specified under the caption</textblock>
+    <textblock>ADDRESSES</textblock>
+    <textblock>. All communications received on or before the closing date for comments will be considered, and this rule may be amended in light of the comments received. Factual information that supports the commenter's ideas and suggestions is extremely helpful in evaluating the effectiveness of the AD action and determining whether additional rulemaking action would be needed.</textblock>
+    <textblock>Comments are specifically invited on the overall regulatory, economic, environmental, and energy aspects of the rule that might suggest a need to modify the rule. All comments submitted will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons. A report that summarizes each FAA-public contact concerned with the substance of this AD will be filed in the Rules Docket.</textblock>
+    <textblock>Commenters wishing the FAA to acknowledge receipt of their comments submitted in response to this notice must submit a self-addressed, stamped postcard on which the following statement is made: ``Comments to Docket Number 93-NM-231-AD.'' The postcard will be date stamped and returned to the commenter.</textblock>
+    <textblock>The regulations adopted herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment.</textblock>
+  </supplem>
+</doc>

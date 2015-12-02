@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940104-2-00067</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940104-2-00045</textblock>
+  </parent>
+  <text>
+    <textblock>Self-Regulatory Organizations; Midwest Clearing Corp. and Midwest Securities Trust Co.; Filing and Immediate Effectiveness of Proposed Rule Changes to Add Certain File Transmission Fees</textblock>
+    <textblock>December 23, 1993.</textblock>
+    <textblock>Pursuant to section 19(b)(1) of the Securities Exchange Act of 1934 (``Act''),</textblock>
+    <textblock>notice is hereby given that on December 8, 1993, the Midwest Clearing Corporation (``MCC'') and the Midwest Securities Trust Company (``MSTC'') filed with the Securities and Exchange Commission (``Commission'') the proposed rule changes as described in Items I, II, and III below, which Items have been prepared substantially by MCC and MSTC. The Commission is publishing this notice to solicit comments on the proposed rule changes from interested persons.</textblock>
+    <textblock>I. Self-Regulatory Organizations' Statement of the Terms of Substance of the Proposed Rule Changes</textblock>
+    <textblock>MCC and MSTC propose to amend a portion of their Services and Schedule of Charges by adding certain fees for their File Transmission and Tape Input/Output Service.</textblock>
+    <textblock>The text of the proposed rule changes are underlined:</textblock>
+    <textblock>II. Self-Regulatory Organizations' Statement of the Purpose of, and Statutory Basis for, the Proposed Rule Changes</textblock>
+    <textblock>In their filings with the Commission, MCC and MSTC included statements concerning the purpose of, and basis for, the proposed rule changes and discussed any comments received on the proposed rule changes. The text of these statements may be examined at the places specified in Item IV below. MCC and MSTC prepared summaries, set forth in section (A), (B), and (C) below, of the most significant aspects of such statements.</textblock>
+  </text>
+  <usdept>
+    <textblock>SECURITIES AND EXCHANGE COMMISSION</textblock>
+  </usdept>
+  <rindock>
+    <textblock>[Release No. 34-33382; File Nos. SR-MCC-93-8 and SR-MSTC-93-12]</textblock>
+  </rindock>
+  <footcite>
+    <textblock>1</textblock>
+  </footcite>
+  <footnote>
+    <textblock>15 U.S.C. 78s(b)(1) (1988).</textblock>
+  </footnote>
+  <footname>
+    <textblock>1</textblock>
+  </footname>
+  <table>
+    <textblock>File Transmission and Tape Input/Output Services</textblock>
+    <textblock>[Reports Received]</textblock>
+    <textblock>1File</textblock>
+    <textblock>1Daily</textblock>
+    <textblock>1Weekly</textblock>
+    <textblock>*</textblock>
+    <textblock>1Monthly</textblock>
+    <textblock>1Upon Request</textblock>
+    <textblock>R_Activity</textblock>
+    <textblock>$165.00</textblock>
+    <textblock>N/A</textblock>
+    <textblock>N/A</textblock>
+    <textblock>$75.00</textblock>
+    <textblock>R_Net Position</textblock>
+    <textblock>165.00</textblock>
+    <textblock>125.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>R_Net Position/Activity</textblock>
+    <textblock>275.00</textblock>
+    <textblock>N/AN/A</textblock>
+    <textblock>75.00</textblock>
+    <textblock>B_Net Position/Activity</textblock>
+    <textblock>275.00</textblock>
+    <textblock>200.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>R/B Merged Net Position (special format: depository data only)</textblock>
+    <textblock>165.00</textblock>
+    <textblock>125.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Purchase &amp; Sales</textblock>
+    <textblock>165.00</textblock>
+    <textblock>N/A</textblock>
+    <textblock>N/A</textblock>
+    <textblock>75.00</textblock>
+    <textblock>ACATS Activity</textblock>
+    <textblock>165.00</textblock>
+    <textblock>N/A</textblock>
+    <textblock>N/A</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Security Masterfile Updates</textblock>
+    <textblock>165.00</textblock>
+    <textblock>N/A</textblock>
+    <textblock>N/A</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Complete Security Masterfile</textblock>
+    <textblock>N/A</textblock>
+    <textblock>200.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>NIDS Activity</textblock>
+    <textblock>165.00</textblock>
+    <textblock>N/A</textblock>
+    <textblock>N/A</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Dividend Announcements</textblock>
+    <textblock>165.00</textblock>
+    <textblock>N/A</textblock>
+    <textblock>N/A</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Accommodation Transfer</textblock>
+    <textblock>165.00</textblock>
+    <textblock>125.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Bond Comparison Activity</textblock>
+    <textblock>165.00</textblock>
+    <textblock>N/A</textblock>
+    <textblock>N/A</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Valid Trades</textblock>
+    <textblock>300.00</textblock>
+    <textblock>N/A</textblock>
+    <textblock>N/A</textblock>
+    <textblock>75.00</textblock>
+    <textblock>MCC/MSTC Account Masterfile</textblock>
+    <textblock>N/A</textblock>
+    <textblock>125.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>OTC T Contracts</textblock>
+    <textblock>165.00</textblock>
+    <textblock>N/A</textblock>
+    <textblock>N/A</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Activity/Transfers</textblock>
+    <textblock>225.00</textblock>
+    <textblock>125.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Activity/Deposits</textblock>
+    <textblock>225.00</textblock>
+    <textblock>125.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Activity/Transfers/Deposits</textblock>
+    <textblock>285.00</textblock>
+    <textblock>125.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Activity/Position/Transfers/Deposits</textblock>
+    <textblock>350.00</textblock>
+    <textblock>125.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Deposit Records Only</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Transfer records Only</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Pledgee Bank Net Position</textblock>
+    <textblock>165.00</textblock>
+    <textblock>125.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>Pledgee Bank Activity</textblock>
+    <textblock>165.00</textblock>
+    <textblock>125.00</textblock>
+    <textblock>175.00</textblock>
+    <textblock>75.00</textblock>
+    <textblock>*</textblock>
+    <textblock>Includes settlement month end or calendar month end.</textblock>
+  </table>
+</doc>

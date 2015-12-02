@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940224-0-00052</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940224-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>Note 4:</textblock>
+    <textblock>``CTP'' values are not to be aggregated for ``CE''-combinations (inter)connected by ``Local Area Networks'', Wide Area Networks, I/O shared connections/devices, I/O controllers and any communication interconnection implemented by software.</textblock>
+    <textblock>Note 5:</textblock>
+    <textblock>``CTP'' values must be aggregated for multiple ``CEs'' specially designed to enhance performance by aggregation, operating simultaneously and sharing memory-, or multiple memory/``CE''- combinations operating simultaneously utilizing specially designed hardware.</textblock>
+    <textblock>This aggregation does not apply to ``assemblies'' controlled by 4A03.d. ``CTP''=TP</textblock>
+    <textblock>1</textblock>
+    <textblock>+C</textblock>
+    <textblock>2</textblock>
+    <textblock>*TP</textblock>
+    <textblock>2</textblock>
+    <textblock>+.␣.␣.+C</textblock>
+    <textblock>n</textblock>
+    <textblock>*TP</textblock>
+    <textblock>n</textblock>
+    <textblock>, where the TPs are ordered by value, with TP</textblock>
+    <textblock>1</textblock>
+    <textblock>being the highest, TP</textblock>
+    <textblock>2</textblock>
+    <textblock>being the second highest,␣*␣*␣* and TP</textblock>
+    <textblock>n</textblock>
+    <textblock>being the lowest. C</textblock>
+    <textblock>i</textblock>
+    <textblock>is a coefficient determined by the strength of the interconnection between ``CEs'', as follows:</textblock>
+    <textblock>For multiple ``CEs'' operating simultaneously and sharing memory:</textblock>
+    <textblock>Note 1:</textblock>
+    <textblock>When the ``CTP'' calculated by the above method does not exceed 194 Mtops, the following formula may be used to calculate C</textblock>
+    <textblock>i</textblock>
+    <textblock>:</textblock>
+    <textblock>Where m equals the number of ``CEs'' or groups of ``CEs'' sharing access.</textblock>
+  </text>
+  <import>
+    <textblock>E:GraphicsER24FE94.030</textblock>
+  </import>
+  <import>
+    <textblock>E:GraphicsER24FE94.031</textblock>
+  </import>
+</doc>

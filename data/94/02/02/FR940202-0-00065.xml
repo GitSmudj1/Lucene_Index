@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00065</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>(2)</textblock>
+    <textblock>Payments from borrower to lender</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>Money lending</textblock>
+    <textblock>transaction.</textblock>
+    <textblock>In a lending transaction to which section</textblock>
+    <textblock>1273(b)(2) applies, a payment from the borrower to the lender</textblock>
+    <textblock>(other than a payment for property or for services provided by</textblock>
+    <textblock>the lender, such as commitment fees or loan processing costs)</textblock>
+    <textblock>reduces the issue price of the debt instrument evidencing the</textblock>
+    <textblock>loan. However, solely for purposes of determining the tax</textblock>
+    <textblock>consequences to the borrower, the issue price is not reduced if</textblock>
+    <textblock>the payment is deductible under section 461(g)(2).</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Section 1274 transaction.</textblock>
+    <textblock>In a lending transaction to</textblock>
+    <textblock>which section 1274 applies, a payment from the buyer-borrower to</textblock>
+    <textblock>the seller-lender that is designated as interest or points</textblock>
+    <textblock>reduces the stated principal amount of the debt instrument</textblock>
+    <textblock>evidencing the loan, but is included in the purchase price of the</textblock>
+    <textblock>property. If the payment is deductible under section 461(g)(2),</textblock>
+    <textblock>however, the issue price of the debt instrument (as otherwise</textblock>
+    <textblock>determined under section 1274 and the rule in the preceding</textblock>
+    <textblock>sentence) is increased by the amount of the payment to compute</textblock>
+    <textblock>the buyer-borrower's interest deductions under section 163.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Payments from lender to borrower.</textblock>
+    <textblock>A payment from the</textblock>
+    <textblock>lender to the borrower in a lending transaction is treated as an</textblock>
+    <textblock>amount loaned.</textblock>
+    <textblock>(4)</textblock>
+    <textblock>Payments between lender and third party.</textblock>
+    <textblock>If, as part of</textblock>
+    <textblock>a lending transaction, a party other than the borrower (the third</textblock>
+    <textblock>party) makes a payment to the lender, that payment is treated in</textblock>
+    <textblock>appropriate circumstances as made from the third party to the</textblock>
+    <textblock>borrower followed by a payment in the same amount from the</textblock>
+    <textblock>borrower to the lender and governed by the provisions of</textblock>
+    <textblock>paragraph (g)(2) of this section. If, as part of a lending</textblock>
+    <textblock>transaction, the lender makes a payment to a third party, that</textblock>
+    <textblock>payment is treated in appropriate circumstances as an additional</textblock>
+    <textblock>amount loaned to the borrower and then paid by the borrower to</textblock>
+    <textblock>the third party. The character of the deemed payment between the</textblock>
+    <textblock>borrower and the third party depends on the substance of the</textblock>
+    <textblock>transaction.</textblock>
+    <textblock>(5)</textblock>
+    <textblock>Examples.</textblock>
+    <textblock>The following examples illustrate the rules</textblock>
+    <textblock>of this paragraph (g).</textblock>
+    <textblock>Example 1. Payments from borrower to lender in a cash</textblock>
+    <textblock>transaction_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>A lends $100,000 to B for a term of 10</textblock>
+    <textblock>years. At the time the loan is made, B pays $4,000 in points to</textblock>
+    <textblock>A. Assume that the points are not deductible by B under section</textblock>
+    <textblock>461(g)(2) and that the stated redemption price at maturity of the</textblock>
+    <textblock>debt instrument is $100,000.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Payment results in OID.</textblock>
+    <textblock>Under paragraph (g)(2)(i) of</textblock>
+    <textblock>this section, the issue price of B's debt instrument evidencing</textblock>
+    <textblock>the loan is $96,000. Because the amount of OID on the debt</textblock>
+    <textblock>instrument ($4,000) is more than a de minimis amount of OID, A</textblock>
+    <textblock>accounts for the OID under §1.1272-1. B accounts for the OID</textblock>
+    <textblock>under §1.163-7.</textblock>
+    <textblock>Example 2. Payments from borrower to lender in a section</textblock>
+    <textblock>1274 transaction_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>A sells property to B for</textblock>
+    <textblock>$1,000,000 in a transaction that is not a potentially abusive</textblock>
+    <textblock>situation (within the meaning of §1.1274-3). In consideration</textblock>
+    <textblock>for the property, B gives A $300,000 and issues a 5-year debt</textblock>
+    <textblock>instrument that has a stated principal amount of $700,000,</textblock>
+    <textblock>payable at maturity, and that calls for semiannual payments of</textblock>
+    <textblock>interest at a rate of 8.5 percent. In addition to the cash</textblock>
+    <textblock>downpayment, B pays A $14,000 designated as points on the loan.</textblock>
+    <textblock>Assume that the points are not deductible under section</textblock>
+    <textblock>461(g)(2).</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Issue price.</textblock>
+    <textblock>Under paragraph (g)(2)(ii) of this</textblock>
+    <textblock>section, the stated principal amount of B's debt instrument is</textblock>
+    <textblock>^$686,000 ($700,000 minus $14,000). Assuming a test rate of 9</textblock>
+    <textblock>percent, compounded semiannually, the imputed principal amount of</textblock>
+    <textblock>B's debt instrument under §1.1274-2(c)(1) is $686,153. Under</textblock>
+    <textblock>§1.1274-2(b)(1), the issue price of B's debt instrument is the</textblock>
+    <textblock>stated principal amount of $686,000. Because the amount of OID</textblock>
+    <textblock>on the debt instrument ($700,000^$686,000, or $14,000) is more</textblock>
+    <textblock>than a de minimis amount of OID, A accounts for the OID under</textblock>
+    <textblock>§1.1272-1 and B accounts for the OID under §1.163-7. B's basis</textblock>
+    <textblock>in the property purchased is $1,000,000 ($686,000 debt instrument</textblock>
+    <textblock>plus $314,000 cash payments).</textblock>
+    <textblock>Example 3. Payments between lender and third party (seller-paid points)_</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>A sells real property to B for $500,000</textblock>
+    <textblock>in a transaction that is not a potentially abusive situation</textblock>
+    <textblock>(within the meaning of §1.1274-3). B makes a cash down payment</textblock>
+    <textblock>of $100,000 and borrows $400,000 of the purchase price from a</textblock>
+    <textblock>lender, L, repayable in annual installments over a term of 15</textblock>
+    <textblock>years calling for interest at a rate of 9 percent, compounded</textblock>
+    <textblock>annually. As part of the transaction, A makes a payment of</textblock>
+    <textblock>$8,000 to L to facilitate the loan to B.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Payment results in a de minimis amount of OID.</textblock>
+    <textblock>Under</textblock>
+    <textblock>the provisions of paragraphs (g)(2)(i) and (g)(4) of this</textblock>
+    <textblock>section, B is treated as having made an $8,000 payment directly</textblock>
+    <textblock>to L and a payment of only $492,000 to A for the property. Thus,</textblock>
+    <textblock>B's basis in the property is $492,000. The payment to L reduces</textblock>
+    <textblock>the issue price of B's debt instrument to $392,000, resulting in</textblock>
+    <textblock>$8,000 of OID ($400,000^$392,000). Because the amount of OID</textblock>
+    <textblock>is de minimis under §1.1273-1(d), L accounts for the de minimis</textblock>
+    <textblock>OID under §1.1273-1(d)(5). But see §1.1272-3 (election to</textblock>
+    <textblock>treat de minimis OID as OID). B accounts for the de minimis OID</textblock>
+    <textblock>under §1.163-7.</textblock>
+    <textblock>(h)</textblock>
+    <textblock>Investment units_</textblock>
+    <textblock>(1)</textblock>
+    <textblock>In general.</textblock>
+    <textblock>Under section</textblock>
+    <textblock>1273(c)(2), an investment unit is treated as if the investment</textblock>
+    <textblock>unit were a debt instrument. The issue price of the investment</textblock>
+    <textblock>unit is determined under paragraph (a)(1), (b)(1), or (c)(1) of</textblock>
+    <textblock>this section, if applicable. The issue price of the investment</textblock>
+    <textblock>unit is then allocated between the debt instrument and the</textblock>
+    <textblock>property right (or rights) that comprise the unit based on their</textblock>
+    <textblock>relative fair market values. If paragraphs (a)(1), (b)(1), and</textblock>
+    <textblock>(c)(1) of this section are not applicable, however, the issue</textblock>
+    <textblock>price of the debt instrument that is part of the investment unit</textblock>
+    <textblock>is determined under section 1273(b)(4) or 1274, whichever is</textblock>
+    <textblock>applicable.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Consistent allocation by holders and issuer.</textblock>
+    <textblock>The</textblock>
+    <textblock>issuer's allocation of the issue price of the investment unit is</textblock>
+    <textblock>binding on all holders of the investment unit. However, the</textblock>
+    <textblock>issuer's determination is not binding on a holder that explicitly</textblock>
+    <textblock>discloses that its allocation is different from the issuer's</textblock>
+    <textblock>allocation. Unless otherwise provided by the Commissioner, the</textblock>
+    <textblock>disclosure must be made on a statement attached to the holder's</textblock>
+    <textblock>timely filed Federal income tax return for the taxable year that</textblock>
+    <textblock>includes the acquisition date of the investment unit. See</textblock>
+    <textblock>§1.1275-2(e) for rules relating to the issuer's obligation to</textblock>
+    <textblock>disclose certain information to holders.</textblock>
+    <textblock>(i) [Reserved]</textblock>
+    <textblock>(j)</textblock>
+    <textblock>Convertible debt instruments.</textblock>
+    <textblock>The issue price of a debt</textblock>
+    <textblock>instrument includes any amount paid for an option to convert the</textblock>
+    <textblock>instrument into stock (or another debt instrument) of either the</textblock>
+    <textblock>issuer or a related party (within the meaning of section 267(b)</textblock>
+    <textblock>or 707(b)(1)) or into cash or other property in an amount equal</textblock>
+    <textblock>to the approximate value of such stock (or debt instrument).</textblock>
+    <textblock>(k)</textblock>
+    <textblock>Below-market loans subject to section 7872(b).</textblock>
+    <textblock>The</textblock>
+    <textblock>issue price of a below-market loan subject to section 7872(b) (a</textblock>
+    <textblock>term loan other than a gift loan) is the issue price determined</textblock>
+    <textblock>under this section, reduced by the excess amount determined under</textblock>
+    <textblock>section 7872(b)(1).</textblock>
+    <textblock>(l) [Reserved]</textblock>
+    <textblock>(m)</textblock>
+    <textblock>Treatment of amounts representing pre-issuance accrued</textblock>
+    <textblock>interest_</textblock>
+    <textblock>(1)</textblock>
+    <textblock>Applicability.</textblock>
+    <textblock>Paragraph (m)(2) of this section</textblock>
+    <textblock>provides an alternative to the general rule of this section for</textblock>
+    <textblock>determining the issue price of a debt instrument if_</textblock>
+    <textblock>(i) A portion of the initial purchase price of the</textblock>
+    <textblock>instrument is allocable to interest that has accrued prior to the</textblock>
+    <textblock>issue date (pre-issuance accrued interest); and</textblock>
+  </text>
+</doc>

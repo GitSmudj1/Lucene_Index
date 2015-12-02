@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940128-1-00088</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940128-1-00006</textblock>
+  </parent>
+  <text/>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>2._</textblock>
+    <textblock>Projected Number of Cases Averted Using HACCP Approach</textblock>
+    <textblock>1Hazards</textblock>
+    <textblock>1FDA best estimate of the number of cases</textblock>
+    <textblock>1Number of cases averted (lower)*</textblock>
+    <textblock>1Number of cases averted (upper)**</textblock>
+    <textblock>Anasakis</textblock>
+    <textblock>100</textblock>
+    <textblock>10</textblock>
+    <textblock>75</textblock>
+    <textblock>Campylobacter jejuni</textblock>
+    <textblock>200</textblock>
+    <textblock>100</textblock>
+    <textblock>150</textblock>
+    <textblock>Ciguatera</textblock>
+    <textblock>800</textblock>
+    <textblock>50</textblock>
+    <textblock>100</textblock>
+    <textblock>Clostridium botulinum</textblock>
+    <textblock>4</textblock>
+    <textblock>0</textblock>
+    <textblock>1</textblock>
+    <textblock>Clostridium perfringens</textblock>
+    <textblock>70</textblock>
+    <textblock>53</textblock>
+    <textblock>70</textblock>
+    <textblock>Diphyllobothrum latum</textblock>
+    <textblock>1,000</textblock>
+    <textblock>250</textblock>
+    <textblock>750</textblock>
+    <textblock>Giardia</textblock>
+    <textblock>30</textblock>
+    <textblock>0</textblock>
+    <textblock>7.5</textblock>
+    <textblock>Hepatitis A virus</textblock>
+    <textblock>92</textblock>
+    <textblock>15</textblock>
+    <textblock>46</textblock>
+    <textblock>Neurotoxic shellfish poisoning</textblock>
+    <textblock>48</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>Norwalk virus</textblock>
+    <textblock>12,400</textblock>
+    <textblock>1,000</textblock>
+    <textblock>6,200</textblock>
+    <textblock>Other Vibrios</textblock>
+    <textblock>10,000</textblock>
+    <textblock>1,000</textblock>
+    <textblock>5,000</textblock>
+    <textblock>Paralytic shellfish poisoning</textblock>
+    <textblock>13</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>Salmonella</textblock>
+    <textblock>nontyphi</textblock>
+    <textblock>200</textblock>
+    <textblock>100</textblock>
+    <textblock>150</textblock>
+    <textblock>Scombrotoxin</textblock>
+    <textblock>7,960</textblock>
+    <textblock>3,980</textblock>
+    <textblock>5,970</textblock>
+    <textblock>Shigella</textblock>
+    <textblock>70</textblock>
+    <textblock>18</textblock>
+    <textblock>35</textblock>
+    <textblock>Vibrio vulnificus</textblock>
+    <textblock>48</textblock>
+    <textblock>0</textblock>
+    <textblock>24</textblock>
+    <textblock>n,s</textblock>
+    <textblock>Total</textblock>
+    <textblock>33,035</textblock>
+    <textblock>6,575</textblock>
+    <textblock>18,679</textblock>
+    <textblock>*Estimates by Klontz and Altekruse.</textblock>
+    <textblock>**Estimates by Archer.</textblock>
+    <textblock>1Memorandum to Richard A. Williams, Jr., November 16, 1993.</textblock>
+  </table>
+</doc>

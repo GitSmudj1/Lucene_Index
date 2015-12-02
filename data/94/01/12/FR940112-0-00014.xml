@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940112-0-00014</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940112-0-00009</textblock>
+  </parent>
+  <text>
+    <textblock>By amending: §97.23 VOR, VOR/DME, VOR OR TACAN, and VOR/DME or TACAN; §97.25 LOC, LOC/DME, LDA, LDA/DME, SDF, SDF/DME; §97.27 NDB, NDB/DME; §97.29 ILS, ILS/DME, ISMLS, MLS, MLS/DME, MLS/RNAV; §97.31 RADAR SIAPs; §97.33 RNAV SIAPs; AND §97.35 COPTER SIAPs, identified as follows:</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Effective</textblock>
+    <textblock>1State</textblock>
+    <textblock>1City</textblock>
+    <textblock>1Airport</textblock>
+    <textblock>1FDC No.</textblock>
+    <textblock>1SIAP</textblock>
+    <textblock>12/12/93</textblock>
+    <textblock>FL</textblock>
+    <textblock>Jacksonville</textblock>
+    <textblock>Craig Muni</textblock>
+    <textblock>3/6787</textblock>
+    <textblock>ILS RWY 32 AMDT 2A...</textblock>
+    <textblock>12/14/93</textblock>
+    <textblock>AR</textblock>
+    <textblock>Fort Smith</textblock>
+    <textblock>Fort Smith Regional</textblock>
+    <textblock>3/6660</textblock>
+    <textblock>VOR OR TACAN RWY 25 AMDT 20...</textblock>
+    <textblock>12/17/93</textblock>
+    <textblock>LA</textblock>
+    <textblock>New Orleans</textblock>
+    <textblock>New Orleans Intl/Moisant Fld</textblock>
+    <textblock>3/6685</textblock>
+    <textblock>ILS RWY 10 AMDT 1...</textblock>
+    <textblock>12/17/93</textblock>
+    <textblock>PA</textblock>
+    <textblock>Cortland</textblock>
+    <textblock>Cortland County-Chase Fld. Cortland</textblock>
+    <textblock>3/6674</textblock>
+    <textblock>VOR A ORIG...</textblock>
+    <textblock>12/21/93</textblock>
+    <textblock>CA</textblock>
+    <textblock>Redding</textblock>
+    <textblock>Redding Muni</textblock>
+    <textblock>3/6728</textblock>
+    <textblock>VOR RWY 34 AMDT 10A...</textblock>
+    <textblock>12/21/93</textblock>
+    <textblock>ND</textblock>
+    <textblock>Bowman</textblock>
+    <textblock>Bowman Muni</textblock>
+    <textblock>3/6709</textblock>
+    <textblock>NDB RWY 29 AMDT 2...</textblock>
+    <textblock>12/21/93</textblock>
+    <textblock>WA</textblock>
+    <textblock>Lawrenceburg</textblock>
+    <textblock>Lawrenceburg Muni</textblock>
+    <textblock>3/6768</textblock>
+    <textblock>NDB RWY 17 AMDT 3...</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>WA</textblock>
+    <textblock>Friday Harbor</textblock>
+    <textblock>Friday Harbor</textblock>
+    <textblock>3/6718</textblock>
+    <textblock>RADAR-1 AMDT 1...</textblock>
+    <textblock>12/22/93</textblock>
+    <textblock>PA</textblock>
+    <textblock>Allentown</textblock>
+    <textblock>Allentown-Bethlehem-Easton</textblock>
+    <textblock>3/6749</textblock>
+    <textblock>ILS RWY 13 AMDT 5...</textblock>
+    <textblock>12/22/93</textblock>
+    <textblock>PA</textblock>
+    <textblock>Hazleton</textblock>
+    <textblock>Hazleton Muni</textblock>
+    <textblock>3/6755</textblock>
+    <textblock>VOR RWY 28 AMDT 8...</textblock>
+    <textblock>12/22/93</textblock>
+    <textblock>PA</textblock>
+    <textblock>Johnstown</textblock>
+    <textblock>Johnstown-Cambria Co</textblock>
+    <textblock>3/6680</textblock>
+    <textblock>ILS RWY 33 AMDT 2A...</textblock>
+    <textblock>12/22/93</textblock>
+    <textblock>PA</textblock>
+    <textblock>St Marys</textblock>
+    <textblock>St Marys Muni</textblock>
+    <textblock>3/6741</textblock>
+    <textblock>RNAV RWY 10 AMDT 5...</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>FL</textblock>
+    <textblock>Jacksonville</textblock>
+    <textblock>Jacksonville Intl</textblock>
+    <textblock>3/6785</textblock>
+    <textblock>LOC BC RWY 31 AMDT 8A...</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>MS</textblock>
+    <textblock>Philadelphia</textblock>
+    <textblock>Philadelphia Muni</textblock>
+    <textblock>3/6765</textblock>
+    <textblock>NDB RWY 18 AMDT ORIG...</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>MS</textblock>
+    <textblock>Ripley</textblock>
+    <textblock>Ripley</textblock>
+    <textblock>3/6766</textblock>
+    <textblock>VOR/DME-A AMDT 1...</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>NC</textblock>
+    <textblock>Asheville</textblock>
+    <textblock>Asheville Regional</textblock>
+    <textblock>3/6791</textblock>
+    <textblock>ILS RWY 34 AMDT 23...</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>NC</textblock>
+    <textblock>Edenton</textblock>
+    <textblock>Edenton Muni</textblock>
+    <textblock>3/6772</textblock>
+    <textblock>NDB RWY 5 AMDT 4...</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>NC</textblock>
+    <textblock>Edenton</textblock>
+    <textblock>Edenton Muni</textblock>
+    <textblock>3/6773</textblock>
+    <textblock>NDB RWY 19 AMDT 5...</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>NC</textblock>
+    <textblock>Mt Airy</textblock>
+    <textblock>Surry County</textblock>
+    <textblock>3/6790</textblock>
+    <textblock>NDB-A AMDT 2...</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>NC</textblock>
+    <textblock>New Bern</textblock>
+    <textblock>Craven County Regional</textblock>
+    <textblock>3/6770</textblock>
+    <textblock>VOR RWY 22, AMDT 1A...</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>NC</textblock>
+    <textblock>Oxford</textblock>
+    <textblock>Henderson-Oxford</textblock>
+    <textblock>3/6771</textblock>
+    <textblock>NDB RWY 6 AMDT 1...</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>PA</textblock>
+    <textblock>Coatesville</textblock>
+    <textblock>Chester Co G. O. Carlson</textblock>
+    <textblock>3/6756</textblock>
+    <textblock>VOR RWY 29 AMDT 5...</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>PA</textblock>
+    <textblock>Easton</textblock>
+    <textblock>Easton</textblock>
+    <textblock>3/6776</textblock>
+    <textblock>VOR/DME-D ORIG</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>PA</textblock>
+    <textblock>Latrobe</textblock>
+    <textblock>Westmoreland County</textblock>
+    <textblock>3/6762</textblock>
+    <textblock>RNAV RWY 5 AMDT 1...</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>TN</textblock>
+    <textblock>Philadelphia</textblock>
+    <textblock>Northeast Philadelphia</textblock>
+    <textblock>3/6778</textblock>
+    <textblock>LOC BC RWY 6 AMDT 6...</textblock>
+  </table>
+  <frfiling>
+    <textblock>[FR Doc. 94-778 Filed 1-11-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-M</textblock>
+  </billing>
+</doc>

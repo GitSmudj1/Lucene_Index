@@ -1,0 +1,1640 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-2-00137</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-2-00077</textblock>
+  </parent>
+  <text/>
+  <table>
+    <textblock>Table I._Model Years</textblock>
+    <textblock>1990/1991</textblock>
+    <textblock>Theft Rates for Motor Vehicles Produced in Calendar Years</textblock>
+    <textblock>1990/1991</textblock>
+    <textblock>1Manufacturer</textblock>
+    <textblock>1Make/model (line)</textblock>
+    <textblock>1Thefts 1990</textblock>
+    <textblock>1Thefts 1991</textblock>
+    <textblock>1Production (mfgr's) 1990</textblock>
+    <textblock>1Production (mfgr's) 1991</textblock>
+    <textblock>1Theft rate (1990/91 thefts per 1,000 cars produced)</textblock>
+    <textblock>1. Ford Motor Co</textblock>
+    <textblock>Ford Mustang</textblock>
+    <textblock>1,545</textblock>
+    <textblock>2,085</textblock>
+    <textblock>115,821</textblock>
+    <textblock>91,479</textblock>
+    <textblock>17.5109</textblock>
+    <textblock>2. General Motors</textblock>
+    <textblock>GMC Jimmy S-15</textblock>
+    <textblock>276</textblock>
+    <textblock>1,048</textblock>
+    <textblock>18,257</textblock>
+    <textblock>61,794</textblock>
+    <textblock>16.5395</textblock>
+    <textblock>3. Honda</textblock>
+    <textblock>Prelude</textblock>
+    <textblock>379</textblock>
+    <textblock>555</textblock>
+    <textblock>29,708</textblock>
+    <textblock>29,785</textblock>
+    <textblock>15.6993</textblock>
+    <textblock>4. General Motors</textblock>
+    <textblock>Chevrolet Blazer S-10</textblock>
+    <textblock>946</textblock>
+    <textblock>2,825</textblock>
+    <textblock>56,080</textblock>
+    <textblock>192,680</textblock>
+    <textblock>15.1592</textblock>
+    <textblock>5. Nissan</textblock>
+    <textblock>Pathfinder</textblock>
+    <textblock>357</textblock>
+    <textblock>579</textblock>
+    <textblock>29,525</textblock>
+    <textblock>38,215</textblock>
+    <textblock>13.8175</textblock>
+    <textblock>6. Hyundai</textblock>
+    <textblock>Sonata</textblock>
+    <textblock>336</textblock>
+    <textblock>281</textblock>
+    <textblock>25,021</textblock>
+    <textblock>24,542</textblock>
+    <textblock>12.4488</textblock>
+    <textblock>7. Toyota</textblock>
+    <textblock>Supra</textblock>
+    <textblock>65</textblock>
+    <textblock>61</textblock>
+    <textblock>6,287</textblock>
+    <textblock>4,055</textblock>
+    <textblock>12.1833</textblock>
+    <textblock>8. General Motors</textblock>
+    <textblock>Oldsmobile Bravada</textblock>
+    <textblock>0</textblock>
+    <textblock>134</textblock>
+    <textblock>0</textblock>
+    <textblock>11,139</textblock>
+    <textblock>12.0298</textblock>
+    <textblock>9. Nissan</textblock>
+    <textblock>300ZX</textblock>
+    <textblock>449</textblock>
+    <textblock>229</textblock>
+    <textblock>38,882</textblock>
+    <textblock>18,502</textblock>
+    <textblock>11.8151</textblock>
+    <textblock>10. Volkswagen</textblock>
+    <textblock>Cabriolet</textblock>
+    <textblock>116</textblock>
+    <textblock>35</textblock>
+    <textblock>8,673</textblock>
+    <textblock>4,138</textblock>
+    <textblock>11.7867</textblock>
+    <textblock>11. Chrysler Corp</textblock>
+    <textblock>Jeep Cherokee</textblock>
+    <textblock>1,837</textblock>
+    <textblock>924</textblock>
+    <textblock>135,416</textblock>
+    <textblock>105,463</textblock>
+    <textblock>11.4622</textblock>
+    <textblock>12. Mazda</textblock>
+    <textblock>RX-7</textblock>
+    <textblock>107</textblock>
+    <textblock>77</textblock>
+    <textblock>10,560</textblock>
+    <textblock>7,800</textblock>
+    <textblock>10.0218</textblock>
+    <textblock>13. Alfa Romeo</textblock>
+    <textblock>164</textblock>
+    <textblock>0</textblock>
+    <textblock>19</textblock>
+    <textblock>0</textblock>
+    <textblock>1,947</textblock>
+    <textblock>9.7586</textblock>
+    <textblock>14. General Motors</textblock>
+    <textblock>Cadillac Brougham</textblock>
+    <textblock>295</textblock>
+    <textblock>257</textblock>
+    <textblock>32,052</textblock>
+    <textblock>25,731</textblock>
+    <textblock>9.5530</textblock>
+    <textblock>15. Mitsubishi</textblock>
+    <textblock>Mirage</textblock>
+    <textblock>448</textblock>
+    <textblock>364</textblock>
+    <textblock>60,150</textblock>
+    <textblock>30,019</textblock>
+    <textblock>9.0053</textblock>
+    <textblock>16. Chrysler Corp</textblock>
+    <textblock>Dodge Monaco</textblock>
+    <textblock>23</textblock>
+    <textblock>153</textblock>
+    <textblock>7,154</textblock>
+    <textblock>12,433</textblock>
+    <textblock>8.9856</textblock>
+    <textblock>17. Volkswagen</textblock>
+    <textblock>Golf/GTI</textblock>
+    <textblock>76</textblock>
+    <textblock>186</textblock>
+    <textblock>13,696</textblock>
+    <textblock>15,965</textblock>
+    <textblock>8.8331</textblock>
+    <textblock>18. General Motors</textblock>
+    <textblock>Cadillac Seville</textblock>
+    <textblock>305</textblock>
+    <textblock>206</textblock>
+    <textblock>32,346</textblock>
+    <textblock>25,916</textblock>
+    <textblock>8.7707</textblock>
+    <textblock>19. Chrysler Corp</textblock>
+    <textblock>Jeep Wrangler</textblock>
+    <textblock>397</textblock>
+    <textblock>392</textblock>
+    <textblock>46,874</textblock>
+    <textblock>44,891</textblock>
+    <textblock>8.5980</textblock>
+    <textblock>20. Porsche</textblock>
+    <textblock>911</textblock>
+    <textblock>31</textblock>
+    <textblock>48</textblock>
+    <textblock>4,609</textblock>
+    <textblock>4,818</textblock>
+    <textblock>8.3802</textblock>
+    <textblock>21. General Motors</textblock>
+    <textblock>Pontiac Grand AM</textblock>
+    <textblock>1,596</textblock>
+    <textblock>1,381</textblock>
+    <textblock>189,150</textblock>
+    <textblock>171,582</textblock>
+    <textblock>8.2527</textblock>
+    <textblock>22. Chrysler Corp</textblock>
+    <textblock>Lebaron Coupe/Convertible</textblock>
+    <textblock>469</textblock>
+    <textblock>341</textblock>
+    <textblock>58,837</textblock>
+    <textblock>39,749</textblock>
+    <textblock>8.2162</textblock>
+    <textblock>23. General Motors</textblock>
+    <textblock>Chevrolet Camaro</textblock>
+    <textblock>288</textblock>
+    <textblock>759</textblock>
+    <textblock>33,200</textblock>
+    <textblock>97,290</textblock>
+    <textblock>8.0236</textblock>
+    <textblock>24. Mitsubishi</textblock>
+    <textblock>Montero</textblock>
+    <textblock>144</textblock>
+    <textblock>108</textblock>
+    <textblock>16,403</textblock>
+    <textblock>15,959</textblock>
+    <textblock>7.7869</textblock>
+    <textblock>25. Ford Motor Co</textblock>
+    <textblock>Ford Probe</textblock>
+    <textblock>755</textblock>
+    <textblock>654</textblock>
+    <textblock>110,201</textblock>
+    <textblock>73,522</textblock>
+    <textblock>7.6692</textblock>
+    <textblock>26. Chrysler Corp</textblock>
+    <textblock>Town &amp; Country MPV</textblock>
+    <textblock>32</textblock>
+    <textblock>10</textblock>
+    <textblock>3,238</textblock>
+    <textblock>2,244</textblock>
+    <textblock>7.6614</textblock>
+    <textblock>27. General Motors</textblock>
+    <textblock>Chevrolet Corvette</textblock>
+    <textblock>168</textblock>
+    <textblock>139</textblock>
+    <textblock>22,034</textblock>
+    <textblock>18,510</textblock>
+    <textblock>7.5720</textblock>
+    <textblock>28. Toyota</textblock>
+    <textblock>4-Runner</textblock>
+    <textblock>521</textblock>
+    <textblock>340</textblock>
+    <textblock>72,138</textblock>
+    <textblock>46,263</textblock>
+    <textblock>7.2179</textblock>
+    <textblock>29. General Motors</textblock>
+    <textblock>Pontiac Bonneville</textblock>
+    <textblock>494</textblock>
+    <textblock>345</textblock>
+    <textblock>75,655</textblock>
+    <textblock>42,919</textblock>
+    <textblock>7.0758</textblock>
+    <textblock>30. Volkswagen</textblock>
+    <textblock>Jetta</textblock>
+    <textblock>337</textblock>
+    <textblock>329</textblock>
+    <textblock>47,731</textblock>
+    <textblock>48,091</textblock>
+    <textblock>6.9504</textblock>
+    <textblock>31. Volvo</textblock>
+    <textblock>780</textblock>
+    <textblock>7</textblock>
+    <textblock>2</textblock>
+    <textblock>945</textblock>
+    <textblock>363</textblock>
+    <textblock>6.8807</textblock>
+    <textblock>32. Suzuki</textblock>
+    <textblock>Sidekick</textblock>
+    <textblock>59</textblock>
+    <textblock>80</textblock>
+    <textblock>7,162</textblock>
+    <textblock>13,052</textblock>
+    <textblock>6.8764</textblock>
+    <textblock>33. General Motors</textblock>
+    <textblock>Pontiac Firebird</textblock>
+    <textblock>154</textblock>
+    <textblock>288</textblock>
+    <textblock>19,157</textblock>
+    <textblock>45,234</textblock>
+    <textblock>6.8643</textblock>
+    <textblock>34. Chrysler Corp</textblock>
+    <textblock>Dodge Shadow</textblock>
+    <textblock>537</textblock>
+    <textblock>500</textblock>
+    <textblock>71,088</textblock>
+    <textblock>81,211</textblock>
+    <textblock>6.8090</textblock>
+    <textblock>35. Mitsubishi</textblock>
+    <textblock>Pickup Truck</textblock>
+    <textblock>194</textblock>
+    <textblock>132</textblock>
+    <textblock>24,976</textblock>
+    <textblock>23,928</textblock>
+    <textblock>6.6661</textblock>
+    <textblock>36. Ford Motor Co</textblock>
+    <textblock>Lincoln Continental</textblock>
+    <textblock>396</textblock>
+    <textblock>368</textblock>
+    <textblock>62,657</textblock>
+    <textblock>52,103</textblock>
+    <textblock>6.6574</textblock>
+    <textblock>37. Suzuki</textblock>
+    <textblock>Samurai</textblock>
+    <textblock>42</textblock>
+    <textblock>31</textblock>
+    <textblock>5,782</textblock>
+    <textblock>5,417</textblock>
+    <textblock>6.5184</textblock>
+    <textblock>38. General Motors</textblock>
+    <textblock>Pontiac 6000</textblock>
+    <textblock>293</textblock>
+    <textblock>223</textblock>
+    <textblock>52,352</textblock>
+    <textblock>27,940</textblock>
+    <textblock>6.4265</textblock>
+    <textblock>39. General Motors</textblock>
+    <textblock>GEO Tracker</textblock>
+    <textblock>232</textblock>
+    <textblock>195</textblock>
+    <textblock>34,948</textblock>
+    <textblock>31,498</textblock>
+    <textblock>6.4263</textblock>
+    <textblock>40. Porsche</textblock>
+    <textblock>928</textblock>
+    <textblock>4</textblock>
+    <textblock>1</textblock>
+    <textblock>414</textblock>
+    <textblock>369</textblock>
+    <textblock>6.3857</textblock>
+    <textblock>41. Ford Motor Co</textblock>
+    <textblock>Lincoln Mark VII</textblock>
+    <textblock>120</textblock>
+    <textblock>71</textblock>
+    <textblock>21,658</textblock>
+    <textblock>8,898</textblock>
+    <textblock>6.2508</textblock>
+    <textblock>42. General Motors</textblock>
+    <textblock>Buick Skylark</textblock>
+    <textblock>509</textblock>
+    <textblock>482</textblock>
+    <textblock>83,666</textblock>
+    <textblock>75,811</textblock>
+    <textblock>6.2141</textblock>
+    <textblock>43. Chrysler Corp</textblock>
+    <textblock>Dodge Dynasty</textblock>
+    <textblock>500</textblock>
+    <textblock>768</textblock>
+    <textblock>94,510</textblock>
+    <textblock>112,320</textblock>
+    <textblock>6.1306</textblock>
+    <textblock>44. General Motors</textblock>
+    <textblock>Chevrolet C-1500</textblock>
+    <textblock>1,639</textblock>
+    <textblock>1,015</textblock>
+    <textblock>267,411</textblock>
+    <textblock>168,497</textblock>
+    <textblock>6.0884</textblock>
+    <textblock>45. Mitsubishi</textblock>
+    <textblock>Galant/Sigma</textblock>
+    <textblock>301</textblock>
+    <textblock>212</textblock>
+    <textblock>45,397</textblock>
+    <textblock>39,562</textblock>
+    <textblock>6.0382</textblock>
+    <textblock>46. Toyota</textblock>
+    <textblock>MR2</textblock>
+    <textblock>0</textblock>
+    <textblock>129</textblock>
+    <textblock>0</textblock>
+    <textblock>22,080</textblock>
+    <textblock>5.8424</textblock>
+    <textblock>47. BMW</textblock>
+    <textblock>3</textblock>
+    <textblock>143</textblock>
+    <textblock>138</textblock>
+    <textblock>21,556</textblock>
+    <textblock>26,839</textblock>
+    <textblock>5.8064</textblock>
+    <textblock>48. Chrysler Corp</textblock>
+    <textblock>Plymouth Acclaim</textblock>
+    <textblock>538</textblock>
+    <textblock>671</textblock>
+    <textblock>95,142</textblock>
+    <textblock>114,510</textblock>
+    <textblock>5.7667</textblock>
+    <textblock>49. General Motors</textblock>
+    <textblock>Buick Reatta</textblock>
+    <textblock>55</textblock>
+    <textblock>2</textblock>
+    <textblock>8,431</textblock>
+    <textblock>1,491</textblock>
+    <textblock>5.7448</textblock>
+    <textblock>50. Chrysler Corp</textblock>
+    <textblock>Dodge Spirit</textblock>
+    <textblock>415</textblock>
+    <textblock>584</textblock>
+    <textblock>79,054</textblock>
+    <textblock>94,895</textblock>
+    <textblock>5.7431</textblock>
+    <textblock>51. General Motors</textblock>
+    <textblock>GMC Sierra C-1500</textblock>
+    <textblock>531</textblock>
+    <textblock>273</textblock>
+    <textblock>89,021</textblock>
+    <textblock>52,079</textblock>
+    <textblock>5.6981</textblock>
+    <textblock>52. Chrysler Corp</textblock>
+    <textblock>Plymouth Sundance</textblock>
+    <textblock>432</textblock>
+    <textblock>236</textblock>
+    <textblock>60,517</textblock>
+    <textblock>56,820</textblock>
+    <textblock>5.6930</textblock>
+    <textblock>53. General Motors</textblock>
+    <textblock>GEO Prizm</textblock>
+    <textblock>1,021</textblock>
+    <textblock>489</textblock>
+    <textblock>170,272</textblock>
+    <textblock>95,000</textblock>
+    <textblock>5.6923</textblock>
+    <textblock>54. General Motors</textblock>
+    <textblock>Oldsmobile Cutlass Calais</textblock>
+    <textblock>494</textblock>
+    <textblock>417</textblock>
+    <textblock>88,229</textblock>
+    <textblock>74,045</textblock>
+    <textblock>5.6140</textblock>
+    <textblock>55. General Motors</textblock>
+    <textblock>Pontiac Sunbird</textblock>
+    <textblock>519</textblock>
+    <textblock>731</textblock>
+    <textblock>106,960</textblock>
+    <textblock>115,721</textblock>
+    <textblock>5.6134</textblock>
+    <textblock>56. Ford Motor Co</textblock>
+    <textblock>Ford Thunderbird</textblock>
+    <textblock>593</textblock>
+    <textblock>427</textblock>
+    <textblock>104,847</textblock>
+    <textblock>78,133</textblock>
+    <textblock>5.5744</textblock>
+    <textblock>57. BMW</textblock>
+    <textblock>5</textblock>
+    <textblock>126</textblock>
+    <textblock>101</textblock>
+    <textblock>23,871</textblock>
+    <textblock>17,016</textblock>
+    <textblock>5.5519</textblock>
+    <textblock>58. Chrysler Corp</textblock>
+    <textblock>New Yorker 5th Ave/Imperial</textblock>
+    <textblock>461</textblock>
+    <textblock>405</textblock>
+    <textblock>93,538</textblock>
+    <textblock>63,375</textblock>
+    <textblock>5.5190</textblock>
+    <textblock>59. Chrysler Corp</textblock>
+    <textblock>Plymouth Laser</textblock>
+    <textblock>257</textblock>
+    <textblock>141</textblock>
+    <textblock>45,141</textblock>
+    <textblock>30,720</textblock>
+    <textblock>5.2464</textblock>
+    <textblock>60. Nissan</textblock>
+    <textblock>240SX</textblock>
+    <textblock>301</textblock>
+    <textblock>190</textblock>
+    <textblock>60,582</textblock>
+    <textblock>34,534</textblock>
+    <textblock>5.1621</textblock>
+    <textblock>61. Mitsubishi</textblock>
+    <textblock>3000GT</textblock>
+    <textblock>0</textblock>
+    <textblock>51</textblock>
+    <textblock>0</textblock>
+    <textblock>9,903</textblock>
+    <textblock>5.1500</textblock>
+    <textblock>62. General Motors</textblock>
+    <textblock>Oldsmobile Cutlass Ciera</textblock>
+    <textblock>584</textblock>
+    <textblock>604</textblock>
+    <textblock>126,321</textblock>
+    <textblock>107,028</textblock>
+    <textblock>5.0911</textblock>
+    <textblock>63. Isuzu</textblock>
+    <textblock>Amigo</textblock>
+    <textblock>61</textblock>
+    <textblock>28</textblock>
+    <textblock>11,622</textblock>
+    <textblock>6,030</textblock>
+    <textblock>5.0419</textblock>
+    <textblock>64. General Motors</textblock>
+    <textblock>Pontiac Lemans</textblock>
+    <textblock>148</textblock>
+    <textblock>172</textblock>
+    <textblock>34,351</textblock>
+    <textblock>29,500</textblock>
+    <textblock>5.0117</textblock>
+    <textblock>65. Mazda</textblock>
+    <textblock>626/MX-6</textblock>
+    <textblock>530</textblock>
+    <textblock>448</textblock>
+    <textblock>96,966</textblock>
+    <textblock>100,436</textblock>
+    <textblock>4.9544</textblock>
+    <textblock>66. Nissan</textblock>
+    <textblock>Maxima</textblock>
+    <textblock>528</textblock>
+    <textblock>482</textblock>
+    <textblock>110,685</textblock>
+    <textblock>94,646</textblock>
+    <textblock>4.9189</textblock>
+    <textblock>67. General Motors</textblock>
+    <textblock>Buick Estate Wagon</textblock>
+    <textblock>37</textblock>
+    <textblock>0</textblock>
+    <textblock>7,524</textblock>
+    <textblock>0</textblock>
+    <textblock>4.9176</textblock>
+    <textblock>68. General Motors</textblock>
+    <textblock>Buick Century</textblock>
+    <textblock>497</textblock>
+    <textblock>649</textblock>
+    <textblock>123,893</textblock>
+    <textblock>110,767</textblock>
+    <textblock>4.8837</textblock>
+    <textblock>69. Chrysler Corp</textblock>
+    <textblock>Eagle Premier</textblock>
+    <textblock>55</textblock>
+    <textblock>71</textblock>
+    <textblock>14,277</textblock>
+    <textblock>11,630</textblock>
+    <textblock>4.8636</textblock>
+    <textblock>70. Ford Motor Co</textblock>
+    <textblock>Lincoln Town Car</textblock>
+    <textblock>602</textblock>
+    <textblock>666</textblock>
+    <textblock>142,648</textblock>
+    <textblock>119,046</textblock>
+    <textblock>4.8454</textblock>
+    <textblock>71. Alfa Romeo</textblock>
+    <textblock>Spider</textblock>
+    <textblock>2</textblock>
+    <textblock>8</textblock>
+    <textblock>915</textblock>
+    <textblock>1,154</textblock>
+    <textblock>4.8333</textblock>
+    <textblock>72. Chrysler Corp</textblock>
+    <textblock>Dodge Stealth</textblock>
+    <textblock>0</textblock>
+    <textblock>96</textblock>
+    <textblock>0</textblock>
+    <textblock>19,907</textblock>
+    <textblock>4.8224</textblock>
+    <textblock>73. Hyundai</textblock>
+    <textblock>Scoupe</textblock>
+    <textblock>0</textblock>
+    <textblock>165</textblock>
+    <textblock>0</textblock>
+    <textblock>34,305</textblock>
+    <textblock>4.8098</textblock>
+    <textblock>74. Mitsubishi</textblock>
+    <textblock>Eclipse</textblock>
+    <textblock>383</textblock>
+    <textblock>211</textblock>
+    <textblock>67,658</textblock>
+    <textblock>56,058</textblock>
+    <textblock>4.8013</textblock>
+    <textblock>75. Honda</textblock>
+    <textblock>Accord</textblock>
+    <textblock>1,833</textblock>
+    <textblock>2,151</textblock>
+    <textblock>410,915</textblock>
+    <textblock>425,360</textblock>
+    <textblock>4.7640</textblock>
+    <textblock>76. Ford Motor Co</textblock>
+    <textblock>Ford Escort</textblock>
+    <textblock>1,030</textblock>
+    <textblock>1,545</textblock>
+    <textblock>188,146</textblock>
+    <textblock>355,642</textblock>
+    <textblock>4.7353</textblock>
+    <textblock>77. General Motors</textblock>
+    <textblock>Chevrolet Cavalier</textblock>
+    <textblock>1,482</textblock>
+    <textblock>1,127</textblock>
+    <textblock>263,204</textblock>
+    <textblock>293,995</textblock>
+    <textblock>4.6823</textblock>
+    <textblock>78. Volkswagen</textblock>
+    <textblock>Corrado</textblock>
+    <textblock>49</textblock>
+    <textblock>12</textblock>
+    <textblock>11,041</textblock>
+    <textblock>2,072</textblock>
+    <textblock>4.6519</textblock>
+    <textblock>79. Nissan</textblock>
+    <textblock>Sentra</textblock>
+    <textblock>885</textblock>
+    <textblock>547</textblock>
+    <textblock>163,355</textblock>
+    <textblock>144,748</textblock>
+    <textblock>4.6478</textblock>
+    <textblock>80. Chrysler Corp</textblock>
+    <textblock>Dodge Daytona</textblock>
+    <textblock>186</textblock>
+    <textblock>69</textblock>
+    <textblock>37,884</textblock>
+    <textblock>17,286</textblock>
+    <textblock>4.6221</textblock>
+    <textblock>81. Honda/Acura</textblock>
+    <textblock>Legend</textblock>
+    <textblock>336</textblock>
+    <textblock>282</textblock>
+    <textblock>66,611</textblock>
+    <textblock>68,274</textblock>
+    <textblock>4.5817</textblock>
+    <textblock>82. Mercedes-Benz</textblock>
+    <textblock>129</textblock>
+    <textblock>19</textblock>
+    <textblock>50</textblock>
+    <textblock>5,413</textblock>
+    <textblock>9,797</textblock>
+    <textblock>4.5365</textblock>
+    <textblock>83. BMW</textblock>
+    <textblock>7</textblock>
+    <textblock>43</textblock>
+    <textblock>33</textblock>
+    <textblock>10,717</textblock>
+    <textblock>6,056</textblock>
+    <textblock>4.5311</textblock>
+    <textblock>84. Ford Motor Co</textblock>
+    <textblock>Mercury Cougar</textblock>
+    <textblock>335</textblock>
+    <textblock>280</textblock>
+    <textblock>76,580</textblock>
+    <textblock>60,669</textblock>
+    <textblock>4.4809</textblock>
+    <textblock>85. Hyundai</textblock>
+    <textblock>Excel</textblock>
+    <textblock>403</textblock>
+    <textblock>346</textblock>
+    <textblock>92,106</textblock>
+    <textblock>78,529</textblock>
+    <textblock>4.3895</textblock>
+    <textblock>86. General Motors</textblock>
+    <textblock>GEO Storm</textblock>
+    <textblock>370</textblock>
+    <textblock>343</textblock>
+    <textblock>73,376</textblock>
+    <textblock>89,996</textblock>
+    <textblock>4.3643</textblock>
+    <textblock>87. Mazda</textblock>
+    <textblock>B Series Pickup</textblock>
+    <textblock>323</textblock>
+    <textblock>269</textblock>
+    <textblock>70,866</textblock>
+    <textblock>65,585</textblock>
+    <textblock>4.3386</textblock>
+    <textblock>88. Toyota</textblock>
+    <textblock>Corolla/Corolla Sport</textblock>
+    <textblock>1,073</textblock>
+    <textblock>781</textblock>
+    <textblock>219,738</textblock>
+    <textblock>208,743</textblock>
+    <textblock>4.3269</textblock>
+    <textblock>89. Chrysler Corp</textblock>
+    <textblock>Jeep Wagoneer</textblock>
+    <textblock>53</textblock>
+    <textblock>10</textblock>
+    <textblock>10,928</textblock>
+    <textblock>3,702</textblock>
+    <textblock>4.3062</textblock>
+    <textblock>90. General Motors</textblock>
+    <textblock>Oldsmobile Delta 88 Royale</textblock>
+    <textblock>451</textblock>
+    <textblock>214</textblock>
+    <textblock>105,508</textblock>
+    <textblock>50,451</textblock>
+    <textblock>4.2639</textblock>
+    <textblock>91. Isuzu</textblock>
+    <textblock>Rodeo</textblock>
+    <textblock>0</textblock>
+    <textblock>123</textblock>
+    <textblock>0</textblock>
+    <textblock>28,953</textblock>
+    <textblock>4.2483</textblock>
+    <textblock>92. Ford Motor Co</textblock>
+    <textblock>Ford Tempo</textblock>
+    <textblock>999</textblock>
+    <textblock>734</textblock>
+    <textblock>218,976</textblock>
+    <textblock>189,747</textblock>
+    <textblock>4.2400</textblock>
+    <textblock>93. Chrysler Corp</textblock>
+    <textblock>Dodge Omni</textblock>
+    <textblock>69</textblock>
+    <textblock>0</textblock>
+    <textblock>16,481</textblock>
+    <textblock>0</textblock>
+    <textblock>4.1866</textblock>
+    <textblock>94. General Motors</textblock>
+    <textblock>Chevrolet Beretta</textblock>
+    <textblock>384</textblock>
+    <textblock>261</textblock>
+    <textblock>90,981</textblock>
+    <textblock>64,022</textblock>
+    <textblock>4.1612</textblock>
+    <textblock>95. General Motors</textblock>
+    <textblock>Buick LeSabre</textblock>
+    <textblock>593</textblock>
+    <textblock>387</textblock>
+    <textblock>152,967</textblock>
+    <textblock>83,677</textblock>
+    <textblock>4.1412</textblock>
+    <textblock>96. Nissan</textblock>
+    <textblock>Stanza</textblock>
+    <textblock>305</textblock>
+    <textblock>296</textblock>
+    <textblock>79,356</textblock>
+    <textblock>67,583</textblock>
+    <textblock>4.0901</textblock>
+    <textblock>97. Audi</textblock>
+    <textblock>Coupe Quattro</textblock>
+    <textblock>6</textblock>
+    <textblock>1</textblock>
+    <textblock>1,348</textblock>
+    <textblock>377</textblock>
+    <textblock>4.0580</textblock>
+    <textblock>98. Subaru</textblock>
+    <textblock>XT</textblock>
+    <textblock>0</textblock>
+    <textblock>7</textblock>
+    <textblock>12</textblock>
+    <textblock>1,725</textblock>
+    <textblock>4.0299</textblock>
+    <textblock>99. Chrysler Corp</textblock>
+    <textblock>Eagle Talon</textblock>
+    <textblock>117</textblock>
+    <textblock>125</textblock>
+    <textblock>28,064</textblock>
+    <textblock>32,096</textblock>
+    <textblock>4.0226</textblock>
+    <textblock>100. General Motors</textblock>
+    <textblock>Chevrolet Corsica</textblock>
+    <textblock>605</textblock>
+    <textblock>754</textblock>
+    <textblock>168,855</textblock>
+    <textblock>169,460</textblock>
+    <textblock>4.0170</textblock>
+    <textblock>101. Isuzu</textblock>
+    <textblock>Trooper/Trooper II</textblock>
+    <textblock>167</textblock>
+    <textblock>120</textblock>
+    <textblock>37,448</textblock>
+    <textblock>34,502</textblock>
+    <textblock>3.9889</textblock>
+    <textblock>102. Chrysler Corp</textblock>
+    <textblock>LeBaron Sedan</textblock>
+    <textblock>145</textblock>
+    <textblock>33</textblock>
+    <textblock>27,304</textblock>
+    <textblock>17,741</textblock>
+    <textblock>3.9516</textblock>
+    <textblock>103. General Motors</textblock>
+    <textblock>Cadillac Fleetwood/Deville</textblock>
+    <textblock>656</textblock>
+    <textblock>573</textblock>
+    <textblock>170,517</textblock>
+    <textblock>140,992</textblock>
+    <textblock>3.9453</textblock>
+    <textblock>104. Honda/Acura</textblock>
+    <textblock>Integra</textblock>
+    <textblock>479</textblock>
+    <textblock>267</textblock>
+    <textblock>109,321</textblock>
+    <textblock>80,333</textblock>
+    <textblock>3.9335</textblock>
+    <textblock>105. Toyota</textblock>
+    <textblock>Tercel</textblock>
+    <textblock>406</textblock>
+    <textblock>382</textblock>
+    <textblock>88,482</textblock>
+    <textblock>112,032</textblock>
+    <textblock>3.9299</textblock>
+    <textblock>106. Chrysler Corp</textblock>
+    <textblock>Plymouth Horizon</textblock>
+    <textblock>60</textblock>
+    <textblock>0</textblock>
+    <textblock>15,884</textblock>
+    <textblock>0</textblock>
+    <textblock>3.7774</textblock>
+    <textblock>107. General Motors</textblock>
+    <textblock>Chevrolet S-10 Pickup</textblock>
+    <textblock>349</textblock>
+    <textblock>1,271</textblock>
+    <textblock>72,784</textblock>
+    <textblock>358,397</textblock>
+    <textblock>3.7571</textblock>
+    <textblock>108. General Motors</textblock>
+    <textblock>GEO Metro</textblock>
+    <textblock>250</textblock>
+    <textblock>337</textblock>
+    <textblock>74,557</textblock>
+    <textblock>82,206</textblock>
+    <textblock>3.7445</textblock>
+    <textblock>109. Ford Motor Co</textblock>
+    <textblock>Mercury Tracer</textblock>
+    <textblock>0</textblock>
+    <textblock>260</textblock>
+    <textblock>0</textblock>
+    <textblock>70,172</textblock>
+    <textblock>3.7052</textblock>
+    <textblock>110. Toyota</textblock>
+    <textblock>Camry</textblock>
+    <textblock>1,052</textblock>
+    <textblock>909</textblock>
+    <textblock>270,029</textblock>
+    <textblock>259,414</textblock>
+    <textblock>3.7039</textblock>
+    <textblock>111. Ford Motor Co</textblock>
+    <textblock>E150 Van</textblock>
+    <textblock>37</textblock>
+    <textblock>28</textblock>
+    <textblock>10,102</textblock>
+    <textblock>7,516</textblock>
+    <textblock>3.6894</textblock>
+    <textblock>112. General Motors</textblock>
+    <textblock>GMC Sonoma</textblock>
+    <textblock>101</textblock>
+    <textblock>306</textblock>
+    <textblock>21,165</textblock>
+    <textblock>90,222</textblock>
+    <textblock>3.6539</textblock>
+    <textblock>113. General Motors</textblock>
+    <textblock>Chevrolet Caprice</textblock>
+    <textblock>361</textblock>
+    <textblock>413</textblock>
+    <textblock>55,528</textblock>
+    <textblock>156,822</textblock>
+    <textblock>3.6449</textblock>
+    <textblock>114. General Motors</textblock>
+    <textblock>Chevrolet Lumina APV</textblock>
+    <textblock>223</textblock>
+    <textblock>180</textblock>
+    <textblock>72,089</textblock>
+    <textblock>38,551</textblock>
+    <textblock>3.6424</textblock>
+    <textblock>115. Chrysler Corp</textblock>
+    <textblock>Jeep Comanche</textblock>
+    <textblock>45</textblock>
+    <textblock>19</textblock>
+    <textblock>10,681</textblock>
+    <textblock>7,063</textblock>
+    <textblock>3.6069</textblock>
+    <textblock>116. Ford Motor Co</textblock>
+    <textblock>Mercury Topaz</textblock>
+    <textblock>277</textblock>
+    <textblock>187</textblock>
+    <textblock>73,207</textblock>
+    <textblock>56,165</textblock>
+    <textblock>3.5866</textblock>
+    <textblock>117. General Motors</textblock>
+    <textblock>Oldsmobile 98/Touring</textblock>
+    <textblock>318</textblock>
+    <textblock>72</textblock>
+    <textblock>58,444</textblock>
+    <textblock>50,417</textblock>
+    <textblock>3.5826</textblock>
+    <textblock>118. Toyota</textblock>
+    <textblock>Celica</textblock>
+    <textblock>315</textblock>
+    <textblock>201</textblock>
+    <textblock>82,740</textblock>
+    <textblock>61,482</textblock>
+    <textblock>3.5778</textblock>
+    <textblock>119. Isuzu</textblock>
+    <textblock>Impulse</textblock>
+    <textblock>22</textblock>
+    <textblock>10</textblock>
+    <textblock>4,772</textblock>
+    <textblock>4,287</textblock>
+    <textblock>3.5324</textblock>
+    <textblock>120. Mitsubishi</textblock>
+    <textblock>Wagon</textblock>
+    <textblock>6</textblock>
+    <textblock>0</textblock>
+    <textblock>1,791</textblock>
+    <textblock>0</textblock>
+    <textblock>3.3501</textblock>
+    <textblock>121. Nissan</textblock>
+    <textblock>Pickup Truck</textblock>
+    <textblock>460</textblock>
+    <textblock>408</textblock>
+    <textblock>129,951</textblock>
+    <textblock>131,144</textblock>
+    <textblock>3.3245</textblock>
+    <textblock>122. BMW</textblock>
+    <textblock>8</textblock>
+    <textblock>0</textblock>
+    <textblock>8</textblock>
+    <textblock>0</textblock>
+    <textblock>2,411</textblock>
+    <textblock>3.3181</textblock>
+    <textblock>123. Rover Group</textblock>
+    <textblock>Range Rover MPV</textblock>
+    <textblock>14</textblock>
+    <textblock>11</textblock>
+    <textblock>4,862</textblock>
+    <textblock>2,681</textblock>
+    <textblock>3.3143</textblock>
+    <textblock>124. Mercedes-Benz</textblock>
+    <textblock>201</textblock>
+    <textblock>42</textblock>
+    <textblock>45</textblock>
+    <textblock>9,247</textblock>
+    <textblock>17,033</textblock>
+    <textblock>3.3105</textblock>
+    <textblock>125. Mazda</textblock>
+    <textblock>323/Protege</textblock>
+    <textblock>297</textblock>
+    <textblock>212</textblock>
+    <textblock>74,316</textblock>
+    <textblock>79,948</textblock>
+    <textblock>3.2995</textblock>
+    <textblock>126. Isuzu</textblock>
+    <textblock>Stylus</textblock>
+    <textblock>0</textblock>
+    <textblock>49</textblock>
+    <textblock>0</textblock>
+    <textblock>14,919</textblock>
+    <textblock>3.2844</textblock>
+    <textblock>127. General Motors</textblock>
+    <textblock>Cadillac Allante</textblock>
+    <textblock>11</textblock>
+    <textblock>7</textblock>
+    <textblock>3,076</textblock>
+    <textblock>2,485</textblock>
+    <textblock>3.2368</textblock>
+    <textblock>128. Rover Group</textblock>
+    <textblock>Sterling 827</textblock>
+    <textblock>6</textblock>
+    <textblock>5</textblock>
+    <textblock>1,200</textblock>
+    <textblock>2,216</textblock>
+    <textblock>3.2201</textblock>
+    <textblock>129. Mitsubishi</textblock>
+    <textblock>Van</textblock>
+    <textblock>3</textblock>
+    <textblock>0</textblock>
+    <textblock>934</textblock>
+    <textblock>0</textblock>
+    <textblock>3.2120</textblock>
+    <textblock>130. General Motors</textblock>
+    <textblock>Pontiac Grand Prix</textblock>
+    <textblock>363</textblock>
+    <textblock>277</textblock>
+    <textblock>110,549</textblock>
+    <textblock>91,646</textblock>
+    <textblock>3.1653</textblock>
+    <textblock>131. Mazda</textblock>
+    <textblock>Navajo</textblock>
+    <textblock>0</textblock>
+    <textblock>38</textblock>
+    <textblock>0</textblock>
+    <textblock>12,080</textblock>
+    <textblock>3.1457</textblock>
+    <textblock>132. General Motors</textblock>
+    <textblock>Chevrolet Astro</textblock>
+    <textblock>290</textblock>
+    <textblock>429</textblock>
+    <textblock>123,394</textblock>
+    <textblock>105,795</textblock>
+    <textblock>3.1371</textblock>
+    <textblock>133. Mercedes-Benz</textblock>
+    <textblock>124</textblock>
+    <textblock>81</textblock>
+    <textblock>59</textblock>
+    <textblock>21,870</textblock>
+    <textblock>22,771</textblock>
+    <textblock>3.1361</textblock>
+    <textblock>134. General Motors</textblock>
+    <textblock>Oldsmobile Cutlass Supreme</textblock>
+    <textblock>361</textblock>
+    <textblock>267</textblock>
+    <textblock>109,288</textblock>
+    <textblock>91,770</textblock>
+    <textblock>3.1235</textblock>
+    <textblock>135. Daihatsu</textblock>
+    <textblock>Rocky MPV</textblock>
+    <textblock>24</textblock>
+    <textblock>5</textblock>
+    <textblock>7,514</textblock>
+    <textblock>1,883</textblock>
+    <textblock>3.0861</textblock>
+    <textblock>136. Ford Motor Co</textblock>
+    <textblock>Bronco II</textblock>
+    <textblock>166</textblock>
+    <textblock>0</textblock>
+    <textblock>54,988</textblock>
+    <textblock>0</textblock>
+    <textblock>3.0188</textblock>
+    <textblock>137. General Motors</textblock>
+    <textblock>Oldsmobile Toronado/Trofeo</textblock>
+    <textblock>38</textblock>
+    <textblock>29</textblock>
+    <textblock>14,480</textblock>
+    <textblock>7,831</textblock>
+    <textblock>3.0030</textblock>
+    <textblock>138. Chrysler Corp</textblock>
+    <textblock>Eagle Summit</textblock>
+    <textblock>40</textblock>
+    <textblock>41</textblock>
+    <textblock>9,595</textblock>
+    <textblock>17,626</textblock>
+    <textblock>2.9756</textblock>
+    <textblock>139. Ford Motor Co</textblock>
+    <textblock>Mercury Sable</textblock>
+    <textblock>278</textblock>
+    <textblock>264</textblock>
+    <textblock>93,126</textblock>
+    <textblock>89,349</textblock>
+    <textblock>2.9703</textblock>
+    <textblock>140. Suzuki</textblock>
+    <textblock>Swift</textblock>
+    <textblock>19</textblock>
+    <textblock>22</textblock>
+    <textblock>7,671</textblock>
+    <textblock>6,227</textblock>
+    <textblock>2.9501</textblock>
+    <textblock>141. Ferrari</textblock>
+    <textblock>Testarossa</textblock>
+    <textblock>1</textblock>
+    <textblock>1</textblock>
+    <textblock>426</textblock>
+    <textblock>255</textblock>
+    <textblock>2.9369</textblock>
+    <textblock>142. Toyota</textblock>
+    <textblock>Cressida</textblock>
+    <textblock>33</textblock>
+    <textblock>36</textblock>
+    <textblock>12,456</textblock>
+    <textblock>11,039</textblock>
+    <textblock>2.9368</textblock>
+    <textblock>143. Chrysler Corp</textblock>
+    <textblock>Dodge Caravan/Grand</textblock>
+    <textblock>709</textblock>
+    <textblock>506</textblock>
+    <textblock>234,609</textblock>
+    <textblock>182,675</textblock>
+    <textblock>2.9117</textblock>
+    <textblock>144. Jaguar</textblock>
+    <textblock>XJS</textblock>
+    <textblock>13</textblock>
+    <textblock>9</textblock>
+    <textblock>5,213</textblock>
+    <textblock>2,371</textblock>
+    <textblock>2.9008</textblock>
+    <textblock>145. General Motors</textblock>
+    <textblock>Pontiac Trans Sport APV</textblock>
+    <textblock>88</textblock>
+    <textblock>60</textblock>
+    <textblock>33,424</textblock>
+    <textblock>18,418</textblock>
+    <textblock>2.8548</textblock>
+    <textblock>146. Porsche</textblock>
+    <textblock>944</textblock>
+    <textblock>6</textblock>
+    <textblock>2</textblock>
+    <textblock>1,990</textblock>
+    <textblock>850</textblock>
+    <textblock>2.8169</textblock>
+    <textblock>147. General Motors</textblock>
+    <textblock>Oldsmobile Silhouette APV</textblock>
+    <textblock>57</textblock>
+    <textblock>68</textblock>
+    <textblock>28,103</textblock>
+    <textblock>16,322</textblock>
+    <textblock>2.8137</textblock>
+    <textblock>148. Mazda</textblock>
+    <textblock>MX-5 Miata</textblock>
+    <textblock>157</textblock>
+    <textblock>97</textblock>
+    <textblock>52,247</textblock>
+    <textblock>38,868</textblock>
+    <textblock>2.7877</textblock>
+    <textblock>149. General Motors</textblock>
+    <textblock>Oldsmobile Custom Cruiser</textblock>
+    <textblock>18</textblock>
+    <textblock>13</textblock>
+    <textblock>3,573</textblock>
+    <textblock>7,660</textblock>
+    <textblock>2.7597</textblock>
+    <textblock>150. Nissan</textblock>
+    <textblock>Infiniti M30</textblock>
+    <textblock>20</textblock>
+    <textblock>19</textblock>
+    <textblock>7,466</textblock>
+    <textblock>6,718</textblock>
+    <textblock>2.7496</textblock>
+    <textblock>151. Mercedes-Benz</textblock>
+    <textblock>126</textblock>
+    <textblock>64</textblock>
+    <textblock>60</textblock>
+    <textblock>21,030</textblock>
+    <textblock>24,128</textblock>
+    <textblock>2.7459</textblock>
+    <textblock>152. Honda</textblock>
+    <textblock>Civic</textblock>
+    <textblock>737</textblock>
+    <textblock>759</textblock>
+    <textblock>277,631</textblock>
+    <textblock>269,947</textblock>
+    <textblock>2.7320</textblock>
+    <textblock>153. Mazda</textblock>
+    <textblock>929</textblock>
+    <textblock>36</textblock>
+    <textblock>47</textblock>
+    <textblock>18,090</textblock>
+    <textblock>12,449</textblock>
+    <textblock>2.7178</textblock>
+    <textblock>154. Chrysler Corp</textblock>
+    <textblock>Chrysler's TC</textblock>
+    <textblock>11</textblock>
+    <textblock>3</textblock>
+    <textblock>3,536</textblock>
+    <textblock>1,636</textblock>
+    <textblock>2.7069</textblock>
+    <textblock>155. General Motors</textblock>
+    <textblock>Chevrolet Celebrity</textblock>
+    <textblock>79</textblock>
+    <textblock>0</textblock>
+    <textblock>29,271</textblock>
+    <textblock>0</textblock>
+    <textblock>2.6989</textblock>
+    <textblock>156. Toyota</textblock>
+    <textblock>Pickup Truck</textblock>
+    <textblock>437</textblock>
+    <textblock>457</textblock>
+    <textblock>159,842</textblock>
+    <textblock>178,940</textblock>
+    <textblock>2.6389</textblock>
+    <textblock>157. Ford Motor Co</textblock>
+    <textblock>Ford Crown Victoria</textblock>
+    <textblock>148</textblock>
+    <textblock>133</textblock>
+    <textblock>57,680</textblock>
+    <textblock>49,213</textblock>
+    <textblock>2.6288</textblock>
+    <textblock>158. General Motors</textblock>
+    <textblock>Cadillac Eldorado</textblock>
+    <textblock>53</textblock>
+    <textblock>45</textblock>
+    <textblock>21,764</textblock>
+    <textblock>15,895</textblock>
+    <textblock>2.6023</textblock>
+    <textblock>159. Chrysler Corp</textblock>
+    <textblock>Dodge Ramcharger</textblock>
+    <textblock>30</textblock>
+    <textblock>13</textblock>
+    <textblock>12,311</textblock>
+    <textblock>4,483</textblock>
+    <textblock>2.5604</textblock>
+    <textblock>160. Ford Motor Co</textblock>
+    <textblock>Ford Festiva</textblock>
+    <textblock>140</textblock>
+    <textblock>95</textblock>
+    <textblock>47,449</textblock>
+    <textblock>44,544</textblock>
+    <textblock>2.5545</textblock>
+    <textblock>161. Volvo</textblock>
+    <textblock>740</textblock>
+    <textblock>147</textblock>
+    <textblock>58</textblock>
+    <textblock>54,036</textblock>
+    <textblock>29,343</textblock>
+    <textblock>2.4587</textblock>
+    <textblock>162. Nissan</textblock>
+    <textblock>Axxess</textblock>
+    <textblock>44</textblock>
+    <textblock>0</textblock>
+    <textblock>17,994</textblock>
+    <textblock>182</textblock>
+    <textblock>2.4208</textblock>
+    <textblock>163. Ford Motor Co</textblock>
+    <textblock>Mercury Grand Marquis</textblock>
+    <textblock>160</textblock>
+    <textblock>193</textblock>
+    <textblock>70,633</textblock>
+    <textblock>75,861</textblock>
+    <textblock>2.4097</textblock>
+    <textblock>164. General Motors</textblock>
+    <textblock>Chevrolet Lumina</textblock>
+    <textblock>763</textblock>
+    <textblock>422</textblock>
+    <textblock>296,720</textblock>
+    <textblock>196,473</textblock>
+    <textblock>2.4027</textblock>
+    <textblock>165. General Motors</textblock>
+    <textblock>Chevrolet Sprint</textblock>
+    <textblock>1</textblock>
+    <textblock>0</textblock>
+    <textblock>233</textblock>
+    <textblock>187</textblock>
+    <textblock>2.3810</textblock>
+    <textblock>166. Chrysler Corp</textblock>
+    <textblock>Plymouth Voyager/Grand</textblock>
+    <textblock>513</textblock>
+    <textblock>301</textblock>
+    <textblock>197,977</textblock>
+    <textblock>144,534</textblock>
+    <textblock>2.3766</textblock>
+    <textblock>167. Chrysler Corp</textblock>
+    <textblock>Dodge Ram Wagon/Van B150</textblock>
+    <textblock>24</textblock>
+    <textblock>18</textblock>
+    <textblock>13,706</textblock>
+    <textblock>3,969</textblock>
+    <textblock>2.3762</textblock>
+    <textblock>168. Isuzu</textblock>
+    <textblock>Pickup</textblock>
+    <textblock>106</textblock>
+    <textblock>94</textblock>
+    <textblock>50,214</textblock>
+    <textblock>34,635</textblock>
+    <textblock>2.3571</textblock>
+    <textblock>169. General Motors</textblock>
+    <textblock>Buick Regal</textblock>
+    <textblock>148</textblock>
+    <textblock>274</textblock>
+    <textblock>53,561</textblock>
+    <textblock>126,701</textblock>
+    <textblock>2.3410</textblock>
+    <textblock>170. Chrysler Corp</textblock>
+    <textblock>Plymouth Colt/Colt Vista</textblock>
+    <textblock>26</textblock>
+    <textblock>50</textblock>
+    <textblock>12,183</textblock>
+    <textblock>20,681</textblock>
+    <textblock>2.3126</textblock>
+    <textblock>171. Ford Motor Co</textblock>
+    <textblock>Ford Taurus</textblock>
+    <textblock>716</textblock>
+    <textblock>635</textblock>
+    <textblock>309,211</textblock>
+    <textblock>278,485</textblock>
+    <textblock>2.2988</textblock>
+    <textblock>172. Volkswagen</textblock>
+    <textblock>Passat</textblock>
+    <textblock>42</textblock>
+    <textblock>36</textblock>
+    <textblock>17,426</textblock>
+    <textblock>16,567</textblock>
+    <textblock>2.2946</textblock>
+    <textblock>173. General Motors</textblock>
+    <textblock>GMC Safari</textblock>
+    <textblock>88</textblock>
+    <textblock>99</textblock>
+    <textblock>43,263</textblock>
+    <textblock>38,453</textblock>
+    <textblock>2.2884</textblock>
+    <textblock>174. Ford Motor Co</textblock>
+    <textblock>Ranger Pickup</textblock>
+    <textblock>566</textblock>
+    <textblock>599</textblock>
+    <textblock>271,160</textblock>
+    <textblock>243,697</textblock>
+    <textblock>2.2628</textblock>
+    <textblock>175. Ford Motor Co</textblock>
+    <textblock>Explorer</textblock>
+    <textblock>0</textblock>
+    <textblock>711</textblock>
+    <textblock>0</textblock>
+    <textblock>323,551</textblock>
+    <textblock>2.1975</textblock>
+    <textblock>176. Chrysler Corp</textblock>
+    <textblock>Dodge Colt/Colt Vista</textblock>
+    <textblock>23</textblock>
+    <textblock>58</textblock>
+    <textblock>13,743</textblock>
+    <textblock>23,813</textblock>
+    <textblock>2.1568</textblock>
+    <textblock>177. Nissan</textblock>
+    <textblock>Infiniti Q45</textblock>
+    <textblock>20</textblock>
+    <textblock>40</textblock>
+    <textblock>11,615</textblock>
+    <textblock>16,264</textblock>
+    <textblock>2.1522</textblock>
+    <textblock>178. General Motors</textblock>
+    <textblock>Buick Electra Park Avenue</textblock>
+    <textblock>184</textblock>
+    <textblock>131</textblock>
+    <textblock>46,360</textblock>
+    <textblock>100,702</textblock>
+    <textblock>2.1420</textblock>
+    <textblock>179. Volkswagen</textblock>
+    <textblock>Fox</textblock>
+    <textblock>58</textblock>
+    <textblock>15</textblock>
+    <textblock>24,714</textblock>
+    <textblock>10,425</textblock>
+    <textblock>2.0775</textblock>
+    <textblock>180. Volvo</textblock>
+    <textblock>240</textblock>
+    <textblock>80</textblock>
+    <textblock>45</textblock>
+    <textblock>35,580</textblock>
+    <textblock>25,561</textblock>
+    <textblock>2.0445</textblock>
+    <textblock>181. Volvo</textblock>
+    <textblock>940</textblock>
+    <textblock>0</textblock>
+    <textblock>29</textblock>
+    <textblock>0</textblock>
+    <textblock>14,249</textblock>
+    <textblock>2.0352</textblock>
+    <textblock>182. Ford Motor Co</textblock>
+    <textblock>F150 Pickup Truck</textblock>
+    <textblock>298</textblock>
+    <textblock>215</textblock>
+    <textblock>138,657</textblock>
+    <textblock>114,669</textblock>
+    <textblock>2.0251</textblock>
+    <textblock>183. Audi</textblock>
+    <textblock>80/90</textblock>
+    <textblock>24</textblock>
+    <textblock>1</textblock>
+    <textblock>9,168</textblock>
+    <textblock>3,224</textblock>
+    <textblock>2.0174</textblock>
+    <textblock>184. Toyota</textblock>
+    <textblock>Lexus ES250</textblock>
+    <textblock>32</textblock>
+    <textblock>43</textblock>
+    <textblock>19,561</textblock>
+    <textblock>17,643</textblock>
+    <textblock>2.0159</textblock>
+    <textblock>185. Ford Motor Co</textblock>
+    <textblock>Mercury Capri</textblock>
+    <textblock>0</textblock>
+    <textblock>70</textblock>
+    <textblock>0</textblock>
+    <textblock>35,407</textblock>
+    <textblock>1.9770</textblock>
+    <textblock>186. Jaguar</textblock>
+    <textblock>XJ6</textblock>
+    <textblock>24</textblock>
+    <textblock>23</textblock>
+    <textblock>15,172</textblock>
+    <textblock>8,995</textblock>
+    <textblock>1.9448</textblock>
+    <textblock>187. Chrysler Corp</textblock>
+    <textblock>Dodge Dakota Pickup</textblock>
+    <textblock>154</textblock>
+    <textblock>112</textblock>
+    <textblock>66,459</textblock>
+    <textblock>71,490</textblock>
+    <textblock>1.9282</textblock>
+    <textblock>188. Subaru</textblock>
+    <textblock>Legacy</textblock>
+    <textblock>154</textblock>
+    <textblock>141</textblock>
+    <textblock>88,873</textblock>
+    <textblock>64,200</textblock>
+    <textblock>1.9272</textblock>
+    <textblock>189. Honda/Acura</textblock>
+    <textblock>NSX</textblock>
+    <textblock>0</textblock>
+    <textblock>6</textblock>
+    <textblock>0</textblock>
+    <textblock>3,139</textblock>
+    <textblock>1.9114</textblock>
+    <textblock>190. Toyota</textblock>
+    <textblock>Lexus LS400</textblock>
+    <textblock>77</textblock>
+    <textblock>82</textblock>
+    <textblock>42,227</textblock>
+    <textblock>41,559</textblock>
+    <textblock>1.8977</textblock>
+    <textblock>191. Saab</textblock>
+    <textblock>900</textblock>
+    <textblock>32</textblock>
+    <textblock>23</textblock>
+    <textblock>14,574</textblock>
+    <textblock>15,437</textblock>
+    <textblock>1.8327</textblock>
+    <textblock>192. Ford Motor Co</textblock>
+    <textblock>Aerostar</textblock>
+    <textblock>303</textblock>
+    <textblock>279</textblock>
+    <textblock>169,574</textblock>
+    <textblock>150,579</textblock>
+    <textblock>1.8179</textblock>
+    <textblock>193. General Motors</textblock>
+    <textblock>Oldsmobile Cutlass Cruiser</textblock>
+    <textblock>16</textblock>
+    <textblock>13</textblock>
+    <textblock>8,891</textblock>
+    <textblock>7,163</textblock>
+    <textblock>1.8064</textblock>
+    <textblock>194. Volvo</textblock>
+    <textblock>760</textblock>
+    <textblock>17</textblock>
+    <textblock>0</textblock>
+    <textblock>9,515</textblock>
+    <textblock>0</textblock>
+    <textblock>1.7867</textblock>
+    <textblock>195. Mitsubishi</textblock>
+    <textblock>Precis</textblock>
+    <textblock>17</textblock>
+    <textblock>3</textblock>
+    <textblock>3,210</textblock>
+    <textblock>8,000</textblock>
+    <textblock>1.7841</textblock>
+    <textblock>196. Subaru</textblock>
+    <textblock>Loyale</textblock>
+    <textblock>68</textblock>
+    <textblock>36</textblock>
+    <textblock>32,994</textblock>
+    <textblock>25,904</textblock>
+    <textblock>1.7658</textblock>
+    <textblock>197. Nissan</textblock>
+    <textblock>Pulsar NX</textblock>
+    <textblock>2</textblock>
+    <textblock>0</textblock>
+    <textblock>1,168</textblock>
+    <textblock>0</textblock>
+    <textblock>1.7123</textblock>
+    <textblock>198. Daihatsu</textblock>
+    <textblock>Charade</textblock>
+    <textblock>23</textblock>
+    <textblock>4</textblock>
+    <textblock>12,447</textblock>
+    <textblock>3,732</textblock>
+    <textblock>1.6688</textblock>
+    <textblock>199. Toyota</textblock>
+    <textblock>Land Cruiser</textblock>
+    <textblock>3</textblock>
+    <textblock>0</textblock>
+    <textblock>1,921</textblock>
+    <textblock>0</textblock>
+    <textblock>1.5617</textblock>
+    <textblock>200. Nissan</textblock>
+    <textblock>Infiniti G20</textblock>
+    <textblock>0</textblock>
+    <textblock>25</textblock>
+    <textblock>0</textblock>
+    <textblock>16,132</textblock>
+    <textblock>1.5497</textblock>
+    <textblock>201. Toyota</textblock>
+    <textblock>Previa</textblock>
+    <textblock>0</textblock>
+    <textblock>126</textblock>
+    <textblock>0</textblock>
+    <textblock>81,426</textblock>
+    <textblock>1.5474</textblock>
+    <textblock>202. General Motors</textblock>
+    <textblock>Buick Riviera</textblock>
+    <textblock>29</textblock>
+    <textblock>25</textblock>
+    <textblock>21,982</textblock>
+    <textblock>12,956</textblock>
+    <textblock>1.5456</textblock>
+    <textblock>203. Mazda</textblock>
+    <textblock>MPV Wagon</textblock>
+    <textblock>57</textblock>
+    <textblock>82</textblock>
+    <textblock>47,852</textblock>
+    <textblock>47,107</textblock>
+    <textblock>1.4638</textblock>
+    <textblock>204. Audi</textblock>
+    <textblock>100/200</textblock>
+    <textblock>15</textblock>
+    <textblock>12</textblock>
+    <textblock>10,869</textblock>
+    <textblock>9,036</textblock>
+    <textblock>1.3564</textblock>
+    <textblock>205. Volkswagen</textblock>
+    <textblock>Vanagon</textblock>
+    <textblock>9</textblock>
+    <textblock>6</textblock>
+    <textblock>7,363</textblock>
+    <textblock>4,729</textblock>
+    <textblock>1.2405</textblock>
+    <textblock>206. General Motors</textblock>
+    <textblock>Saturn SL</textblock>
+    <textblock>0</textblock>
+    <textblock>49</textblock>
+    <textblock>0</textblock>
+    <textblock>39,867</textblock>
+    <textblock>1.2291</textblock>
+    <textblock>207. Peugeot</textblock>
+    <textblock>405</textblock>
+    <textblock>0</textblock>
+    <textblock>4</textblock>
+    <textblock>700</textblock>
+    <textblock>2,557</textblock>
+    <textblock>1.2281</textblock>
+    <textblock>208. Audi</textblock>
+    <textblock>V8 Quattro Sedan</textblock>
+    <textblock>4</textblock>
+    <textblock>0</textblock>
+    <textblock>2,911</textblock>
+    <textblock>542</textblock>
+    <textblock>1.1584</textblock>
+    <textblock>209. Subaru</textblock>
+    <textblock>Justy</textblock>
+    <textblock>10</textblock>
+    <textblock>10</textblock>
+    <textblock>9,552</textblock>
+    <textblock>8,999</textblock>
+    <textblock>1.0781</textblock>
+    <textblock>210. General Motors</textblock>
+    <textblock>Chevrolet Sportvan G-10</textblock>
+    <textblock>0</textblock>
+    <textblock>15</textblock>
+    <textblock>8,715</textblock>
+    <textblock>5,804</textblock>
+    <textblock>1.0331</textblock>
+    <textblock>211. General Motors</textblock>
+    <textblock>Buick Roadmaster</textblock>
+    <textblock>0</textblock>
+    <textblock>6</textblock>
+    <textblock>0</textblock>
+    <textblock>6,729</textblock>
+    <textblock>0.8917</textblock>
+    <textblock>212. Nissan</textblock>
+    <textblock>NX Coupe</textblock>
+    <textblock>0</textblock>
+    <textblock>7</textblock>
+    <textblock>0</textblock>
+    <textblock>8,705</textblock>
+    <textblock>0.8041</textblock>
+    <textblock>213. Chrysler Corp</textblock>
+    <textblock>Dodge Ram Pickup</textblock>
+    <textblock>24</textblock>
+    <textblock>19</textblock>
+    <textblock>42,251</textblock>
+    <textblock>21,763</textblock>
+    <textblock>0.6717</textblock>
+    <textblock>214. General Motors</textblock>
+    <textblock>Saturn SC</textblock>
+    <textblock>0</textblock>
+    <textblock>6</textblock>
+    <textblock>0</textblock>
+    <textblock>10,298</textblock>
+    <textblock>0.5826</textblock>
+    <textblock>215. Saab</textblock>
+    <textblock>9000</textblock>
+    <textblock>10</textblock>
+    <textblock>13</textblock>
+    <textblock>20,675</textblock>
+    <textblock>24,195</textblock>
+    <textblock>0.5126</textblock>
+    <textblock>216. General Motors</textblock>
+    <textblock>GMC Rally Sportvan</textblock>
+    <textblock>0</textblock>
+    <textblock>2</textblock>
+    <textblock>3,092</textblock>
+    <textblock>1,620</textblock>
+    <textblock>0.4244</textblock>
+    <textblock>217. Yugo</textblock>
+    <textblock>GV/GVL/GVX/GVS</textblock>
+    <textblock>1</textblock>
+    <textblock>1</textblock>
+    <textblock>1,323</textblock>
+    <textblock>8,250</textblock>
+    <textblock>0.2089</textblock>
+    <textblock>218. Peugeot</textblock>
+    <textblock>505</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>2</textblock>
+    <textblock>654</textblock>
+    <textblock>0.0000</textblock>
+    <textblock>219. Lotus</textblock>
+    <textblock>Esprit</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>102</textblock>
+    <textblock>28</textblock>
+    <textblock>0.0000</textblock>
+    <textblock>220. Ferrari</textblock>
+    <textblock>348</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>377</textblock>
+    <textblock>240</textblock>
+    <textblock>0.0000</textblock>
+    <textblock>221. Lotus</textblock>
+    <textblock>Elan</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>159</textblock>
+    <textblock>0.0000</textblock>
+    <textblock>222. Nissan</textblock>
+    <textblock>Van</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>292</textblock>
+    <textblock>0</textblock>
+    <textblock>0.0000</textblock>
+    <textblock>223. Ferrari</textblock>
+    <textblock>Mondial</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>98</textblock>
+    <textblock>49</textblock>
+    <textblock>0.0000</textblock>
+    <textblock>224. Aston Martin</textblock>
+    <textblock>Saloon/Vantage/Volante</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>2</textblock>
+    <textblock>40</textblock>
+    <textblock>0.0000</textblock>
+    <textblock>225. Lamborghini</textblock>
+    <textblock>Diablo</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>110</textblock>
+    <textblock>0.0000</textblock>
+    <textblock>226. Ferrari</textblock>
+    <textblock>F40</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>90</textblock>
+    <textblock>60</textblock>
+    <textblock>0.0000</textblock>
+    <textblock>227. Rolls-Royce</textblock>
+    <textblock>SIL Spirit/Spur/Mulsa/Eight</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>399</textblock>
+    <textblock>505</textblock>
+    <textblock>0.0000</textblock>
+    <textblock>228. Rolls-Royce</textblock>
+    <textblock>Corniche/Continental</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>162</textblock>
+    <textblock>141</textblock>
+    <textblock>0.0000</textblock>
+    <textblock>229. Rolls-Royce</textblock>
+    <textblock>Turbo R</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>340</textblock>
+    <textblock>207</textblock>
+    <textblock>0.0000</textblock>
+    <textblock>230. Maserati</textblock>
+    <textblock>Spyder</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>31</textblock>
+    <textblock>4</textblock>
+    <textblock>0.0000</textblock>
+    <textblock>231. Maserati</textblock>
+    <textblock>430/228</textblock>
+    <textblock>0</textblock>
+    <textblock>0</textblock>
+    <textblock>31</textblock>
+    <textblock>0</textblock>
+    <textblock>0.0000</textblock>
+  </table>
+</doc>

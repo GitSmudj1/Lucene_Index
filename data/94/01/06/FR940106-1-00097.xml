@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00097</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00011</textblock>
+  </parent>
+  <text>
+    <textblock>The index shall be computed at least monthly, weighted by the proportion migrating during each month (or shorter time period) and summed to estimate survival for the water year. Total survival for the entire fall-run migration period shall either use monitoring information collected during each water year's outmigration to determine the specific pattern of migration for the water year, or shall assume monthly migration to be 17% in April, 65% in May, and 18% in June. For purposes of this computation, mortality for the Sacramento River Reach between Sacramento and Walnut Grove (which is reflected in the computation above by the term ``(^2.45925+.0420748T)'') shall be reset to zero before the index is calculated if this term is negative, as happens at low temperatures.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Computing salmon smolt survival index values for San Joaquin River.</textblock>
+    <textblock>Index values on the San Joaquin River shall be computed according to the following formula:</textblock>
+    <textblock>SJSI = (0.341271^0.000025E+0.000067F)/1.8</textblock>
+    <textblock>where</textblock>
+    <textblock>SJSI = San Joaquin River Salmon Index value</textblock>
+    <textblock>E = Average Central Valley Project plus State Water Project exports measured in cfs</textblock>
+    <textblock>F = Mean daily flow in cfs in San Joaquin River at</textblock>
+    <textblock>Stockton, calculated as Old River flow subtracted</textblock>
+    <textblock>from San Joaquin River flow at Mossdale. Old River</textblock>
+    <textblock>flow is calculated from ratio of Brandt Bridge flow</textblock>
+    <textblock>to exports.</textblock>
+    <textblock>The index shall be computed at least monthly, weighted by the proportion migrating during each month (or shorter time period) and summed to estimate survival for the water year. Total survival for the entire fall-run migration period shall either use monitoring information collected during each water year's outmigration to determine the specific pattern of migration for the water year, or shall assume monthly migration to be 45% in April and 55% in May.</textblock>
+    <textblock>(b)</textblock>
+    <textblock>Revised Criteria.</textblock>
+    <textblock>The following criteria are applicable to state waters specified in Table 1-1, at Section (C)(3) (``Striped Bass_Salinity : 3. Prisoners Point_Spawning'') of the Water Quality Control Plan for Salinity for the San Francisco Bay_Sacramento/San Joaquin Delta Estuary, adopted by the California State Water Resources Control Board in State Board Resolution No. 91-34 on May 1, 1991:</textblock>
+  </text>
+</doc>

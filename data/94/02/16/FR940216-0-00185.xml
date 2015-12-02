@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00185</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>(c)</textblock>
+    <textblock>VOC performance.</textblock>
+    <textblock>(1) The exhaust VOC</textblock>
+    <textblock>emissions performance of gasolines shall be given by the</textblock>
+    <textblock>following equations:</textblock>
+    <textblock>VOCE=VOC(b)+(VOC(b)×Y</textblock>
+    <textblock>voc</textblock>
+    <textblock>(t)/100)</textblock>
+    <textblock>Y</textblock>
+    <textblock>voc</textblock>
+    <textblock>(t)=</textblock>
+    <textblock>(w</textblock>
+    <textblock>1</textblock>
+    <textblock>×N</textblock>
+    <textblock>v</textblock>
+    <textblock>)+(w</textblock>
+    <textblock>2</textblock>
+    <textblock>×H</textblock>
+    <textblock>v</textblock>
+    <textblock>)^1</textblock>
+    <textblock>×100</textblock>
+    <textblock>where</textblock>
+    <textblock>VOCE=Exhaust VOC emissions in milligrams/mile</textblock>
+    <textblock>Y</textblock>
+    <textblock>voc</textblock>
+    <textblock>(t)=Exhaust VOC performance of the target fuel in</textblock>
+    <textblock>terms of percentage change from baseline</textblock>
+    <textblock>VOC(b)=Baseline exhaust VOC emissions as defined in</textblock>
+    <textblock>paragraph (b)(2) of this section for the</textblock>
+    <textblock>appropriate Phase and season</textblock>
+    <textblock>N</textblock>
+    <textblock>v</textblock>
+    <textblock>=[exp v</textblock>
+    <textblock>1</textblock>
+    <textblock>(t)]/[exp v</textblock>
+    <textblock>1</textblock>
+    <textblock>(b)]</textblock>
+    <textblock>H</textblock>
+    <textblock>v</textblock>
+    <textblock>=[exp v</textblock>
+    <textblock>2</textblock>
+    <textblock>(t)]/[exp v</textblock>
+    <textblock>2</textblock>
+    <textblock>(b)]</textblock>
+    <textblock>w</textblock>
+    <textblock>1</textblock>
+    <textblock>=Weighting factor for normal emitters as defined in</textblock>
+    <textblock>paragraph (b)(1) of this section for the</textblock>
+    <textblock>appropriate Phase</textblock>
+    <textblock>w</textblock>
+    <textblock>2</textblock>
+    <textblock>=Weighting factor for higher emitters as defined in</textblock>
+    <textblock>paragraph (b)(1) of this section for the</textblock>
+    <textblock>appropriate Phase</textblock>
+    <textblock>v</textblock>
+    <textblock>1</textblock>
+    <textblock>(t)=Normal emitter VOC equation as defined in</textblock>
+    <textblock>paragraph (c)(1)(i) of this section, evaluated</textblock>
+    <textblock>using the target fuel's properties subject to</textblock>
+    <textblock>paragraphs (c)(1) (iii) and (iv) of this section</textblock>
+  </text>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>3._</textblock>
+    <textblock>Baseline Exhaust Emissions</textblock>
+    <textblock>1Exhaust pollutant</textblock>
+    <textblock>1Phase I</textblock>
+    <textblock>2Summer (mg/mile)</textblock>
+    <textblock>2Winter (mg/mile)</textblock>
+    <textblock>1Phase II</textblock>
+    <textblock>2Summer (mg/mile)</textblock>
+    <textblock>2Winter (mg/mile)</textblock>
+    <textblock>VOC</textblock>
+    <textblock>446</textblock>
+    <textblock>660</textblock>
+    <textblock>907</textblock>
+    <textblock>1341</textblock>
+    <textblock>NO</textblock>
+    <textblock>X</textblock>
+    <textblock>660</textblock>
+    <textblock>750</textblock>
+    <textblock>1340</textblock>
+    <textblock>1540</textblock>
+    <textblock>Benzene</textblock>
+    <textblock>26.10</textblock>
+    <textblock>37.57</textblock>
+    <textblock>53.54</textblock>
+    <textblock>77.62</textblock>
+    <textblock>Acetaldehyde</textblock>
+    <textblock>2.19</textblock>
+    <textblock>3.57</textblock>
+    <textblock>4.44</textblock>
+    <textblock>7.25</textblock>
+    <textblock>Formaldehyde</textblock>
+    <textblock>4.85</textblock>
+    <textblock>7.73</textblock>
+    <textblock>9.70</textblock>
+    <textblock>15.34</textblock>
+    <textblock>1,3-Butadiene</textblock>
+    <textblock>4.31</textblock>
+    <textblock>7.27</textblock>
+    <textblock>9.38</textblock>
+    <textblock>15.84</textblock>
+    <textblock>POM</textblock>
+    <textblock>1.50</textblock>
+    <textblock>2.21</textblock>
+    <textblock>3.04</textblock>
+    <textblock>4.50</textblock>
+  </table>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>4._</textblock>
+    <textblock>Baseline Non-Exhaust Emissions (Summer Only)</textblock>
+    <textblock>1Non-exhaust pollutant</textblock>
+    <textblock>1Phase I</textblock>
+    <textblock>2Region 1 (mg/mile)</textblock>
+    <textblock>2Region 2 (mg/mile)</textblock>
+    <textblock>1Phase II</textblock>
+    <textblock>2Region 1 (mg/mile)</textblock>
+    <textblock>2Region 2 (mg/mile)</textblock>
+    <textblock>VOC</textblock>
+    <textblock>860.48</textblock>
+    <textblock>769.10</textblock>
+    <textblock>559.31</textblock>
+    <textblock>492.07</textblock>
+    <textblock>Benzene</textblock>
+    <textblock>9.66</textblock>
+    <textblock>8.63</textblock>
+    <textblock>6.24</textblock>
+    <textblock>5.50</textblock>
+  </table>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>5._</textblock>
+    <textblock>Total Baseline VOC, NO</textblock>
+    <textblock>X</textblock>
+    <textblock>and Toxics Emissions</textblock>
+    <textblock>1Pollutant</textblock>
+    <textblock>1Summer (mg/mile)</textblock>
+    <textblock>2Phase I</textblock>
+    <textblock>3Region 1</textblock>
+    <textblock>3Region 2</textblock>
+    <textblock>2Phase II</textblock>
+    <textblock>3Region 1</textblock>
+    <textblock>3Region 2</textblock>
+    <textblock>1Winter (mg/mile)</textblock>
+    <textblock>2Phase I</textblock>
+    <textblock>3Region 1</textblock>
+    <textblock>3Region 2</textblock>
+    <textblock>2Phase II</textblock>
+    <textblock>3Region 1</textblock>
+    <textblock>3Region 2</textblock>
+    <textblock>NO</textblock>
+    <textblock>X</textblock>
+    <textblock>660.0</textblock>
+    <textblock>660.0</textblock>
+    <textblock>1340.0</textblock>
+    <textblock>1340.0</textblock>
+    <textblock>750.0</textblock>
+    <textblock>750.0</textblock>
+    <textblock>1540.0</textblock>
+    <textblock>1540.0</textblock>
+    <textblock>VOC</textblock>
+    <textblock>1306.5</textblock>
+    <textblock>1215.1</textblock>
+    <textblock>1466.3</textblock>
+    <textblock>1399.1</textblock>
+    <textblock>660.0</textblock>
+    <textblock>660.0</textblock>
+    <textblock>1341.0</textblock>
+    <textblock>1341.0</textblock>
+    <textblock>Toxics</textblock>
+    <textblock>48.61</textblock>
+    <textblock>47.58</textblock>
+    <textblock>86.34</textblock>
+    <textblock>85.61</textblock>
+    <textblock>58.36</textblock>
+    <textblock>58.36</textblock>
+    <textblock>120.55</textblock>
+    <textblock>120.55</textblock>
+  </table>
+</doc>

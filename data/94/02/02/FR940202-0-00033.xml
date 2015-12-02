@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00033</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00005</textblock>
+  </parent>
+  <text>
+    <textblock>(ii) The taxpayer has gross receipts of seventy-five million</textblock>
+    <textblock>dollars after all section 482 adjustments. The taxpayer</textblock>
+    <textblock>establishes that for adjustments number one and three, it applied</textblock>
+    <textblock>a transfer pricing method specified in section 482, the selection</textblock>
+    <textblock>and application of the method was reasonable, it documented the</textblock>
+    <textblock>pricing analysis, and turned that documentation over to the IRS</textblock>
+    <textblock>within 30 days of a request. Accordingly, eighteen million</textblock>
+    <textblock>dollars is excluded from the calculation of the net section 482</textblock>
+    <textblock>adjustment. Because the net section 482 adjustment is two</textblock>
+    <textblock>million dollars, there is no substantial valuation misstatement.</textblock>
+    <textblock>Example 2.</textblock>
+    <textblock>(i) The Internal Revenue Service makes the</textblock>
+    <textblock>following section 482 adjustments for the taxable year:</textblock>
+    <textblock>(ii) The taxpayer has gross receipts of seventy-five million dollars after all section 482 adjustments. The taxpayer establishes that for adjustments number one and three it applied a transfer pricing method specified in section 482, the selection and application of the method was reasonable, it documented that analysis, and turned the documentation over to the IRS within 30 days. Accordingly, eighteen million dollars is excluded from the calculation of the section 482 transfer pricing adjustments for purposes of applying the five million dollar or 10% of gross receipts test. Because the net section 482 adjustment is only two million dollars, the taxpayer is not subject to the net adjustment penalty. However, the taxpayer may be subject to the transactional penalty on the underpayment of tax attributable to the two million dollar adjustment.</textblock>
+    <textblock>Example 3.</textblock>
+    <textblock>CFC1 and CFC2 are controlled foreign corporations within the meaning of section 957. Applying section 482, the IRS disallows a deduction for twenty five million dollars of the interest that CFCI paid to CFC2, which results in CFC1's U.S. shareholder having a subpart F inclusion in excess of five million dollars. No other adjustments under section 482 are made with respect to the controlled taxpayers. However, the increase has no effect upon the determination of CFC1's or CFC2's income from sources within the United States or taxable income effectively connected with the conduct of a trade or business within the United States. Accordingly, there is no substantial valuation misstatement.</textblock>
+    <textblock>(e)</textblock>
+    <textblock>Special rules in the case of carrybacks and carryovers.</textblock>
+    <textblock>If there is a substantial or gross valuation misstatement for a taxable year that gives rise to a loss, deduction or credit that is carried to another taxable year, the transactional penalty and the net adjustment penalty will be imposed on any resulting underpayment of tax in that other taxable year. In determining whether there is a substantial or gross valuation misstatement for a taxable year, no amount carried from another taxable year shall be included. The following example illustrates the principle of this paragraph (e).</textblock>
+    <textblock>Example.</textblock>
+    <textblock>The Internal Revenue Service makes a section 482 adjustment of six million dollars in taxable year 1, no portion of which is excluded under paragraph (d) of this section. The taxpayer's income tax return for year 1 reported a loss of three million dollars, which was carried to taxpayer's year 2 year income tax return and used to reduce income taxes otherwise due with respect to year 2. A determination is made that the six million dollar allocation constitutes a substantial valuation misstatement, and a penalty is imposed on the underpayment of tax in year 1 attributable to the substantial valuation misstatement and on the underpayment of tax in year 2 attributable to the disallowance of the net operating loss in year 2. For purposes of determining whether there is a substantial or gross valuation misstatement for year 2, the three million dollar reduction of the net operating loss will not be added to any section 482 adjustments made with respect to year 2.</textblock>
+    <textblock>(f)</textblock>
+    <textblock>Rules for coordinating between the transactional penalty and the net adjustment penalty_</textblock>
+    <textblock>(1)</textblock>
+    <textblock>Coordination of a net section 482 adjustment subject to the net adjustment penalty and a gross valuation misstatement subject to the transactional penalty.</textblock>
+    <textblock>In determining whether a net section 482 adjustment exceeds five million dollars or 10 percent of gross receipts, an adjustment attributable to a substantial or gross valuation misstatement that is subject to the transactional penalty will be taken into account. If the net section 482 adjustment exceeds five million dollars or ten percent of gross receipts, any portion of such amount that is attributable to a gross valuation misstatement will be subject to the transactional penalty at the forty percent rate, but will not also be subject to net adjustment penalty at a twenty percent rate. The remaining amount is subject to the net adjustment penalty at the twenty percent rate, even if such amount is less than the lesser of five million dollars or ten percent of gross receipts.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Coordination of net section 482 adjustment subject to the net adjustment penalty and substantial valuation misstatements subject to the transactional penalty.</textblock>
+    <textblock>If the net section 482 adjustment exceeds twenty million dollars or 20 percent of gross receipts, the entire amount of the adjustment is subject to the net adjustment penalty at a forty percent rate. No portion of the adjustment is subject to the transactional penalty at a twenty percent rate.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Examples.</textblock>
+    <textblock>The following examples illustrate the principles of this paragraph (f).</textblock>
+    <textblock>Example 1.</textblock>
+    <textblock>(i) Applying section 482, the Internal Revenue Service makes the following adjustments for the taxable year:</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>(1)</textblock>
+    <textblock>$9,000,000</textblock>
+    <textblock>(2) Not a 200 percent or 400 percent adjustment</textblock>
+    <textblock>2,000,000</textblock>
+    <textblock>(3)</textblock>
+    <textblock>9,000,000</textblock>
+    <textblock>n,s</textblock>
+    <textblock>Total section 482 adjustments</textblock>
+    <textblock>20,000,000</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>(1)</textblock>
+    <textblock>$9,000,000</textblock>
+    <textblock>(2) Attributable to an adjustment that is 200 percent or more of the correct section 482 price</textblock>
+    <textblock>2,000,000</textblock>
+    <textblock>(3)</textblock>
+    <textblock>9,000,000</textblock>
+    <textblock>n,s</textblock>
+    <textblock>Total section 482 adjustments</textblock>
+    <textblock>20,000,000</textblock>
+  </table>
+</doc>

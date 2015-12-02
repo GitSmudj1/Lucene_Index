@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940224-1-00039</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940224-1-00009</textblock>
+  </parent>
+  <text/>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>5._</textblock>
+    <textblock>Methane Base Fuel Specifications</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>Methane, mole%, min</textblock>
+    <textblock>89.0</textblock>
+    <textblock>Ethane, mole%, max</textblock>
+    <textblock>4.5</textblock>
+    <textblock>Propane and higher HC, mole%, max</textblock>
+    <textblock>2.3</textblock>
+    <textblock>C6 and higher HC, mole%, max</textblock>
+    <textblock>0.2</textblock>
+    <textblock>Oxygen, mole%, max</textblock>
+    <textblock>0.6</textblock>
+    <textblock>Inert gases:</textblock>
+    <textblock>Sum of CO</textblock>
+    <textblock>2</textblock>
+    <textblock>and N</textblock>
+    <textblock>2</textblock>
+    <textblock>, mole%, max</textblock>
+    <textblock>4.0</textblock>
+    <textblock>Sulfur (odorant additive), ppmv, max</textblock>
+    <textblock>16</textblock>
+  </table>
+</doc>

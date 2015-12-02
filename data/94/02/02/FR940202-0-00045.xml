@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00045</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>(f)</textblock>
+    <textblock>Aggregation rule.</textblock>
+    <textblock>For purposes of this section, all</textblock>
+    <textblock>contracts calling for deferred payments arising from the same</textblock>
+    <textblock>transaction (or a series of related transactions) are treated as</textblock>
+    <textblock>a single contract. This rule, however, generally only applies to</textblock>
+    <textblock>contracts involving a single borrower and a single lender.</textblock>
+    <textblock>(g)</textblock>
+    <textblock>Debt instruments denominated in a currency other than</textblock>
+    <textblock>the U.S. dollar.</textblock>
+    <textblock>This section applies to a debt instrument that</textblock>
+    <textblock>provides for all payments denominated in, or determined by</textblock>
+    <textblock>reference to, the functional currency of the taxpayer or</textblock>
+    <textblock>qualified business unit of the taxpayer (even if that currency is</textblock>
+    <textblock>other than the U.S. dollar). See §1.988-2(b) to determine</textblock>
+    <textblock>interest income or expense for debt instruments that provide for</textblock>
+    <textblock>payments denominated in, or determined by reference to, a</textblock>
+    <textblock>nonfunctional currency.</textblock>
+    <textblock>(h)</textblock>
+    <textblock>Example.</textblock>
+    <textblock>The following example illustrates the rules of</textblock>
+    <textblock>this section.</textblock>
+    <textblock>Example. Allocation of unstated interest to deferred</textblock>
+    <textblock>payments</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>Facts.</textblock>
+    <textblock>On July 1, 1996, A sells his personal</textblock>
+    <textblock>residence to B for a stated purchase price of $1,297,143.66. The</textblock>
+    <textblock>property is not personal use property (within the meaning of</textblock>
+    <textblock>section 1275(b)(3)) in the hands of B. Under the loan agreement,</textblock>
+    <textblock>B is required to make two installment payments of $648,571.83</textblock>
+    <textblock>each, the first due on June 30, 1998, and the second due on June</textblock>
+    <textblock>30, 2000. Both A and B use the cash receipts and disbursements</textblock>
+    <textblock>method of accounting and use a calendar year for their taxable</textblock>
+    <textblock>year.</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Amount of unstated interest.</textblock>
+    <textblock>Under section 483, the</textblock>
+    <textblock>agreement does not provide for adequate stated interest. Thus,</textblock>
+    <textblock>the loan's yield is the test rate of interest determined under</textblock>
+    <textblock>§1.483-3. Assume that both A and B use annual accrual periods</textblock>
+    <textblock>and that the test rate of interest is 9.2 percent, compounded</textblock>
+    <textblock>annually. Under §1.483-2, the present value of the deferred</textblock>
+    <textblock>payments is $1,000,000. Thus, the agreement has unstated</textblock>
+    <textblock>interest of $297,143.66.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>First two accrual periods.</textblock>
+    <textblock>Under paragraph (d)(1) of</textblock>
+    <textblock>this section, the issue price at the beginning of the first</textblock>
+    <textblock>accrual period is $1,000,000 (the amount described in §1.483-2(a)(1)(i)). Under paragraph (c) of this section, the amount of</textblock>
+    <textblock>interest that accrues for the first accrual period is $92,000</textblock>
+    <textblock>($1,000,000×.092) and the amount of interest that accrues for</textblock>
+    <textblock>the second accrual period is $100,464 ($1,092,000×.092). Thus,</textblock>
+    <textblock>$192,464 of interest has accrued as of the end of the second</textblock>
+    <textblock>accrual period. Under paragraph (e)(1) of this section, the</textblock>
+    <textblock>$648,571.83 payment made on June 30, 1998, is treated first as a</textblock>
+    <textblock>payment of interest to the extent of $192,464. The remainder of</textblock>
+    <textblock>the payment ($456,107.83) is treated as a payment of principal.</textblock>
+    <textblock>Both A and B take the payment of interest ($192,464) into account</textblock>
+    <textblock>in 1998.</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Second two accrual periods.</textblock>
+    <textblock>The adjusted issue price</textblock>
+    <textblock>at the beginning of the third accrual period is $543,892.17</textblock>
+    <textblock>($1,092,000+$100,464-$648,571.83). The amount of interest</textblock>
+    <textblock>that accrues for the third accrual period is $50,038.08</textblock>
+    <textblock>($543,892.17×.092) and the amount of interest that accrues for</textblock>
+    <textblock>the final accrual period is $54,641.58, the excess of the amount</textblock>
+    <textblock>payable at maturity ($648,571.83), over the adjusted issue price</textblock>
+    <textblock>at the beginning of the accrual period ($593,930.25). As of the</textblock>
+    <textblock>date the second payment becomes due, $104,679.66 of interest has</textblock>
+    <textblock>accrued. Thus, of the $648,571.83 payment made on June 30, 2000,</textblock>
+    <textblock>$104,679.66 is treated as interest and $543,892.17 is treated as</textblock>
+    <textblock>principal. Both A and B take the payment of interest</textblock>
+    <textblock>($104,679.66) into account in 2000.</textblock>
+    <textblock>(i) [Reserved]</textblock>
+    <textblock>(j)</textblock>
+    <textblock>Effective date.</textblock>
+    <textblock>This section applies to debt</textblock>
+    <textblock>instruments issued on or after April 4, 1994, and to</textblock>
+    <textblock>lending transactions, sales, and exchanges that occur on or after</textblock>
+    <textblock>April 4, 1994. Taxpayers, however, may rely on this</textblock>
+    <textblock>section for debt instruments issued after December 21, 1992, and</textblock>
+    <textblock>before April 4, 1994, and for lending transactions,</textblock>
+    <textblock>sales, and exchanges that occur after December 21, 1992, and</textblock>
+    <textblock>before April 4, 1994.</textblock>
+    <textblock>Par. 5.</textblock>
+    <textblock>Sections 1.483-1 and 1.483-2 are revised to read as</textblock>
+    <textblock>follows:</textblock>
+    <textblock>§1.483-1</textblock>
+    <textblock>Interest on certain deferred payments.</textblock>
+    <textblock>(a)</textblock>
+    <textblock>Amount constituting interest in certain deferred payment</textblock>
+    <textblock>transactions</textblock>
+    <textblock>_(1)</textblock>
+    <textblock>In general.</textblock>
+    <textblock>Except as provided in paragraph</textblock>
+    <textblock>(c) of this section, section 483 applies to a contract for the</textblock>
+    <textblock>sale or exchange of property if the contract provides for one or</textblock>
+    <textblock>more payments due more than 1 year after the date of the sale or</textblock>
+    <textblock>exchange, and the contract does not provide for adequate stated</textblock>
+    <textblock>interest. In general, a contract has adequate stated interest if</textblock>
+    <textblock>the contract provides for a stated rate of interest that is at</textblock>
+    <textblock>least equal to the test rate (determined under §1.483-3) and the</textblock>
+    <textblock>interest is paid or compounded at least annually. Section 483</textblock>
+    <textblock>may apply to a contract whether the contract is express (written</textblock>
+    <textblock>or oral) or implied. For purposes of section 483, a sale or</textblock>
+    <textblock>exchange is any transaction treated as a sale or exchange for tax</textblock>
+    <textblock>purposes. In addition, for purposes of section 483, property</textblock>
+    <textblock>includes debt instruments and investment units, but does not</textblock>
+    <textblock>include money, services, or the right to use property. For the</textblock>
+    <textblock>treatment of certain obligations given in exchange for services</textblock>
+    <textblock>or the use of property, see sections 404 and 467. For purposes</textblock>
+    <textblock>of this paragraph (a), money includes functional currency and, in</textblock>
+    <textblock>certain circumstances, nonfunctional currency. See §1.988-2(b)(2) for circumstances when nonfunctional currency is treated</textblock>
+    <textblock>as money rather than as property.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Treatment of contracts to which section 483 applies</textblock>
+    <textblock>_(i)</textblock>
+    <textblock>Treatment of unstated interest.</textblock>
+    <textblock>If section 483 applies to a</textblock>
+    <textblock>contract, unstated interest under the contract is treated as</textblock>
+    <textblock>interest for tax purposes. Thus, for example, unstated interest</textblock>
+    <textblock>is not treated as part of the amount realized from the sale or</textblock>
+    <textblock>exchange of property (in the case of the seller), and is not</textblock>
+    <textblock>included in the purchaser's basis in the property acquired in the</textblock>
+    <textblock>sale or exchange.</textblock>
+  </text>
+</doc>

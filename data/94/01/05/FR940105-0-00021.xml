@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940105-0-00021</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940105-0-00005</textblock>
+  </parent>
+  <text>
+    <textblock>94-01-04␣Honeywell:</textblock>
+    <textblock>Amendment 39-8786. Docket 93-NM-68-AD.</textblock>
+    <textblock>Applicability:</textblock>
+    <textblock>Traffic Alert and Collision Avoidance System (TCAS) II computer units; part numbers 4066010-901, -902, and -903; as installed on, but not limited to, the following airplanes, certificated in any category:</textblock>
+    <textblock>Airbus Industrie Model A300-600, A310-200, A310-300, A320-200, and A340 series airplanes;</textblock>
+    <textblock>Boeing Model 727-100 and -200; 737-100, -200, -300, and -400;</textblock>
+    <textblock>747-100, -200, -300, -400 and 747SP; 757-200 and -500; and 767-200 and</textblock>
+    <textblock>-300 series airplanes;</textblock>
+    <textblock>Cessna Citation Model C550 and C560 series airplanes, and Cessna Citation III and VII series airplanes;</textblock>
+    <textblock>Canadair Challenger Model CL-600-2B16 and -2A12 series airplanes;</textblock>
+    <textblock>British Aerospace Model 125-800A;</textblock>
+    <textblock>Gulfstream Model GII, GIIB, GIII, and GIV series airplanes;</textblock>
+    <textblock>Lockheed Model L-1011 series airplanes;</textblock>
+    <textblock>McDonnell Douglas Model DC-9-10, -20, -30-, -40, and -50; DC-10-10, -15, -30, and -40; MD-11; and DC-9-80 series airplanes; and Model MD-88 airplanes;</textblock>
+    <textblock>Dassault Aviation Model Mystere-Falcon 50 and 900 series airplanes;</textblock>
+    <textblock>Short Brothers Model SD3-60 series airplanes;</textblock>
+    <textblock>de Havilland Model DHC-8-100 and DHC-7 series airplanes;</textblock>
+    <textblock>Fokker Model F27 series airplanes; and</textblock>
+    <textblock>Corporate Jets Limited Model BAe 125-800A and BAe 125-1000A series airplanes.</textblock>
+    <textblock>Compliance:</textblock>
+    <textblock>Required as indicated, unless accomplished previously.</textblock>
+    <textblock>To prevent collisions or near misses caused by incompatibility between the TCAS II processors and the current air traffic control system, accomplish the following:</textblock>
+    <textblock>(a) Before December 31, 1994, accomplish the requirements of paragraphs (a)(1) and (a)(2) of this AD in accordance with Honeywell Service Bulletin 4066010-34-SW16, dated December 20, 1993.</textblock>
+    <textblock>(1) Remove existing Honeywell TCAS II computer units, part numbers 4066010-901, -902, and -903, and replace those units with new units that incorporate updated collision avoidance system (CAS) logic, identified as Version 6.04A in Mitre letter F046-L-0069, dated September 21, 1993.</textblock>
+    <textblock>(2) Modify the computer surveillance logic on Honeywell TCAS II computer units, part numbers 4066010-901, -902, and -903, to ensure that these units accommodate Mode C altitude input of 100-foot increments and that the system will be tracked and coordinated by intruding aircraft when the Mode S transponder CA field is set at CA=7.</textblock>
+    <textblock>(b) Prior to further flight after accomplishing the requirements of paragraph (a) of this AD, revise the Airplane Flight Manual (AFM) or AFM Supplement by accomplishing either paragraph (b)(1) or (b)(2) of this AD.</textblock>
+    <textblock>(1) Revise the Normal Procedures Section of the AFM to include the appropriate TCAS operating characteristic relative to the modifications required by paragraph (a) of this AD, in accordance with a method approved by the Manager, Los Angeles Aircraft Certification Office (ACO), FAA, Transport Airplane Directorate; or</textblock>
+    <textblock>(2) Revise the Normal Procedures Section of the AFM to include the following TCAS operating characteristic relative to the modification required by paragraph (a) of this AD. This may be accomplished by inserting a copy of this AD in the AFM or AFM Supplement.</textblock>
+    <textblock>``All Resolution Advisory (RA) and Traffic Advisory (TA) aural messages are inhibited at a radio altitude of less than 1,100 feet above ground level (AGL) climbing, and less than 900 feel AGL descending.''</textblock>
+    <textblock>(c) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, Los Angeles Aircraft Certification Office (ACO), FAA, Transport Airplane Directorate. Operators shall submit their requests through an appropriate FAA Principal Avionics Inspector, who may add comments and then send it to the Manager, Los Angeles ACO.</textblock>
+    <textblock>Note:</textblock>
+    <textblock>Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Los Angeles ACO.</textblock>
+    <textblock>(d) Special flight permits may be issued in accordance with FAR 21.197 and 21.199 to operate the airplane to a location where the requirements of this AD can be accomplished.</textblock>
+    <textblock>(e) The replacement and modification shall be done in accordance with Honeywell Service Bulletin 4066010-34-SW16, dated December 20, 1993. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from Honeywell Inc., Commercial Flight Systems Group, Air Transport Systems Division, P.O. Box 21111, Phoenix, Arizona 85036. Copies may be inspected at the FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington; at the FAA, Transport Airplane Directorate, Los Angeles Aircraft Certification Office, 3229 East Spring Street, Long Beach, California; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC.</textblock>
+    <textblock>(f) This amendment becomes effective on February 4, 1994.</textblock>
+    <textblock>Issued in Renton, Washington, on December 29, 1993.</textblock>
+  </text>
+  <signer>
+    <textblock>Darrell M. Pederson,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Transport Airplane Directorate, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 93-32115 Filed 12-30-93; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-P</textblock>
+  </billing>
+</doc>

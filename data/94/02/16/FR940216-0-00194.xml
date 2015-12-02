@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00194</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>N</textblock>
+    <textblock>b</textblock>
+    <textblock>=exp b</textblock>
+    <textblock>1</textblock>
+    <textblock>(t)/exp b</textblock>
+    <textblock>1</textblock>
+    <textblock>(b)</textblock>
+    <textblock>H</textblock>
+    <textblock>b</textblock>
+    <textblock>=exp b</textblock>
+    <textblock>2</textblock>
+    <textblock>(t)/exp b</textblock>
+    <textblock>2</textblock>
+    <textblock>(b)</textblock>
+    <textblock>w</textblock>
+    <textblock>1</textblock>
+    <textblock>=Weighting factor for normal emitters as defined in</textblock>
+    <textblock>paragraph (b)(1) of this section for the</textblock>
+    <textblock>appropriate Phase.</textblock>
+    <textblock>w</textblock>
+    <textblock>2</textblock>
+    <textblock>=Weighting factor for higher emitters as defined in</textblock>
+    <textblock>paragraph (b)(1) of this section for the</textblock>
+    <textblock>appropriate Phase.</textblock>
+    <textblock>b</textblock>
+    <textblock>1</textblock>
+    <textblock>(t)=Normal emitter benzene equation, as defined in</textblock>
+    <textblock>paragraph (e)(4)(i) of this section, evaluated</textblock>
+    <textblock>using the target fuel's properties subject to</textblock>
+    <textblock>paragraph (e)(4)(iii) of this section.</textblock>
+    <textblock>b</textblock>
+    <textblock>2</textblock>
+    <textblock>(t)=Higher emitter benzene equation as defined in</textblock>
+    <textblock>paragraph (e)(4)(ii) of this section, evaluated</textblock>
+    <textblock>using the target fuel's properties subject to</textblock>
+    <textblock>paragraph (e)(4)(iii) of this section.</textblock>
+    <textblock>b</textblock>
+    <textblock>1</textblock>
+    <textblock>(b)=Normal emitter benzene equation as defined in</textblock>
+    <textblock>paragraph (e)(4)(i) of this section, evaluated for</textblock>
+    <textblock>the base fuel's properties.</textblock>
+    <textblock>b</textblock>
+    <textblock>2</textblock>
+    <textblock>(b)=Higher emitter benzene equation, as defined in</textblock>
+    <textblock>paragraph (e)(4)(ii) of this section, evaluated</textblock>
+    <textblock>for the base fuel's properties.</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Consolidated equation for normal emitters.</textblock>
+    <textblock>b</textblock>
+    <textblock>1</textblock>
+    <textblock>=(0.0006197×SUL)+</textblock>
+    <textblock>(^0.003376×E200)+</textblock>
+    <textblock>(0.0265500×ARO)+</textblock>
+    <textblock>(0.2223900×BEN)</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Equation for higher emitters.</textblock>
+    <textblock>b</textblock>
+    <textblock>2</textblock>
+    <textblock>=(^0.096047×OXY)+</textblock>
+    <textblock>(0.0003370×SUL)+</textblock>
+    <textblock>(0.0112510×E300)+</textblock>
+    <textblock>(0.0118820×ARO)+</textblock>
+    <textblock>(0.2223180×BEN)</textblock>
+    <textblock>(iii) If the aromatics value of the target fuel is less</textblock>
+    <textblock>than 10 volume percent, then an aromatics value of 10 volume</textblock>
+    <textblock>percent shall be used when evaluating the equations given in</textblock>
+    <textblock>paragraphs (e)(4) (i) and (ii) of this section. If the E300</textblock>
+    <textblock>value of the target fuel is greater than 95 volume percent,</textblock>
+    <textblock>then E300 value of 95 volume percent shall be used when</textblock>
+    <textblock>evaluating the equations given in paragraphs (e)(4) (i) and</textblock>
+    <textblock>(ii) of this section.</textblock>
+    <textblock>(5) Formaldehyde mass emissions shall be given by the</textblock>
+    <textblock>following equation, subject to paragraphs (e)(5) (iii) and</textblock>
+    <textblock>(iv) of this section:</textblock>
+    <textblock>FORM=FORM(b)+(FORM(b)×Y</textblock>
+    <textblock>FORM</textblock>
+    <textblock>(t)/100)</textblock>
+    <textblock>Y</textblock>
+    <textblock>FORM</textblock>
+    <textblock>(t)=[(w</textblock>
+    <textblock>1</textblock>
+    <textblock>×N</textblock>
+    <textblock>f</textblock>
+    <textblock>)+(w</textblock>
+    <textblock>2</textblock>
+    <textblock>×H</textblock>
+    <textblock>f</textblock>
+    <textblock>)^1]×100</textblock>
+    <textblock>where</textblock>
+    <textblock>FORM=Exhaust formaldehyde emissions in terms of</textblock>
+    <textblock>milligrams/mile.</textblock>
+    <textblock>Y</textblock>
+    <textblock>FORM</textblock>
+    <textblock>(t)=Formaldehyde performance of target fuel in terms</textblock>
+    <textblock>of percentage change from baseline.</textblock>
+    <textblock>FORM(b)=Baseline formaldehyde emissions as defined in</textblock>
+    <textblock>paragraph (b)(2) of this section for the</textblock>
+    <textblock>appropriate Phase and season.</textblock>
+    <textblock>N</textblock>
+    <textblock>f</textblock>
+    <textblock>=exp f</textblock>
+    <textblock>1</textblock>
+    <textblock>(t)/exp f</textblock>
+    <textblock>1</textblock>
+    <textblock>(b)</textblock>
+    <textblock>H</textblock>
+    <textblock>f</textblock>
+    <textblock>=exp f</textblock>
+    <textblock>2</textblock>
+    <textblock>(t)/exp f</textblock>
+    <textblock>2</textblock>
+    <textblock>(b)</textblock>
+    <textblock>w</textblock>
+    <textblock>1</textblock>
+    <textblock>=Weighting factor for normal emitters as defined in</textblock>
+    <textblock>paragraph (b)(1) of this section for the</textblock>
+    <textblock>appropriate Phase.</textblock>
+    <textblock>w</textblock>
+    <textblock>2</textblock>
+    <textblock>=Weighting factor for higher emitters as defined in</textblock>
+    <textblock>paragraph (b)(1) of this section for the</textblock>
+    <textblock>appropriate Phase.</textblock>
+    <textblock>f</textblock>
+    <textblock>1</textblock>
+    <textblock>(t)=Normal emitter formaldehyde equation as defined in</textblock>
+    <textblock>paragraph (e)(5)(i) of this section, evaluated</textblock>
+    <textblock>using the target fuel's properties subject to</textblock>
+    <textblock>paragraphs (e)(5) (iii) and (iv) of this section.</textblock>
+    <textblock>f</textblock>
+    <textblock>2</textblock>
+    <textblock>(t)=Higher emitter formaldehyde equation as defined in</textblock>
+    <textblock>paragraph (e)(5)(ii) of this section, evaluated</textblock>
+    <textblock>using the target fuel's properties subject to</textblock>
+    <textblock>paragraphs (e)(5) (iii) and (iv) of this section.</textblock>
+    <textblock>f</textblock>
+    <textblock>1</textblock>
+    <textblock>(b)=Normal emitter formaldehyde equation as defined in</textblock>
+    <textblock>paragraph (e)(5)(i) of this section, evaluated for</textblock>
+    <textblock>the base fuel's properties.</textblock>
+    <textblock>f</textblock>
+    <textblock>2</textblock>
+    <textblock>(b)=Higher emitter formaldehyde equation as defined in</textblock>
+    <textblock>paragraph (e)(5)(ii) of this section, evaluated</textblock>
+    <textblock>for the base fuel's properties.</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Consolidated equation for normal emitters.</textblock>
+    <textblock>f</textblock>
+    <textblock>1</textblock>
+    <textblock>=(^0.010226×E300)+(^0.007166×ARO)+</textblock>
+    <textblock>(0.0462131×MTB)</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Equation for higher emitters.</textblock>
+    <textblock>f</textblock>
+    <textblock>2</textblock>
+    <textblock>=(^0.010226×E300)+(^0.007166×ARO)+(^0.031352×OLE)+(0.0462131×MTB)</textblock>
+    <textblock>(iii) If the aromatics value of the target fuel is less</textblock>
+    <textblock>than 10 volume percent, then an aromatics value of 10 volume</textblock>
+    <textblock>percent shall be used when evaluating the equations given in</textblock>
+    <textblock>paragraphs (e)(5) (i) and (ii) of this section. If the E300</textblock>
+    <textblock>value of the target fuel is greater than 95 volume percent,</textblock>
+    <textblock>then an E300 value of 95 volume percent shall be used when</textblock>
+    <textblock>evaluating the equations given in paragraphs (e)(5) (i) and</textblock>
+    <textblock>(ii) of this section.</textblock>
+  </text>
+</doc>

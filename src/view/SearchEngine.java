@@ -1,7 +1,6 @@
 package view;
 
 
-import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
@@ -14,14 +13,16 @@ import javax.swing.JTextField;
 import javax.swing.LayoutStyle.ComponentPlacement;
 import javax.swing.JButton;
 import javax.swing.SwingConstants;
-import java.awt.Panel;
-import java.awt.event.ActionEvent;
+
+import controller.RunListener;
+
 import java.awt.event.ActionListener;
 
 public class SearchEngine extends JFrame {
 
 	private JPanel contentPane;
 	private JTextField textField;
+	private ActionListener listener;
 
 	/**
 	 * Launch the application.
@@ -52,21 +53,24 @@ public class SearchEngine extends JFrame {
 		JLabel lblNewLabel = new JLabel("Federal Register Data Searcher");
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
 	
+		listener = new RunListener();
 		
 		textField = new JTextField();
 		textField.setToolTipText("Search...");
 		textField.setColumns(10);
 		
 		JButton btnNewButton = new JButton("Go");
-		btnNewButton.addActionListener(new ActionListener() 
-		{
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				new FirstResults().setVisible(true);
-				
-				
-			}
-		});
+		btnNewButton.addActionListener(listener);
+		//(new ActionListener() 
+//		{
+//			@Override
+//			public void actionPerformed(ActionEvent e) {
+//				new FirstResults().setVisible(true);
+//				setVisible(false);	
+//
+//			}
+//			
+//		});
 		GroupLayout gl_contentPane = new GroupLayout(contentPane);
 
 		gl_contentPane.setHorizontalGroup(

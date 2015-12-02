@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940224-0-00050</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940224-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>Note Y:</textblock>
+    <textblock>For the ``CE'' that does not implement FP add or FP multiply, but that performs FP divide:</textblock>
+    <textblock>If the ``CE'' implements FP reciprocal, but not FP add,</textblock>
+    <textblock>FP multiply or FP divide, then:</textblock>
+    <textblock>If none of the specified instructions is implemented, the effective floating point (FP) rate is 0.</textblock>
+    <textblock>Note Z:</textblock>
+    <textblock>In simple logic operations, a single instruction performs a single logic manipulation of no more than two operands of given lengths.</textblock>
+    <textblock>In complex logic operations, a single instruction performs multiple logic manipulations to produce one or more results from two or more operands.</textblock>
+  </text>
+  <import>
+    <textblock>E:GraphicsER24FE94.028</textblock>
+  </import>
+  <import>
+    <textblock>E:GraphicsER24FE94.029</textblock>
+  </import>
+</doc>

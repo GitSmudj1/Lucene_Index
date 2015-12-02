@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940216-0-00196</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940216-0-00010</textblock>
+  </parent>
+  <text>
+    <textblock>w</textblock>
+    <textblock>2</textblock>
+    <textblock>=Weighting factor for higher emitters as defined in</textblock>
+    <textblock>paragraph (b)(1) of this section for the</textblock>
+    <textblock>appropriate Phase.</textblock>
+    <textblock>d</textblock>
+    <textblock>1</textblock>
+    <textblock>(t)=Normal emitter 1,3-butadiene equation as defined</textblock>
+    <textblock>in paragraph (e)(7)(i) of this section, evaluated</textblock>
+    <textblock>using the target fuel's properties, subject to</textblock>
+    <textblock>paragraph (e)(7)(iii) of this section.</textblock>
+    <textblock>d</textblock>
+    <textblock>2</textblock>
+    <textblock>(t)=Higher emitter 1,3-butadiene equation as defined</textblock>
+    <textblock>in paragraph (e)(7)(ii) of this section, evaluated</textblock>
+    <textblock>using the target fuel's properties, subject to</textblock>
+    <textblock>paragraph (e)(7)(iii) of this section.</textblock>
+    <textblock>d</textblock>
+    <textblock>1</textblock>
+    <textblock>(b)=Normal emitter 1,3-butadiene equation as defined</textblock>
+    <textblock>in paragraph (e)(7)(i) of this section, evaluated</textblock>
+    <textblock>for the base fuel's properties.</textblock>
+    <textblock>d</textblock>
+    <textblock>2</textblock>
+    <textblock>(b)=Higher emitter 1,3-butadiene equation as defined</textblock>
+    <textblock>in paragraph (e)(7)(ii) of this section, evaluated</textblock>
+    <textblock>for the base fuel's properties.</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Consolidated equation for normal emitters.</textblock>
+    <textblock>d</textblock>
+    <textblock>1</textblock>
+    <textblock>=(0.0001552×SUL)+</textblock>
+    <textblock>(^0.007253×E200)+</textblock>
+    <textblock>(^0.014866×E300)+</textblock>
+    <textblock>(^0.004005×ARO)+</textblock>
+    <textblock>(0.0282350×OLE)</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Equation for higher emitters.</textblock>
+    <textblock>d</textblock>
+    <textblock>2</textblock>
+    <textblock>=(^0.060771×OXY)+</textblock>
+    <textblock>(^0.007311×E200)+</textblock>
+    <textblock>(^0.008058×E300)+</textblock>
+    <textblock>(^0.004005×ARO)+</textblock>
+    <textblock>(0.0436960×OLE)</textblock>
+    <textblock>(iii) If the aromatics value of the target fuel is less</textblock>
+    <textblock>than 10 volume percent, then an aromatics value of 10 volume</textblock>
+    <textblock>percent shall be used when evaluating the equations given in</textblock>
+    <textblock>paragraphs (e)(7) (i) and (ii) of this section. If the E300</textblock>
+    <textblock>value of the target fuel is greater than 95 volume percent,</textblock>
+    <textblock>then an E300 value of 95 volume percent shall be used when</textblock>
+    <textblock>evaluating the equations given in paragraphs (e)(7) (i) and</textblock>
+    <textblock>(ii) of this section.</textblock>
+    <textblock>(8) Polycyclic organic matter mass emissions shall be</textblock>
+    <textblock>given by the following equation:</textblock>
+    <textblock>POM=0.003355×VOCE</textblock>
+    <textblock>POM=Polycyclic organic matter emissions in terms of</textblock>
+    <textblock>milligrams per mile</textblock>
+    <textblock>VOCE=Non-methane, non-ethane exhaust emissions of</textblock>
+    <textblock>volatile organic compounds in grams per mile.</textblock>
+    <textblock>(9) Nonexhaust benzene emissions in VOC Control Region</textblock>
+    <textblock>1 shall be given by the following equations for both Phase I</textblock>
+    <textblock>and Phase II:</textblock>
+    <textblock>NEBZ1=DIBZ1+HSBZ1+RLBZ1+RFBZ1</textblock>
+    <textblock>HSBZ1=10 × BEN × HSVOC1 × [(^0.0342 × MTB)+(^0.080274 × RVP)+1.4448]</textblock>
+    <textblock>DIBZ1=10 × BEN × DIVOC1 × [(^0.0290 × MTB)+(^0.080274 × RVP)+1.3758]</textblock>
+    <textblock>RLBZ1=10 × BEN × RLVOC1 × [(^0.0342 × MTB)+(^0.080274 × RVP)+1.4448]</textblock>
+    <textblock>RFBZ1=10 × BEN × RFVOC1 × [(^0.0296 × MTB)+(^0.081507 × RVP)+1.3972]</textblock>
+    <textblock>where</textblock>
+    <textblock>NEBZ1=Nonexhaust emissions of volatile organic compounds</textblock>
+    <textblock>in VOC Control Region 1 in milligrams per mile.</textblock>
+    <textblock>DIBZ1=Diurnal emissions of volatile organic compounds in</textblock>
+    <textblock>VOC Control Region 1 in milligrams per mile.</textblock>
+    <textblock>HSBZ1=Hot soak emissions of volatile organic compounds</textblock>
+    <textblock>in VOC Control Region 1 in milligrams per mile.</textblock>
+    <textblock>RLBZ1=Running loss emissions of volatile organic</textblock>
+    <textblock>compounds in VOC Control Region 1 in milligrams</textblock>
+    <textblock>per mile.</textblock>
+    <textblock>RFBZ1=Refueling emissions of volatile organic compounds</textblock>
+    <textblock>in VOC Control Region 1 in grams per mile.</textblock>
+    <textblock>VOCDI1=Diurnal emissions of volatile organic compounds in</textblock>
+    <textblock>VOC Control Region 1 in milligrams per mile, as</textblock>
+    <textblock>determined in paragraph (c)(3) of this section.</textblock>
+    <textblock>VOCHS1=Hot soak emissions of volatile organic compounds</textblock>
+    <textblock>in VOC Control Region 1 in milligrams per mile, as</textblock>
+    <textblock>determined in paragraph (c)(3) of this section.</textblock>
+    <textblock>VOCRL1=Running loss emissions of volatile organic</textblock>
+    <textblock>compounds in VOC Control Region 1 in milligrams</textblock>
+    <textblock>per mile, as determined in paragraph (c)(3) of</textblock>
+    <textblock>this section.</textblock>
+    <textblock>VOCRF1=Refueling emissions of volatile organic compounds</textblock>
+    <textblock>in VOC Control Region 1 in milligrams per mile, as</textblock>
+    <textblock>determined in paragraph (c)(3) of this section.</textblock>
+    <textblock>(10) Nonexhaust benzene emissions in VOC Control Region</textblock>
+    <textblock>2 shall be given by the following equations for both Phase I</textblock>
+    <textblock>and Phase II:</textblock>
+    <textblock>NEBZ2=DIBZ2+HSBZ2+RLBZ2+RFBZ2</textblock>
+    <textblock>HSBZ2=10 ×BEN × HSVOC2 × [(^0.0342 × MTB)+(^0.080274 × RVP)+1.4448]</textblock>
+    <textblock>DIBZ2=10 × BEN × DIVOC2 × [(^0.0290 × MTB)+(^0.080274 × RVP)+1.3758]</textblock>
+    <textblock>RLBZ2=10 × BEN × RLVOC2 × [(^0.0342 × MTB)+(^0.080274 × RVP)+1.4448]</textblock>
+    <textblock>RFBZ2=10 × BEN × RFVOC2 × [(^0.0296 × MTB)+(^0.081507 × RVP)+1.3972]</textblock>
+  </text>
+</doc>

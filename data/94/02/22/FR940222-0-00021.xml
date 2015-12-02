@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940222-0-00021</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940222-0-00007</textblock>
+  </parent>
+  <text>
+    <textblock>Airworthiness Directives; McDonnell Douglas Model DC-10-10, -10F, -15, -30, -30F, -40, and -40F Series Airplanes, and Model KC-10A (Military) Airplanes</textblock>
+  </text>
+  <cfrno>
+    <textblock>14 CFR Part 39</textblock>
+  </cfrno>
+  <rindock>
+    <textblock>[Docket No. 93-NM-134-AD; Amendment 39-8828; AD 94-04-08]</textblock>
+  </rindock>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>Federal Aviation Administration, DOT.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>Final rule.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>This amendment adopts a new airworthiness directive (AD), applicable to certain McDonnell Douglas Model DC-10 series airplanes and Model KC-10A (military) airplanes, that requires inspections to detect cracking in the No. 2 engine pylon lower spar forward mount and thrust link fitting attach bolts, replacement of cracked bolts, and the eventual replacement of all bolts made of H-11 material with bolts made of Inconel. This amendment is prompted by reports of failures of these attach bolts due to stress corrosion. The actions specified by this AD are intended to prevent failure of the attach bolts, which could reduce the fail-safe capability of the attachment assembly.</textblock>
+  </summary>
+  <date>
+    <textblock>DATES:</textblock>
+    <textblock>Effective March 24, 1994.</textblock>
+    <textblock>The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of March 24, 1994.</textblock>
+  </date>
+  <address>
+    <textblock>ADDRESSES:</textblock>
+    <textblock>The service information referenced in this AD may be obtained from McDonnell Douglas Corporation, P.O. Box 1771, Long Beach, California 90801-1771, Attention: Business Unit Manager, Technical Administrative Support, Dept. L51, Mail Code 2-98. This information may be examined at the Federal Aviation Administration (FAA), Transport Airplane Directorate, Rules Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the FAA, Transport Airplane Directorate, Los Angeles</textblock>
+    <textblock>Aircraft Certification Office, 3229 East Spring Street, Long Beach, California; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC.</textblock>
+  </address>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>John Cecil, Aerospace Engineer, Airframe Branch, ANM-120L, FAA, Transport Airplane Directorate, Los Angeles Aircraft Certification Office, 3229 East Spring Street, Long Beach, California 90806-2425; telephone (310) 988-5322; fax (310) 988-5210.</textblock>
+  </further>
+  <supplem>
+    <textblock>SUPPLEMENTARY INFORMATION:</textblock>
+    <textblock>A proposal to amend part 39 of the Federal Aviation Regulations to include an airworthiness directive (AD) that is applicable to certain McDonnell Douglas Model DC-10 series airplanes and Model KC-10A (military) airplanes was published in the</textblock>
+    <textblock>Federal Register</textblock>
+    <textblock>on October 26, 1993 (58 FR 57568). That action proposed to require inspections to detect cracking in the No. 2 engine pylon lower spar forward mount and thrust link fitting attach bolts, replacement of cracked bolts, and the eventual replacement of all bolts made of H-11 material with bolts made of Inconel.</textblock>
+    <textblock>Interested persons have been afforded an opportunity to participate in the making of this amendment. Due consideration has been given to the comments received.</textblock>
+    <textblock>One commenter supports the proposal.</textblock>
+    <textblock>Two commenters request that the proposed compliance time for the inspections be extended to coincide with normally scheduled maintenance intervals. These commenters suggest that if the compliance times were extended to 24 months, the confusion and expense of special scheduling could be avoided. The FAA does not concur. In developing the proposed compliance time, the FAA primarily considered analyses of the mode of failure of the subject bolts due to stress corrosion, as well as the service history of the fleet. Based on this data and the safety implications presented by loss of fail-safe capability of the attachment assembly should the bolts fail, the FAA has determined that the proposed compliance times of 12 months for the initial inspection and 18 months for the repetitive inspection interval are both appropriate and warranted. Further, the FAA took into account the average utilization rate of the affected fleet, the practical aspects of an orderly inspection of the fleet during regular maintenance periods, and the availability of required replacement parts. The compliance times as proposed should allow ample time for the inspections to be conducted concurrently with scheduled maintenance, thereby minimizing the costs associated with special airplane scheduling. In light of all of these factors, the FAA considers that any extension of the compliance intervals to be unacceptable.</textblock>
+    <textblock>After careful review of the available data, including the comments noted above, the FAA has determined that air safety and the public interest require the adoption of the rule as proposed.</textblock>
+    <textblock>There are approximately 354 Model DC-10 series airplanes and Model KC-10A airplanes of the affected design in the worldwide fleet. The FAA estimates that 206 airplanes of U.S. registry will be affected by this AD</textblock>
+    <textblock>The inspections required by this AD will take approximately 8 work hours per airplane to accomplish, at an average labor rate of $55 per work hour. Based on these figures, the total cost impact of the inspections requirements of this AD on U.S. operators is estimated to be $90,640, or $440 per airplane, per inspection cycle.</textblock>
+    <textblock>The replacement actions required by this AD will take approximately 8 work hours per airplane to accomplish, at an average labor rate of $55 per work hour. Required parts will cost approximately $2,700 per airplane. Based on these figures, the total cost impact of the replacement actions of this AD on U.S. operators is estimated to be $646,840, or $3,140 per airplane.</textblock>
+  </supplem>
+</doc>

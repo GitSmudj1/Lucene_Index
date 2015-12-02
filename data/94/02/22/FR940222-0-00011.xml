@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940222-0-00011</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940222-0-00003</textblock>
+  </parent>
+  <text>
+    <textblock>The FAA cannot determine the sizes of all the affected non-individual owner entities nor the relative significance of the costs estimated above. Because of these uncertainties, no cost thresholds for significant economic impact can be reasonably determined. Based on the possibility that this AD could have a significant impact on a substantial number of small entities, the FAA conducted a regulatory flexibility analysis. A copy of this analysis may be obtained by contacting the Rules Docket at the location provided under the caption</textblock>
+    <textblock>``ADDRESSES''</textblock>
+    <textblock>.</textblock>
+    <textblock>The regulations adopted herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment.</textblock>
+    <textblock>For the reasons discussed above, I certify that this action (1) is not a ``significant regulatory action'' under Executive Order 12866; (2) is significant under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979) because of substantial public interest; and, (3) may have a significant economic impact on a substantial number of small entities. The FAA has conducted an Initial Regulatory Flexibility Determination and Analysis and has considered alternatives to this action that could minimize the impact on small entities. A copy of this analysis may be obtained by contacting the Rules Docket at the location provided under the caption</textblock>
+    <textblock>``ADDRESSES''</textblock>
+    <textblock>. After careful consideration, the FAA has determined that the required action is the best course to achieve the safety objective of returning the airplane to its original certification level of safety.</textblock>
+    <textblock>List of Subjects in 14 CFR Part 39</textblock>
+    <textblock>Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety.</textblock>
+    <textblock>Adoption of the Amendment</textblock>
+    <textblock>Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends 14 CFR part 39 of the Federal Aviation Regulations as follows:</textblock>
+    <textblock>PART 39_AIRWORTHINESS DIRECTIVES</textblock>
+    <textblock>1. The authority citation for part 39 continues to read as follows:</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>49 U.S.C. App. 1354(a), 1421 and 1423; 49 U.S.C. 106(g); and 14 CFR 11.89</textblock>
+    <textblock>§39.13</textblock>
+    <textblock>[Amended]</textblock>
+    <textblock>2. Section 39.13 is amended by adding the following new AD to read as follows:</textblock>
+    <textblock>94-04-15 Twin Commander Aircraft Corporation:</textblock>
+    <textblock>Amendment 39-8835; Docket No. 92-CE-57-AD.</textblock>
+    <textblock>Applicability:</textblock>
+    <textblock>The following model and serial number airplanes that do not have the wing front spar lower cap replaced in accordance with procedures specified in paragraph (a)(3) of this AD, certificated in any category:</textblock>
+    <textblock>Compliance:</textblock>
+    <textblock>Required within the next 50 hours time-in-service after the effective date of this AD, unless already accomplished.</textblock>
+    <textblock>To prevent failure of the wing structure caused by a cracked wing front spar lower cap at Wing Station (WS) 96, accomplish the following:</textblock>
+    <textblock>(a) Inspect the wing front spar lower cap of each wing for corrosion or interference between the firewall flange and spar flange in accordance with the ACCOMPLISHMENT INSTRUCTIONS section of Twin Commander Service Bulletin (SB) No. 212, dated November 3, 1992.</textblock>
+    <textblock>(1) If any interference is found between the firewall flange and spar flange, prior to further flight, clear this interference in accordance with the ACCOMPLISHMENT INSTRUCTIONS section of Twin Commander SB No. 212, dated November 3, 1992.</textblock>
+    <textblock>(2) If any corrosion damage is found, prior to further flight, repair any corrosion damage to the wing front spar lower cap in accordance with the ACCOMPLISHMENT INSTRUCTIONS section of Twin Commander SB No. 212, dated November 3, 1992.</textblock>
+    <textblock>(3) If any cracks are found, prior to the further flight, replace the wing front spar lower cap in accordance with replacement procedures obtained from the manufacturer through the Manager, Seattle Aircraft Certification Office (ACO), at the address specified in paragraph (c) of this AD.</textblock>
+    <textblock>(b) Special flight permits may be issued in accordance with 14 CFR 21.197 and 21.199 to operate the airplane to a location where the requirements of this AD can be accomplished.</textblock>
+    <textblock>(c) An alternative method of compliance or adjustment of the compliance time that provides an equivalent level of safety may be approved by the Manager, Seattle ACO, FAA, Northwest Mountain Region, 1601 Lind Avenue SW., Renton, Washington 98055-4056. The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Seattle ACO, FAA, Northwest Mountain Region.</textblock>
+    <textblock>Note:</textblock>
+    <textblock>Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Seattle ACO, FAA, Northwest Mountain Region.</textblock>
+    <textblock>(d) The inspection and repair required by this AD shall be done in accordance with Twin Commander Service Bulletin No. 212, dated November 3, 1992. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from Twin Commander Aircraft Corporation, 19003 59th Drive, NE., Arlington, Washington 98223. Copies may be inspected at the FAA, Central Region, Office of the Assistant Chief Counsel, Room 1558, 601 E. 12th Street, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC.</textblock>
+    <textblock>(e) This amendment (39-8835) becomes effective on April 12, 1994.</textblock>
+    <textblock>Issued in Kansas City, Missouri, on February 14, 1994.</textblock>
+  </text>
+  <table>
+    <textblock>1Model</textblock>
+    <textblock>1Serial No.</textblock>
+    <textblock>500</textblock>
+    <textblock>618 through 750.</textblock>
+    <textblock>560A</textblock>
+    <textblock>231 through 450.</textblock>
+    <textblock>560E</textblock>
+    <textblock>433 through 750.</textblock>
+    <textblock>680</textblock>
+    <textblock>242 through 658.</textblock>
+    <textblock>680E</textblock>
+    <textblock>623 through 750.</textblock>
+    <textblock>720</textblock>
+    <textblock>501 through 750.</textblock>
+  </table>
+  <signer>
+    <textblock>Barry D. Clements,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Manager, Small Airplane Directorate, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-3840 Filed 2-18-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-4</textblock>
+  </billing>
+</doc>

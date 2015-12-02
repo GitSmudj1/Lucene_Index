@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-2-00109</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-2-00071</textblock>
+  </parent>
+  <text>
+    <textblock>IV. Definition of Nosocomial Legionnaires' Disease</textblock>
+    <textblock>The incubation period for Legionnaires' disease is generally 2-10 days; thus, for epidemiologic purposes, in this document and in the accompanying recommendations by the HICPAC, laboratory-confirmed legionellosis that occurs in a patient who has spent "10 days continuously in the hospital prior to onset of illness is considered definite nosocomial Legionnaires' disease, and laboratory-confirmed infection that occurs 2-10 days after hospitalization is possible nosocomial infection.</textblock>
+    <textblock>V. Prevention and Control Measures</textblock>
+    <textblock>A. Prevention of Legionnaires' Disease in Hospitals With No Identified Cases (Primary Prevention)</textblock>
+    <textblock>Prevention strategies in healthcare facilities with no cases of nosocomial legionellosis have varied by institution, depending on the immunologic status of the patients, the design and construction of the facility, resources available for implementation of prevention strategies, and state and local regulations.</textblock>
+    <textblock>There are at least two schools of thought regarding the most appropriate and cost-effective approach to prevent nosocomial legionellosis, especially in hospitals where no cases or only sporadic cases of the illness are detected. However, a study comparing the cost-benefit ratios of these strategies has not been done.</textblock>
+    <textblock>The first approach is based on periodic, routine culturing of water samples from the hospital's potable water system, for</textblock>
+    <textblock>Legionella</textblock>
+    <textblock>spp.</textblock>
+    <textblock>387</textblock>
+    <textblock>When a positive culture is obtained, the hospital's potable water system is decontaminated and diagnostic laboratory tests for legionellosis are made available to clinicians in the hospital's microbiology department, so that active surveillance for cases can be instituted.</textblock>
+    <textblock>388</textblock>
+    <textblock>This approach is based on the premise that no cases of nosocomial legionellosis can occur in the absence of</textblock>
+    <textblock>Legionella</textblock>
+    <textblock>spp. from the potable water system, and, conversely, once</textblock>
+    <textblock>Legionella</textblock>
+    <textblock>spp. are cultured from the water, cases of nosocomial legionellosis may occur.</textblock>
+    <textblock>383,389</textblock>
+    <textblock>Proponents of this strategy indicate that when physicians are informed that the potable water system of the hospital is culture-positive for</textblock>
+    <textblock>Legionella</textblock>
+    <textblock>spp., they are more inclined to conduct the necessary tests for legionellosis.</textblock>
+    <textblock>388</textblock>
+    <textblock>A potential advantage of this approach is the lower cost of culturing a limited number of water samples, if the testing is done infrequently, compared with the cost of routine laboratory diagnostic testing for legionellosis in all patients with nosocomial pneumonia in hospitals that have had no cases of nosocomial legionellosis.</textblock>
+    <textblock>The main argument against this approach is that in the absence of cases, the relationship between the results of water cultures and the risk of legionellosis remains undefined. The bacterium has been frequently present in hospital water systems,</textblock>
+    <textblock>390</textblock>
+    <textblock>often without being associated with known cases of disease.</textblock>
+    <textblock>250,338,391,392</textblock>
+    <textblock>In a study of 84 hospitals in Quebec, 68% were found to be colonized with</textblock>
+    <textblock>Legionella</textblock>
+    <textblock>spp., and 26% were colonized at &gt;30% of sites sampled; however, cases of Legionnaires' disease were rarely reported from these hospitals.</textblock>
+    <textblock>250</textblock>
+    <textblock>Similarly, at one hospital where active surveillance for legionellosis and environmental culturing for</textblock>
+    <textblock>Legionella</textblock>
+    <textblock>spp. were done, no cases of legionellosis occurred in a urology ward during a 3.5-month period when 70% of water samples from the ward were culture-positive for</textblock>
+    <textblock>L. pneumophila</textblock>
+    <textblock>serogroup 1.</textblock>
+    <textblock>338</textblock>
+    <textblock>Interpretation of the results of routine culturing of water may be confounded by variable culture results among sites sampled within a single water system and by fluctuations in the concentration of</textblock>
+    <textblock>Legionella</textblock>
+    <textblock>spp. in the same site.</textblock>
+    <textblock>393,394</textblock>
+    <textblock>In addition, the risk of illness following exposure to a given source may be influenced by a number of factors other than the presence or concentration of organisms; these include the degree to which contaminated water is aerosolized into respirable droplets, the proximity of the infectious aerosol to potential host, the susceptibility of the host, and the virulence properties of the contaminating strain.</textblock>
+    <textblock>395-397</textblock>
+    <textblock>Thus, data are insufficient to assign a level of risk of disease even on the basis of the number of colony-forming units detected in samples from the hospital environment. By routinely culturing water samples, many hospitals will have to be committed to water-decontamination programs to eradicate</textblock>
+    <textblock>Legionella</textblock>
+    <textblock>spp. Because of this problem, routine monitoring of water from the hospital's potable water system and from aerosol-producing devices is not widely recommended.</textblock>
+    <textblock>398</textblock>
+    <textblock>The second approach to prevent and control nosocomial legionellosis is by: (a) Maintaining a high index of suspicion for legionellosis and appropriately using diagnostic tests for legionellosis in patients with nosocomial pneumonia who are at high risk of developing the disease and dying from the infection,</textblock>
+    <textblock>338,399</textblock>
+    <textblock>(b) initiating an investigation for a hospital source of</textblock>
+    <textblock>Legionella</textblock>
+    <textblock>spp. upon identification of one laboratory-confirmed case of definite or two laboratory-confirmed cases of possible nosocomial Legionnaires' disease, and (c) routinely maintaining cooling towers and using only sterile water for filling and terminal rinsing of nebulization devices.</textblock>
+    <textblock>In hospitals with no identified cases of legionellosis, further study is needed of the cost-benefit ratio of control measures aimed at creating an environment that is not conducive to survival or multiplication of</textblock>
+    <textblock>Legionella</textblock>
+    <textblock>spp., e.g., routine maintenance of potable water at "50</textblock>
+    <textblock>○C or &lt;20</textblock>
+    <textblock>○C at the tap or chlorination of heated water to achieve 1-2 mg/L free residual chlorine at the tap.</textblock>
+    <textblock>338,383,393,400-403</textblock>
+    <textblock>B. Prevention of Legionnaires' Disease in Hospitals With Identified Cases (Secondary Prevention)</textblock>
+    <textblock>The indications for a full-scale environmental investigation to search for and subsequently decontaminate identified sources of</textblock>
+    <textblock>Legionella</textblock>
+    <textblock>spp. in hospital environments remain to be elucidated, and probably vary from hospital to hospital. In institutions where as few as 1-3 nosocomial cases are identified over a period of up to several months, intensified surveillance for Legionnaires' disease has frequently detected numerous additional cases.</textblock>
+    <textblock>357,376,380,401</textblock>
+    <textblock>This suggests the need for a low threshold for initiating an investigation following the identification of nosocomial, laboratory-confirmed cases of legionellosis. However, when developing a strategy to respond to such an identification, infection-control personnel should consider the level of risk of nosocomial acquisition of, and mortality from,</textblock>
+    <textblock>Legionella</textblock>
+    <textblock>spp. infection at their particular hospital.</textblock>
+    <textblock>An epidemiologic investigation of the source of</textblock>
+    <textblock>Legionella</textblock>
+    <textblock>spp. involves several important steps, including retrospective review of microbiologic and medical records, active surveillance to identify all recent or ongoing cases of legionellosis, identification of risk factors (including environmental exposures for infection, such as showering or use of respiratory-therapy equipment), collection of water samples from environmental sources implicated by the epidemiologic investigation and from other potential sources of aerosolized water, and subtype-matching between legionellae isolated from patients and environmental samples.</textblock>
+    <textblock>382,404-406</textblock>
+    <textblock>The latter step can be crucial in supporting epidemiologic evidence of a link between human illness and a specific source.</textblock>
+    <textblock>407</textblock>
+  </text>
+</doc>

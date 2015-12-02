@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940217-1-00029</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940217-1-00005</textblock>
+  </parent>
+  <text>
+    <textblock>(7) The term</textblock>
+    <textblock>transaction</textblock>
+    <textblock>or</textblock>
+    <textblock>transactions</textblock>
+    <textblock>means all transactions in publicly traded securities, including cancellations, corrections, and exercises or assignments of option contracts, except for the following transactions:</textblock>
+    <textblock>(i) Any journal or bookkeeping entry made to an account in order to record or memorialize the receipt or delivery of funds or securities pursuant to the settlement of a transaction;</textblock>
+    <textblock>(ii) Any transaction that is part of an offering of securities by or on behalf of an issuer, or by an underwriter on behalf of an issuer, or an agent for an issuer, whether or not such offering is subject to registration under the Securities Act of 1933,</textblock>
+    <textblock>provided, however,</textblock>
+    <textblock>That this exemption shall not include an offering of securities effected through the facilities of a national securities exchange;</textblock>
+    <textblock>(iii) Any transaction effected in reliance on §230.144A of this chapter;</textblock>
+    <textblock>(iv) Any transaction that constitutes a gift;</textblock>
+    <textblock>(v) Any transaction effected by a court appointed executor, administrator, or fiduciary pursuant to the distribution of a decedent's estate;</textblock>
+    <textblock>(vi) Any transaction effected pursuant to a court order or judgment for distribution of property in settlement of a marital proceeding;</textblock>
+    <textblock>(vii) Any transaction effected pursuant to a rollover of qualified plan or trust assets subject to section 402(a)(5) of the Internal Revenue Code (26 U.S.C. 402(a)(5)); or</textblock>
+    <textblock>(viii) Any transaction between an employer and its employee(s) effected pursuant to the award, allocation, sale, grant or exercise of a publicly traded security, option or other right to acquire securities at a pre-established price pursuant to a plan which is primarily for the purpose of an issuer benefit plan or compensatory arrangement.</textblock>
+    <textblock>(8) The term</textblock>
+    <textblock>identifying activity level</textblock>
+    <textblock>means:</textblock>
+    <textblock>(i) Aggregate transactions in publicly traded securities, effected during a calendar day where the account is located, that are equal to or greater than the lesser of 200,000 shares and fair market value of $2,000,000, or fair market value of $10,000,000; or</textblock>
+    <textblock>(ii) Any transaction or transactions that constitute program trading.</textblock>
+    <textblock>(9) The term</textblock>
+    <textblock>program trading</textblock>
+    <textblock>means either index arbitrage or any trading strategy involving the related purchase or sale of a group or basket of 15 or more publicly traded securities that have a total fair market value of $1,000,000 or more.</textblock>
+    <textblock>(10) The term</textblock>
+    <textblock>index arbitrage</textblock>
+    <textblock>means a trading strategy involving the purchase or sale of a group or basket of publicly traded securities in conjunction with the purchase or sale, or intended purchase or sale, of one or more cash-settled option or futures contracts on a group or index of equity securities (or based on the value thereof), or options on such futures contracts (collectively, derivative index products) in an attempt to profit from a difference between the price of a group or basket of equity securities and the price of a derivative index product through transactions that need not be executed contemporaneously.</textblock>
+    <textblock>(b)</textblock>
+    <textblock>Identification requirements for large traders.</textblock>
+    <textblock>_(1)</textblock>
+    <textblock>Form 13H.</textblock>
+    <textblock>Each large trader shall file Form 13H (17 CFR 249.327) with the Commission, in accordance with the instructions contained therein:</textblock>
+    <textblock>(i) Within 10 business days after first effecting aggregate transactions, or after effecting aggregate transactions subsequent to becoming inactive pursuant to paragraph (b)(3) of this section, which equal or exceed the identifying activity level; and</textblock>
+    <textblock>(ii) Within 60 calendar days after the end of each full calendar year thereafter.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Disclosure of large trader status.</textblock>
+    <textblock>Each large trader that:</textblock>
+    <textblock>(i) Controls an account, or acts as a custodian or nominee for an omnibus account, shall disclose its large trader identification number and all of its owned or controlled accounts to any registered broker or dealer that carries such accounts;</textblock>
+    <textblock>(ii) Controls an omnibus account, shall disclose its large trader identification number or Depository Trust Company Institutional Delivery System number to the custodian or nominee of such omnibus account; or</textblock>
+    <textblock>(iii) Owns an account for which it has assigned control to another person, shall disclose its large trader identification number or Depository Trust Company Institutional Delivery System number to such other person.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Inactive Status.</textblock>
+    <textblock>A large trader that has not effected aggregate transactions during the previous full calendar year that equal or exceed the identifying activity level and an aggregate calendar year total of 2,000,000 shares or fair market value of $30,000,000, shall become inactive upon filing and shall not be required to file Form 13H or disclose its large trader status thereafter.</textblock>
+    <textblock>(4)</textblock>
+    <textblock>Other Information.</textblock>
+    <textblock>Large traders shall provide the Commission with such other descriptive or clarifying information it may request from time to time regarding accounts, or transactions effected through accounts, identified on Form 13H.</textblock>
+    <textblock>(c)</textblock>
+    <textblock>Aggregation of accounts and transactions.</textblock>
+    <textblock>_(1)</textblock>
+    <textblock>Accounts.</textblock>
+    <textblock>For the purpose of determining whether a person is a large trader, the following shall apply:</textblock>
+    <textblock>(i) All accounts through which transactions are effected directly or indirectly by a person that are owned or controlled by, or under common ownership or control with such person, which independently would be a large trader, may be aggregated;</textblock>
+    <textblock>(ii) All accounts through which transactions are effected directly or indirectly by a person owned or controlled by, or under common ownership or control with such person, which independently would not be a large trader, shall be aggregated; and</textblock>
+    <textblock>(iii) Under no circumstances shall a person or group of persons acting in concert toward a common investment objective, be permitted to disaggregate accounts owned or controlled by or under the common ownership or control of such person or group of persons, in order to avoid the identification requirements of this section.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Transactions.</textblock>
+    <textblock>For the purpose of determining whether a person is a large trader, the following shall apply:</textblock>
+    <textblock>(i) The gross volume or fair market value of transactions in equity securities and the gross exercise volume or exercise value of the equity securities underlying transactions in options on equity securities, purchased and sold, shall be aggregated;</textblock>
+  </text>
+</doc>

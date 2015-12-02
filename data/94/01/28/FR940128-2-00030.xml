@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940128-2-00030</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940128-2-00012</textblock>
+  </parent>
+  <text>
+    <textblock>Proposed Federal Information Processing Standards Publication</textblock>
+    <textblock>(date)</textblock>
+    <textblock>Announcing the Standard for Portable Operating System Interface (POSIX)_Part 2: Shell and Utilities</textblock>
+    <textblock>Federal Information Processing Standards Publications (FIPS PUBS) are issued by the National Institute of Standards and Technology after approval by the Secretary of Commerce pursuant to section 111(d) of the Federal Property and Administrative Services Act of 1949 as amended by the Computer Security Act of 1987, Public Law 100-235.</textblock>
+    <textblock>Name of Standard.</textblock>
+    <textblock>Portable Operating System Interface (POSIX)_Part 2: Shell and Utilities.</textblock>
+    <textblock>Category of Standard.</textblock>
+    <textblock>Software Standard, Operating Systems.</textblock>
+    <textblock>Explanation.</textblock>
+    <textblock>This publication announces the adoption of Draft International Standard ISO/IEC 9945-2:1992, Information Technology_Portable Operating System Interface (POSIX)_Part 2: Shell and Utilities as a Federal Information Processing Standard (FIPS). ISO/IEC 9945-2:1992, which defines a command language interpreter (shell) and a set of utility programs, is expected to be approved as an International Standard (IS) in 1994. The FIPS will adopt the final IS after it is approved.</textblock>
+    <textblock>This standard is for use by computing professionals involved in system and application software development and implementation and is part of a series of specifications needed for application portability. This standard addresses the Applications Portability Profile functional area that deals with methods by which a person interacts with the operating systems.</textblock>
+    <textblock>Approving Authority.</textblock>
+    <textblock>Secretary of Commerce.</textblock>
+    <textblock>Maintenance Agency.</textblock>
+    <textblock>U.S. Department of Commerce, National Institute of Standards and Technology, Computer Systems Laboratory.</textblock>
+    <textblock>Cross Index.</textblock>
+    <textblock>Draft International Standard ISO/IEC 9945-2:1992, Information Technology_Portable Operating System Interface (POSIX)_Part 2: Shell and Utilities.</textblock>
+    <textblock>Related Documents</textblock>
+    <textblock>a. Federal Information Resources Management Regulations subpart 201-20.333, Standards, and subpart 201-39.1002, Federal Standards.</textblock>
+    <textblock>b. Federal Information Processing Standards Publication 151-2, Portable Operating System Interface (POSIX)_System Application Program Interface [C Language].</textblock>
+    <textblock>c. Federal Information Processing Standards Publication 160, C.</textblock>
+    <textblock>d. ISO/IEC 9899: Information Technology_Programming Languages_C.</textblock>
+    <textblock>e. Test Methods for Measuring Conformance to POSIX, IEEE Std 1003.3-1991.</textblock>
+    <textblock>f. Test Methods for Measuring Conformance to POSIX, IEEE Proposed Std 2003 (Draft 1.0).</textblock>
+    <textblock>g. Test Methods for Measuring Conformance to POSIX.1, IEEE Std 2003.1-1992.</textblock>
+    <textblock>h. Test Methods for Measuring Conformance to POSIX.2, IEEE Proposed Std 2003.2 (Draft 8).</textblock>
+    <textblock>i. Interpretation Procedures for Federal Information Processing Standards for Software, FIPS PUB 29-3, 1992 October 29.</textblock>
+    <textblock>j. NVLAP Program Handbook, Computer Applications Testing POSIX Conformance Testing, NISTIR 4522, March 1991 (latest revision).</textblock>
+    <textblock>k. NIST POSIX Testing Policy_General Information, April 15, 1993 (latest revision).</textblock>
+    <textblock>l. NIST POSIX Testing Policy, Certificate of Validation Requirements, FIPS 151-2, August 15, 1993 (latest revision).</textblock>
+    <textblock>Related On-Line Information.</textblock>
+    <textblock>Information on the NIST POSIX Testing Program is available on an electronic mail (Email) file server system. Documents available are: registers of validated products, general information on NIST POSIX testing policy, and information on requirements for certificates of validation.</textblock>
+    <textblock>To access the system:</textblock>
+    <textblock>You must be able to send and receive Email via the Internet. For most Email systems, send a message to posix@nist.gov. When the Email system responds with ``Subject'', you may type anything. The next line should be a basic command for the Email server to send you one or more of the available documents. For example, to receive a listing of all available files, enter: send index.</textblock>
+    <textblock>After you issue your send command and a carriage return, the next line should signal the end of the Email message as required by your Email system.</textblock>
+    <textblock>Your Email system may respond with EOT for the end of transmission.</textblock>
+    <textblock>The mail server program reads the message and sends the requested document to the requester's Email address.</textblock>
+  </text>
+</doc>

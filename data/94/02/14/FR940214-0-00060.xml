@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940214-0-00060</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940214-0-00004</textblock>
+  </parent>
+  <text>
+    <textblock>6. Households by tenure.</textblock>
+    <textblock>This section is one of the more important aspects of the market analysis. This information will enable FmHA to more closely pinpoint the number of households which would comprise the target group of its evaluation. If the projected percentage of renters exceeds the historic percentage of renters, the analyst will have to explain why there is an increase. The information will be provided for town, market area, and county.</textblock>
+    <textblock>Example</textblock>
+    <textblock>7.</textblock>
+    <textblock>Households by size.</textblock>
+    <textblock>The study will provide number of households by household size for the town, market area, and county.</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Year</textblock>
+    <textblock>1Total households</textblock>
+    <textblock>1Owner</textblock>
+    <textblock>1Percent</textblock>
+    <textblock>1Renter</textblock>
+    <textblock>1Percent</textblock>
+    <textblock>1980</textblock>
+    <textblock>1990</textblock>
+    <textblock>Estimate: 19</textblock>
+    <textblock>X</textblock>
+    <textblock>Projected: 19</textblock>
+    <textblock>X</textblock>
+    <textblock>(2 years)</textblock>
+  </table>
+</doc>

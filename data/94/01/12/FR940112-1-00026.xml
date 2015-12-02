@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940112-1-00026</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940112-1-00011</textblock>
+  </parent>
+  <text>
+    <textblock>5. Providing a capability to carry over data from year to year in instances where there is no change in the data to be reported.</textblock>
+    <textblock>6. Providing a capability to extract portions of the program onto diskettes for distribution to various individual departments.</textblock>
+    <textblock>Certain additional proposed features have been determined to be inconsistent with the basic Form 1 objective of uniform reporting by the electric utility industry, and are therefore rejected. These features include the following:</textblock>
+    <textblock>1. Providing a capability to insert user defined rows.</textblock>
+    <textblock>2. Allowing for center, left and right justification of data within columns.</textblock>
+    <textblock>3. Elimination of General Instruction II (use of whole numbers, dollars or MWH).</textblock>
+    <textblock>4. Providing compatibility of the software with Lotus 1-2-3 spreadsheet or Windows.</textblock>
+    <textblock>8</textblock>
+    <textblock>American Electric Power System (AEP) and Utilicorp United, Inc. suggest that the Form 1 software should be made compatible with the Securities and Exchange Commission's Electric Data Gathering Analysis and Retrieval (EDGAR) system, or that a system should be adopted based on EDGAR. The Commission declines to adopt this suggestion. In developing requirements for the electronic filing of Form 1, a number of approaches were considered initially, including the EDGAR system. The approach chosen was based on the Commission's information needs, as well as the estimated costs of development and implementation. It was concluded that the software program should be consistent with the current information and data formats of Form 1. Consequently the EDGAR approach was not, and is not, adopted.</textblock>
+    <textblock>Delmarva Power &amp; Light Company and Edison Electric Institute (EEI) suggest that the software program be based on (or similar to) EEI's electronic Uniform Statistical Report (USR). The Commission declines to adopt this recommendation. Form 1 reporting is more extensive than that for the USR. Because of the unique information requirements of Form 1, compatibility with the USR program would be difficult to develop and maintain and would not be cost effective.</textblock>
+    <textblock>CG&amp;E suggests that, for combination gas and electric utilities, Form 1 reporting under the Federal Power Act should be compatible with Form 2 reporting under the Natural Gas Act. At this time, there are no plans to attempt to make Form 1 and Form 2 reporting electronically compatible.</textblock>
+    <textblock>Florida Power &amp; Light Company (FP&amp;L), Florida Power Corporation, and EEI argue that, because of the emergence of competition in the industry, sensitive competitive data should no longer be required or publicly disclosed, citing as an example electric generating plant operating statistics. This issue is beyond the scope of this proceeding and the Commission will therefore not address it.</textblock>
+    <textblock>FP&amp;L argues that, before continuing with the electronic filing project, the Commission should review the actual data required to be reported on Form 1, and should eliminate obsolete or unnecessary information. The subject matter of this proceeding is the electronic filing of Form 1. It was not intended as, and is not, a forum for evaluation of the need for the data presently required to be reported. Accordingly, as the issue is beyond the scope of this proceeding, the Commission will not address it.</textblock>
+    <textblock>Utilicorp United, Inc. argues that the existing systems used by the many Form 1 respondents are incompatible and that no product or program exists to convert them to a usable computer format. The Commission agrees that no comprehensive program exists to convert the various systems in use to the Commission's electronic software. The Commission anticipates, however, that the Form 1 software program will allow the respondents to develop and use such a conversion program.</textblock>
+    <textblock>IV. Conclusion</textblock>
+    <textblock>Accordingly, in light of the foregoing, the Commission hereby gives notice of its intent to defer issuance of a final rule prescribing the electronic filing of Form 1 at this time.</textblock>
+    <textblock>The Commission expects that it will issue a final rule in 1994 to</textblock>
+    <textblock>provide for the electronic filing of Form 1 for reporting year 1994, due on or before April 30, 1995.</textblock>
+    <textblock>By direction of the Commission.</textblock>
+  </text>
+  <footnote>
+    <textblock>However, the Commission's software will allow a user to export data files to ASCII, which can then be read by spreadsheets or other software; also, the Commission's software can be run in a DOS session within windows.</textblock>
+  </footnote>
+  <footname>
+    <textblock>8</textblock>
+  </footname>
+  <signer>
+    <textblock>Lois D. Cashell,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Secretary.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-682 Filed 1-11-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 6717-01-P</textblock>
+  </billing>
+</doc>

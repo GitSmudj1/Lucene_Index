@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940104-1-00026</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940104-1-00004</textblock>
+  </parent>
+  <text>
+    <textblock>(1) The Header Record</textblock>
+    <textblock>(2) The Transportation/Storage Request Record</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Item No.</textblock>
+    <textblock>1Item</textblock>
+    <textblock>1Character position</textblock>
+    <textblock>1Data type</textblock>
+    <textblock>1Comments</textblock>
+    <textblock>l</textblock>
+    <textblock>Schedule ID</textblock>
+    <textblock>1-2</textblock>
+    <textblock>Character</textblock>
+    <textblock>Sch=X1.</textblock>
+    <textblock>l</textblock>
+    <textblock>Record ID</textblock>
+    <textblock>3-4</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Code=01.</textblock>
+    <textblock>1</textblock>
+    <textblock>Company ID</textblock>
+    <textblock>5-10</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Company code from buyer/seller code list, see general instruction 6.</textblock>
+    <textblock>3</textblock>
+    <textblock>Month Posted</textblock>
+    <textblock>11-14</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(MMYY); month and year which data represents.</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Item No.</textblock>
+    <textblock>1Item</textblock>
+    <textblock>1Character position</textblock>
+    <textblock>1Data type</textblock>
+    <textblock>1Comments</textblock>
+    <textblock>l</textblock>
+    <textblock>Schedule ID</textblock>
+    <textblock>1-2</textblock>
+    <textblock>Character</textblock>
+    <textblock>Sch=X1.</textblock>
+    <textblock>l</textblock>
+    <textblock>Record ID</textblock>
+    <textblock>3-4</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Code=02.</textblock>
+    <textblock>l</textblock>
+    <textblock>Sequence No.</textblock>
+    <textblock>5-10</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Right justified, zero filled, see general instruction 3.</textblock>
+    <textblock>4</textblock>
+    <textblock>Contract ID</textblock>
+    <textblock>11-18</textblock>
+    <textblock>Character</textblock>
+    <textblock>See general instruction 6(b).</textblock>
+    <textblock>5</textblock>
+    <textblock>Request ID</textblock>
+    <textblock>19-25</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>See specific instruction 1.</textblock>
+    <textblock>7</textblock>
+    <textblock>Position in Queue</textblock>
+    <textblock>26-30</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Place in waiting line for contract for transportation service.</textblock>
+    <textblock>8</textblock>
+    <textblock>Total Number of Requests in Queue</textblock>
+    <textblock>31-35</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Total number of requests pending with pipeline for initial transportation service.</textblock>
+    <textblock>9</textblock>
+    <textblock>Date Request Received</textblock>
+    <textblock>36-41</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(MMDDYY); see specific instruction 2.</textblock>
+    <textblock>11</textblock>
+    <textblock>Disposition of Request</textblock>
+    <textblock>42</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>See general instruction 5b; code=1, granted at maximum rate; code=2, granted a discounted rate; code=3, denied due to a capacity limitation;</textblock>
+    <textblock>code=4, denied due to financial condition of requestor; code=5, other (provide specific details in a footnote).</textblock>
+    <textblock>14</textblock>
+    <textblock>Shipper</textblock>
+    <textblock>43-82</textblock>
+    <textblock>Character</textblock>
+    <textblock>Name of the shipper requesting service.</textblock>
+    <textblock>15</textblock>
+    <textblock>Pipeline Affiliation with Shipper</textblock>
+    <textblock>83</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>See general instruction 5a and note 1; code=1, respondent affiliated</textblock>
+    <textblock>with shipper; code=2, respondent not affiliated with shipper.</textblock>
+    <textblock>18</textblock>
+    <textblock>Shipper Type</textblock>
+    <textblock>84</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Code=1, LDC/distributor; code=2, interstate pipeline; code=3, intrastate pipeline; code=4, end user; code=5, producer; code=6, marketer; code</textblock>
+    <textblock>=7, other, (specify in footnote).</textblock>
+    <textblock>l</textblock>
+    <textblock>Affiliate Name</textblock>
+    <textblock>85-124</textblock>
+    <textblock>Character</textblock>
+    <textblock>Name of the pipeline affiliate involved in the transportation/storage service being provided; if more than one affiliate is involved in the service, provide name(s) in a footnote.</textblock>
+    <textblock>l</textblock>
+    <textblock>Role of Affiliate</textblock>
+    <textblock>125</textblock>
+    <textblock>Character</textblock>
+    <textblock>Affiliates role in the transportation/storage service is: code=1, shipper; code=2, marketer; code=3, supplier; code=4, seller; code=5, buyer; code=6, agent; code=7, enduser; code=8, other, (identify role in a footnote).</textblock>
+    <textblock>l</textblock>
+    <textblock>Is Affiliate a Pipeline Sales Operating Unit of the Respondent</textblock>
+    <textblock>126</textblock>
+    <textblock>Character</textblock>
+    <textblock>Code=Y, yes; code=N, no.</textblock>
+    <textblock>20</textblock>
+    <textblock>Discounted Rate Requested</textblock>
+    <textblock>127</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Discounted rate requested by party requesting the transportation service; code=0, discount not requested; code=1, discount requested.</textblock>
+    <textblock>21</textblock>
+    <textblock>Maximum Daily Contract Volume to be Transported (or Maximum Storage Withdrawal Quantity)</textblock>
+    <textblock>128-137</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(MMbtu); see specific instruction 3. Post contracted storage capacity in Item 33b.</textblock>
+    <textblock>31</textblock>
+    <textblock>Type of Service</textblock>
+    <textblock>138</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>See note 1; code=1, interruptible service without waiver; code=2, interruptible service with waiver.</textblock>
+    <textblock>33a</textblock>
+    <textblock>Type of Transaction</textblock>
+    <textblock>139</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Code=1, code=2, a previously posted transaction in which changes occurred.</textblock>
+    <textblock>33b</textblock>
+    <textblock>Contracted Storage Capacity</textblock>
+    <textblock>140-149</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(MMbtu); see specific instruction 7.</textblock>
+    <textblock>33c</textblock>
+    <textblock>Character of Service</textblock>
+    <textblock>150</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Code=1, storage service; code=2, transportation related to sale made by pipeline blanket sales operating unit; code=3, other transportation.</textblock>
+    <textblock>l</textblock>
+    <textblock>Posting Date</textblock>
+    <textblock>151-156</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>(YYMMDD), year, month, and day entry is posted on pipeline's electronic bulletin board.</textblock>
+    <textblock>l</textblock>
+    <textblock>Footnote</textblock>
+    <textblock>157</textblock>
+    <textblock>Numeric</textblock>
+    <textblock>Code=1, footnote is provided for this record; code=0, no footnote provided.</textblock>
+    <textblock>Note 1:</textblock>
+    <textblock>Report in this data item whether a waiver of a tariff provision has been granted in providing the requested service. Code 1 will be used to indicate interruptible transportation service without waiver of a tariff provision; code 3 and 4 will be used to indicate interruptible transportation service with a waiver of a tariff provision of the respondent. Provide details on any waiver granted in a footnote.</textblock>
+  </table>
+</doc>

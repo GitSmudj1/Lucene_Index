@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940128-0-00016</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940128-0-00004</textblock>
+  </parent>
+  <text>
+    <textblock>Airworthiness Directives; McDonnell Douglas Model MD-11 Series Airplanes</textblock>
+  </text>
+  <cfrno>
+    <textblock>14 CFR Part 39</textblock>
+  </cfrno>
+  <rindock>
+    <textblock>[Docket No. 93-NM-67-AD; Amendment 39-8805; AD 94-02-07]</textblock>
+  </rindock>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>Federal Aviation Administration, DOT.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>Final rule.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>This amendment adopts a new airworthiness directive (AD), applicable to certain McDonnell Douglas Model MD-11 series airplanes, that requires replacing the anti-skid control unit. This amendment is prompted by three reports of failure of the center landing gear drag link, after which the center landing gear swung aft and struck the fuselage. The actions specified by this AD are intended to prevent failure of the center landing gear drag link, which could result in extensive damage to the fuselage structure.</textblock>
+  </summary>
+  <date>
+    <textblock>DATES:</textblock>
+    <textblock>Effective February 28, 1994. The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of February 28, 1994.</textblock>
+  </date>
+  <address>
+    <textblock>ADDRESSES:</textblock>
+    <textblock>The service information referenced in this AD may be obtained from McDonnell Douglas Corporation, P.O. Box 1771, Long Beach, California 90801-1771, Attention: Business Unit Manager, Technical Publications_Technical Administrative Support, C1-L5B. This information may be examined at the Federal Aviation Administration (FAA), Transport Airplane Directorate, Rules Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the FAA, Transport Airplane Directorate, Los Angeles Aircraft Certification Office, 3229 East Spring Street, Long Beach, California; or at the</textblock>
+    <textblock>Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC.</textblock>
+  </address>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>Andrew Gfrerer, Aerospace Engineer,</textblock>
+    <textblock>Systems and Equipment Branch, ANM-131L, FAA, Transport Airplane Directorate, Los Angeles Aircraft Certification Office, 3229 East Spring Street, Long Beach, California 90806-2425; telephone (310) 988-5338; fax (310) 988-5210.</textblock>
+  </further>
+  <supplem>
+    <textblock>SUPPLEMENTARY INFORMATION:</textblock>
+    <textblock>A proposal to amend part 39 of the Federal Aviation Regulations to include an airworthiness directive (AD) that is applicable to certain McDonnell Douglas Model MD-11 series airplanes was published in the</textblock>
+    <textblock>Federal Register</textblock>
+    <textblock>on July 16, 1993 (58 FR 38321). That action proposed to require replacing the anti-skid control unit.</textblock>
+    <textblock>Interested persons have been afforded an opportunity to participate in the making of this amendment. Due consideration has been given to the comments received.</textblock>
+    <textblock>One commenter supports the proposal.</textblock>
+    <textblock>One commenter suggests that the proposed AD action is inappropriate for two reasons:</textblock>
+    <textblock>1. Drag link failures occur only with the use of autobraking. Therefore, if only manual brakes are used, there should be no requirement to modify the anti-skid control unit.</textblock>
+    <textblock>2. Failure of the center landing gear drag link does not pose sufficient risk to the airframe to warrant AD action.</textblock>
+    <textblock>The FAA does not concur with the commenter's suggestion that this AD action is not warranted. As for the commenter's Item 1, the FAA points out that there has been at least one case of failure of the center gear with the application of manual brakes prior to touchdown of the nose gear wheel. By replacing the Part Number (P/N) 6005304-1 control unit with the P/N 6005304-2 unit (as required by this AD), center gear braking is inhibited both manually and through the use of autobrakes until nose gear touchdown.</textblock>
+    <textblock>As for the commenter's Item 2, the FAA notes that there have been at least three in-service failures of center landing gear drag links that have caused significant structural damage to the airplane. In each occurrence, the failed drag link allowed the center landing gear to swing aft and strike the fuselage. Additionally, there are numerous other possible scenarios involving similar failures that could result in damage to the hydraulic and</textblock>
+    <textblock>electrical systems of the airplane. The center landing gear is also needed to properly distribute the airplane's weight for heavy weight landings. For these reasons, the FAA considers that failure of the center landing gear drag link does present an unsafe condition sufficient to warrant mandated corrective action. The appropriate vehicle for mandating such corrective action is the airworthiness directive.</textblock>
+    <textblock>Two commenters request that the proposed compliance time of 9 months be</textblock>
+    <textblock>extended to 12 months. The manufacturer has indicated that the fleet of affected Model MD-11's could not be retrofitted within 9 months, given the current schedule of modifying the subject part on a rotatable basis and the capacity of the manufacturer to modify the control units. The FAA concurs with the commenter's request. Extending the compliance time an additional 3 months will not adversely affect safety and will allow the affected fleet</textblock>
+    <textblock>to be modified in an orderly manner, thereby minimizing the costs associated with special airplane scheduling. Paragraph (a) of the final rule has been revised to specify a compliance time of 12 months.</textblock>
+    <textblock>One commenter requests that the wording of references to the anti-skid control unit be clarified. The preamble to the notice referred to ``the anti-skid control unit for the center landing gear;'' however, this control unit controls all of the landing gears, not just the center landing gear. The FAA agrees that clarification of this point is needed and, where appropriate, has changed the wording in this final rule accordingly.</textblock>
+  </supplem>
+</doc>

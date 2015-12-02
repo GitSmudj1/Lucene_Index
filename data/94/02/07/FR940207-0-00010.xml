@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940207-0-00010</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940207-0-00004</textblock>
+  </parent>
+  <text>
+    <textblock>§§97.23, 97.25, 97.27, 97.29, 97.31, 97.33 and 97.35</textblock>
+    <textblock>[Amended]</textblock>
+    <textblock>By amending: §97.23 VOR, VOR/DME, VOR or TACAN, and VOR/DME or TACAN; §97.25 LOC, LOC/DME, LDA, LDA/DME, SDF, SDF/DME; §97.27 NDB, NDB/DME; §97.29 ILS, ILS/DME, ISMLS, MLS, MLS/DME, MLS/RNAV; §97.31 RADAR SIAPs; §97.22 RNAV SIAPs; and §97.35 COPTER SIAPs, identified as follows:</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Effective</textblock>
+    <textblock>1State</textblock>
+    <textblock>1City</textblock>
+    <textblock>1Airport</textblock>
+    <textblock>1FDC No.</textblock>
+    <textblock>1SIAP</textblock>
+    <textblock>01/03/94</textblock>
+    <textblock>FL</textblock>
+    <textblock>Tampa</textblock>
+    <textblock>Tampa Intl</textblock>
+    <textblock>FDC 4/0004</textblock>
+    <textblock>ILS Rwy 18L Amdt 38...</textblock>
+    <textblock>01/12/94</textblock>
+    <textblock>AR</textblock>
+    <textblock>Warren</textblock>
+    <textblock>Warren Muni</textblock>
+    <textblock>FDC 4/0256</textblock>
+    <textblock>NDB Rwy 3 amdt 1...</textblock>
+    <textblock>01/12/94</textblock>
+    <textblock>NC</textblock>
+    <textblock>Asheville</textblock>
+    <textblock>Asheville Regional</textblock>
+    <textblock>FDC 4/0265</textblock>
+    <textblock>ILS Rwy 34 Amdt 23...</textblock>
+    <textblock>01/12/94</textblock>
+    <textblock>TN</textblock>
+    <textblock>Nashville</textblock>
+    <textblock>Nashville International</textblock>
+    <textblock>FDC 4/0264</textblock>
+    <textblock>Radar-1 Amdt 22...</textblock>
+    <textblock>01/13/94</textblock>
+    <textblock>ME</textblock>
+    <textblock>Rangeley</textblock>
+    <textblock>Rangeley Lake</textblock>
+    <textblock>FDC 4/0290</textblock>
+    <textblock>NDB-B Orig...</textblock>
+    <textblock>01/13/94</textblock>
+    <textblock>WV</textblock>
+    <textblock>Bluefield</textblock>
+    <textblock>Mercer County</textblock>
+    <textblock>FDC 4/0291</textblock>
+    <textblock>VOR/DME Rwy 23 Amdt 2...</textblock>
+    <textblock>01/13/94</textblock>
+    <textblock>WV</textblock>
+    <textblock>Bluefield</textblock>
+    <textblock>Mecer County</textblock>
+    <textblock>FDC 4/0292</textblock>
+    <textblock>ILS Rwy 23 Amdt 13...</textblock>
+    <textblock>01/13/94</textblock>
+    <textblock>WV</textblock>
+    <textblock>Bluefield</textblock>
+    <textblock>Mercer County</textblock>
+    <textblock>FDC 4/0293</textblock>
+    <textblock>VOR Rwy 23 Amdt 7...</textblock>
+    <textblock>01/14/94</textblock>
+    <textblock>MS</textblock>
+    <textblock>Columbus-West Point-Starkville</textblock>
+    <textblock>Golden Triangle Regional</textblock>
+    <textblock>FDC 4/0307</textblock>
+    <textblock>LOC/DME BC RWY 36 Amdt 6...</textblock>
+    <textblock>01/19/94</textblock>
+    <textblock>GA</textblock>
+    <textblock>Lawrenceville</textblock>
+    <textblock>Gwinnett County-Briscoe Field</textblock>
+    <textblock>FDC 4/0396</textblock>
+    <textblock>NDB Rwy 25 Orig...</textblock>
+    <textblock>01/21/94</textblock>
+    <textblock>AR</textblock>
+    <textblock>Dequeen</textblock>
+    <textblock>J.Lynn Helms Sevier County</textblock>
+    <textblock>FDC 4/0448</textblock>
+    <textblock>NDB Rwy 8 Amdt 4...</textblock>
+    <textblock>01/24/94</textblock>
+    <textblock>AL</textblock>
+    <textblock>Dothan</textblock>
+    <textblock>Dothan</textblock>
+    <textblock>FDC 4/0486</textblock>
+    <textblock>Copter VOR 336 Amdt 4...</textblock>
+    <textblock>01/24/94</textblock>
+    <textblock>AL</textblock>
+    <textblock>Dothan</textblock>
+    <textblock>Dothan</textblock>
+    <textblock>FDC 4/0487</textblock>
+    <textblock>VOR Rwy 18, Amdt 3...</textblock>
+    <textblock>01/24/94</textblock>
+    <textblock>AL</textblock>
+    <textblock>Dothan</textblock>
+    <textblock>Dothan</textblock>
+    <textblock>FDC 4/0488</textblock>
+    <textblock>VOR Rwy 14, Amdt 3A...</textblock>
+    <textblock>01/24/94</textblock>
+    <textblock>AL</textblock>
+    <textblock>Dothan</textblock>
+    <textblock>Dothan</textblock>
+    <textblock>FDC 4/0489</textblock>
+    <textblock>Loc BC Rwy 14 Amdt 6A...</textblock>
+    <textblock>01/24/94</textblock>
+    <textblock>AL</textblock>
+    <textblock>Dothan</textblock>
+    <textblock>Dothan</textblock>
+    <textblock>FDC 4/0490</textblock>
+    <textblock>ILS Rwy 32 Amdt 7A...</textblock>
+    <textblock>01/24/94</textblock>
+    <textblock>AL</textblock>
+    <textblock>Dothan</textblock>
+    <textblock>Dothan</textblock>
+    <textblock>FDC 4/0491</textblock>
+    <textblock>VOR-A or TACAN Amdt 11...</textblock>
+    <textblock>01/24/94</textblock>
+    <textblock>MO</textblock>
+    <textblock>Poplar Bluff</textblock>
+    <textblock>Poplar Bluff Muni</textblock>
+    <textblock>FDC 4/0484</textblock>
+    <textblock>NDB 36 Amdt 1...</textblock>
+    <textblock>01/24/94</textblock>
+    <textblock>MO</textblock>
+    <textblock>Poplar Bluff</textblock>
+    <textblock>Poplar Bluff Muni</textblock>
+    <textblock>FDC 4/0485</textblock>
+    <textblock>SDF Rwy 36 Amdt 1...</textblock>
+    <textblock>01/24/94</textblock>
+    <textblock>OK</textblock>
+    <textblock>Tipton</textblock>
+    <textblock>Tipton Muni</textblock>
+    <textblock>FDC 4/0473</textblock>
+    <textblock>VOR/DME Rwy 17 Orig...</textblock>
+    <textblock>01/25/94</textblock>
+    <textblock>MI</textblock>
+    <textblock>Marquette</textblock>
+    <textblock>Marquette County</textblock>
+    <textblock>FDC 4/0478</textblock>
+    <textblock>IFR Dep Proc Rwy 26 Amdt 1...</textblock>
+    <textblock>01/26/94</textblock>
+    <textblock>AR</textblock>
+    <textblock>Corning</textblock>
+    <textblock>Corning Muni</textblock>
+    <textblock>FDC 4/0509</textblock>
+    <textblock>VOR/DME-a Amdt 1A...</textblock>
+    <textblock>12/23/93</textblock>
+    <textblock>NC</textblock>
+    <textblock>Lexington</textblock>
+    <textblock>Lexington Muni</textblock>
+    <textblock>FDC 3/6789</textblock>
+    <textblock>VOR-A Amdt4...</textblock>
+  </table>
+  <frfiling>
+    <textblock>[FR Doc. 94-2685 Filed 2-4-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-M</textblock>
+  </billing>
+</doc>

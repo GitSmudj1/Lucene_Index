@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940204-1-00051</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940204-1-00005</textblock>
+  </parent>
+  <text>
+    <textblock>§39.13</textblock>
+    <textblock>[Amended]</textblock>
+    <textblock>2. Section 39.13 is amended by adding the following new airworthiness directive:</textblock>
+    <textblock>SAAB Aircraft AB:</textblock>
+    <textblock>Docket 93-NM-233-AD.</textblock>
+    <textblock>Applicability:</textblock>
+    <textblock>Model SAAB SF340A series airplanes, serial numbers -004 through -159 inclusive; and Model SAAB 340B series airplanes, serial numbers -160 through -260 inclusive; certificated in any category.</textblock>
+    <textblock>Compliance:</textblock>
+    <textblock>Required as indicated, unless accomplished previously.</textblock>
+    <textblock>To prevent jamming of the aileron or elevator, accomplish the following:</textblock>
+    <textblock>(a) Within 500 hours time-in-service or 90 days after the effective date of this AD, whichever occurs first, perform an inspection of the elevator and aileron coves to verify the type of antistatic protection applied to the coves, in accordance with SAAB Service Bulletin 340-51-012, dated November 10, 1993.</textblock>
+    <textblock>(b) If a cove has conductive paint or expanded aluminum foil (stretched metal_aluminum net), no further action is required by this AD for that cove.</textblock>
+    <textblock>(c) If a cove does not have conductive paint or expanded aluminum foil (stretched metal_aluminum net), prior to further flight, perform a detailed visual inspection and delamination tap test to detect aluminum foil delamination on the elevator or aileron cove, in accordance with the service bulletin.</textblock>
+    <textblock>(1) If no delamination is found, repeat the detailed visual inspection and delamination tap test thereafter at intervals not to exceed 800 hours time-in-service in accordance with the service bulletin.</textblock>
+    <textblock>(2) If any delamination is found, prior to further flight, accomplish either paragraph (c)(2)(i) or (c)(2(ii) of this AD.</textblock>
+    <textblock>(i) Perform a temporary repair of the cove in accordance with the service bulletin. Thereafter, repeat the detailed visual inspection and delamination tap test required by paragraph (c) of this AD at intervals not to exceed 800 hours time-in-service. Or</textblock>
+    <textblock>(ii) Perform a permanent repair of the cove in accordance with the service bulletin. Accomplishment of this permanent repair constitutes terminating action for the repetitive inspection required by this AD.</textblock>
+    <textblock>(d) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, Standardization Branch, ANM-113, FAA, Transport Airplane Directorate. Operators shall submit their requests through an appropriate FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, Standardization Branch, ANM-113.</textblock>
+    <textblock>Note:</textblock>
+    <textblock>Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Standardization Branch, ANM-113.</textblock>
+    <textblock>(e) Special flight permits may be issued in accordance with Federal Aviation Regulations (FAR) 21.197 and 21.199 to operate the airplane to a location where the requirements of this AD can be accomplished.</textblock>
+    <textblock>Issued in Renton, Washington, on January 31, 1994.</textblock>
+  </text>
+  <signer>
+    <textblock>James V. Devany,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Transport Airplane Directorate, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-2526 Filed 2-3-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-U</textblock>
+  </billing>
+</doc>

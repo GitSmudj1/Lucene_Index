@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00052</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>(ii)</textblock>
+    <textblock>Step two: Determine the accrual periods.</textblock>
+    <textblock>An accrual</textblock>
+    <textblock>period is an interval of time over which the accrual of OID is</textblock>
+    <textblock>measured. Accrual periods may be of any length and may vary in</textblock>
+    <textblock>length over the term of the debt instrument, provided that each</textblock>
+    <textblock>accrual period is no longer than 1 year and each scheduled</textblock>
+    <textblock>payment of principal or interest occurs either on the final day</textblock>
+    <textblock>of an accrual period or on the first day of an accrual period.</textblock>
+    <textblock>In general, the computation of OID is simplest if accrual periods</textblock>
+    <textblock>correspond to the intervals between payment dates provided by the</textblock>
+    <textblock>terms of the debt instrument. In computing the length of accrual</textblock>
+    <textblock>periods, any reasonable counting convention may be used (e.g., 30</textblock>
+    <textblock>days per month/360 days per year).</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Step three: Determine the OID allocable to each</textblock>
+    <textblock>accrual period.</textblock>
+    <textblock>Except as provided in paragraph (b)(4) of this</textblock>
+    <textblock>section, the OID allocable to an accrual period equals the</textblock>
+    <textblock>product of the adjusted issue price of the debt instrument (as</textblock>
+    <textblock>defined in §1.1275-1(b)) at the beginning of the accrual period</textblock>
+    <textblock>and the yield of the debt instrument, less the amount of any</textblock>
+    <textblock>qualified stated interest allocable to the accrual period. In</textblock>
+    <textblock>performing this calculation, the yield must be stated</textblock>
+    <textblock>appropriately taking into account the length of the particular</textblock>
+    <textblock>accrual period.</textblock>
+    <textblock>Example 1</textblock>
+    <textblock>in paragraph (j) of this section</textblock>
+    <textblock>provides a formula for converting a yield based upon an accrual</textblock>
+    <textblock>period of one length to an equivalent yield based upon an accrual</textblock>
+    <textblock>period of a different length.</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Step four: Determine the daily portions of OID.</textblock>
+    <textblock>The</textblock>
+    <textblock>daily portions of OID are determined by allocating to each day in</textblock>
+    <textblock>an accrual period the ratable portion of the OID allocable to the</textblock>
+    <textblock>accrual period. The holder of the debt instrument includes in</textblock>
+    <textblock>income the daily portions of OID for each day during the taxable</textblock>
+    <textblock>year on which the holder held the debt instrument.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>Exceptions.</textblock>
+    <textblock>Paragraph (b)(1) of this section does not</textblock>
+    <textblock>apply to_</textblock>
+    <textblock>(i) A debt instrument to which section 1272(a)(6) applies</textblock>
+    <textblock>(certain interests in or mortgages held by a REMIC, and certain</textblock>
+    <textblock>other debt instruments with payments subject to acceleration);</textblock>
+    <textblock>(ii) A debt instrument that provides for contingent</textblock>
+    <textblock>payments, except as provided in paragraph (c) of this section or</textblock>
+    <textblock>in regulations under section 1275(d); or</textblock>
+    <textblock>(iii) A variable rate debt instrument to which §1.1275-5</textblock>
+    <textblock>applies, except as provided in §1.1275-5.</textblock>
+    <textblock>(3)</textblock>
+    <textblock>Modifications.</textblock>
+    <textblock>The amount of OID includible in income</textblock>
+    <textblock>by a holder under paragraph (b)(1) of this section is adjusted</textblock>
+    <textblock>if_</textblock>
+    <textblock>(i) The holder purchased the debt instrument at a premium or</textblock>
+    <textblock>an acquisition premium (within the meaning of §1.1272-2); or</textblock>
+    <textblock>(ii) The holder made an election for the debt instrument</textblock>
+    <textblock>under §1.1272-3 to treat all interest as OID.</textblock>
+    <textblock>(4)</textblock>
+    <textblock>Special rules for determining the OID allocable to an</textblock>
+    <textblock>accrual period.</textblock>
+    <textblock>The following rules apply to determine the OID</textblock>
+    <textblock>allocable to an accrual period under paragraph (b)(1)(iii) of</textblock>
+    <textblock>this section.</textblock>
+    <textblock>(i)</textblock>
+    <textblock>Unpaid qualified stated interest allocable to an accrual</textblock>
+    <textblock>period.</textblock>
+    <textblock>In determining the OID allocable to an accrual period,</textblock>
+    <textblock>if an interval between payments of qualified stated interest</textblock>
+    <textblock>contains more than 1 accrual period_</textblock>
+    <textblock>(A) The amount of qualified stated interest payable at the</textblock>
+    <textblock>end of the interval (including any qualified stated interest that</textblock>
+    <textblock>is payable on the first day of the accrual period immediately</textblock>
+    <textblock>following the interval) is allocated on a pro rata basis to each</textblock>
+    <textblock>accrual period in the interval; and</textblock>
+    <textblock>(B) The adjusted issue price at the beginning of each</textblock>
+    <textblock>accrual period in the interval must be increased by the amount of</textblock>
+    <textblock>any qualified stated interest that has accrued prior to the first</textblock>
+    <textblock>day of the accrual period but that is not payable until the end</textblock>
+    <textblock>of the interval. See</textblock>
+    <textblock>Example 2</textblock>
+    <textblock>of paragraph (j) of this section</textblock>
+    <textblock>for an example illustrating the rules in this paragraph</textblock>
+    <textblock>(b)(4)(i).</textblock>
+    <textblock>(ii)</textblock>
+    <textblock>Final accrual period.</textblock>
+    <textblock>The OID allocable to the final</textblock>
+    <textblock>accrual period is the difference between the amount payable at</textblock>
+    <textblock>maturity (other than a payment of qualified stated interest) and</textblock>
+    <textblock>the adjusted issue price at the beginning of the final accrual</textblock>
+    <textblock>period.</textblock>
+    <textblock>(iii)</textblock>
+    <textblock>Initial short accrual period.</textblock>
+    <textblock>If all accrual periods</textblock>
+    <textblock>are of equal length, except for either an initial shorter accrual</textblock>
+    <textblock>period or an initial and a final shorter accrual period, the</textblock>
+    <textblock>amount of OID allocable to the initial accrual period may be</textblock>
+    <textblock>computed using any reasonable method. See</textblock>
+    <textblock>Example 3</textblock>
+    <textblock>in paragraph</textblock>
+    <textblock>(j) of this section.</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Payment on first day of an accrual period.</textblock>
+    <textblock>The</textblock>
+    <textblock>adjusted issue price at the beginning of an accrual period is</textblock>
+    <textblock>reduced by the amount of any payment (other than a payment of</textblock>
+    <textblock>qualified stated interest) that is made on the first day of the</textblock>
+    <textblock>accrual period.</textblock>
+    <textblock>(c)</textblock>
+    <textblock>Yield and maturity of certain debt instruments subject</textblock>
+    <textblock>to contingencies_</textblock>
+    <textblock>(1)</textblock>
+    <textblock>Applicability.</textblock>
+    <textblock>This paragraph (c) provides</textblock>
+    <textblock>rules to determine the yield and maturity of a debt instrument</textblock>
+    <textblock>that provides for an alternative payment schedule (or schedules)</textblock>
+    <textblock>applicable upon the occurrence of a contingency (or</textblock>
+    <textblock>contingencies). This paragraph (c) applies, however, only if the</textblock>
+    <textblock>timing and amounts of the payments that comprise each payment</textblock>
+    <textblock>schedule are known as of the issue date. A debt instrument does</textblock>
+    <textblock>not provide for an alternative payment schedule merely because</textblock>
+    <textblock>there is a possibility of impairment of a payment (or payments)</textblock>
+    <textblock>by insolvency, default, or similar circumstances. See</textblock>
+    <textblock>regulations under section 1275(d) for the treatment of debt</textblock>
+    <textblock>instruments with payments that are otherwise contingent as to</textblock>
+    <textblock>timing or amount. See §1.1273-1(c) to determine whether stated</textblock>
+    <textblock>interest on a debt instrument subject to this paragraph (c) is</textblock>
+    <textblock>qualified stated interest.</textblock>
+    <textblock>(2)</textblock>
+    <textblock>General rule.</textblock>
+    <textblock>In general, the yield and maturity of a</textblock>
+    <textblock>debt instrument subject to this paragraph (c) are determined by</textblock>
+    <textblock>assuming that the payments will be made according to the</textblock>
+    <textblock>instrument's stated payment schedule.</textblock>
+  </text>
+</doc>

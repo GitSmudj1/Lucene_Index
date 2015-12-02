@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940204-1-00014</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940204-1-00001</textblock>
+  </parent>
+  <text>
+    <textblock>PART 474_ELECTRIC AND HYBRID VEHICLE RESEARCH, DEVELOPMENT, AND</textblock>
+    <textblock>DEMONSTRATION PROGRAM; EQUIVALENT PETROLEUM-BASED FUEL ECONOMY</textblock>
+    <textblock>CALCULATION</textblock>
+    <textblock>1. The authority citation for part 474 continues to read as follows:</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>Section 503(a)(3) Motor Vehicle Information and Cost</textblock>
+    <textblock>Savings Act, Pub. L. 94-163 (15 U.S.C. 2003(a)(3)), as added by Section</textblock>
+    <textblock>18, Chrysler Corporation Loan Guarantee Act of 1979, Pub. L. 96-185;</textblock>
+    <textblock>Department of Energy Organization Act,</textblock>
+    <textblock>Pub. L. 95-91.</textblock>
+    <textblock>2. Section 474.2 is amended by removing the definitions for ``Steady-</textblock>
+    <textblock>speed electrical efficiency value'' and ``Stop-and-go electrical</textblock>
+    <textblock>efficiency value'' and adding the following definitions in alphabetical</textblock>
+    <textblock>order:</textblock>
+    <textblock>§474.2</textblock>
+    <textblock>Definitions.</textblock>
+    <textblock>* * * * *</textblock>
+    <textblock>Highway fuel economy test procedure driving schedule electrical</textblock>
+    <textblock>efficiency value</textblock>
+    <textblock>means the average number of kilowatt-hours of</textblock>
+    <textblock>electrical energy required for an electric vehicle to travel 1 mile of</textblock>
+    <textblock>the highway fuel economy test procedure driving schedule, as determined</textblock>
+    <textblock>in accordance with §474.3(c).</textblock>
+    <textblock>* * * * *</textblock>
+    <textblock>Urban driving schedule electrical efficiency value</textblock>
+    <textblock>means the average</textblock>
+    <textblock>number of kilowatt-hours of electrical energy required for an electric</textblock>
+    <textblock>vehicle to travel one mile of the urban driving schedule, as determined</textblock>
+    <textblock>in accordance with §474.3(b).</textblock>
+    <textblock>3. Section 474.3 is revised to read as follows:</textblock>
+    <textblock>§474.3</textblock>
+    <textblock>Test procedures.</textblock>
+    <textblock>(a) The conditions and equipment in the Electric Vehicle Energy</textblock>
+    <textblock>Consumption and Range Test Procedure_J1634 of the Society of</textblock>
+    <textblock>Automotive Engineers shall be used for conducting the test procedures</textblock>
+    <textblock>set forth in this section.</textblock>
+    <textblock>(b) The energy consumption test procedures prescribed in Society of</textblock>
+    <textblock>Automotive Engineers procedure J1634, Section 6, using the Environmental</textblock>
+    <textblock>Protection Agency Urban Driving Schedule, shall be used for generation</textblock>
+    <textblock>of the urban driving schedule electrical efficiency value.</textblock>
+    <textblock>(c) The energy consumption test procedures prescribed in Society of</textblock>
+    <textblock>Automotive Engineers procedure J1634, Section 6, using the Highway Fuel</textblock>
+    <textblock>Economy Test Procedure Driving Schedule, shall be used for generation of</textblock>
+    <textblock>the highway fuel economy test procedure driving schedule electrical</textblock>
+    <textblock>efficiency value.</textblock>
+    <textblock>4. Section 474.4 is amended by revising paragraphs (a), (b) and (e) to</textblock>
+    <textblock>read as follows:</textblock>
+    <textblock>§474.4</textblock>
+    <textblock>Equivalent petroleum-based fuel economy calculation.</textblock>
+    <textblock>(a) Calculate the equivalent petroleum-based fuel economy of an</textblock>
+    <textblock>electric vehicle as follows:</textblock>
+    <textblock>(1) Determine the urban driving schedule electrical efficiency value,</textblock>
+    <textblock>according to §474.3(b).</textblock>
+    <textblock>(2) Determine the highway driving schedule electrical efficiency</textblock>
+    <textblock>value, according to §474.3(c).</textblock>
+    <textblock>(b) Calculate the electrical energy efficiency value by:</textblock>
+    <textblock>(1) Multiplying the urban driving schedule electrical efficiency value</textblock>
+    <textblock>by 0.55; and</textblock>
+    <textblock>(2) Multiplying the highway fuel economy test procedure driving</textblock>
+    <textblock>schedule electrical efficiency value by 0.45; and</textblock>
+    <textblock>(3) Adding the resulting two figures, rounding to the nearest 0.01</textblock>
+    <textblock>kWh/mile.</textblock>
+    <textblock>* * * * *</textblock>
+    <textblock>(e) Calculate the equivalent petroleum-based fuel economy value in</textblock>
+    <textblock>miles per gallon by multiplying the electric energy efficiency value by</textblock>
+    <textblock>one of the three petroleum equivalency factor values which reflect the</textblock>
+    <textblock>three production volume/accessory combinations specified in §474.4(d):</textblock>
+    <textblock>(i) 2.32;</textblock>
+    <textblock>(ii) 2.09; or</textblock>
+    <textblock>(iii) 1.88.</textblock>
+  </text>
+  <frfiling>
+    <textblock>[FR Doc. 94-2093 Filed 2-3-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 6450-01-P</textblock>
+  </billing>
+</doc>

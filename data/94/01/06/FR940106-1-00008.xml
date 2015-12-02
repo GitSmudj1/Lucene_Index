@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940106-1-00008</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940106-1-00002</textblock>
+  </parent>
+  <text>
+    <textblock>(c) The engine will be shown to operate at an acceptable level for a minimum of 30 seconds when subjected to the critical point conditions for hail ingestion. The percentage of hail to airflow by weight, at the critical point, is to be reproduced during the engine test. The test should adequately model the inflight hail concentration effect at the primary flow (core) inlet. Hailstone size and velocity distributions must be representative of the critical hail ingestion point. All variable systems whose position could effect engine operation during hail ingestion, must be scheduled for the most critical positions.</textblock>
+    <textblock>(d) Acceptable engine operation, as noted in paragraphs (b) and (c) of this special condition, must preclude rundown, flameout, surge, loss of acceleration capability, limit exceedance, or any other engine anomaly which would negatively affect the operability of the engine.</textblock>
+    <textblock>(e) The engine, as operated under the conditions defined in paragraphs (b) and (c) of this special condition, must show that it will operate acceptably if exposed to other probable factors associated with normal operations. These other probable factors include, but are not limited to, performance losses, installation effects, inlet distortion, and throttle transients.</textblock>
+    <textblock>Issued in Burlington, Massachusetts, on December 29, 1993.</textblock>
+  </text>
+  <signer>
+    <textblock>Jay J. Pardee,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Engine and propeller Directorate, Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-249 Filed 1-5-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-M</textblock>
+  </billing>
+</doc>

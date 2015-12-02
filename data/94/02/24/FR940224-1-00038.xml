@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940224-1-00038</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940224-1-00009</textblock>
+  </parent>
+  <text/>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>4._</textblock>
+    <textblock>E85 Base Fuel Properties</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>Chemical grade ethanol, vol%</textblock>
+    <textblock>85.0</textblock>
+    <textblock>Gasoline base fuel, vol%</textblock>
+    <textblock>15.0</textblock>
+    <textblock>Chlorine (as chloride), wt%, max</textblock>
+    <textblock>0.0004</textblock>
+    <textblock>Copper, mg/L, max</textblock>
+    <textblock>0.07</textblock>
+    <textblock>Sulfur, wt%, max</textblock>
+    <textblock>0.004</textblock>
+    <textblock>Water, wt%, max</textblock>
+    <textblock>0.50</textblock>
+  </table>
+</doc>

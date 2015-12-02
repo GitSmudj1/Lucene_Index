@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940105-0-00022</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940105-0-00006</textblock>
+  </parent>
+  <text>
+    <textblock>Airworthiness Directives: Rockwell International, Collins Air Transport Division, Traffic Alert and Collision Avoidance System II Processors</textblock>
+  </text>
+  <cfrno>
+    <textblock>14 CFR Part 39</textblock>
+  </cfrno>
+  <rindock>
+    <textblock>[Docket No. 93-CE-47-AD; Amendment 39-8788; AD 94-01-06]</textblock>
+  </rindock>
+  <agency>
+    <textblock>AGENCY:</textblock>
+    <textblock>Federal Aviation Administration, DOT.</textblock>
+  </agency>
+  <action>
+    <textblock>ACTION:</textblock>
+    <textblock>Final rule.</textblock>
+  </action>
+  <summary>
+    <textblock>SUMMARY:</textblock>
+    <textblock>This amendment adopts a new airworthiness</textblock>
+    <textblock>directive (AD) that applies to certain Rockwell</textblock>
+    <textblock>International, Collins Air Transport Division</textblock>
+    <textblock>(Collins), Traffic Alert and Collision Avoidance System</textblock>
+    <textblock>(TCAS) II processors that are installed on aircraft.</textblock>
+    <textblock>This action requires replacing the existing TCAS II</textblock>
+    <textblock>processor with a new processor that incorporates</textblock>
+    <textblock>updated computer logic or reprogramming certain</textblock>
+    <textblock>processors while they are still on board the aircraft.</textblock>
+    <textblock>The development of candidate enhancements to TCAS II</textblock>
+    <textblock>logic that improves its utility and increases its</textblock>
+    <textblock>overall operational acceptance prompted the proposed</textblock>
+    <textblock>action. The actions specified by this AD are intended</textblock>
+    <textblock>to prevent collisions or near misses caused by</textblock>
+    <textblock>incompatibility between the TCAS II processors and the</textblock>
+    <textblock>current air traffic control system.</textblock>
+  </summary>
+  <date>
+    <textblock>EFFECTIVE DATE:</textblock>
+    <textblock>February 4, 1994.</textblock>
+  </date>
+  <address>
+    <textblock>ADDRESSES:</textblock>
+    <textblock>Service information that is referenced in</textblock>
+    <textblock>this AD may be obtained from Rockwell</textblock>
+    <textblock>International/Collins Air Transport Division, 400</textblock>
+    <textblock>Collins Road, NE; Cedar Rapids, Iowa 52498.</textblock>
+    <textblock>Information that relates to this AD may be examined at</textblock>
+    <textblock>the Federal Aviation Administration (FAA), Central</textblock>
+    <textblock>Region, Office of the Assistant Chief Counsel, room</textblock>
+    <textblock>1558, 601 E. 12th Street, Kansas City, Missouri 64106.</textblock>
+  </address>
+  <further>
+    <textblock>FOR FURTHER INFORMATION CONTACT:</textblock>
+    <textblock>Mr. Roger A. Souter,</textblock>
+    <textblock>Aerospace Engineer, Wichita Aircraft Certification</textblock>
+    <textblock>Office, 1801 Airport Road, room 100, Mid-Continent</textblock>
+    <textblock>Airport, Wichita, Kansas 67209; telephone (316)</textblock>
+    <textblock>946-4134; facsimile (316) 946-4407.</textblock>
+  </further>
+  <supplem>
+    <textblock>SUPPLEMENTARY INFORMATION:</textblock>
+    <textblock>A proposal to amend part 39</textblock>
+    <textblock>of the Federal Aviation Regulations to include an AD</textblock>
+    <textblock>that applies to certain Collins TCAS II processors</textblock>
+    <textblock>that are installed on aircraft was published in the</textblock>
+    <textblock>Federal Register</textblock>
+    <textblock>on September 9, 1993 (58 FR 47409).</textblock>
+    <textblock>The action proposed to require (1) removing from</textblock>
+    <textblock>service all processors that do not have computer logic</textblock>
+    <textblock>``Change 6.04A'' incorporated; and (2) mandatory</textblock>
+    <textblock>incorporation of ``Change 6.04A'' into the TCAS II</textblock>
+    <textblock>computer system.</textblock>
+    <textblock>The affected TCAS II processors are not designed</textblock>
+    <textblock>for a specific aircraft type. The Collins TCAS II</textblock>
+    <textblock>processors are installed on, but not limited to the</textblock>
+    <textblock>following:</textblock>
+  </supplem>
+</doc>

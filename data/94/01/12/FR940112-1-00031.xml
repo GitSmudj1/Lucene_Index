@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940112-1-00031</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940112-1-00013</textblock>
+  </parent>
+  <text>
+    <textblock>Q. 12:</textblock>
+    <textblock>If the possession product is a component product or an end-product form, how is the combined taxable income for such product to be determined?</textblock>
+    <textblock>A. 12: (i) Combined taxable income for a component product or an end-product form is computed under the production cost ratio (PCR) method.</textblock>
+    <textblock>(ii) Under the PCR method, the combined taxable income for a component product will be the same proportion of the combined taxable income for the integrated product which the production costs attributable to the component product bear to the total production costs for the integrated product. Production costs will be the sum of the direct and indirect production costs as defined for inventory accounting purposes under §1.471-11 (b), (c) or (d), except that the costs will not include the costs of materials.</textblock>
+    <textblock>(iii) Under the PCR method the combined taxable income for an end-product form will be the same proportion of the combined taxable income for the integrated product which the production costs attributable to the end-product form bear to the total production costs for the integrated product. Production costs will be the sum of the direct and indirect production costs as defined for inventory accounting purposes under §1.471-11 (b), (c) or (d), except that the costs will not include the costs of materials.</textblock>
+    <textblock>(iv)</textblock>
+    <textblock>Example.</textblock>
+    <textblock>The following example illustrates a possessions corporation, S, engaged in the manufacture of microprocessors. S obtains a component from a U.S. affiliate, O. S sells its production to another U.S. affiliate, P, which incorporates the microprocessors into central processing units (CPUs). P transfers the CPUs to a U.S. affiliate, Q, which incorporates the CPUs into computers for sale to unrelated persons. S chooses to define the possession product as the CPUs. The combined taxable income for the sale of the possession product on the basis of the given production, sales, and cost data is computed below:</textblock>
+    <textblock>* * * * *</textblock>
+    <textblock>A. 13:</textblock>
+    <textblock>(i) The income shall be allocated to U.S. affiliates as follows_</textblock>
+    <textblock>(A) First, to U.S. affiliates (other than tax-exempt affiliates) within the group (as determined under section 482) which derive income with respect to the product produced in whole or in part in the possession;</textblock>
+    <textblock>(B) Second, to U.S. affiliates (other than tax-exempt affiliates) which derive income from the active conduct of a trade or business in the same product area as the possession product;</textblock>
+    <textblock>(C) Third, to other U.S. affiliates (other than tax-exempt affiliates);</textblock>
+    <textblock>(D) Fourth, to foreign affiliates which derive income from the active conduct of a U.S. trade or business in the same product area as the possession product (or, if the foreign members are resident in a country with which the U.S. has an income tax convention, then to those foreign members that have a permanent establishment in the United States which derives income in the same product area as the possession product); and</textblock>
+    <textblock>(E) Fifth, to all other affiliates.</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>Production costs (excluding costs of materials):</textblock>
+    <textblock>1. O's costs for the component</textblock>
+    <textblock>100</textblock>
+    <textblock>2. S's costs for the microprocessors</textblock>
+    <textblock>500</textblock>
+    <textblock>3. P's costs for the CPU's (the possession</textblock>
+    <textblock>product)</textblock>
+    <textblock>200</textblock>
+    <textblock>4. Q's costs for the computers</textblock>
+    <textblock>400</textblock>
+    <textblock>5. Total production costs for the computer</textblock>
+    <textblock>(Add lines 1 through 4)</textblock>
+    <textblock>1,200</textblock>
+    <textblock>6. Combined production costs for the CPU</textblock>
+    <textblock>(the possession product) (Add lines 1</textblock>
+    <textblock>through 3)</textblock>
+    <textblock>800</textblock>
+    <textblock>7. Ratio of production costs for the CPUs</textblock>
+    <textblock>(the possession product) to the production</textblock>
+    <textblock>costs for the computer (the integrated</textblock>
+    <textblock>product)</textblock>
+    <textblock>0.667</textblock>
+    <textblock>Determination of combined taxable income for computers_Sales:</textblock>
+    <textblock>8. Total possession sales of computers to unrelated customers and foreign affiliates</textblock>
+    <textblock>7,500</textblock>
+    <textblock>Total costs of O, S, P, and Q incurred in production</textblock>
+    <textblock>of a computer:</textblock>
+    <textblock>9. Production costs</textblock>
+    <textblock>(enter from line 5)</textblock>
+    <textblock>1,200</textblock>
+    <textblock>10. Material costs</textblock>
+    <textblock>100</textblock>
+    <textblock>11. Total costs (line 9 plus line 10)</textblock>
+    <textblock>1,300</textblock>
+    <textblock>12. Combined gross income from sale of computers</textblock>
+    <textblock>(line 8 minus line 11)</textblock>
+    <textblock>6,200</textblock>
+    <textblock>Expenses of the affiliated group (other than</textblock>
+    <textblock>foreign affiliates) allocable and apportionable</textblock>
+    <textblock>to the computers or any component thereof under</textblock>
+    <textblock>the rules of §§1.861-8 through 1.861-14T and 1.936-6(b)(1), Question and Answer 1:</textblock>
+    <textblock>13. Expenses (other than research expenses)</textblock>
+    <textblock>980</textblock>
+    <textblock>Research expenses of the affiliated group allocable</textblock>
+    <textblock>and apportionable to the computers:</textblock>
+    <textblock>14. Total sales in the 3-digit SIC Code</textblock>
+    <textblock>12,500</textblock>
+    <textblock>15. Possession sales (enter from line 8)</textblock>
+    <textblock>7,500</textblock>
+    <textblock>16. Cost sharing fraction</textblock>
+    <textblock>(divide line 15 by line 14)</textblock>
+    <textblock>0.6</textblock>
+    <textblock>17. Research expenses incurred by the affiliated</textblock>
+    <textblock>group in 3-digit SIC Code multiplied by 120</textblock>
+    <textblock>percent</textblock>
+    <textblock>700</textblock>
+    <textblock>18. Cost sharing amount</textblock>
+    <textblock>(multiply line 16 by line 17)</textblock>
+    <textblock>420</textblock>
+    <textblock>19. Research of the affiliated group (other than</textblock>
+    <textblock>foreign affiliates) allocable and apportionable</textblock>
+    <textblock>under §§1.861-8(e)(3) and 1.861-14T(e)(2)</textblock>
+    <textblock>to the computers (the integrated product).</textblock>
+    <textblock>300</textblock>
+    <textblock>20. Enter the greater of line 18 or line 19</textblock>
+    <textblock>420</textblock>
+    <textblock>Computation of combined taxable income of the computer and the CPU:</textblock>
+    <textblock>21. Combined taxable income attributable to the</textblock>
+    <textblock>computer (line 12 minus line 13 and line 20)</textblock>
+    <textblock>4,800</textblock>
+    <textblock>22. Combined taxable income attributable to CPUs</textblock>
+    <textblock>(multiply line 21 by line 7) (production cost ratio)</textblock>
+    <textblock>3,200</textblock>
+    <textblock>23. Share of combined taxable income apportioned</textblock>
+    <textblock>to S (50 percent of line 22)</textblock>
+    <textblock>1,600</textblock>
+    <textblock>Share of combined taxable income apportioned to U.S. affiliate(s) of S:</textblock>
+    <textblock>24. Adjustments for research expenses (line 18</textblock>
+    <textblock>minus line 19 multiplied by line 7)</textblock>
+    <textblock>80</textblock>
+    <textblock>25. Adjusted combined taxable income</textblock>
+    <textblock>(line 22 plus line 24)</textblock>
+    <textblock>3,280</textblock>
+    <textblock>26. Share of combined taxable income apportioned</textblock>
+    <textblock>to affiliates of S (line 25 minus line 23)</textblock>
+    <textblock>1,680</textblock>
+  </table>
+</doc>

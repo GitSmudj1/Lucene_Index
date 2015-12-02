@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940224-1-00034</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940224-1-00009</textblock>
+  </parent>
+  <text/>
+  <table>
+    <textblock>Table</textblock>
+    <textblock>1._Unleaded Gasoline Base Fuel Properties</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>API Gravity</textblock>
+    <textblock>57.4</textblock>
+    <textblock>#</textblock>
+    <textblock>0.3</textblock>
+    <textblock>Sulfur, ppm</textblock>
+    <textblock>33</textblock>
+    <textblock>#</textblock>
+    <textblock>25</textblock>
+    <textblock>Benzene, vol%</textblock>
+    <textblock>1.53</textblock>
+    <textblock>#</textblock>
+    <textblock>0.3</textblock>
+    <textblock>RVP, psi</textblock>
+    <textblock>8.7</textblock>
+    <textblock>#</textblock>
+    <textblock>0.3</textblock>
+    <textblock>Octane, (R+M)/2</textblock>
+    <textblock>87.3</textblock>
+    <textblock>#</textblock>
+    <textblock>0.5</textblock>
+    <textblock>1</textblock>
+    <textblock>Distillation parameters</textblock>
+    <textblock>0</textblock>
+    <textblock>IBP,</textblock>
+    <textblock>○F</textblock>
+    <textblock>91</textblock>
+    <textblock>#</textblock>
+    <textblock>5</textblock>
+    <textblock>10%,</textblock>
+    <textblock>○F</textblock>
+    <textblock>128</textblock>
+    <textblock>#</textblock>
+    <textblock>5</textblock>
+    <textblock>50%,</textblock>
+    <textblock>○F</textblock>
+    <textblock>218</textblock>
+    <textblock>#</textblock>
+    <textblock>5</textblock>
+    <textblock>90%,</textblock>
+    <textblock>○F</textblock>
+    <textblock>330</textblock>
+    <textblock>#</textblock>
+    <textblock>5</textblock>
+    <textblock>End Point,</textblock>
+    <textblock>○F</textblock>
+    <textblock>415</textblock>
+    <textblock>#</textblock>
+    <textblock>5</textblock>
+    <textblock>Aromatics, vol%</textblock>
+    <textblock>32.0</textblock>
+    <textblock>#</textblock>
+    <textblock>0.5</textblock>
+    <textblock>Olefins, vol%</textblock>
+    <textblock>9.2</textblock>
+    <textblock>#</textblock>
+    <textblock>0.3</textblock>
+    <textblock>Saturates, vol%</textblock>
+    <textblock>58.8</textblock>
+    <textblock>#</textblock>
+    <textblock>1.0</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1Additive1</textblock>
+    <textblock>1Allowable range</textblock>
+    <textblock>Deposit Control</textblock>
+    <textblock>12-200 ppm</textblock>
+    <textblock>Corrosion Inhibitor</textblock>
+    <textblock>4-40 ppm</textblock>
+    <textblock>Demulsifier</textblock>
+    <textblock>0.4-10.0 ppm</textblock>
+    <textblock>Anti-oxidant</textblock>
+    <textblock>12-20 ppm</textblock>
+    <textblock>Metal deactivator</textblock>
+    <textblock>4-12 ppm</textblock>
+    <textblock>1Additives used in the base fuel may contain no elements other than CHON.</textblock>
+  </table>
+</doc>

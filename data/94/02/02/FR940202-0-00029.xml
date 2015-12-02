@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940202-0-00029</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940202-0-00005</textblock>
+  </parent>
+  <text>
+    <textblock>(4)</textblock>
+    <textblock>Setoff allocation rule.</textblock>
+    <textblock>If a taxpayer meets the</textblock>
+    <textblock>requirements of paragraph (d) of this section with respect to</textblock>
+    <textblock>some, but not all of the allocations made under section 482, then</textblock>
+    <textblock>for purposes of determining the net section 482 adjustment,</textblock>
+    <textblock>setoffs, as taken into account under §1.482-1T(e)(5), must be</textblock>
+    <textblock>applied ratably against all such allocations. The following</textblock>
+    <textblock>example illustrates the principle of this paragraph (c)(4).</textblock>
+    <textblock>Example.</textblock>
+    <textblock>(i) The Internal Revenue Service makes the</textblock>
+    <textblock>following section 482 adjustments for the taxable year:</textblock>
+    <textblock>(ii) The taxpayer meets the requirements of paragraph (d)</textblock>
+    <textblock>with respect to adjustment number one, but not with respect to</textblock>
+    <textblock>adjustment number two. The five million dollar setoff will be</textblock>
+    <textblock>allocated ratably against the nine million dollar adjustment</textblock>
+    <textblock>($9,000,000/$15,000,000 × $5,000,000 = $3,000,000) and the six</textblock>
+    <textblock>million dollar adjustment ($6,000,000/$15,000,000 × $5,000,000 =</textblock>
+    <textblock>$2,000,000). Accordingly, in determining the net section 482</textblock>
+    <textblock>adjustment, the nine million dollar adjustment is reduced to six</textblock>
+    <textblock>million dollars ($9,000,000 ^ $3,000,000) and the six million</textblock>
+    <textblock>dollar adjustment is reduced to four million dollars</textblock>
+    <textblock>($6,000,000 ^ $2,000,000). Therefore, the net section 482</textblock>
+    <textblock>adjustment equals four million dollars.</textblock>
+    <textblock>(5)</textblock>
+    <textblock>Gross receipts.</textblock>
+    <textblock>For purposes of this section, gross</textblock>
+    <textblock>receipts must be computed pursuant to the rules contained in</textblock>
+    <textblock>§1.448-1T(f)(2)(iv), as adjusted to reflect allocations under</textblock>
+    <textblock>section 482.</textblock>
+    <textblock>(6)</textblock>
+    <textblock>Coordination with reasonable cause exception under</textblock>
+    <textblock>section 6664(c).</textblock>
+    <textblock>Pursuant to section 6662(e)(3)(D), a taxpayer</textblock>
+    <textblock>will be treated as having reasonable cause under section 6664(c)</textblock>
+    <textblock>for any portion of an underpayment attributable to a net section</textblock>
+    <textblock>482 adjustment only if the taxpayer meets the requirements of</textblock>
+    <textblock>paragraph (d) of this section with respect to that portion.</textblock>
+    <textblock>(7)</textblock>
+    <textblock>Examples.</textblock>
+    <textblock>The principles of this paragraph (c) are</textblock>
+    <textblock>illustrated by the following examples.</textblock>
+    <textblock>Example 1.</textblock>
+    <textblock>(i) The Internal Revenue Service makes the</textblock>
+    <textblock>following section 482 adjustments for the taxable year:</textblock>
+    <textblock>(ii) None of the adjustments are excluded under paragraph</textblock>
+    <textblock>(d) of this section. The net section 482 adjustment ($6.5</textblock>
+    <textblock>million) is greater than five million dollars. Therefore, there</textblock>
+    <textblock>is a substantial valuation misstatement.</textblock>
+    <textblock>Example 2.</textblock>
+    <textblock>(i) The Internal Revenue Service makes the</textblock>
+    <textblock>following section 482 adjustments for the taxable year:</textblock>
+    <textblock>(ii) The taxpayer has gross receipts of sixty million</textblock>
+    <textblock>dollars after taking into account all section 482 adjustments.</textblock>
+    <textblock>None of the adjustments are excluded under paragraph (d) of this</textblock>
+    <textblock>section. The net section 482 adjustment ($4 million) is less</textblock>
+    <textblock>than the lesser of five million dollars or ten percent of gross</textblock>
+    <textblock>receipts ($60 million × 10% = $6 million). Therefore, there is</textblock>
+    <textblock>no substantial valuation misstatement.</textblock>
+    <textblock>Example 3.</textblock>
+    <textblock>(i) The Internal Revenue Service makes the</textblock>
+    <textblock>following section 482 adjustments to the income of an affiliated</textblock>
+    <textblock>group that files a consolidated return for the taxable year:</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>(1)</textblock>
+    <textblock>$9,000,000</textblock>
+    <textblock>(2)</textblock>
+    <textblock>6,000,000</textblock>
+    <textblock>(3) Because of a setoff under §1.482-1T(e)(5)</textblock>
+    <textblock>(5,000,000)</textblock>
+    <textblock>n,s</textblock>
+    <textblock>Total section 482 adjustments</textblock>
+    <textblock>10,000,000</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>(1) Attributable to an increase in</textblock>
+    <textblock>gross income because of an increase</textblock>
+    <textblock>in royalty payments</textblock>
+    <textblock>$2,000,000</textblock>
+    <textblock>(2) Attributable to an increase in</textblock>
+    <textblock>sales proceeds due to a decrease in</textblock>
+    <textblock>the profit margin of a related</textblock>
+    <textblock>buyer</textblock>
+    <textblock>2,500,000</textblock>
+    <textblock>(3) Attributable to a decrease in the</textblock>
+    <textblock>cost of goods sold because of a</textblock>
+    <textblock>decrease in the cost plus mark-up</textblock>
+    <textblock>of a related seller</textblock>
+    <textblock>2,000,000</textblock>
+    <textblock>n,s</textblock>
+    <textblock>Total section 482 adjustments</textblock>
+    <textblock>6,500,000</textblock>
+  </table>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>(1)</textblock>
+    <textblock>$11,000,000</textblock>
+    <textblock>(2)</textblock>
+    <textblock>2,000,000</textblock>
+    <textblock>(3) Because of a setoff under</textblock>
+    <textblock>§1.482-1T(e)(5)</textblock>
+    <textblock>9,000,000)</textblock>
+    <textblock>n,s</textblock>
+    <textblock>Total section 482 adjustments</textblock>
+    <textblock>4,000,000</textblock>
+  </table>
+</doc>

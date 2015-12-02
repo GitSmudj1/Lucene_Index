@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940204-1-00006</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940204-1-00001</textblock>
+  </parent>
+  <text>
+    <textblock>2. Electric Transmission Efficiency</textblock>
+    <textblock>Section 503(c)(3)(A)(ii) of the Motor Vehicle Information and</textblock>
+    <textblock>Cost Savings Act requires DOE to take account of ``the</textblock>
+    <textblock>national average electrical generation and transmission</textblock>
+    <textblock>efficiencies.'' Since energy is lost in transmitting</textblock>
+    <textblock>electricity, this factor has a negative effect on the</textblock>
+    <textblock>equivalent petroleum-based fuel economy. The national</textblock>
+    <textblock>average electrical transmission efficiency is 91.5</textblock>
+    <textblock>percent and is not expected to change significantly</textblock>
+    <textblock>over the next several years.</textblock>
+    <textblock>3. Accessory Factor</textblock>
+    <textblock>Sections 503(a)(3) (iii) and</textblock>
+    <textblock>(iv) direct DOE to include ``the need *␣*␣* to</textblock>
+    <textblock>conserve all forms of energy'' and ``specific</textblock>
+    <textblock>driving patterns of electric vehicles as compared</textblock>
+    <textblock>to petroleum-fueled vehicles'' in equivalent</textblock>
+    <textblock>petroleum-based fuel economy. Accordingly, DOE</textblock>
+    <textblock>considered the use of petroleum fueled accessories</textblock>
+    <textblock>in the Petroleum Equivalency Factor calculations.</textblock>
+    <textblock>This factor is directed exclusively at</textblock>
+    <textblock>heater/defroster installations that are powered by</textblock>
+    <textblock>petroleum fuels and has been assigned a usage</textblock>
+    <textblock>factor (reduction) of approximately ten percent</textblock>
+    <textblock>per accessory. This results in three possible</textblock>
+    <textblock>accessory factor values_1.00, .900, or .810_corresponding to whether the electric vehicle is</textblock>
+    <textblock>equipped with none, one, or two petroleum-powered</textblock>
+    <textblock>accessories respectively.</textblock>
+    <textblock>4. Electricity Generation Efficiency and Relative Scarcity</textblock>
+    <textblock>Factor</textblock>
+    <textblock>The last term in the Petroleum Equivalency</textblock>
+    <textblock>Factor formula takes account of the remaining</textblock>
+    <textblock>parameters listed in the Motor Vehicle Information and</textblock>
+    <textblock>Cost Savings Act: The national average electricity</textblock>
+    <textblock>generation efficiency and the relative scarcity and</textblock>
+    <textblock>value to the Nation of all fuel used to generate</textblock>
+    <textblock>electricity. The term is the ratio of total output</textblock>
+    <textblock>electricity generation mix to input electricity</textblock>
+    <textblock>generation, weighed by a relative scarcity factor. The</textblock>
+    <textblock>derivation of values for this term, and therefore, for</textblock>
+    <textblock>the Petroleum Equivalency Factor, depends on the</textblock>
+    <textblock>availability of data for (1) total electricity</textblock>
+    <textblock>generation, (2) energy sources used in electricity</textblock>
+    <textblock>generation, (3) electricity generation mix, (4) fuel</textblock>
+    <textblock>source reserves, and (5) consumption of electricity</textblock>
+    <textblock>generation fuel sources.</textblock>
+    <textblock>Section 503(a)(3)(A)(ii) of the Motor Vehicle</textblock>
+    <textblock>Information and Cost Savings Act requires DOE to take</textblock>
+    <textblock>into account average electricity generation efficiency.</textblock>
+    <textblock>Electricity generation efficiency is defined as the</textblock>
+    <textblock>total output electricity generation mix (E</textblock>
+    <textblock>total</textblock>
+    <textblock>)</textblock>
+    <textblock>divided by the sum of the input electricity generation</textblock>
+    <textblock>mix (I</textblock>
+    <textblock>2i</textblock>
+    <textblock>) values. The updated Petroleum Equivalency</textblock>
+    <textblock>Factor equation includes the effects of off-peak</textblock>
+    <textblock>electric vehicle charging in its calculation of average</textblock>
+    <textblock>electricity generation efficiency. The input</textblock>
+    <textblock>electricity generation mix values, based on off-peak</textblock>
+    <textblock>electric vehicle charging, were multiplied by the ratio</textblock>
+    <textblock>of electricity generation fuel source (quadrillion</textblock>
+    <textblock>BTUs) output (E</textblock>
+    <textblock>qi</textblock>
+    <textblock>) to input (I</textblock>
+    <textblock>qi</textblock>
+    <textblock>) values (Table I), to</textblock>
+    <textblock>obtain output electricity generation mix values (Table</textblock>
+    <textblock>II).</textblock>
+  </text>
+</doc>

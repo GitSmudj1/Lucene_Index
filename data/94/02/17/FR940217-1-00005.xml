@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940217-1-00005</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940217-1-00003</textblock>
+  </parent>
+  <text>
+    <textblock>This airplane model is manufactured in Canada and</textblock>
+    <textblock>is type certificated for operation in the United States</textblock>
+    <textblock>under the provisions of §21.29 of the Federal</textblock>
+    <textblock>Aviation Regulations and the applicable bilateral</textblock>
+    <textblock>airworthiness agreement. Pursuant to this bilateral</textblock>
+    <textblock>airworthiness agreement, Transport Canada has kept the</textblock>
+    <textblock>FAA informed of the situation described above. The FAA</textblock>
+    <textblock>has examined the findings of Transport Canada, reviewed</textblock>
+    <textblock>all available information, and determined that AD</textblock>
+    <textblock>action is necessary for products of this type design</textblock>
+    <textblock>that are certificated for operation in the United</textblock>
+    <textblock>States.</textblock>
+    <textblock>Since an unsafe condition has been identified that</textblock>
+    <textblock>is likely to exist or develop in other de Havilland DHC-6 series airplanes of the same type design, the</textblock>
+    <textblock>proposed AD would require repetitively inspecting the</textblock>
+    <textblock>horizontal stabilizer center hinge bracket for cracks,</textblock>
+    <textblock>and replacing any cracked center hinge bracket. The</textblock>
+    <textblock>proposed action would be accomplished in accordance</textblock>
+    <textblock>with the ACCOMPLISHMENT INSTRUCTIONS section of de</textblock>
+    <textblock>Havilland SB 6/512, dated October 25, 1991.</textblock>
+    <textblock>The FAA estimates that 169 airplanes in the U.S.</textblock>
+    <textblock>registry would be affected by the proposed AD, that it</textblock>
+    <textblock>would take approximately 1 workhour per airplane to</textblock>
+    <textblock>accomplish the proposed inspection, and that the</textblock>
+    <textblock>average labor rate is approximately $55 an hour. Based</textblock>
+    <textblock>on these figures, the total cost impact of the proposed</textblock>
+    <textblock>AD on U.S. operators is estimated to be $9,295. This</textblock>
+    <textblock>figure only includes the cost for the initial</textblock>
+    <textblock>inspection and does not include replacement costs if a</textblock>
+    <textblock>center hinge bracket was found cracked nor does it</textblock>
+    <textblock>include repetitive inspection costs. The FAA has no</textblock>
+    <textblock>way to determine how many center hinge brackets may be</textblock>
+    <textblock>cracked or how many repetitive inspections each</textblock>
+    <textblock>owner/operator may incur.</textblock>
+    <textblock>The regulations proposed herein would not have</textblock>
+    <textblock>substantial direct effects on the States, on the</textblock>
+    <textblock>relationship between the national government and the</textblock>
+    <textblock>States, or on the distribution of power and</textblock>
+    <textblock>responsibilities among the various levels of</textblock>
+    <textblock>government. Therefore, in accordance with Executive</textblock>
+    <textblock>Order 12612, it is determined that this proposal would</textblock>
+    <textblock>not have sufficient federalism implications to warrant</textblock>
+    <textblock>the preparation of a Federalism Assessment.</textblock>
+    <textblock>For the reasons discussed above, I certify that</textblock>
+    <textblock>this action (1) is not a ``significant regulatory</textblock>
+    <textblock>action'' under Executive Order 12866; (2) is not a</textblock>
+    <textblock>``significant rule'' under DOT Regulatory Policies and</textblock>
+    <textblock>Procedures (44 FR 11034, February 26, 1979); and (3) if</textblock>
+    <textblock>promulgated, will not have a significant economic</textblock>
+    <textblock>impact, positive or negative, on a substantial number</textblock>
+    <textblock>of small entities under the criteria of the Regulatory</textblock>
+    <textblock>Flexibility Act. A copy of the draft regulatory</textblock>
+    <textblock>evaluation prepared for this action has been placed in</textblock>
+    <textblock>the Rules Docket. A copy of it may be obtained by</textblock>
+    <textblock>contacting the Rules Docket at the location provided</textblock>
+    <textblock>under the caption</textblock>
+    <textblock>ADDRESSES</textblock>
+    <textblock>.</textblock>
+    <textblock>List of Subjects in 14 CFR Part 39</textblock>
+    <textblock>Air transportation, Aircraft, Aviation safety, Safety.</textblock>
+    <textblock>The Proposed Amendment</textblock>
+    <textblock>Accordingly, pursuant to the authority delegated</textblock>
+    <textblock>to me by the Administrator, the Federal Aviation</textblock>
+    <textblock>Administration proposes to amend 14 CFR part 39 of the</textblock>
+    <textblock>Federal Aviation Regulations as follows:</textblock>
+    <textblock>PART 39_AIRWORTHINESS DIRECTIVES</textblock>
+    <textblock>1. The authority citation for part 39 continues</textblock>
+    <textblock>to read as follows:</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>49 U.S.C. App. 1354(a), 1421 and 1423; 49</textblock>
+    <textblock>U.S.C. 106(g); and 14 CFR 11.89.</textblock>
+    <textblock>§39.13</textblock>
+    <textblock>[Amended]</textblock>
+    <textblock>2. Section 39.13 is amended by adding the</textblock>
+    <textblock>following new AD to read as follows:</textblock>
+    <textblock>De Havilland:</textblock>
+    <textblock>Docket No. 93-CE-52-AD.</textblock>
+    <textblock>Applicability:</textblock>
+    <textblock>Models DHC-6-1, DHC-6-100, DHC-6-200,</textblock>
+    <textblock>and DHC-6-300 airplanes (all serial numbers),</textblock>
+    <textblock>certificated in any category.</textblock>
+    <textblock>Compliance:</textblock>
+    <textblock>Required within the next 250 hours time-in-service</textblock>
+    <textblock>(TIS), unless already accomplished, and</textblock>
+    <textblock>thereafter at intervals not to exceed 1,200 hours TIS.</textblock>
+    <textblock>To prevent separation of the elevator control</textblock>
+    <textblock>support from the airplane as a result of a cracked</textblock>
+    <textblock>horizontal stabilizer center hinge bracket, which could</textblock>
+    <textblock>result in reduced controllability of the airplane,</textblock>
+    <textblock>accomplish the following:</textblock>
+    <textblock>(a) Inspect the horizontal stabilizer center hinge</textblock>
+    <textblock>bracket for cracks in accordance with the</textblock>
+    <textblock>ACCOMPLISHMENT INSTRUCTIONS section of de Havilland</textblock>
+    <textblock>Service Bulletin 6/512, dated October 25, 1991, except</textblock>
+    <textblock>that where dye penetrant inspections are specified,</textblock>
+    <textblock>accomplish visual inspections with a strong light</textblock>
+    <textblock>source and 10X magnifying glass. If any cracks are</textblock>
+    <textblock>found, prior to further flight, replace the center</textblock>
+    <textblock>hinge bracket in accordance with the referenced service</textblock>
+    <textblock>bulletin.</textblock>
+    <textblock>Note 1:</textblock>
+    <textblock>The repetitive inspection requirement of</textblock>
+    <textblock>this AD still applies if the center hinge bracket is</textblock>
+    <textblock>replaced.</textblock>
+    <textblock>(b) Special flight permits may be issued in</textblock>
+    <textblock>accordance with 14 CFR 21.197 and 21.199 to operate the</textblock>
+    <textblock>airplane to a location where the requirements of this</textblock>
+    <textblock>AD can be accomplished.</textblock>
+    <textblock>(c) An alternative method of compliance or</textblock>
+    <textblock>adjustment of the initial or repetitive compliance</textblock>
+    <textblock>times that provides an equivalent level of safety may</textblock>
+    <textblock>be approved by the Manager, New York Aircraft</textblock>
+    <textblock>Certification Office (ACO), FAA, 181 South Franklin</textblock>
+    <textblock>Avenue, room 202, Valley Stream, New York 11581. The</textblock>
+    <textblock>request shall be forwarded through an appropriate FAA</textblock>
+    <textblock>Maintenance Inspector, who may add comments and then</textblock>
+    <textblock>send it to the Manager, New York ACO.</textblock>
+    <textblock>Note 2:</textblock>
+    <textblock>Information concerning the existence of</textblock>
+    <textblock>approved alternative methods of compliance with this</textblock>
+    <textblock>AD, if any, may be obtained from the New York ACO.</textblock>
+    <textblock>(d) All persons affected by this directive may</textblock>
+    <textblock>obtain copies of the document referred to herein upon</textblock>
+    <textblock>request to de Havilland, Inc., 123 Garratt Boulevard,</textblock>
+    <textblock>Downsview, Ontario M3K 1Y5 Canada; or may examine this</textblock>
+    <textblock>document at the FAA, Central Region, Office of the</textblock>
+    <textblock>Assistant Chief Counsel, room 1558, 601 E. 12th Street,</textblock>
+    <textblock>Kansas City, Missouri 64106.</textblock>
+    <textblock>Issued in Kansas City, Missouri, on February 11, 1994.</textblock>
+  </text>
+  <signer>
+    <textblock>Michael K. Dahl,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager, Small Airplane Directorate, Aircraft Certification Office.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-3576 Filed 2-16-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-U</textblock>
+  </billing>
+</doc>

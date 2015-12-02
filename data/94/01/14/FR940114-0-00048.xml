@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940114-0-00048</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940114-0-00020</textblock>
+  </parent>
+  <text>
+    <textblock>ASCE 7-88: Wind Load Provisions in Model Codes</textblock>
+    <textblock>Building codes in each State or local jurisdiction control the design</textblock>
+    <textblock>and construction of buildings and structures in that jurisdiction. Most</textblock>
+    <textblock>communities in the United States adopt, in large part, one of the three model</textblock>
+    <textblock>building codes: the National Building Code of the Building Officials and Code</textblock>
+    <textblock>Administrators International (BOCA); the Standard Building Code (SBC) of the</textblock>
+    <textblock>Southern Building Code Congress International, Inc. (SBCCI); or the Uniform</textblock>
+    <textblock>Building Code (UBC) of International Conference of Building Officials (ICBO).</textblock>
+    <textblock>Wind load provisions in these model building codes are based on the ASCE 7-88</textblock>
+    <textblock>standard, but with some modifications.</textblock>
+    <textblock>The ASCE 7-88 standard considers all of the factors that influence the</textblock>
+    <textblock>magnitude of wind loads on a building. In addition to wind speed, those</textblock>
+    <textblock>factors include: (1) Terrain surrounding the building, (2) shape of the</textblock>
+    <textblock>building, and (3) desired safety of the building frame and components. The</textblock>
+    <textblock>model building codes use most of these factors from ASCE 7-88, but modify some</textblock>
+    <textblock>of the factors based on experience; because of tradition, other factors are</textblock>
+    <textblock>not considered.</textblock>
+    <textblock>Some provisions of model building codes are adopted from industry</textblock>
+    <textblock>manuals. The use, adoption, and modification of wind-load factors by the</textblock>
+    <textblock>model building codes result from an attempt to simplify the wind-load</textblock>
+    <textblock>provisions and react to the concerns of affected industries and special</textblock>
+    <textblock>interest groups. In general, these modifications by model code agencies</textblock>
+    <textblock>result in lower design requirements for wind forces than would be required</textblock>
+    <textblock>under ASCE 7-88.</textblock>
+    <textblock>Even with these modifications, final wind loads for most buildings are</textblock>
+    <textblock>fairly consistent in all model building codes. All three of the major model</textblock>
+    <textblock>building codes incorporate the basic wind speed map of ASCE 7-88, and</textblock>
+    <textblock>reference the ASCE standard in whole or in part, but either modify the</textblock>
+    <textblock>standard or require additional prescriptive design and construction</textblock>
+    <textblock>provisions. In addition, all three provide the use of ASCE 7-88 as an</textblock>
+    <textblock>alternative to be applied at the discretion of the designer.</textblock>
+    <textblock>However, the model building codes do not cover the design or</textblock>
+    <textblock>construction of manufactured housing. The only control local governments have</textblock>
+    <textblock>over manufactured housing and mobile (manufactured) home parks is through</textblock>
+    <textblock>certain zoning regulations, or anchoring, set-up, or installation</textblock>
+    <textblock>requirements. As noted by one commenter (150) and discussed in the next</textblock>
+    <textblock>section of this preamble, incorporation of the ASCE 7-88 standard will be</textblock>
+    <textblock>critical to ensuring continued acceptance of manufactured housing by local</textblock>
+    <textblock>jurisdictions in high wind areas.</textblock>
+    <textblock>Building Codes in Southern Florida</textblock>
+    <textblock>Generally, the local jurisdictions in Florida have adopted modifications</textblock>
+    <textblock>of the SBC or South Florida Building Code (SFBC). As one of its primary</textblock>
+    <textblock>recommendations in the aftermath of Hurricane Andrew, the 18-member Dade</textblock>
+    <textblock>County, Florida, Grand Jury stated that the 35-year-old South Florida Building</textblock>
+    <textblock>Code must be rewritten to duplicate the tougher, national wind standard of</textblock>
+    <textblock>ASCE 7-88. The Grand Jury recognized ASCE 7-88 as a standard that more</textblock>
+    <textblock>adequately reflects the design strength necessary for windows and doors. In</textblock>
+    <textblock>acknowledgment of the Grand Jury's recommendations, the Dade County Building</textblock>
+    <textblock>Code Committee adopted (effective January 1, 1994) the Wind Loads section of</textblock>
+    <textblock>ASCE 7-88, using Exposures C and D, only. The Grand Jury further recommended</textblock>
+    <textblock>that Dade County officials issue a moratorium on the permanent replacement of</textblock>
+    <textblock>manufactured homes until officials could be assured that the replacement homes</textblock>
+    <textblock>meet the ASCE 7-88 standards. Further, noting that lower standards are</textblock>
+    <textblock>applied to manufactured housing than to conventional housing, the 1992 Fall</textblock>
+    <textblock>Term Grand Jury asserted that ``the low standard amounted to discrimination</textblock>
+    <textblock>against those persons unable to afford the costs of conventional housing.''</textblock>
+    <textblock>In its Final Report, filed August 4, 1993, the Dade County Grand Jury</textblock>
+    <textblock>referenced the initial Grand Jury findings regarding the engineering</textblock>
+    <textblock>advantages of the ASCE 7-88 standard and commended its adoption into the SFBC.</textblock>
+    <textblock>The Grand Jury reported that:</textblock>
+    <textblock>[T]his additional and essential modification of the SFBC should</textblock>
+    <textblock>provoke a wide-ranging improvement of most of our building</textblock>
+    <textblock>designs, methods and products. It should also result in the</textblock>
+    <textblock>building of structures that will provide greater safety and</textblock>
+    <textblock>security during a hurricane.</textblock>
+    <textblock>In order to protect those living in and near manufactured homes, the Grand</textblock>
+    <textblock>Jury has reiterated the recommendation that a moratorium be instituted on the</textblock>
+    <textblock>installation in the County of any new mobile homes that do not meet the wind-loading standards of ASCE 7-88.</textblock>
+    <textblock>In addition, the SBCCI, after assessing the damage caused by Hurricane</textblock>
+    <textblock>Andrew, concluded that standards applicable to manufactured housing need to be</textblock>
+    <textblock>reviewed to bring them up to the level of other construction types, unless</textblock>
+    <textblock>society is willing to consider manufactured homes to be expendable. The SBCCI</textblock>
+    <textblock>said that even if manufactured homes are considered expendable, the issue of</textblock>
+    <textblock>the hazard they present to neighboring buildings and structures needs to be</textblock>
+    <textblock>addressed. Accordingly, they further concluded that steps need to be taken to</textblock>
+    <textblock>strengthen the structural frame, enforce tiedown provisions, and assure that</textblock>
+    <textblock>the installation of homes is done by those who are knowledgeable in the</textblock>
+    <textblock>requirements of the code. Unless these issues are addressed, the SBCCI</textblock>
+    <textblock>believes there will continue to be great costs associated with hurricane</textblock>
+    <textblock>damage.</textblock>
+    <textblock>Improved Anchoring and Foundation Systems</textblock>
+    <textblock>Enforcement of anchoring and tie-down systems for manufactured housing</textblock>
+    <textblock>construction has generally been considered a State or local government and</textblock>
+    <textblock>their building officials' responsibility. Section 3282.303 of the</textblock>
+    <textblock>Manufactured Home Procedural and Enforcement Regulations (24 CFR part 3282)</textblock>
+    <textblock>urges, but does not require, State Administrative Agencies to monitor</textblock>
+    <textblock>installation of manufactured homes. Thus, standards for foundations and</textblock>
+    <textblock>anchorings and enforcement of those standards are not uniform among the</textblock>
+    <textblock>States, and in some States are nonexistent. For example, the State of Florida</textblock>
+    <textblock>has statewide laws related to installation, but enforcement of those laws is</textblock>
+    <textblock>left to local building officials, while Louisiana is one of 23 States that</textblock>
+    <textblock>does not regulate installation of manufactured homes at all.</textblock>
+  </text>
+</doc>

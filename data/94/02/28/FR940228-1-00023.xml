@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940228-1-00023</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940228-1-00003</textblock>
+  </parent>
+  <text>
+    <textblock>3. A new heading for subpart A, consisting of §§34.1-34.8, is added to read as follows:</textblock>
+    <textblock>Subpart A_General Provisions</textblock>
+    <textblock>4. Section 34.1 is revised to read as follows:</textblock>
+    <textblock>§34.1</textblock>
+    <textblock>Purpose and scope.</textblock>
+    <textblock>This part prescribes requirements for the issuance of licenses for the use of sealed sources containing byproduct material and radiation safety requirements for persons using these sealed sources in industrial radiography. The provisions and requirements of this part are in addition to, and not in substitution for, other requirements of this chapter. In particular, the requirements and provisions of parts 19, 20, 21, 30, 71, 150, 170, and 171 of this chapter apply to applications and licenses subject to this part. This rule does not apply to medical uses of byproduct material.</textblock>
+    <textblock>§34.3</textblock>
+    <textblock>[Removed]</textblock>
+    <textblock>5. Section 34.3 is removed.</textblock>
+    <textblock>6. Section 34.2 is redesignated as §34.3, and the new §34.3 is revised to read as follows:</textblock>
+    <textblock>§34.3</textblock>
+    <textblock>Definitions.</textblock>
+    <textblock>ALARA</textblock>
+    <textblock>(acronym for as low as reasonably achievable) means making every reasonable effort to maintain exposures to radiation as far below the dose limits specified in part 20 as is practical consistent with the purpose for which the licensed activity is undertaken, taking into account the state of technology, the economics of improvements in relation to state of technology, the economics of improvements in relation to benefits to the public health and safety, and other societal and socioeconomic considerations, and in relation to utilization of nuclear energy and licensed materials in the public interest.</textblock>
+    <textblock>Annual safety review</textblock>
+    <textblock>means a review conducted or provided by the licensee for its employees on radiation safety aspects of radiography. The review may include, as appropriate, the results of internal inspections, new procedures or equipment, accidents or errors that have been observed, and opportunities for employees to ask safety questions.</textblock>
+    <textblock>Associated equipment</textblock>
+    <textblock>means equipment that is used in conjunction with a radiographic exposure device to make radiographic exposures that drives, guides, or comes in contact with the source, (e.g., guide tube, control tube, control (drive) cable, removable source stop, ``J'' tube).</textblock>
+    <textblock>Becquerel (Bq)</textblock>
+    <textblock>means one disintegration per second.</textblock>
+    <textblock>Certifying entity</textblock>
+    <textblock>means an independent certifying organization meeting the requirements in Appendix A of this part or an Agreement State meeting the requirements in Appendix A, parts II and III of this part.</textblock>
+    <textblock>Collimator</textblock>
+    <textblock>means a device used to limit the size, shape, and direction of the primary radiation beam.</textblock>
+    <textblock>Control (drive) cable</textblock>
+    <textblock>means the cable that is connected to the source assembly and used to drive the source to and from the exposure location.</textblock>
+    <textblock>Control tube</textblock>
+    <textblock>means a protective sheath for guiding the control cable. The control tube connects the control drive mechanism to the radiographic exposure device.</textblock>
+    <textblock>Exposure head</textblock>
+    <textblock>means a device that locates the gamma radiography sealed source in the selected working position. (An exposure head is also known as a source stop.)</textblock>
+    <textblock>Field examination</textblock>
+    <textblock>means a demonstration through practical application of the safety rules and principles in radiography including use of all appropriate equipment and procedures.</textblock>
+    <textblock>Field station</textblock>
+    <textblock>means a facility where licensed material may be stored or used and from which equipment is dispatched.</textblock>
+    <textblock>Gray</textblock>
+    <textblock>means the SI unit of absorbed dose. One gray is equal to an absorbed dose of 1 Joule/kilogram. It is also equal to 100 rads.</textblock>
+    <textblock>Independent certifying organization</textblock>
+    <textblock>means an independent organization that meets all of the criteria in Appendix A of this part.</textblock>
+    <textblock>Permanent radiographic installation</textblock>
+    <textblock>means an enclosed shielded room, cell, or vault, not located at a temporary jobsite, in which radiography is performed.</textblock>
+    <textblock>Projection sheath (guide tube)</textblock>
+    <textblock>means a flexible or rigid tube (i.e., ``J'' tube) for guiding the source assembly and the attached control cable from the radiographic exposure device to the exposure head or working position.</textblock>
+    <textblock>Radiation Safety Officer</textblock>
+    <textblock>means an individual named by the licensee who has knowledge of, responsibility for, and authority to ensure compliance with appropriate radiation protection rules, standards, and practices on behalf of the licensee and who meets the requirements of §34.42.</textblock>
+    <textblock>Radiographer</textblock>
+    <textblock>means any individual who meets the requirements of §34.43, is in attendance at the site where the sealed source or sources are being used, personally supervises radiographic operations and who is responsible to the licensee for ensuring compliance with the requirements of the Commission's regulations and the conditions of the license.</textblock>
+    <textblock>Radiographer certification</textblock>
+    <textblock>means written approval received from a certifying entity stating that an individual has satisfactorily met certain established radiation safety training, testing, and experience criteria.</textblock>
+    <textblock>Radiographer's assistant</textblock>
+    <textblock>means any individual, who under the personal supervision of a radiographer, uses radiographic exposure devices, sealed sources or related handling tools, or radiation survey instruments in radiography.</textblock>
+    <textblock>Radiographic exposure device</textblock>
+    <textblock>(also called a camera or a projector) means any instrument containing a sealed source fastened or contained therein, in which the sealed source or shielding thereof may be moved, or otherwise changed, from a shielded to unshielded position for purposes of making a radiographic exposure.</textblock>
+    <textblock>Radiographic operations</textblock>
+    <textblock>means all activities associated with the presence of radioactive sources in a radiographic exposure device during transport and use of the device, to include surveys to confirm the adequacy of boundaries, setting up equipment and any activity inside restricted area boundaries.</textblock>
+    <textblock>Radiography</textblock>
+    <textblock>means the examination of the structure of materials by nondestructive methods, utilizing sealed sources of byproduct materials.</textblock>
+    <textblock>S-tube</textblock>
+    <textblock>means a tube (typically made of a hard metal, such as, titanium) through which the radioactive source travels in a radiographic exposure device.</textblock>
+    <textblock>Sealed source</textblock>
+    <textblock>means any byproduct material that is encased in a capsule designed to prevent leakage or escape of the byproduct material.</textblock>
+  </text>
+</doc>

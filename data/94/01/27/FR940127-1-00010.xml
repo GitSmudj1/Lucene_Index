@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940127-1-00010</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940127-1-00004</textblock>
+  </parent>
+  <text>
+    <textblock>The Proposed Amendment</textblock>
+    <textblock>Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration proposes to amend</textblock>
+    <textblock>14 CFR part 39 of the Federal Aviation Regulations as follows:</textblock>
+    <textblock>PART 39_AIRWORTHINESS DIRECTIVES</textblock>
+    <textblock>1. The authority citation for part 39 continues to read as follows:</textblock>
+    <textblock>Authority:</textblock>
+    <textblock>49 U.S.C. App. 1354(a), 1421 and 1423; 49 U.S.C. 106(g); and 14 CFR 11.89.</textblock>
+    <textblock>§39.13</textblock>
+    <textblock>[Amended]</textblock>
+    <textblock>2. Section 39.13 is amended by adding the following new airworthiness directive:</textblock>
+    <textblock>British Aerospace:</textblock>
+    <textblock>Docket 93-NM-167-AD.</textblock>
+    <textblock>Applicability:</textblock>
+    <textblock>All Model BAC 1-11-200 and -400 series airplanes, certificated in any category.</textblock>
+    <textblock>Compliance:</textblock>
+    <textblock>Required as indicated, unless accomplished previously.</textblock>
+    <textblock>To prevent the loss of brake effectiveness during a high energy rejected takeoff (RTO), accomplish the following:</textblock>
+    <textblock>(a) Within 180 days after the effective date of this AD, accomplish paragraphs (a)(1) and (a)(2) of this AD.</textblock>
+    <textblock>(1) Inspect main landing gear brakes having the brake part numbers listed below for wear. Any brake worn more than the maximum wear limit specified below must be replaced, prior to further flight, with a brake within that limit.</textblock>
+    <textblock>Note 1:</textblock>
+    <textblock>Measuring instructions for Bendix brakes can be found in Revision 4 of the Allied Signal Component Maintenance Manual.</textblock>
+    <textblock>Note 2:</textblock>
+    <textblock>Revision 4 of the Allied Signal Component Maintenance Manual specifies a brake wear limit of 1.06 inch for brake part number 2601240-1. That brake wear limit is superseded by the brake wear limit of 1.0 inch specified above for that brake part number. Revision 5 of the Allied Signal Component Maintenance Manual will reflect the revised brake wear limit of 1.0 inch. Brake units having wear indicators set at 1.06 inch will be considered to be fully worn when either wear indicator pin is 1.0 inch or less above the surface of the carrier, provided the wear pin has not been shortened on that brake unit.</textblock>
+    <textblock>Note 3:</textblock>
+    <textblock>Each operator should provide a method of identifying modified brakes until Revision 5 of the Allied Signal Component Maintenance Manual has been issued. Revision 5 of the manual will define a method of brake identification and reflect the brake wear limits specified above. A paint scheme similar to that used to differentiate between new and refurbished brakes could be used, for example, if a different color is used.</textblock>
+    <textblock>(2) Incorporate into the FAA-approved maintenance inspection program the maximum brake wear limits specified in paragraph (a)(1) of this AD.</textblock>
+    <textblock>(b) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, Standardization Branch, ANM-113, FAA, Transport Airplane Directorate. Operators shall submit their requests through an appropriate FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, Standardization Branch,</textblock>
+    <textblock>ANM-113.</textblock>
+    <textblock>Note 4:</textblock>
+    <textblock>Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Standardization Branch, ANM-113.</textblock>
+    <textblock>(c) Special flight permits may be issued in accordance with FAR 21.197 and 21.199 to operate the airplane to a location where the requirements of this AD can be accomplished.</textblock>
+    <textblock>Issued in Renton, Washington, on January 21, 1994.</textblock>
+  </text>
+  <table>
+    <textblock>British Aerospace</textblock>
+    <textblock>Model BAC 1-11-200 and -400 Series Airplanes</textblock>
+    <textblock>Equipped With Bendix Brakes</textblock>
+    <textblock>1Airplane model</textblock>
+    <textblock>1Brake part No.</textblock>
+    <textblock>1Maximum brake wear limit (inch/mm)</textblock>
+    <textblock>BAC 1-11-200</textblock>
+    <textblock>2601225-1</textblock>
+    <textblock>0.75 inch (19.1 mm).</textblock>
+    <textblock>BAC 1-11-400</textblock>
+    <textblock>2601240-1</textblock>
+    <textblock>1.0 inch (25.4 mm).</textblock>
+  </table>
+  <signer>
+    <textblock>Darrell M. Pederson,</textblock>
+  </signer>
+  <signjob>
+    <textblock>Acting Manager,</textblock>
+    <textblock>Transport Airplane Directorate,</textblock>
+    <textblock>Aircraft Certification Service.</textblock>
+  </signjob>
+  <frfiling>
+    <textblock>[FR Doc. 94-1690 Filed 1-26-94; 8:45 am]</textblock>
+  </frfiling>
+  <billing>
+    <textblock>BILLING CODE 4910-13-U</textblock>
+  </billing>
+</doc>

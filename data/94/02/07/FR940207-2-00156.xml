@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940207-2-00156</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940207-2-00074</textblock>
+  </parent>
+  <text>
+    <textblock>January 31, 1994.</textblock>
+    <textblock>On September 1, 1992, Pacific Clearing Corporation (``PCC'') filed with the Securities and Exchange Commission (``Commission'') under section 19(b)(1) of the Securities Exchange Act of 1934 (``Act'')</textblock>
+    <textblock>a proposed rule change (File No. SR-PCC-92-1) to revise PCC's rules and to adopt a Participant Agreement and a Clearing Fund Agreement. On December 12, 1992, PCC filed an amendment to the proposal.</textblock>
+    <textblock>The Commission published notice of the proposal in the</textblock>
+    <textblock>Federal Register</textblock>
+    <textblock>on May 3, 1993.</textblock>
+    <textblock>No written comments were received. On September 27, 1993, PCC filed an amendment that did not require republication of notice.</textblock>
+    <textblock>For the reasons discussed below, the Commission is approving the proposal.</textblock>
+    <textblock>I. Description</textblock>
+    <textblock>In 1987, PCC transferred most of its clearing and depository functions to the National Securities Clearing Corporation (``NSCC'') and The Depository Trust Company (``DTC''). PCC now performs limited services for specialists of the Pacific Stock Exchange Incorporated (``PSE''). These services, which are set forth in PCC's revised rules and in PCC's Participant Agreement include: (1) Clearing and settlement services for PSE specialists' trades executed on the PSE directly or through a registered clearing agency or a securities depository; (2) custody services for securities not eligible for depository services at DTC and receipt and delivery services for securities arising from balance orders or ex-clearing transactions; (3) processing services with respect to dividends, reorganizations, buy-ins for or against PSE specialists, and cash and next day trades; and (4) preparation and provision of reports containing information on trading and related activity at each specialist's post.</textblock>
+    <textblock>PCC currently interfaces with NSCC on behalf of PSE specialists. PCC is a member of NSCC and maintains a clearing account at NSCC with subaccounts for PSE specialists. PCC subcontracts with NSCC to provide clearing and settlement services for each PSE specialist organization. NSCC maintains subaccounts with DTC, which serves as the depository for PSE specialists' positions,</textblock>
+    <textblock>on behalf of the specialists. Under the subcontract arrangement, PSE transmits compared trade information to NSCC to allow NSCC to determine specialists' net settlement obligations.</textblock>
+    <textblock>NSCC then transmits these settlement obligations to PCC. Based on NSCC's final settlement figures, PCC will use funds received by PCC from specialists or will initiate payments against the specialists' bank accounts to satisfy specialists' settlement obligations to NSCC, DTC, or another entity as required.</textblock>
+    <textblock>PCC will review the bank balance of each specialist post to determine whether there are sufficient funds in the specialist firm's account to satisfy the specialist's settlement obligations. If PCC determines that there are insufficient funds for settlement, PCC either (1) will transfer excess funds between specialist posts in the case of intra-firm specialist posts or (2) will notify the specialist firm's bank of the shortfall to enable the bank to furnish the settlement funds pursuant to its loan agreement with the specialist firm. If these procedures do not result in sufficient funds for settlement, PCC will direct the specialist firm to make up the shortfall.</textblock>
+  </text>
+  <rindock>
+    <textblock>[Release No. 34-33547; File No. SR-PCC-92-1]</textblock>
+  </rindock>
+  <doctitle>
+    <textblock>Self-Regulatory Organizations; Pacific Clearing Corporation; Order Approving a Proposed Rule Change to Revise PCC's Rules and to Adopt a Participant Agreement and a Clearing Fund Agreement</textblock>
+  </doctitle>
+  <footcite>
+    <textblock>1</textblock>
+  </footcite>
+  <footcite>
+    <textblock>2</textblock>
+  </footcite>
+  <footcite>
+    <textblock>3</textblock>
+  </footcite>
+  <footcite>
+    <textblock>4</textblock>
+  </footcite>
+  <footnote>
+    <textblock>15 U.S.C. 78s(b)(1) (1988).</textblock>
+  </footnote>
+  <footname>
+    <textblock>1</textblock>
+  </footname>
+  <footnote>
+    <textblock>This amendment corrected a typographical error to the Clearing Fund Agreement and added language to the filing to clarify the types of services PCC performs for PSE. Letter from Rosemary A. MacGuinness, Senior Counsel, PSE, to Richard C. Strasser, Attorney, Division of Market Regulation (``Division''), Commission (December 7, 1992).</textblock>
+  </footnote>
+  <footname>
+    <textblock>2</textblock>
+  </footname>
+  <footnote>
+    <textblock>Securities Exchange Act Release No. 32212 (April 26, 1993), 58 FR 26372.</textblock>
+  </footnote>
+  <footname>
+    <textblock>3</textblock>
+  </footname>
+  <footnote>
+    <textblock>This amendment revised the language of paragraph 3.1(a) of PCC's Participant Agreement to clarifying PCC's role in processing trades. Letter from John C. Katovich, Senior Vice President, General Counsel, and Director of Legal Affairs, PSE, to Richard C. Strasser, Attorney, Division, Commission (September 20, 1993).</textblock>
+  </footnote>
+  <footname>
+    <textblock>4</textblock>
+  </footname>
+  <footcite>
+    <textblock>5</textblock>
+  </footcite>
+  <footnote>
+    <textblock>For instance, PCC will prepare and provide each specialist with a security ledger that contains information on the specialist's trading activities and positions, a security summary that contains a report summarizing the security ledger, and a trial balance report that contains a summary of the specialist's long and short positions, bank balances, profits and losses, and expenses incurred. PCC will reconcile specialists' bank statements and records daily and at the end of the month. PCC also will prepare a daily liquid asset valuation report for each specialist at the beginning of each day to ensure that each specialist is meeting its minimum capital requirement. Participant Agreement at ¶3.1.</textblock>
+  </footnote>
+  <footname>
+    <textblock>5</textblock>
+  </footname>
+  <footcite>
+    <textblock>6</textblock>
+  </footcite>
+  <footcite>
+    <textblock>7</textblock>
+  </footcite>
+  <footcite>
+    <textblock>8</textblock>
+  </footcite>
+  <footnote>
+    <textblock>Pacific Securities Depository Trust Company, PCC's former affiliated depository, no longer functions as a depository.</textblock>
+  </footnote>
+  <footname>
+    <textblock>6</textblock>
+  </footname>
+  <footnote>
+    <textblock>PSE specialists are responsible for correcting trade differences in a timely manner. PCC will provide assistance in correcting trade differences but will not be liable for losses resulting from that assistance. PCC Participant Agreement at ¶3.1(b)</textblock>
+  </footnote>
+  <footname>
+    <textblock>7</textblock>
+  </footname>
+  <footnote>
+    <textblock>Each specialist firm must maintain funds sufficient for purposes of settlement that are accessible to PCC, and each specialist firm must maintain an account at a bank where PCC has the ability to execute withdrawals and disbursements. PCC Rule 3.4.</textblock>
+  </footnote>
+  <footname>
+    <textblock>8</textblock>
+  </footname>
+</doc>

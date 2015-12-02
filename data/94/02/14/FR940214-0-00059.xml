@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doc>
+  <docno>
+    <textblock>FR940214-0-00059</textblock>
+  </docno>
+  <parent>
+    <textblock>FR940214-0-00004</textblock>
+  </parent>
+  <text>
+    <textblock>5. Household type and relationship_Persons 65+ (elderly and congregate projects).</textblock>
+  </text>
+  <table>
+    <textblock>␣</textblock>
+    <textblock>1␣</textblock>
+    <textblock>1Market</textblock>
+    <textblock>2Town</textblock>
+    <textblock>2Area</textblock>
+    <textblock>2County</textblock>
+    <textblock>Total</textblock>
+    <textblock>In Households</textblock>
+    <textblock>In Family Households</textblock>
+    <textblock>Householder</textblock>
+    <textblock>Spouse</textblock>
+    <textblock>Other Relatives</textblock>
+    <textblock>Nonrelatives</textblock>
+    <textblock>In Nonfamily Households</textblock>
+    <textblock>Male Householder</textblock>
+    <textblock>Living Alone</textblock>
+    <textblock>Not Living Alone</textblock>
+    <textblock>Female Householder</textblock>
+    <textblock>Living Alone</textblock>
+    <textblock>Not Living Alone</textblock>
+    <textblock>Nonrelatives</textblock>
+    <textblock>In Group Quarters</textblock>
+    <textblock>Institution (persons)</textblock>
+    <textblock>Other Persons in Group Quarters</textblock>
+  </table>
+</doc>
