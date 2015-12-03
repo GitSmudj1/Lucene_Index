@@ -1,8 +1,13 @@
 package main;
 
-import java.awt.EventQueue;
+import model.*;
 
-import model.DataModel;
+import java.awt.EventQueue;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.util.HashMap;
+import java.util.List;
+
 import index.Index;
 import search.Search;
 import view.SearchEngine;
@@ -12,14 +17,30 @@ import view.SearchEngine;
  */
 public class Main {
 
-    private final DataModel dataModel = null;
-
-    private final Index index = new Index(dataModel);
-    private final Search search = new Search(dataModel);
-    //private final View view = new View();
+	private final DataSet dataSet = new DataSet();
+    private final Index index = new Index(dataSet);
+    private final Search search = new Search();
+    
+    private HashMap<String, List<String>> results;
 
     public Main() {
-        index.generateIndexes();
+    	
+    	results = new HashMap<String, List<String>>();
+
+        try {
+            BufferedReader br = new BufferedReader(new FileReader("types"));
+            String token = br.readLine();
+
+            while(token != null) {
+                if(!token.startsWith("#"))
+                    index.generateIndexes(token);
+                token = br.readLine();
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        
     }
 
     private final void run() {
@@ -39,11 +60,5 @@ public class Main {
 
     public static void main(String[] args) {
         new Main().run();
-        
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				
-			}
-		});
     }
 }

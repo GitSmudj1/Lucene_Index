@@ -9,6 +9,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
+import java.util.List;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -28,25 +29,31 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 
 import controller.ResultsListener;
 import controller.RunListener;
+import model.Results;
 
 public class FirstResults extends JFrame {
 
 	private JPanel contentPane;
 	private ActionListener listener;
 	private MouseListener ml;
+	
+	private Results results;
+	private List<String> categoryList;
+	
+	private JList res;
 
 	/**
 	 * Create the frame.
 	 */
-	public FirstResults() {
+	public FirstResults(Results results) {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		
-		listener = new RunListener();
-		ml = new ResultsListener();
+		listener = new RunListener(this);
+		
 
 		String label[] = { "Title", "Date", "Author"};
 
@@ -55,34 +62,21 @@ public class FirstResults extends JFrame {
 		String labelDate[] = { "Date1", "Date2", "Date3"};
 		
 		String labelAuthor[] = { "Author1", "Author2", "Author3"};
-
-
-
-		JList list = new JList(label);
-		JList titleList = new JList(labelTitle);
-		JList dateList = new JList(labelDate);
-		JList authorList = new JList(labelAuthor);
 		
-
-
-//		// Get the index of all the selected items
-//		int[] selectedIx = list.getSelectedIndices();
-//
-//		// Get all the selected items using the indices
-//		for (int i = 0; i < selectedIx.length; i++) {
-//			Object sel = list.getModel().getElementAt(selectedIx[i]);
-//		}
-//
-//		// Get the index of the first selected item
-//		int firstSelIx = list.getSelectedIndex();
+		this.results = results;
+		categoryList = results.getKeys();
 		
+		System.out.println("Cat List: " + categoryList.toString());
 		
+		JList cat = new JList(categoryList.toArray());
+		res = new JList();
 
-		JScrollPane scrollPane = new JScrollPane(list);
+		JScrollPane catPane = new JScrollPane(cat);
+		JScrollPane resPane = new JScrollPane(res);
+		
+		ml = new ResultsListener(this, categoryList);
 
-		JScrollPane scrollPane_1 = new JScrollPane();
-
-		list.addMouseListener(ml);
+		cat.addMouseListener(ml);
 //		list.addMouseListener(new MouseAdapter() {
 //		    public void mouseClicked(MouseEvent evt) {
 //		        JList list = (JList)evt.getSource();
@@ -131,9 +125,9 @@ public class FirstResults extends JFrame {
 						.addGroup(gl_contentPane.createParallelGroup(Alignment.LEADING)
 								.addGroup(gl_contentPane.createSequentialGroup()
 										.addGap(20)
-										.addComponent(scrollPane, GroupLayout.PREFERRED_SIZE, 187, GroupLayout.PREFERRED_SIZE)
+										.addComponent(catPane, GroupLayout.PREFERRED_SIZE, 187, GroupLayout.PREFERRED_SIZE)
 										.addGap(18)
-										.addComponent(scrollPane_1, GroupLayout.PREFERRED_SIZE, 191, GroupLayout.PREFERRED_SIZE))
+										.addComponent(resPane, GroupLayout.PREFERRED_SIZE, 191, GroupLayout.PREFERRED_SIZE))
 								.addComponent(button, GroupLayout.PREFERRED_SIZE, 67, GroupLayout.PREFERRED_SIZE))
 						.addContainerGap(24, Short.MAX_VALUE))
 				);
@@ -143,11 +137,22 @@ public class FirstResults extends JFrame {
 						.addComponent(button, GroupLayout.PREFERRED_SIZE, 23, GroupLayout.PREFERRED_SIZE)
 						.addPreferredGap(ComponentPlacement.RELATED)
 						.addGroup(gl_contentPane.createParallelGroup(Alignment.TRAILING)
-								.addComponent(scrollPane_1, GroupLayout.DEFAULT_SIZE, 242, Short.MAX_VALUE)
-								.addComponent(scrollPane, GroupLayout.PREFERRED_SIZE, 242, GroupLayout.PREFERRED_SIZE))
+								.addComponent(resPane, GroupLayout.DEFAULT_SIZE, 242, Short.MAX_VALUE)
+								.addComponent(catPane, GroupLayout.PREFERRED_SIZE, 242, GroupLayout.PREFERRED_SIZE))
 						.addContainerGap())
 				);
 		contentPane.setLayout(gl_contentPane);
 
 	}
+	
+	public Results getResults() {
+		
+		return results;
+		
+	}
+	
+	public void setRes(List<String> fileNames) {
+		res = new JList(fileNames.toArray());
+	}
+	
 }

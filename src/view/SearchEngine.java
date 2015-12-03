@@ -1,8 +1,5 @@
 package view;
 
-
-import java.awt.EventQueue;
-
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
@@ -37,7 +34,7 @@ public class SearchEngine extends JFrame {
 		JLabel lblNewLabel = new JLabel("Federal Register Data Searcher");
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
 	
-		listener = new RunListener();
+		listener = new RunListener(this);
 		
 		textField = new JTextField();
 		textField.setToolTipText("Search...");
@@ -84,5 +81,9 @@ public class SearchEngine extends JFrame {
 					.addContainerGap(114, Short.MAX_VALUE))
 		);
 		contentPane.setLayout(gl_contentPane);
+	}
+	
+	public JTextField getTextField() {
+		return textField;
 	}
 }

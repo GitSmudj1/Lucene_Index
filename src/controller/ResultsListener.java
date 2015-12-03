@@ -1,18 +1,31 @@
 package controller;
 
+import model.DataSet;
+
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
+import java.util.List;
 
+import javax.swing.JFrame;
 import javax.swing.JList;
 import javax.swing.event.MouseInputListener;
 
-import model.DataModel;
 import view.FirstResults;
 
 public class ResultsListener implements MouseListener{
 
 	private FirstResults list;
-	@Override
+	private JFrame view;
+	private List<String> categoryList;
+	
+	public ResultsListener(JFrame view, List<String> categorylist) {
+		this.view = view;
+		this.categoryList = categoryList;
+		
+		System.out.println("Cat List: " + categoryList.toString());
+		
+	}
+	
 	public void mouseClicked(MouseEvent evt) {
 
 		JList list = (JList)evt.getSource();
@@ -21,15 +34,25 @@ public class ResultsListener implements MouseListener{
 			int index = list.locationToIndex(evt.getPoint());
 			System.out.println(index);
 			
-			if(index == 0){
-				DataModel.getTitle();
-			}
-			if(index == 1){
-            	DataModel.getDate();
-            }
-            if(index == 2){
-            	DataModel.getAgency();
-            }
+			String selectedCat = categoryList.get(index);
+			
+			System.out.println("Category: " + selectedCat);
+			
+			FirstResults fResults = (FirstResults) view;
+			
+			List<String> fileNames = fResults.getResults().getResults(selectedCat);
+			
+			fResults.setRes(fileNames);
+			
+//			if(index == 0){
+//				DataModel.getTitle();
+//			}
+//			if(index == 1){
+//            	DataModel.getDate();
+//            }
+//            if(index == 2){
+//            	DataModel.getAgency();
+//            }
             
         } else if (evt.getClickCount() == 3) {
 

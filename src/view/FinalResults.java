@@ -50,7 +50,7 @@ public class FinalResults extends JFrame {
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		
-		listener = new RunListener();
+		listener = new RunListener(this);
 		
 		JPanel panel = new JPanel();
 		
