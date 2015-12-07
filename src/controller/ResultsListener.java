@@ -1,24 +1,33 @@
 package controller;
 
-import model.DataSet;
-
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.swing.JFrame;
 import javax.swing.JList;
-import javax.swing.event.MouseInputListener;
 
+import model.DataSet;
+import model.Doc;
+import view.FinalResults;
 import view.FirstResults;
 
-public class ResultsListener implements MouseListener{
+public class ResultsListener implements MouseListener {
 
 	private FirstResults list;
 	private JFrame view;
-	private List<String> categoryList;
+	private DataSet dataSet;
+	private String selectedCat;
+	private List<String> categoryList = new ArrayList<String>();
+	private List<String> fileNames;
+	private int pane = 0;
 	
-	public ResultsListener(JFrame view, List<String> categorylist) {
+	public ResultsListener(JFrame view, List<String> categoryList, DataSet dataSet, int pane) {
+		
+		this.pane = pane;
+		
+		this.dataSet = dataSet;
 		this.view = view;
 		this.categoryList = categoryList;
 		
@@ -27,37 +36,53 @@ public class ResultsListener implements MouseListener{
 	}
 	
 	public void mouseClicked(MouseEvent evt) {
-
-		JList list = (JList)evt.getSource();
-		if (evt.getClickCount() == 2){
-			//Double-click detection
-			int index = list.locationToIndex(evt.getPoint());
-			System.out.println(index);
+		
+		FirstResults fResults = (FirstResults) view;
+		
+		if(pane == 2) {
 			
-			String selectedCat = categoryList.get(index);
+			System.out.println("pane 2");
+		
+			if(evt.getClickCount() == 1) {
+				
+				JList eventList = (JList)evt.getSource();
+				
+				int index = eventList.locationToIndex(evt.getPoint());
+				
+				System.out.println("Index: " + index);
+				
+				String selectedFile = fResults.getFileNames().get(index);
+				
+				Doc result = dataSet.getArticle(selectedFile);
+				
+				new FinalResults(result.getCategory("summary"), dataSet);
+				
+			}
 			
-			System.out.println("Category: " + selectedCat);
+		} else if (pane == 1) {
 			
-			FirstResults fResults = (FirstResults) view;
+			System.out.println("pane 1");
 			
-			List<String> fileNames = fResults.getResults().getResults(selectedCat);
+			if (evt.getClickCount() == 1) {
+				
+				JList eventList = (JList)evt.getSource();
+				
+				int index = eventList.locationToIndex(evt.getPoint());
+				
+				selectedCat = categoryList.get(index);
+				
+				System.out.println("Category: " + selectedCat);
+				
+				fileNames = new ArrayList<String>();
+				
+				fileNames = fResults.getResults().getResults(selectedCat);
+				
+				fResults.setFileName(fileNames);
+				fResults.setRes(fileNames);
+				
+	            
+	        }
 			
-			fResults.setRes(fileNames);
-			
-//			if(index == 0){
-//				DataModel.getTitle();
-//			}
-//			if(index == 1){
-//            	DataModel.getDate();
-//            }
-//            if(index == 2){
-//            	DataModel.getAgency();
-//            }
-            
-        } else if (evt.getClickCount() == 3) {
-
-            // Triple-click detected
-            int index = list.locationToIndex(evt.getPoint());
 		}
 		
 	}

@@ -1,123 +1,78 @@
 package view;
 
-
-import java.awt.BorderLayout;
-import java.awt.EventQueue;
-import java.awt.Point;
-import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.event.MouseAdapter;
-import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.swing.JFrame;
-import javax.swing.JLabel;
 import javax.swing.JList;
-import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
-import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.GroupLayout;
 import javax.swing.GroupLayout.Alignment;
-import javax.swing.JSplitPane;
-import javax.swing.JTabbedPane;
-import javax.swing.JTextPane;
 import javax.swing.JScrollPane;
 import javax.swing.LayoutStyle.ComponentPlacement;
 
 import controller.ResultsListener;
 import controller.RunListener;
+import model.DataSet;
 import model.Results;
 
 public class FirstResults extends JFrame {
 
 	private JPanel contentPane;
 	private ActionListener listener;
-	private MouseListener ml;
+	public MouseListener catListener;
+	public MouseListener resListener;
 	
 	private Results results;
 	private List<String> categoryList;
 	
 	private JList res;
+	
+	private JScrollPane resPane;
+	
+	private DataSet dataSet;
+	
+	private List<String> fileNames;
 
 	/**
 	 * Create the frame.
 	 */
-	public FirstResults(Results results) {
+	public FirstResults(Results results, DataSet dataSet) {
+		
+		fileNames = new ArrayList();
+		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		
-		listener = new RunListener(this);
-		
-
-		String label[] = { "Title", "Date", "Author"};
-
-		String labelTitle[] = { "Title1", "Title2", "Title3"};
-		
-		String labelDate[] = { "Date1", "Date2", "Date3"};
-		
-		String labelAuthor[] = { "Author1", "Author2", "Author3"};
+		listener = new RunListener(this, dataSet);
 		
 		this.results = results;
 		categoryList = results.getKeys();
 		
-		System.out.println("Cat List: " + categoryList.toString());
-		
-		JList cat = new JList(categoryList.toArray());
-		res = new JList();
+		JList<String> cat = new JList(categoryList.toArray());
 
 		JScrollPane catPane = new JScrollPane(cat);
-		JScrollPane resPane = new JScrollPane(res);
 		
-		ml = new ResultsListener(this, categoryList);
+		res = new JList();
+		
+		resPane = new JScrollPane(res);
+		
+		resListener = new ResultsListener(this, categoryList, dataSet, 2);
+		catListener = new ResultsListener(this, categoryList, dataSet, 1);
 
-		cat.addMouseListener(ml);
-//		list.addMouseListener(new MouseAdapter() {
-//		    public void mouseClicked(MouseEvent evt) {
-//		        JList list = (JList)evt.getSource();
-//		        if (evt.getClickCount() == 2) {
-//
-//		            // Double-click detected
-//		            int index = list.locationToIndex(evt.getPoint());
-//		            System.out.println(index);
-//		            if(index == 0){
-//		            	scrollPane_1.setViewportView(titleList);
-//		            }
-//		            if(index == 1){
-//		            	scrollPane_1.setViewportView(dateList);
-//		            }
-//		            if(index == 2){
-//		            	scrollPane_1.setViewportView(authorList);
-//		            }
-//		            
-//		        } else if (evt.getClickCount() == 3) {
-//
-//		            // Triple-click detected
-//		            int index = list.locationToIndex(evt.getPoint());
-//		        }
-//		    }
-//		});
-
-
-
-
+		res.addMouseListener(resListener);
+		cat.addMouseListener(catListener);
 
 		JButton button = new JButton("Home");
 		button.addActionListener(listener);
-//		(new ActionListener() 
-//		{
-//			@Override
-//			public void actionPerformed(ActionEvent e) {
-//				new SearchEngine().setVisible(true);
-//
-//
-//			}
-//		});
+		
 		GroupLayout gl_contentPane = new GroupLayout(contentPane);
 		gl_contentPane.setHorizontalGroup(
 				gl_contentPane.createParallelGroup(Alignment.LEADING)
@@ -152,7 +107,29 @@ public class FirstResults extends JFrame {
 	}
 	
 	public void setRes(List<String> fileNames) {
-		res = new JList(fileNames.toArray());
+		
+		System.out.println("In Set Res");
+		
+		System.out.println("FileNames: " + fileNames.toString());
+		
+		//res = new JList();
+		
+		res.setListData(fileNames.toArray());
+		
+		this.repaint();
+		
+	}
+	
+	public void setFileName(List<String> fileNames) {
+		
+		this.fileNames = fileNames;
+		
+	}
+	
+	public List<String> getFileNames() {
+		
+		return fileNames;
+		
 	}
 	
 }

@@ -12,6 +12,7 @@ import javax.swing.JButton;
 import javax.swing.SwingConstants;
 
 import controller.RunListener;
+import model.DataSet;
 
 import java.awt.event.ActionListener;
 
@@ -20,11 +21,16 @@ public class SearchEngine extends JFrame {
 	private JPanel contentPane;
 	private JTextField textField;
 	private ActionListener listener;
+	
+	private DataSet dataSet;
 
 	/**
 	 * Create the frame.
 	 */
-	public SearchEngine() {
+	public SearchEngine(DataSet dataSet) {
+		
+		this.dataSet = dataSet;
+		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
@@ -34,7 +40,7 @@ public class SearchEngine extends JFrame {
 		JLabel lblNewLabel = new JLabel("Federal Register Data Searcher");
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
 	
-		listener = new RunListener(this);
+		listener = new RunListener(this, dataSet);
 		
 		textField = new JTextField();
 		textField.setToolTipText("Search...");
@@ -42,16 +48,7 @@ public class SearchEngine extends JFrame {
 		
 		JButton btnNewButton = new JButton("Go");
 		btnNewButton.addActionListener(listener);
-		//(new ActionListener() 
-//		{
-//			@Override
-//			public void actionPerformed(ActionEvent e) {
-//				new FirstResults().setVisible(true);
-//				setVisible(false);	
-//
-//			}
-//			
-//		});
+		
 		GroupLayout gl_contentPane = new GroupLayout(contentPane);
 
 		gl_contentPane.setHorizontalGroup(

@@ -47,7 +47,7 @@ public class Main {
     	EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
-					SearchEngine frame = new SearchEngine();
+					SearchEngine frame = new SearchEngine(dataSet);
 					frame.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();

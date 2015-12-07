@@ -5,6 +5,7 @@ import java.awt.event.ActionListener;
 
 import javax.swing.JFrame;
 
+import model.DataSet;
 import model.Results;
 import search.Search;
 import view.FirstResults;
@@ -14,9 +15,11 @@ import view.SearchEngine;
 
 public class RunListener implements ActionListener {
 
-	JFrame view;
+	private JFrame view;
+	private DataSet dataSet; 
 	
-	public RunListener(JFrame view) {
+	public RunListener(JFrame view, DataSet dataSet) {
+		this.dataSet = dataSet;
 		this.view = view;
 	}
 	
@@ -35,7 +38,7 @@ public class RunListener implements ActionListener {
 			Results results = new Results();
 			results.setResults(new Search().searchForQuery(searchTerm));
 			
-			new FirstResults(results).setVisible(true);
+			new FirstResults(results, dataSet).setVisible(true);
 			
 			view.setVisible(false);
 			view.dispose();
@@ -43,7 +46,7 @@ public class RunListener implements ActionListener {
 			System.out.println("Go Button Pressed");
 			break;
 		case "Home":
-			new SearchEngine().setVisible(true);
+			new SearchEngine(dataSet).setVisible(true);
 			//Testing
 			System.out.println("Home Button Pressed");
 			break;

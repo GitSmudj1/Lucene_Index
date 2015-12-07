@@ -17,54 +17,36 @@ import javax.swing.JButton;
 import javax.swing.LayoutStyle.ComponentPlacement;
 
 import controller.RunListener;
+import model.DataSet;
 
 public class FinalResults extends JFrame {
 
 	private JPanel contentPane;
 	private ActionListener listener;
 	
-
-	/**
-	 * Launch the application.
-	 */
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					FinalResults frame = new FinalResults();
-					frame.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}
+	private DataSet dataSet;
 
 	/**
 	 * Create the frame.
 	 */
-	public FinalResults() {
+	public FinalResults(String panelContent, DataSet dataSet) {
+		
+		this.dataSet = dataSet;
+		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		
-		listener = new RunListener(this);
+		listener = new RunListener(this, dataSet);
 		
 		JPanel panel = new JPanel();
+		panel.add(new JLabel(panelContent));
 		
 		JButton btnNewButton = new JButton("Back");
 		btnNewButton.addActionListener(listener);
-//		(new ActionListener() 
-//		{
-//			@Override
-//			public void actionPerformed(ActionEvent e) {
-//				new FirstResults().setVisible(true);
-//				
-//				
-//			}
-//		});
+		
 		GroupLayout gl_contentPane = new GroupLayout(contentPane);
 		gl_contentPane.setHorizontalGroup(
 			gl_contentPane.createParallelGroup(Alignment.LEADING)
@@ -87,5 +69,8 @@ public class FinalResults extends JFrame {
 					.addContainerGap())
 		);
 		contentPane.setLayout(gl_contentPane);
+		
+		this.setVisible(true);
+		
 	}
 }
