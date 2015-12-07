@@ -42,7 +42,11 @@ public class FinalResults extends JFrame {
 		listener = new RunListener(this, dataSet);
 		
 		JPanel panel = new JPanel();
-		panel.add(new JLabel(panelContent));
+		
+		JTextArea textArea = new JTextArea(panelContent);
+		textArea.setWrapStyleWord(true);
+		textArea.setLineWrap(true);
+		panel.add(textArea);
 		
 		JButton btnNewButton = new JButton("Back");
 		btnNewButton.addActionListener(listener);
@@ -68,6 +72,8 @@ public class FinalResults extends JFrame {
 					.addComponent(panel, GroupLayout.DEFAULT_SIZE, 227, Short.MAX_VALUE)
 					.addContainerGap())
 		);
+		
+	
 		contentPane.setLayout(gl_contentPane);
 		
 		this.setVisible(true);
