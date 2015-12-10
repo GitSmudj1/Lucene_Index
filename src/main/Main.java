@@ -4,12 +4,12 @@ import model.*;
 
 import java.awt.EventQueue;
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileReader;
-import java.util.HashMap;
-import java.util.List;
+import java.io.FileWriter;
 
 import index.Index;
-import search.Search;
 import view.SearchEngine;
 
 /**
@@ -19,15 +19,22 @@ public class Main {
 
 	private final DataSet dataSet = new DataSet();
     private final Index index = new Index(dataSet);
-    private final Search search = new Search();
-    
-    private HashMap<String, List<String>> results;
+    private File indexed;
 
     public Main() {
-    	
-    	results = new HashMap<String, List<String>>();
 
-        try {
+    	indexed = new File("indexed");
+    	if(!indexed.exists())
+    		generateIndex();
+        
+    }
+    
+	private final void generateIndex() {
+		
+		System.out.println("Indexing");
+    	
+    	try {
+    		
             BufferedReader br = new BufferedReader(new FileReader("types"));
             String token = br.readLine();
 
@@ -36,11 +43,13 @@ public class Main {
                     index.generateIndexes(token);
                 token = br.readLine();
             }
+        
+            new BufferedWriter(new FileWriter(indexed));
 
         } catch (Exception e) {
             e.printStackTrace();
         }
-        
+    	
     }
 
     private final void run() {
@@ -54,11 +63,11 @@ public class Main {
 				}
 			}
 		});
-        //searching
 
     }
 
     public static void main(String[] args) {
         new Main().run();
     }
+    
 }

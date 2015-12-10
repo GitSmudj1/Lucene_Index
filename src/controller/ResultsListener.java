@@ -7,7 +7,6 @@ import java.util.List;
 
 import javax.swing.JFrame;
 import javax.swing.JList;
-
 import model.DataSet;
 import model.Doc;
 import view.FinalResults;

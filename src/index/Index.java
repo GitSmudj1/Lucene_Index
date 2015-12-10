@@ -9,6 +9,7 @@ import org.apache.lucene.index.*;
 import java.io.*;
 import java.util.Iterator;
 import java.util.Map;
+import java.util.Map.Entry;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
@@ -57,7 +58,7 @@ public class Index {
 
         while(iterator.hasNext()) {
 
-            java.util.Map.Entry article = iterator.next();
+            Entry<String, Doc> article = iterator.next();
 
             String fileName = (String)article.getKey();
             String dataToIndex = ((Doc) article.getValue()).getCategory(category);
@@ -69,11 +70,7 @@ public class Index {
                     Document doc = new Document();
                     doc.add(new StringField("fileName", fileName, Field.Store.YES));
                     doc.add(new TextField("data", new BufferedReader(new StringReader(dataToIndex))));
-//                    doc.add(new TextField("data", dataToIndex, Field.Store.YES));
                     indexWriter.addDocument(doc);
-
-//                System.out.println("File Name: " + doc.getField("fileName"));
-//                System.out.println("Data: " + doc.getField("data"));
 
                 } catch (Exception e) {
                     System.out.println("In Catch");
@@ -85,9 +82,6 @@ public class Index {
         }
 
         try {
-//            System.out.println("--------------------");
-//            System.out.println("Number of Docs in Index: " + indexWriter.numDocs());
-//            System.out.println("--------------------\n");
             indexWriter.close();
         } catch (Exception e) {
             e.printStackTrace();

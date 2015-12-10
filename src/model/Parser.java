@@ -19,6 +19,8 @@ public class Parser {
     private HashMap<String, Doc> articles;
 
     public Parser() {
+    	
+    	System.out.println("Parsing");
 
         articles = new HashMap<String, Doc>();
 
@@ -39,8 +41,6 @@ public class Parser {
                     if(fileName.endsWith(".xml")) {
                     
 	                    fileName = fileName.replace(fileName.substring(fileName.length() - 4), "");
-	
-	                    //System.out.println("Filename: " + fileName);
 	
 	                    DocumentBuilderFactory docFac;
 	                    File xmlFile;
