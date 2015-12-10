@@ -37,12 +37,15 @@ public class FirstResults extends JFrame {
 	private DataSet dataSet;
 	
 	private List<String> fileNames;
+	
+	private String searchTerm;
 
 	/**
 	 * Create the frame.
 	 */
-	public FirstResults(Results results, DataSet dataSet) {
+	public FirstResults(Results results, DataSet dataSet, String searchTerm) {
 		
+		this.searchTerm = searchTerm;
 		fileNames = new ArrayList();
 		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -130,6 +133,10 @@ public class FirstResults extends JFrame {
 		
 		return fileNames;
 		
+	}
+	
+	public String getQuery(){
+		return searchTerm;
 	}
 	
 }

@@ -38,7 +38,7 @@ public class RunListener implements ActionListener {
 			Results results = new Results();
 			results.setResults(new Search().searchForQuery(searchTerm));
 			
-			new FirstResults(results, dataSet).setVisible(true);
+			new FirstResults(results, dataSet, searchTerm).setVisible(true);
 			
 			view.setVisible(false);
 			view.dispose();
@@ -47,12 +47,13 @@ public class RunListener implements ActionListener {
 			break;
 		case "Home":
 			new SearchEngine(dataSet).setVisible(true);
-			//Testing
+			view.setVisible(false);
+			view.dispose();
 			System.out.println("Home Button Pressed");
 			break;
-		case "Back":
-			//new FirstResults().setVisible(true);
-			//Testing
+		case "Close":
+			view.setVisible(false);
+			view.dispose();
 			System.out.println("Back Button Pressed");
 			
 		}

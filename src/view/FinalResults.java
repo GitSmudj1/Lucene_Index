@@ -1,13 +1,19 @@
 package view;
 
 import java.awt.BorderLayout;
+import java.awt.Color;
 import java.awt.EventQueue;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
+import javax.swing.JScrollPane;
 import javax.swing.border.EmptyBorder;
+import javax.swing.text.BadLocationException;
+import javax.swing.text.DefaultHighlighter;
+import javax.swing.text.Highlighter;
+import javax.swing.text.Highlighter.HighlightPainter;
 import javax.swing.JTextPane;
 import javax.swing.JTextArea;
 import javax.swing.JLabel;
@@ -28,8 +34,9 @@ public class FinalResults extends JFrame {
 
 	/**
 	 * Create the frame.
+	 * @throws BadLocationException 
 	 */
-	public FinalResults(String panelContent, DataSet dataSet) {
+	public FinalResults(String panelContent, DataSet dataSet, String query) throws BadLocationException {
 		
 		this.dataSet = dataSet;
 		
@@ -42,13 +49,25 @@ public class FinalResults extends JFrame {
 		listener = new RunListener(this, dataSet);
 		
 		JPanel panel = new JPanel();
-		
+		JScrollPane scrollPane = new JScrollPane();
 		JTextArea textArea = new JTextArea(panelContent);
 		textArea.setWrapStyleWord(true);
 		textArea.setLineWrap(true);
-		panel.add(textArea);
 		
-		JButton btnNewButton = new JButton("Back");
+		Highlighter highlighter = textArea.getHighlighter();
+	      HighlightPainter painter = 
+	             new DefaultHighlighter.DefaultHighlightPainter(Color.pink);
+	      int p0 = panelContent.indexOf("date");
+	      int p1 = p0 + "date".length();
+	      highlighter.addHighlight(p0, p1, painter );
+	      
+	      panel.setLayout( new BorderLayout() );
+	      scrollPane.getViewport().add( textArea );
+			panel.add( scrollPane, BorderLayout.CENTER );
+		
+
+		
+		JButton btnNewButton = new JButton("Close");
 		btnNewButton.addActionListener(listener);
 		
 		GroupLayout gl_contentPane = new GroupLayout(contentPane);

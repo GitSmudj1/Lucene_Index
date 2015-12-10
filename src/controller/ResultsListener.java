@@ -7,6 +7,8 @@ import java.util.List;
 
 import javax.swing.JFrame;
 import javax.swing.JList;
+import javax.swing.text.BadLocationException;
+
 import model.DataSet;
 import model.Doc;
 import view.FinalResults;
@@ -54,7 +56,12 @@ public class ResultsListener implements MouseListener {
 				
 				Doc result = dataSet.getArticle(selectedFile);
 				
-				new FinalResults(result.getCategory("summary"), dataSet);
+				try {
+					new FinalResults(result.getCategory("summary"), dataSet, fResults.getQuery());
+				} catch (BadLocationException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
 				
 			}
 			
