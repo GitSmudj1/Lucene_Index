@@ -51,8 +51,11 @@ public class FinalResults extends JFrame {
 		//setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 =======
 		
+<<<<<<< HEAD
+=======
 		setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
 >>>>>>> master
+>>>>>>> d0947156a8b2c7c826858b146f4c028cd2720e19
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
@@ -69,12 +72,17 @@ public class FinalResults extends JFrame {
 
 		Highlighter highlighter = textArea.getHighlighter();
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> d0947156a8b2c7c826858b146f4c028cd2720e19
 		int index = panelContent.indexOf(query);
 		while ( index >= 0 ) {
 			int len = query.length();
 			highlighter.addHighlight(index, index+len, DefaultHighlighter.DefaultPainter);
 			index = panelContent.indexOf(query, index+len);
 		}
+<<<<<<< HEAD
+=======
 
 		panel.setLayout( new BorderLayout() );
 		scrollPane.getViewport().add( textArea );
@@ -96,7 +104,14 @@ public class FinalResults extends JFrame {
 	      scrollPane.getViewport().add( textArea );
 			panel.add( scrollPane, BorderLayout.CENTER );
 		
+>>>>>>> d0947156a8b2c7c826858b146f4c028cd2720e19
 
+		panel.setLayout( new BorderLayout() );
+		scrollPane.getViewport().add( textArea );
+		panel.add( scrollPane, BorderLayout.CENTER );
+		scrollPane.getViewport().add( textArea );
+		panel.setLayout(new BorderLayout());
+		panel.add( scrollPane, BorderLayout.CENTER );
 		
 =======
 		
@@ -134,20 +149,29 @@ public class FinalResults extends JFrame {
 										.addComponent(panel, GroupLayout.DEFAULT_SIZE, 413, Short.MAX_VALUE))
 								.addGroup(gl_contentPane.createSequentialGroup()
 										.addContainerGap()
+<<<<<<< HEAD
+=======
 										//.addComponent(btnNewButton, GroupLayout.PREFERRED_SIZE, 67, GroupLayout.PREFERRED_SIZE)
+>>>>>>> d0947156a8b2c7c826858b146f4c028cd2720e19
 										))
 						.addContainerGap())
 				);
 		gl_contentPane.setVerticalGroup(
 				gl_contentPane.createParallelGroup(Alignment.LEADING)
 				.addGroup(gl_contentPane.createSequentialGroup()
+<<<<<<< HEAD
+=======
 						//.addComponent(btnNewButton, GroupLayout.PREFERRED_SIZE, 23, GroupLayout.PREFERRED_SIZE)
+>>>>>>> d0947156a8b2c7c826858b146f4c028cd2720e19
 						.addGap(12)
 						.addComponent(panel, GroupLayout.DEFAULT_SIZE, 227, Short.MAX_VALUE)
 						.addContainerGap())
 				);
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> d0947156a8b2c7c826858b146f4c028cd2720e19
 		contentPane.setLayout(gl_contentPane);
 
 		this.setVisible(true);
