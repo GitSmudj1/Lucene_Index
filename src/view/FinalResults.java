@@ -21,9 +21,13 @@ import javax.swing.GroupLayout;
 import javax.swing.GroupLayout.Alignment;
 import javax.swing.JButton;
 import javax.swing.LayoutStyle.ComponentPlacement;
+import javax.swing.Scrollable;
 
 import controller.RunListener;
 import model.DataSet;
+import javax.swing.JScrollPane;
+
+import javax.swing.*;
 
 public class FinalResults extends JFrame {
 
@@ -40,7 +44,7 @@ public class FinalResults extends JFrame {
 		
 		this.dataSet = dataSet;
 		
-		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
@@ -49,6 +53,7 @@ public class FinalResults extends JFrame {
 		listener = new RunListener(this, dataSet);
 		
 		JPanel panel = new JPanel();
+<<<<<<< Updated upstream
 		JScrollPane scrollPane = new JScrollPane();
 		JTextArea textArea = new JTextArea(panelContent);
 		textArea.setWrapStyleWord(true);
@@ -67,6 +72,28 @@ public class FinalResults extends JFrame {
 		
 
 		
+=======
+		
+	
+		
+		
+		JTextArea textArea = new JTextArea(panelContent);
+		textArea.setWrapStyleWord(true);
+		textArea.setLineWrap(true);
+//		JScrollPane scrollPane = new JScrollPane();
+//		scrollPane.setViewportView(textArea);
+//		scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS);
+//		scrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
+//		scrollPane.setBounds(5, 5, 100, 100);
+//		panel.add(scrollPane, BorderLayout.CENTER);
+		
+		JScrollPane scrollPane = new JScrollPane();
+		scrollPane.getViewport().add( textArea );
+		panel.setLayout(new BorderLayout());
+		panel.add( scrollPane, BorderLayout.CENTER );
+		
+		
+>>>>>>> Stashed changes
 		JButton btnNewButton = new JButton("Close");
 		btnNewButton.addActionListener(listener);
 		

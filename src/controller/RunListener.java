@@ -52,6 +52,11 @@ public class RunListener implements ActionListener {
 			System.out.println("Home Button Pressed");
 			break;
 		case "Close":
+<<<<<<< Updated upstream
+=======
+			//new FirstResults().setVisible(true);
+			//Testing
+>>>>>>> Stashed changes
 			view.setVisible(false);
 			view.dispose();
 			System.out.println("Back Button Pressed");
