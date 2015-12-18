@@ -37,6 +37,8 @@ public class FirstResults extends JFrame {
 	private DataSet dataSet;
 	
 	private List<String> fileNames;
+	
+	private JList<String> cat;
 
 	/**
 	 * Create the frame.
@@ -56,7 +58,7 @@ public class FirstResults extends JFrame {
 		this.results = results;
 		categoryList = results.getKeys();
 		
-		JList<String> cat = new JList(categoryList.toArray());
+		cat = new JList(categoryList.toArray());
 
 		JScrollPane catPane = new JScrollPane(cat);
 		
@@ -134,6 +136,11 @@ public class FirstResults extends JFrame {
 	
 	public String[] getQuery(){
 		return results.getSearchTerms();
+	}
+	
+	public List<String> getCategories(){
+		return categoryList;
+		
 	}
 	
 }

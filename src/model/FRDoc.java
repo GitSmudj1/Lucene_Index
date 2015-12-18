@@ -125,6 +125,7 @@ public class FRDoc implements Doc {
     
     private void addToEntireDoc(String value) {
     	this.entireDoc = entireDoc + "\n\n" + value;
+    	this.entireDoc.trim();
     }
 
     public void setDocNo(String value) {

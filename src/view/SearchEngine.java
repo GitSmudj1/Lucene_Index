@@ -33,6 +33,7 @@ public class SearchEngine extends JFrame {
 	public SearchEngine(DataSet dataSet) {
 		
 		this.dataSet = dataSet;
+		this.setResizable(false);
 		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
@@ -77,23 +78,23 @@ public class SearchEngine extends JFrame {
 
 		GroupLayout gl_panel = new GroupLayout(panel);
 		gl_panel.setHorizontalGroup(
-			gl_panel.createParallelGroup(Alignment.TRAILING)
-				.addGroup(gl_panel.createSequentialGroup()
-					.addContainerGap(129, Short.MAX_VALUE)
-					.addComponent(lblNewLabel)
-					.addGap(121))
-				.addGroup(gl_panel.createSequentialGroup()
-					.addGap(153)
-					.addComponent(textField, GroupLayout.PREFERRED_SIZE, GroupLayout.DEFAULT_SIZE, GroupLayout.PREFERRED_SIZE)
-					.addContainerGap(157, Short.MAX_VALUE))
+			gl_panel.createParallelGroup(Alignment.LEADING)
 				.addGroup(gl_panel.createSequentialGroup()
 					.addContainerGap(187, Short.MAX_VALUE)
 					.addComponent(btnNewButton)
 					.addGap(178))
 				.addGroup(gl_panel.createSequentialGroup()
 					.addContainerGap(359, Short.MAX_VALUE)
-					.addComponent(button, GroupLayout.PREFERRED_SIZE, 75, GroupLayout.PREFERRED_SIZE)
+					.addComponent(button, GroupLayout.DEFAULT_SIZE, 75, GroupLayout.DEFAULT_SIZE)
 					.addContainerGap())
+				.addGroup(Alignment.TRAILING, gl_panel.createSequentialGroup()
+					.addContainerGap(129, Short.MAX_VALUE)
+					.addComponent(lblNewLabel)
+					.addGap(121))
+				.addGroup(Alignment.TRAILING, gl_panel.createSequentialGroup()
+					.addContainerGap(53, Short.MAX_VALUE)
+					.addComponent(textField, GroupLayout.PREFERRED_SIZE, 338, GroupLayout.PREFERRED_SIZE)
+					.addGap(49))
 		);
 		gl_panel.setVerticalGroup(
 			gl_panel.createParallelGroup(Alignment.LEADING)
@@ -103,7 +104,7 @@ public class SearchEngine extends JFrame {
 					.addGap(57)
 					.addComponent(lblNewLabel)
 					.addPreferredGap(ComponentPlacement.RELATED)
-					.addComponent(textField, GroupLayout.PREFERRED_SIZE, GroupLayout.DEFAULT_SIZE, GroupLayout.PREFERRED_SIZE)
+					.addComponent(textField)
 					.addPreferredGap(ComponentPlacement.RELATED)
 					.addComponent(btnNewButton)
 					.addContainerGap(92, Short.MAX_VALUE))

@@ -60,7 +60,6 @@ public class HelpScreen extends JFrame {
 		JPanel panel = new JPanel();
 		JScrollPane scrollPane = new JScrollPane();
 		JTextArea textArea = new JTextArea(helpText);
-		JTextArea textArea = new JTextArea();
 		textArea.setWrapStyleWord(true);
 		textArea.setLineWrap(true);
 

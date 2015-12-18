@@ -27,6 +27,7 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 import javax.swing.Scrollable;
 
 import controller.RunListener;
+import controller.ToggleListener;
 import model.DataSet;
 import javax.swing.JScrollPane;
 
@@ -43,7 +44,7 @@ public class FinalResults extends JFrame {
 	 * Create the frame.
 	 * @throws BadLocationException 
 	 */
-	public FinalResults(String panelContent, DataSet dataSet, String[] query, String fileName) throws BadLocationException {
+	public FinalResults(String fullDoc, String partDoc, DataSet dataSet, String[] query, String fileName, boolean isFullDoc) throws BadLocationException {
 
 		this.dataSet = dataSet;
 		this.setTitle(fileName);
@@ -60,9 +61,30 @@ public class FinalResults extends JFrame {
 		listener = new RunListener(this, dataSet);
 
 		JPanel panel = new JPanel();
-
+		JButton toggleButton = new JButton();
+		
+		if(isFullDoc) {
+			toggleButton.setText("Full Doc");
+		} else {
+			toggleButton.setText("Category");
+		}
+		
+		toggleButton.addActionListener(new ToggleListener(this, fullDoc, partDoc, dataSet, query, fileName, isFullDoc));
+		
 		JScrollPane scrollPane = new JScrollPane();
-		JTextArea textArea = new JTextArea(panelContent);
+		
+		JTextArea textArea = new JTextArea();
+		
+		String textAreaContent = "";
+		
+		if(isFullDoc) {
+			textAreaContent = fullDoc;
+		} else {
+			textAreaContent = partDoc;
+		}
+		
+		textArea.setText(textAreaContent);
+		
 		textArea.setWrapStyleWord(true);
 		textArea.setLineWrap(true);
 
@@ -82,11 +104,11 @@ public class FinalResults extends JFrame {
 				
 				System.out.println("The Current Term: " + currentTerm);
 		
-				int index = panelContent.indexOf(currentTerm);
+				int index = textAreaContent.indexOf(currentTerm);
 				while ( index >= 0 ) {
 					int len = currentTerm.length();
 					highlighter.addHighlight(index, index+len, DefaultHighlighter.DefaultPainter);
-					index = panelContent.indexOf(currentTerm, index+len);
+					index = textAreaContent.indexOf(currentTerm, index+len);
 				}
 			
 			}
@@ -94,10 +116,9 @@ public class FinalResults extends JFrame {
 		}
 
 		panel.setLayout( new BorderLayout() );
-		scrollPane.getViewport().add( textArea );
+		scrollPane.setViewportView(textArea);
 		panel.add( scrollPane, BorderLayout.CENTER );
-
-		scrollPane.getViewport().add( textArea );
+		scrollPane.setViewportView(textArea);
 		panel.setLayout(new BorderLayout());
 		panel.add( scrollPane, BorderLayout.CENTER );
 
@@ -107,29 +128,32 @@ public class FinalResults extends JFrame {
 
 		JButton btnNewButton = new JButton("Close");
 		btnNewButton.addActionListener(listener);
+		
+		
 
 
 		GroupLayout gl_contentPane = new GroupLayout(contentPane);
 		gl_contentPane.setHorizontalGroup(
-				gl_contentPane.createParallelGroup(Alignment.LEADING)
+			gl_contentPane.createParallelGroup(Alignment.LEADING)
 				.addGroup(gl_contentPane.createSequentialGroup()
-						.addGroup(gl_contentPane.createParallelGroup(Alignment.LEADING)
-								.addGroup(gl_contentPane.createSequentialGroup()
-										.addGap(21)
-										.addComponent(panel, GroupLayout.DEFAULT_SIZE, 413, Short.MAX_VALUE))
-								.addGroup(gl_contentPane.createSequentialGroup()
-										.addContainerGap()
-										))
-						.addContainerGap())
-				);
+					.addContainerGap()
+					.addComponent(toggleButton, GroupLayout.PREFERRED_SIZE, 81, GroupLayout.PREFERRED_SIZE)
+					.addPreferredGap(ComponentPlacement.RELATED)
+					.addComponent(panel, GroupLayout.DEFAULT_SIZE, GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+					.addContainerGap())
+		);
 		gl_contentPane.setVerticalGroup(
-				gl_contentPane.createParallelGroup(Alignment.LEADING)
+			gl_contentPane.createParallelGroup(Alignment.LEADING)
 				.addGroup(gl_contentPane.createSequentialGroup()
-
-						.addGap(12)
-						.addComponent(panel, GroupLayout.DEFAULT_SIZE, 227, Short.MAX_VALUE)
-						.addContainerGap())
-				);
+					.addGroup(gl_contentPane.createParallelGroup(Alignment.LEADING)
+						.addGroup(gl_contentPane.createSequentialGroup()
+							.addGap(12)
+							.addComponent(panel, GroupLayout.DEFAULT_SIZE, 250, Short.MAX_VALUE))
+						.addGroup(gl_contentPane.createSequentialGroup()
+							.addContainerGap()
+							.addComponent(toggleButton)))
+					.addContainerGap())
+		);
 
 
 		contentPane.setLayout(gl_contentPane);
