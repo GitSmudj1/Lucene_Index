@@ -69,16 +69,12 @@ public class SearchEngine extends JFrame {
 		JButton btnNewButton = new JButton("Go");
 		
 		JButton button = new JButton("Help");
-<<<<<<< HEAD
+
 		button.addActionListener(new HelpListener(this, dataSet));
 		
-=======
-		button.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent e) {
-				new HelpScreen(dataSet).setVisible(true);		
-			}
-		});
->>>>>>> d0947156a8b2c7c826858b146f4c028cd2720e19
+
+	
+
 		GroupLayout gl_panel = new GroupLayout(panel);
 		gl_panel.setHorizontalGroup(
 			gl_panel.createParallelGroup(Alignment.TRAILING)
