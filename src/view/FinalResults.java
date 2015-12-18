@@ -43,17 +43,15 @@ public class FinalResults extends JFrame {
 	 * Create the frame.
 	 * @throws BadLocationException 
 	 */
-	public FinalResults(String panelContent, DataSet dataSet, String query, String fileName) throws BadLocationException {
+	public FinalResults(String panelContent, DataSet dataSet, String[] query) throws BadLocationException {
 
 		this.dataSet = dataSet;
-		
-		
-		
-		this.setTitle(fileName);
+
+
 		//setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		//setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
-		
+
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
@@ -70,11 +68,29 @@ public class FinalResults extends JFrame {
 
 		Highlighter highlighter = textArea.getHighlighter();
 
-		int index = panelContent.indexOf(query);
-		while ( index >= 0 ) {
-			int len = query.length();
-			highlighter.addHighlight(index, index+len, DefaultHighlighter.DefaultPainter);
-			index = panelContent.indexOf(query, index+len);
+		for(int i = 0; i < query.length; i++) {
+			
+			String termLowerCase = query[i].toLowerCase();
+			String termUpperCase = termLowerCase.toUpperCase();
+			String termMixedCase = termLowerCase.substring(0, 1).toUpperCase() + termLowerCase.substring(1);
+			
+			String terms[] = {termLowerCase, termUpperCase, termMixedCase};
+			
+			for(int j = 0; j < terms.length; j++) {
+				
+				String currentTerm = terms[j];
+				
+				System.out.println("The Current Term: " + currentTerm);
+		
+				int index = panelContent.indexOf(currentTerm);
+				while ( index >= 0 ) {
+					int len = currentTerm.length();
+					highlighter.addHighlight(index, index+len, DefaultHighlighter.DefaultPainter);
+					index = panelContent.indexOf(currentTerm, index+len);
+				}
+			
+			}
+		
 		}
 
 		panel.setLayout( new BorderLayout() );
@@ -83,12 +99,12 @@ public class FinalResults extends JFrame {
 
 
 
-	
 
-	      panel.setLayout( new BorderLayout() );
-	      scrollPane.getViewport().add( textArea );
-			panel.add( scrollPane, BorderLayout.CENTER );
-		
+
+		panel.setLayout( new BorderLayout() );
+		scrollPane.getViewport().add( textArea );
+		panel.add( scrollPane, BorderLayout.CENTER );
+
 
 		panel.setLayout( new BorderLayout() );
 		scrollPane.getViewport().add( textArea );
@@ -96,32 +112,31 @@ public class FinalResults extends JFrame {
 		scrollPane.getViewport().add( textArea );
 		panel.setLayout(new BorderLayout());
 		panel.add( scrollPane, BorderLayout.CENTER );
-		
 
-	
-		
-		
+
+
+
+
 		//JTextArea textArea = new JTextArea(panelContent);
 		textArea.setWrapStyleWord(true);
 		textArea.setLineWrap(true);
-		textArea.setEditable(false);
-//		JScrollPane scrollPane = new JScrollPane();
-//		scrollPane.setViewportView(textArea);
-//		scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS);
-//		scrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
-//		scrollPane.setBounds(5, 5, 100, 100);
-//		panel.add(scrollPane, BorderLayout.CENTER);
-		
+		//		JScrollPane scrollPane = new JScrollPane();
+		//		scrollPane.setViewportView(textArea);
+		//		scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS);
+		//		scrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
+		//		scrollPane.setBounds(5, 5, 100, 100);
+		//		panel.add(scrollPane, BorderLayout.CENTER);
+
 		//JScrollPane scrollPane = new JScrollPane();
 		scrollPane.getViewport().add( textArea );
 		panel.setLayout(new BorderLayout());
 		panel.add( scrollPane, BorderLayout.CENTER );
-		
-		
+
+
 
 		JButton btnNewButton = new JButton("Close");
 		btnNewButton.addActionListener(listener);
-		
+
 
 		GroupLayout gl_contentPane = new GroupLayout(contentPane);
 		gl_contentPane.setHorizontalGroup(

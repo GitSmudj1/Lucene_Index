@@ -49,8 +49,6 @@ public class HelpScreen extends JFrame {
 		
 		listener = new RunListener(this, dataSet);
 		
-		String helpText = "WELCOME TO FEDERAL REGISTER DATA SEARCHER\n\n1.On start-up of screen, please enter the keyword(s) of the document that you would like to view. For example you can enter Oranges.\n\n2.Then click on the “Go” button.\n\n3.A list of fields will be displayed such as: “summary”, “supplem”, “text”, etc.On clicking any of the field(s), a list of names will appear on the right.\n\n4.Then clicking on one of the names, the file will be displayed. The keyword(s) entered in the search will also be highlighted throughout the text.\n\n5.If you want to view another document, then close the current window. Which will then take you back to the screen where the fields are displayed.\n\n6.Then click on the “Home” button which will then display the search screen.\n\n7.As before enter the keyword(s) of the document you would like to view.";
-		
 		//setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
@@ -61,11 +59,9 @@ public class HelpScreen extends JFrame {
 
 		JPanel panel = new JPanel();
 		JScrollPane scrollPane = new JScrollPane();
-		JTextArea textArea = new JTextArea(helpText);
+		JTextArea textArea = new JTextArea();
 		textArea.setWrapStyleWord(true);
 		textArea.setLineWrap(true);
-		
-		
 
 		
 

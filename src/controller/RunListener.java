@@ -38,7 +38,7 @@ public class RunListener implements ActionListener {
 			Results results = new Results();
 			results.setResults(new Search().searchForQuery(searchTerm));
 			
-			new FirstResults(results, dataSet, searchTerm).setVisible(true);
+			new FirstResults(results, dataSet).setVisible(true);
 			
 			view.setVisible(false);
 			view.dispose();

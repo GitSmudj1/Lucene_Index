@@ -3,8 +3,11 @@ package search;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.Term;
 import org.apache.lucene.queryparser.classic.QueryParser;
+import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
@@ -24,8 +27,11 @@ public class Search {
 
     private IndexSearcher searcher = null;
     private QueryParser parser = null;
+    private String[] searchTerms = null;
 
     private HashMap<String, List<String>> resultMap;
+    
+    private boolean queryParsed = false;
 
     public Search() {
 
@@ -33,7 +39,7 @@ public class Search {
 
     }
 
-    public HashMap<String, List<String>> searchForQuery(String query) {
+    public SearchResults searchForQuery(String query) {
 
         try {
             BufferedReader br = new BufferedReader(new FileReader("types"));
@@ -49,7 +55,7 @@ public class Search {
             e.printStackTrace();
         }
 
-        return resultMap;
+        return new SearchResults(resultMap, searchTerms);
 
     }
 
@@ -62,15 +68,20 @@ public class Search {
             parser = new QueryParser("data", new StandardAnalyzer());
 
             theQuery = parser.parse(query);
-
+            
+            if(!queryParsed) {
+	            searchTerms = theQuery.toString().replace("data:", "").split(" ");
+	            queryParsed = true;
+            }
+            
             TopDocs results = searcher.search(theQuery, 5);
             ScoreDoc[] hits = results.scoreDocs;
 
             if(hits.length > 0) {
 
-                System.out.println("----------");
-                System.out.println(cat);
-                System.out.println("----------\n");
+//                System.out.println("----------");
+//                System.out.println(cat);
+//                System.out.println("----------\n");
 
                 List<String> catResults = new ArrayList<String>();
 
@@ -79,7 +90,7 @@ public class Search {
                     Document doc = searcher.doc(hits[i].doc);
 
                     String fileName = doc.getField("fileName").stringValue();
-                    System.out.println("File Name: " + fileName);
+//                    System.out.println("File Name: " + fileName);
 
                     catResults.add(fileName);
 
