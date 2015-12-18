@@ -43,10 +43,10 @@ public class FinalResults extends JFrame {
 	 * Create the frame.
 	 * @throws BadLocationException 
 	 */
-	public FinalResults(String panelContent, DataSet dataSet, String[] query) throws BadLocationException {
+	public FinalResults(String panelContent, DataSet dataSet, String[] query, String fileName) throws BadLocationException {
 
 		this.dataSet = dataSet;
-
+		this.setTitle(fileName);
 
 		//setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
@@ -97,42 +97,13 @@ public class FinalResults extends JFrame {
 		scrollPane.getViewport().add( textArea );
 		panel.add( scrollPane, BorderLayout.CENTER );
 
-
-
-
-
-		panel.setLayout( new BorderLayout() );
-		scrollPane.getViewport().add( textArea );
-		panel.add( scrollPane, BorderLayout.CENTER );
-
-
-		panel.setLayout( new BorderLayout() );
-		scrollPane.getViewport().add( textArea );
-		panel.add( scrollPane, BorderLayout.CENTER );
 		scrollPane.getViewport().add( textArea );
 		panel.setLayout(new BorderLayout());
 		panel.add( scrollPane, BorderLayout.CENTER );
 
-
-
-
-
-		//JTextArea textArea = new JTextArea(panelContent);
+		
 		textArea.setWrapStyleWord(true);
 		textArea.setLineWrap(true);
-		//		JScrollPane scrollPane = new JScrollPane();
-		//		scrollPane.setViewportView(textArea);
-		//		scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS);
-		//		scrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
-		//		scrollPane.setBounds(5, 5, 100, 100);
-		//		panel.add(scrollPane, BorderLayout.CENTER);
-
-		//JScrollPane scrollPane = new JScrollPane();
-		scrollPane.getViewport().add( textArea );
-		panel.setLayout(new BorderLayout());
-		panel.add( scrollPane, BorderLayout.CENTER );
-
-
 
 		JButton btnNewButton = new JButton("Close");
 		btnNewButton.addActionListener(listener);

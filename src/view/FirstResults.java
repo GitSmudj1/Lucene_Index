@@ -41,7 +41,7 @@ public class FirstResults extends JFrame {
 	/**
 	 * Create the frame.
 	 */
-	public FirstResults(Results results, DataSet dataSet) {
+	public FirstResults(Results results, DataSet dataSet, String searchTerm) {
 		
 		fileNames = new ArrayList();
 		
@@ -79,21 +79,21 @@ public class FirstResults extends JFrame {
 				.addGroup(gl_contentPane.createSequentialGroup()
 						.addGroup(gl_contentPane.createParallelGroup(Alignment.LEADING)
 								.addGroup(gl_contentPane.createSequentialGroup()
-										.addGap(20)
-										.addComponent(catPane, GroupLayout.PREFERRED_SIZE, 187, GroupLayout.PREFERRED_SIZE)
+										.addGap(8)
+										.addComponent(catPane, GroupLayout.DEFAULT_SIZE, 187, GroupLayout.DEFAULT_SIZE)
 										.addGap(18)
-										.addComponent(resPane, GroupLayout.PREFERRED_SIZE, 191, GroupLayout.PREFERRED_SIZE))
-								.addComponent(button, GroupLayout.PREFERRED_SIZE, 67, GroupLayout.PREFERRED_SIZE))
-						.addContainerGap(24, Short.MAX_VALUE))
+										.addComponent(resPane, GroupLayout.DEFAULT_SIZE, 191, GroupLayout.DEFAULT_SIZE))
+								.addComponent(button, GroupLayout.DEFAULT_SIZE, 67, GroupLayout.DEFAULT_SIZE))
+						.addContainerGap())
 				);
 		gl_contentPane.setVerticalGroup(
-				gl_contentPane.createParallelGroup(Alignment.TRAILING)
+				gl_contentPane.createParallelGroup(Alignment.LEADING)
 				.addGroup(gl_contentPane.createSequentialGroup()
-						.addComponent(button, GroupLayout.PREFERRED_SIZE, 23, GroupLayout.PREFERRED_SIZE)
+						.addComponent(button, GroupLayout.DEFAULT_SIZE, 23, GroupLayout.DEFAULT_SIZE)
 						.addPreferredGap(ComponentPlacement.RELATED)
-						.addGroup(gl_contentPane.createParallelGroup(Alignment.TRAILING)
+						.addGroup(gl_contentPane.createParallelGroup(Alignment.LEADING)
 								.addComponent(resPane, GroupLayout.DEFAULT_SIZE, 242, Short.MAX_VALUE)
-								.addComponent(catPane, GroupLayout.PREFERRED_SIZE, 242, GroupLayout.PREFERRED_SIZE))
+								.addComponent(catPane, GroupLayout.DEFAULT_SIZE, 242, GroupLayout.DEFAULT_SIZE))
 						.addContainerGap())
 				);
 		contentPane.setLayout(gl_contentPane);
