@@ -51,7 +51,13 @@ public class RunListener implements ActionListener {
 			view.dispose();
 			System.out.println("Home Button Pressed");
 			break;
+		case "Back":
+			new SearchEngine(dataSet).setVisible(true);
+			view.setVisible(false);
+			view.dispose();
 		case "Close":
+			//new FirstResults().setVisible(true);
+			//Testing
 			view.setVisible(false);
 			view.dispose();
 			System.out.println("Back Button Pressed");

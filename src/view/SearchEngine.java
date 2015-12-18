@@ -11,10 +11,13 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 import javax.swing.JButton;
 import javax.swing.SwingConstants;
 
+import controller.HelpListener;
 import controller.RunListener;
 import model.DataSet;
 
+import java.awt.BorderLayout;
 import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
 
 public class SearchEngine extends JFrame {
 
@@ -36,47 +39,73 @@ public class SearchEngine extends JFrame {
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
+	
+		listener = new RunListener(this, dataSet);
+		
+		JPanel panel = new JPanel();
+		//panel.setLayout(BorderLayout.CENTER );
+		
+		GroupLayout gl_contentPane = new GroupLayout(contentPane);
+		gl_contentPane.setHorizontalGroup(
+			gl_contentPane.createParallelGroup(Alignment.LEADING)
+				.addComponent(panel, GroupLayout.DEFAULT_SIZE, 440, Short.MAX_VALUE)
+		);
+		gl_contentPane.setVerticalGroup(
+			gl_contentPane.createParallelGroup(Alignment.LEADING)
+				.addGroup(gl_contentPane.createSequentialGroup()
+					.addComponent(panel, GroupLayout.PREFERRED_SIZE, 267, GroupLayout.PREFERRED_SIZE)
+					.addContainerGap(149, Short.MAX_VALUE))
+		);
 		
 		JLabel lblNewLabel = new JLabel("Federal Register Data Searcher");
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
-	
-		listener = new RunListener(this, dataSet);
+		
+		
 		
 		textField = new JTextField();
 		textField.setToolTipText("Search...");
 		textField.setColumns(10);
 		
 		JButton btnNewButton = new JButton("Go");
-		btnNewButton.addActionListener(listener);
 		
-		GroupLayout gl_contentPane = new GroupLayout(contentPane);
-
-		gl_contentPane.setHorizontalGroup(
-			gl_contentPane.createParallelGroup(Alignment.LEADING)
-				.addGroup(gl_contentPane.createSequentialGroup()
-					.addContainerGap(128, Short.MAX_VALUE)
-					.addGroup(gl_contentPane.createParallelGroup(Alignment.LEADING)
-						.addGroup(Alignment.TRAILING, gl_contentPane.createSequentialGroup()
-							.addComponent(lblNewLabel)
-							.addGap(122))
-						.addGroup(Alignment.TRAILING, gl_contentPane.createSequentialGroup()
-							.addComponent(textField, GroupLayout.PREFERRED_SIZE, GroupLayout.DEFAULT_SIZE, GroupLayout.PREFERRED_SIZE)
-							.addGap(152))
-						.addGroup(Alignment.TRAILING, gl_contentPane.createSequentialGroup()
-							.addComponent(btnNewButton, GroupLayout.PREFERRED_SIZE, 65, GroupLayout.PREFERRED_SIZE)
-							.addGap(184))))
+		JButton button = new JButton("Help");
+		button.addActionListener(new HelpListener(this, dataSet));
+		
+		GroupLayout gl_panel = new GroupLayout(panel);
+		gl_panel.setHorizontalGroup(
+			gl_panel.createParallelGroup(Alignment.TRAILING)
+				.addGroup(gl_panel.createSequentialGroup()
+					.addContainerGap(129, Short.MAX_VALUE)
+					.addComponent(lblNewLabel)
+					.addGap(121))
+				.addGroup(gl_panel.createSequentialGroup()
+					.addGap(153)
+					.addComponent(textField, GroupLayout.PREFERRED_SIZE, GroupLayout.DEFAULT_SIZE, GroupLayout.PREFERRED_SIZE)
+					.addContainerGap(157, Short.MAX_VALUE))
+				.addGroup(gl_panel.createSequentialGroup()
+					.addContainerGap(187, Short.MAX_VALUE)
+					.addComponent(btnNewButton)
+					.addGap(178))
+				.addGroup(gl_panel.createSequentialGroup()
+					.addContainerGap(359, Short.MAX_VALUE)
+					.addComponent(button, GroupLayout.PREFERRED_SIZE, 75, GroupLayout.PREFERRED_SIZE)
+					.addContainerGap())
 		);
-		gl_contentPane.setVerticalGroup(
-			gl_contentPane.createParallelGroup(Alignment.LEADING)
-				.addGroup(gl_contentPane.createSequentialGroup()
-					.addGap(71)
+		gl_panel.setVerticalGroup(
+			gl_panel.createParallelGroup(Alignment.LEADING)
+				.addGroup(gl_panel.createSequentialGroup()
+					.addContainerGap()
+					.addComponent(button)
+					.addGap(57)
 					.addComponent(lblNewLabel)
 					.addPreferredGap(ComponentPlacement.RELATED)
 					.addComponent(textField, GroupLayout.PREFERRED_SIZE, GroupLayout.DEFAULT_SIZE, GroupLayout.PREFERRED_SIZE)
 					.addPreferredGap(ComponentPlacement.RELATED)
 					.addComponent(btnNewButton)
-					.addContainerGap(114, Short.MAX_VALUE))
+					.addContainerGap(92, Short.MAX_VALUE))
 		);
+		panel.setLayout(gl_panel);
+		btnNewButton.addActionListener(listener);
 		contentPane.setLayout(gl_contentPane);
 	}
 	
