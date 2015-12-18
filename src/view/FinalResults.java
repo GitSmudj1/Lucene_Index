@@ -43,15 +43,17 @@ public class FinalResults extends JFrame {
 	 * Create the frame.
 	 * @throws BadLocationException 
 	 */
-	public FinalResults(String panelContent, DataSet dataSet, String query) throws BadLocationException {
+	public FinalResults(String panelContent, DataSet dataSet, String query, String fileName) throws BadLocationException {
 
 		this.dataSet = dataSet;
-
-
+		
+		
+		
+		this.setTitle(fileName);
 		//setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		//setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
-
+		
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
@@ -102,6 +104,7 @@ public class FinalResults extends JFrame {
 		//JTextArea textArea = new JTextArea(panelContent);
 		textArea.setWrapStyleWord(true);
 		textArea.setLineWrap(true);
+		textArea.setEditable(false);
 //		JScrollPane scrollPane = new JScrollPane();
 //		scrollPane.setViewportView(textArea);
 //		scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS);

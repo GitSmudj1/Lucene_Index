@@ -57,7 +57,7 @@ public class ResultsListener implements MouseListener {
 				Doc result = dataSet.getArticle(selectedFile);
 				
 				try {
-					new FinalResults(result.getEntireDoc(), dataSet, fResults.getQuery());
+					new FinalResults(result.getEntireDoc(), dataSet, fResults.getQuery(), selectedFile);
 				} catch (BadLocationException e) {
 					e.printStackTrace();
 				}
